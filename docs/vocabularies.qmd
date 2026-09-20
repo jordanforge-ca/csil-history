@@ -68,6 +68,9 @@ Starter list; add tokens here when you first use a new one:
 - `program-design`
 - `evaluation`
 - `documentation`
+- `housing`
+- `legal`
+- `current-program`
 
 ## `record_status`
 

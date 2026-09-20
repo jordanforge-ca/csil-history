@@ -1,0 +1,61 @@
+---
+title: "Human Rights Digest summary of Hutchinson v. British Columbia (Ministry of Health)"
+date: 2005-01-01
+date_display: "2005 (CanLIIDocs 513; volume labelled 2005 6-8)"
+date_precision: approximate
+id: src-hrdigest-2005-hutchinson
+record_status: catalogue-record
+source_authors:
+  - "Canadian Human Rights Reporter"
+author: "Canadian Human Rights Reporter"
+source_type: secondary
+availability: external-link-only
+verification_status: verified-inspected
+period: later-review
+organizations:
+  - "British Columbia Ministry of Health"
+  - "British Columbia Human Rights Tribunal"
+people: []
+topics:
+  - home-support
+  - legal
+  - individualized-funding
+external_url: "https://www.canlii.org/w/canlii/2005CanLIIDocs513.pdf"
+archived_url: ""
+bibtex_key: hrdigest2005hutchinson
+document_path: ""
+rights_note: "CanLII commentary PDF. Link only. Full tribunal and court reasons were not retrieved in this pass (CanLII HTML blocked)."
+---
+
+::: {.callout-note}
+## Source inspected
+The Human Rights Digest PDF on CanLII was read on 20 September 2026. It is a secondary digest, not the reasons for decision. The full *Hutchinson* decisions were not opened in this pass.
+:::
+
+## Identification
+
+| Element | As seen in the digest and in a BCHRT finding-aid listing |
+| --- | --- |
+| Digest | *Human Rights Digest*, 2005 CanLIIDocs 513 |
+| Digest URL inspected | <https://www.canlii.org/w/canlii/2005CanLIIDocs513.pdf> |
+| Case as named in the digest | Cheryl Hutchinson and the B.C. Ministry of Health; CSIL described as providing funds directly to qualified adults with disabilities to hire their own caregivers |
+| Year Hutchinson accepted on CSIL (digest) | 1998 |
+| Citations listed on the BC Human Rights Tribunal “Judicial reviews of decisions” page (also inspected) | *Hutchinson v. B.C. (Min. of Health)* 2004 BCHRT 58; petition dismissed 2005 BCSC 1421; stay application dismissed 2004 BCSC 1536 |
+
+## Annotation
+
+The digest states that Hutchinson was accepted as a CSIL client in 1998 and that a ministry policy barred hiring her father as a paid caregiver; the tribunal found discrimination and the digest reports the B.C. Supreme Court dismissed the ministry’s challenge. Those are the digest’s claims.
+
+For this catalogue the 1998 acceptance date is useful only as a **terminus ante quem**: a program called CSIL existed by 1998 in this secondary account. It does not settle 1993 versus 1994.
+
+The BCHRT listing confirms the neutral citations. Because the reasons themselves were not retrieved here, do not treat this record as a verified-inspected reading of 2004 BCHRT 58 or 2005 BCSC 1421.
+
+## Open questions
+
+- Full text of 2004 BCHRT 58 and 2005 BCSC 1421 (CanLII HTML was not accessible in this environment).
+- What the reasons say, if anything, about CSIL’s origin year or design records.
+
+## Associated claims
+
+- [Wanted Ministry CSIL records](wanted-ministry-csil-pilot-records.qmd)
+- [Later evolution placeholder](../history/evolution.qmd)

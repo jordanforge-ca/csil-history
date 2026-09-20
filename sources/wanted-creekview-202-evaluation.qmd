@@ -8,16 +8,21 @@ record_status: catalogue-record
 source_authors:
   - "Patricia Ryan"
   - "Ryan & Wiggins"
-author: "Patricia Ryan / Ryan & Wiggins"
+author: "Patricia Ryan / Ryan & Wiggins (as named in the commissioning issue; not independently confirmed)"
 source_type: primary
 availability: known-to-exist-copy-sought
 verification_status: bibliographically-confirmed
 period: creekview
-organizations: []
-people: []
+organizations:
+  - "Ryan & Wiggins"
+  - "Canadian Paraplegic Association"
+  - "British Columbia provincial government"
+people:
+  - "Patricia Ryan"
 topics:
   - evaluation
   - independent-living
+  - housing
 external_url: ""
 archived_url: ""
 bibtex_key: ryan1987creekview
@@ -27,31 +32,59 @@ rights_note: "Copy not held. Do not upload a scan unless redistribution is clear
 
 ::: {.callout-note}
 ## Known to exist — copy sought
-Bibliographic details on this page come only from [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). This archive has not inspected a copy or an independent catalogue record.
+Two independent 1987–89 public sources inspected in this catalogue attest that a formal / independent evaluation of Creekview was completed or published around 1987. The exact title “Creekview 202 Project Evaluation Report” and the author line “Patricia Ryan / Ryan & Wiggins” still come only from [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). This archive has not inspected the evaluation itself or a library catalogue record for that title or those authors.
 :::
 
 ## Identification
 
-| Element | As stated in the commissioning issue |
+| Element | What is attested, and from where |
 | --- | --- |
-| Title | Creekview 202 Project Evaluation Report |
-| Creator | Patricia Ryan / Ryan & Wiggins |
-| Date | c. 1987 |
+| Title as named in the commissioning issue | Creekview 202 Project Evaluation Report |
+| Creator as named in the commissioning issue | Patricia Ryan / Ryan & Wiggins |
+| Date as named in the commissioning issue | c. 1987 |
+| Independent 1987 attestation that an evaluation existed | [Mattinson and Rompf, *Dimensions in Health Service* 64(8), Nov. 1987](1987-mattinson-rompf-creekview.qmd), PubMed PMID 3691990 abstract: “A formal evaluation of the Creekview project has been completed by the B.C. provincial government and CPA.” Topics listed: operating costs; health status at relocation and one year later; quality of attendant staff; standards of care; general services. |
+| Independent 1989 attestation of a published 1987 evaluation | [Haw 1989](1989-haw-special-housing-needs.qmd): “In 1987 an independent evaluation of Creekview 202 was published.” Haw paraphrases cost, health-status, and accreditation findings. |
+| Contemporaneous legislative setting | [Hansard, 24 Feb. 1984](1984-hansard-mowat-creekview.qmd) (planned Creekview Co-op move); [Hansard, 10 Apr. 1986](1986-hansard-nielsen-creekview.qmd) (ministerial statement that six residents had moved). |
+| Later organizational history | [SCI BC history page](sci-bc-history.qmd) dates Creekview’s opening to 1985. |
+| Attributed resident account | [Fayerman 2018](2018-vancouversun-walt-lawrence.qmd) reports Walt Lawrence on a 1985 Creekview move and an earlier CPA cost analysis. |
 
-No place of publication, pagination, or report number is recorded here beyond that statement.
+No place of publication, pagination, report number, or title-page wording for the evaluation itself has been seen in a catalogue record. CMHC searches in this pass did **not** recover a CMHC publication that cites “Creekview 202 Project Evaluation Report.”
+
+## What this pass actually inspected
+
+Inspected: PubMed record and abstract for Mattinson & Rompf 1987; Haw’s 1989 conference text; Hansard 1984 and 1986; SCI BC history; Fayerman 2018.
+
+Not inspected: the evaluation report; the full *Dimensions in Health Service* article; any WorldCat, UBC, SFU, or Legislative Library holding for Patricia Ryan or Ryan & Wiggins.
+
+Internet Archive advanced search for the title “Creekview 202 Project Evaluation” returned zero items (searched 20 September 2026).
+
+Haw’s three findings and Mattinson/Rompf’s topic list are **their summaries**, not an inspection of the 1987 report.
+
+## Authorship contradiction (do not reconcile)
+
+- Commissioning issue: Patricia Ryan / Ryan & Wiggins.
+- Mattinson & Rompf 1987 abstract: “B.C. provincial government and CPA.”
+- Haw 1989: “an independent evaluation,” no author named.
+
+Those may describe one report with multiple credits, two related documents, or different works. This archive does not pick a winner.
 
 ## Annotation
 
-This record exists so the catalogue can represent a document the project believes existed but has not yet recovered digitally. It is a target for later evidence work, not a completed annotation.
+Public evidence now independently confirms that contemporaries treated a 1987 Creekview evaluation as a completed, published document. It does **not** confirm the Ryan / Ryan & Wiggins authorship, the exact title-page wording, or contents beyond later paraphrase.
 
 ## Open questions
 
-- Where a copy now lives (archives, personal papers, agency files).
-- The exact title page wording and date.
+- Where a copy now lives.
+- Exact title-page wording, date, pagination, and issuing body.
+- Whether Patricia Ryan / Ryan & Wiggins appear on that title page.
 - What “202” refers to.
-- Whether redistribution of any recovered copy is permitted.
+- How the 1987 evaluation relates to the CPA “cost analysis” in Fayerman 2018 and to the Mattinson & Rompf article.
+- Whether any CMHC 1990s bibliography cites this report (not found in this pass).
 
 ## See also
 
-- [Creekview placeholder](../history/creekview.qmd)
+- [Mattinson and Rompf 1987](1987-mattinson-rompf-creekview.qmd)
+- [Haw 1989](1989-haw-special-housing-needs.qmd)
+- [Hansard 1984](1984-hansard-mowat-creekview.qmd)
+- [Hansard 1986](1986-hansard-nielsen-creekview.qmd)
 - [Wanted sources](../research/wanted-sources.qmd)

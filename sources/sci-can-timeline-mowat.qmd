@@ -1,0 +1,52 @@
+---
+title: "Spinal Cord Injury Canada timeline (Douglas Mowat entry)"
+date: 1982-01-01
+date_display: "1982 entry on a later organizational timeline (page inspected 20 September 2026)"
+date_precision: approximate
+id: src-scican-timeline-mowat
+record_status: catalogue-record
+source_authors:
+  - "Spinal Cord Injury Canada"
+author: "Spinal Cord Injury Canada"
+source_type: secondary
+availability: external-link-only
+verification_status: verified-inspected
+period: precursor
+organizations:
+  - "Spinal Cord Injury Canada"
+  - "Canadian Paraplegic Association"
+  - "Canadian Paraplegic Association BC"
+people:
+  - "Doug Mowat"
+topics:
+  - independent-living
+external_url: "https://sci-can.ca/timeline"
+archived_url: ""
+bibtex_key: scicantimelinemowat
+document_path: ""
+rights_note: "National organizational timeline. Link only. The official Order of Canada citation was not independently retrieved in this pass."
+---
+
+::: {.callout-note}
+## Source inspected
+The public SCI Canada timeline page was read on 20 September 2026. The Governor General honours record for Douglas Mowat was **not** retrieved (site search failed in this environment). Treat the Order of Canada sentence as SCI Canada’s attribution.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Page title | Celebrate Spinal Cord Injury Canada (timeline) |
+| URL | <https://sci-can.ca/timeline> |
+| Relevant year heading | 1982 |
+
+## Annotation
+
+The 1982 entry states: “Douglas Mowat is named a Member of the Order of Canada for his work as a founder of the Canadian Paraplegic Association BC, which he led for 30 years as the Executive Director. He was also the first wheelchair user ever elected to a Canadian legislature and was a member of the Legislative Assembly of British Columbia from 1983 to 1991.”
+
+That supports documented-role notes on the Doug Mowat person page, as **SCI Canada’s published attribution**. It does not mention Creekview, ECPM, or CSIL.
+
+## Associated claims
+
+- [Doug Mowat](../people/doug-mowat.qmd)
+- [SCI BC history page](sci-bc-history.qmd)

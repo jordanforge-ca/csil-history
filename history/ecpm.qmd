@@ -4,8 +4,8 @@ subtitle: "Placeholder — not a finished chapter"
 ---
 
 ::: {.callout-note}
-## Working research proposition
-The commissioning brief places ECPM material around 1990 and notes a possible 1994 training revision. It also names *Keys on Freedom* (c. 1990). This page does not treat those items as inspected, nor does it assert how they relate to each other or to CSIL.
+## Placeholder — not a finished chapter
+A 1990 ECPM manual is now independently cited. This page still does not write the ECPM narrative (Issue #4). It does not treat ECPM as a proven formal predecessor of CSIL.
 :::
 
 ## What this chapter is for
@@ -14,11 +14,11 @@ Later work can define ECPM from recovered manuals and contemporaneous records, a
 
 ## Evidence status
 
-- **Documented facts:** none recorded on this page yet.
-- **Bibliographically confirmed (copies sought):**
-  - [*Keys on Freedom*](../sources/wanted-keys-on-freedom.qmd) (BC Rehabilitation Society, c. 1990)
-  - [ECPM manual(s)](../sources/wanted-ecpm-manuals.qmd) (BC Rehab / Greater Vancouver Home Support Society, c. 1990 and possibly a 1994 training revision)
-- **Open questions:** how many distinct ECPM publications exist; whether a 1994 item is a revision, a training manual, or a different work; how *Keys on Freedom* relates to ECPM.
+- **Bibliographically confirmed (copy sought):** [ECPM *Skill Development Manual*](../sources/wanted-ecpm-manuals.qmd) (BC Rehab & Greater Vancouver Home Support Society, 1990; five modules; 52 pages plus appendices), cited in the [Roeher / Salisbury bibliography](../sources/1990s-roeher-if-bibliography.qmd).
+- **Later attributions (not contemporaneous instruments):** [IFRC Our Team](../sources/ifrc-our-team.qmd) and [Gauthier 2014](../sources/2014-gauthier-sci-csil-presentation.qmd) treat ECPM as a named pre-CSIL project.
+- **Not confirmed:** [*Keys on Freedom*](../sources/wanted-keys-on-freedom.qmd) (title/author/year still commissioning-issue only); a 1994 ECPM training revision. [Van der Klift 1994](../sources/1994-van-der-klift-hell-bent.qmd) is a different publication.
+- **VCH:** current [CSIL service page](../sources/vch-csil-service-page.qmd) does not use the ECPM name.
+- **Open questions:** editions versus conflicting citations (1990 vs 1994); whether ECPM is a formal predecessor or a reconstruction from later accounts.
 
 ## See also
 

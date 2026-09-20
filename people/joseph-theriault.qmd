@@ -9,16 +9,17 @@ toc: false
 
 ## Documented role
 
-None recorded. No cited source on this site yet supports a role statement.
+None recorded from a contemporaneous 1990s source inspected in this archive.
 
 ## Attributed recollection
 
-None recorded.
+The [IFRC “Our Team” page](../sources/ifrc-our-team.qmd) states that Theriault “worked alongside Paul and others as pioneers of the individual funding project; then known as Enhanced Consumer Participation Model [ECPM]” and later travelled the province with Paul Gauthier to “create and promote the CSIL Program.” That is IFRC’s later wording, not an inspected ECPM manual or ministry file.
 
 ## Sources mentioning this person
 
-None catalogued yet.
+- [IFRC Our Team](../sources/ifrc-our-team.qmd)
 
 ## Questions we would like to verify
 
-To be added when a research protocol exists. This stub does not list interview questions and does not invite unsolicited contact.
+- What contemporaneous title or employment, if any, attached him to ECPM or CSIL creation.
+- Whether he appears on the unread 1990 ECPM manual title page.

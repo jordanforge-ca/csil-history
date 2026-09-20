@@ -1,0 +1,90 @@
+---
+title: "The Best of Care: Getting It Right for Seniors in British Columbia (Part 2)"
+date: 2012-02-14
+date_display: "February 2012 (Part 2; Part 1 was December 2009)"
+date_precision: exact
+id: src-ombudsperson-2012-best-of-care
+record_status: catalogue-record
+source_authors:
+  - "Office of the Ombudsperson of British Columbia"
+author: "BC Ombudsperson"
+source_type: near-primary
+availability: external-link-only
+verification_status: verified-inspected
+period: later-review
+organizations:
+  - "Office of the Ombudsperson of British Columbia"
+  - "British Columbia Ministry of Health"
+  - "British Columbia Ministry of Health Services"
+people: []
+topics:
+  - home-support
+  - individualized-funding
+  - program-design
+  - evaluation
+  - current-program
+external_url: "https://bcombudsperson.ca/wp-content/uploads/2025/08/Public-Report-No-47-The-Best-of-Care-Volume-1-1.pdf"
+archived_url: ""
+bibtex_key: ombudsperson2012bestofcare
+document_path: ""
+rights_note: "Public report of an Officer of the Legislature. Link only. Do not host a copy unless redistribution is clearly permitted."
+---
+
+::: {.callout-note}
+## Source inspected
+Public Report No. 47 PDFs hosted on bcombudsperson.ca were read on 20 September 2026: Volume 1 of Part 2, and the Part 2 Overview. This is a 2012 official chronology and policy review, not a 1990s ministry design file.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Title | *The Best of Care: Getting It Right for Seniors in British Columbia (Part 2)* |
+| Issuer | Office of the Ombudsperson, British Columbia (Public Report No. 47) |
+| Volume 1 PDF inspected | <https://bcombudsperson.ca/wp-content/uploads/2025/08/Public-Report-No-47-The-Best-of-Care-Volume-1-1.pdf> |
+| Part 2 Overview PDF inspected | <https://bcombudsperson.ca/wp-content/uploads/2025/08/Public-Report-No-47-The-Best-of-Care-Getting-it-Right-for-Seniors-in-BC-Part-2-Overview.pdf> |
+| Release context | Issued with the Province’s February 2012 seniors action plan (later ministry progress report) |
+
+## Annotation
+
+This is the later official chronology named in the research brief. Volume 1 states, in a home-support service-delivery bullet:
+
+> Seniors and their families can obtain funding from the government to hire and manage their own home support services, through the Choice in Supports for Independent Living Program, established as a pilot in 1994 and implemented province-wide in 1995.
+
+The 1990s narrative paragraph repeats the same pairing:
+
+> In 1994, the Choice in Supports for Independent Living (CSIL) program was created as a pilot project and became available province-wide in 1995. The new policy required regional health boards to fund self-managed home support services for people who had the ability to direct all aspects of their care or who had a client support group to do so on their behalf.
+
+The same volume later says “The Choice in Supports for Independent Living (CSIL) program was introduced in 1994” (without repeating “pilot” in that sentence) and:
+
+> The CSIL program underwent a provincial review in 2007.
+
+Footnote 207 cites:
+
+> Ministry of Health, Choice in Supports for Independent Living (CSIL) Program Review, November 2008.
+
+The Overview PDF uses the same 1994 “introduced” wording and the same November 2008 footnote, there attributed as “Ministry of Health Services.”
+
+This archive treats those passages as **later official chronology and a bibliographic lead**, not as inspected 1994–95 instruments. They do not name Paul Gauthier, ECPM, Creekview, Continuing Care Division, or Community Support Branch. They do not name James Murtagh.
+
+`source_type` is `near-primary`: a statutory officer’s report that cites ministry files this archive has not seen.
+
+## Important contradictions preserved
+
+- Ombudsperson: **pilot 1994 / province-wide 1995**.
+- [Gauthier 2014](2014-gauthier-sci-csil-presentation.qmd): “Established … in **1993**.”
+- [Gauthier 2015](2015-gauthier-csil-module-1.qmd) and [IFRC Our Team](ifrc-our-team.qmd): **1994**.
+- Same Ombudsperson volume: CSIL review in **2007**, bibliographic citation dated **November 2008**. Those may be the same review, staged products, or different items.
+
+## Open questions
+
+- Which 1994 instrument the Ombudsperson treated as the “pilot,” and which 1995 act as “province-wide.”
+- Whether footnote 207’s *CSIL Program Review* is the commissioning issue’s “Review Program: Synthesis Report.”
+- Why 2007 and November 2008 both appear.
+
+## Associated claims
+
+- [Wanted Ministry CSIL records](wanted-ministry-csil-pilot-records.qmd)
+- [Wanted 2008 Program Review](wanted-2008-program-review.qmd)
+- [CSIL design and pilot placeholder](../history/csil-pilot.qmd)
+- Timeline rows for 1994, 1995, and 2008

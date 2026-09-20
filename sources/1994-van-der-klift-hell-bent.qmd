@@ -1,0 +1,61 @@
+---
+title: "Hell-Bent on Helping: Benevolence, Friendship, and the Politics of Help"
+date: 1994-01-01
+date_display: "1994"
+date_precision: exact
+id: src-vanderklift-1994-hellbent
+record_status: catalogue-record
+source_authors:
+  - "Emma Van der Klift"
+  - "Norman Kunc"
+author: "Emma Van der Klift and Norman Kunc"
+source_type: secondary
+availability: external-link-only
+verification_status: verified-inspected
+period: ecpm
+organizations:
+  - "Paul H. Brookes Publishing"
+people:
+  - "Emma Van der Klift"
+  - "Norman Kunc"
+topics:
+  - independent-living
+  - documentation
+external_url: "https://www.broadreachtraining.com/van-der-klift-kunc-hellbent-on-helping-benevolence-friendship-and-the-politics-of-help"
+archived_url: ""
+bibtex_key: vanderklift1994hellbent
+document_path: ""
+rights_note: "1994 book chapter, later republished on the authors’ site. Link only. Do not paste long excerpts."
+---
+
+::: {.callout-note}
+## Source inspected — not an ECPM manual
+The public Broadreach republication of this 1994 chapter was read on 20 September 2026. It is catalogued so a 1994 Van der Klift publication is not silently equated with a 1994 ECPM training manual. The chapter does **not** name ECPM, CSIL, BC Rehab, Greater Vancouver Home Support Society, or Vancouver Health Department.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Title | Hell-Bent on Helping: Benevolence, Friendship, and the Politics of Help |
+| Authors | Emma Van der Klift and Norman Kunc |
+| Original publication (as stated on the inspected page) | Thousand, J., Villa, R., Nevin, A., *Creativity and Collaborative Learning: A Practical Guide to Empowering Students and Teachers*. Baltimore: Paul Brookes, 1994 |
+| Public URL inspected | <https://www.broadreachtraining.com/van-der-klift-kunc-hellbent-on-helping-benevolence-friendship-and-the-politics-of-help> |
+
+## Annotation
+
+The chapter is about help, friendship, and inclusive education. It argues that excessive help can be disempowering. That is a disability-rights argument from the same year a 1994 ECPM training revision has been hypothesized. It is **not bibliographic evidence** that Van der Klift wrote or revised an ECPM skill-development manual, and it names none of the organizations attached to the 1990 Roeher ECPM citation.
+
+A public-web search in this pass for Van der Klift + ECPM / “Enhanced Consumer Participation Model” / “home support” / “BC Rehab” / “Greater Vancouver Home Support” did not recover a second 1994 title. LinkedIn and Broadreach biographical pages describe later training and mediation work; they do not list an ECPM manual.
+
+`source_type` is `secondary` relative to CSIL institutional history: a 1994 advocacy/education chapter, not a home-support program instrument.
+
+## Open questions
+
+- Whether Van der Klift has any unpublished or unindexed role in ECPM materials.
+- Whether a 1994 ECPM training manual exists as a distinct document from this chapter and from the 1990 Roeher-cited manual.
+
+## Associated claims
+
+- [Emma Van der Klift](../people/emma-van-der-klift.qmd)
+- [ECPM manual(s) wanted record](wanted-ecpm-manuals.qmd)

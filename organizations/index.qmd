@@ -16,6 +16,8 @@ The names below appear in the commissioning issue’s wanted-source descriptions
 | British Columbia Ministry of Health Services | Named with James Murtagh Consulting on the November 2008 synthesis report |
 | James Murtagh Consulting | Named as creator of the November 2008 synthesis report |
 
-Creekview is treated on this site as a [history placeholder](../history/creekview.qmd), not as an organization record, because the commissioning issue does not state its legal form.
+Names now also appear in inspected public sources (for example BC Rehab and Greater Vancouver Home Support Society in the [Roeher bibliography](../sources/1990s-roeher-if-bibliography.qmd); Ministry of Health on the [2008 review citation](../sources/wanted-2008-program-review.qmd)). Listing a name is still not an organizational history.
+
+Creekview is treated on this site as a [history placeholder](../history/creekview.qmd), not as an organization record, because inspected sources describe a co-op apartment / project, not a corporate form.
 
 When you add an organization page, separate documented functions (cited) from later attributions, and link every claim to a [source record](../sources/index.qmd).

@@ -1,0 +1,62 @@
+---
+title: "History (Spinal Cord Injury BC organizational timeline)"
+date: 2012-01-01
+date_display: "page inspected 20 September 2026; 1985 Creekview entry undated on the page"
+date_precision: unknown
+id: src-sci-bc-history
+record_status: catalogue-record
+source_authors:
+  - "Spinal Cord Injury BC"
+author: "Spinal Cord Injury BC"
+source_type: secondary
+availability: external-link-only
+verification_status: verified-inspected
+period: creekview
+organizations:
+  - "Spinal Cord Injury BC"
+  - "Canadian Paraplegic Association"
+  - "BC Paraplegic Association"
+people:
+  - "Doug Mowat"
+topics:
+  - independent-living
+  - housing
+external_url: "https://sci-bc.ca/about-us/history/"
+archived_url: ""
+bibtex_key: scibchistory
+document_path: ""
+rights_note: "Organizational history page. Link only."
+---
+
+::: {.callout-note}
+## Source inspected
+The public SCI BC history page was read on 20 September 2026. It is a later organizational narrative, not a contemporaneous Creekview record. The page does not cite the 1987 evaluation or name CSIL.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Title | History |
+| Issuer | Spinal Cord Injury BC (formerly BC Paraplegic Association / Canadian Paraplegic Association, BC Division) |
+| URL | <https://sci-bc.ca/about-us/history/> |
+| Date of the page | No publication or last-updated date was visible on the inspected page. The sortable date `2012-01-01` is a stand-in for the 2012 name-change entry, not a claim about when the Creekview paragraph was written. |
+
+## Annotation
+
+Passages used in this catalogue:
+
+- **1960:** “Active in the formation of BCPA, Doug Mowat accepts the role of Executive Director.” The page says the organization “flourished under his innovative, strong leadership extending over three decades.”
+- **1981:** International Year of the Disabled “chaired provincially by BCPA Executive Director Doug Mowat.”
+- **1985:** “Creekview opens near Granville Island in Vancouver. Creekview was the world’s first integrated, self-managed housing project with shared support services for people with high-level quadriplegia.”
+- **2012:** BCPA changes its name to Spinal Cord Injury BC.
+
+The “world’s first” wording is SCI BC’s later claim. This archive records it as an organizational attribution, not as an independently verified superlative.
+
+The page does not mention ECPM, CSIL, Patricia Ryan, or a 1987 evaluation.
+
+## Associated claims
+
+- [Creekview placeholder](../history/creekview.qmd)
+- [Doug Mowat](../people/doug-mowat.qmd)
+- [Wanted Creekview evaluation](wanted-creekview-202-evaluation.qmd)

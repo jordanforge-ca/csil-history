@@ -1,0 +1,59 @@
+---
+title: "Our Team (Individualized Funding Resource Centre Society)"
+date: 2014-05-01
+date_display: "page inspected 20 September 2026; Joseph Theriault presidency dated from May 2014"
+date_precision: unknown
+id: src-ifrc-our-team
+record_status: catalogue-record
+source_authors:
+  - "Individualized Funding Resource Centre Society"
+author: "Individualized Funding Resource Centre Society"
+source_type: secondary
+availability: external-link-only
+verification_status: verified-inspected
+period: unknown
+organizations:
+  - "Individualized Funding Resource Centre Society"
+people:
+  - "Paul Gauthier"
+  - "Joseph Theriault"
+  - "Anthony Cheng"
+topics:
+  - individualized-funding
+  - program-design
+external_url: "https://www.ifrcsociety.org/our-team"
+archived_url: ""
+bibtex_key: ifrcourteam
+document_path: ""
+rights_note: "Organizational biography page. Link only. Treat role statements as IFRC’s own attributions."
+---
+
+::: {.callout-note}
+## Source inspected
+The public IFRC “Our Team” page was read on 20 September 2026. No page-level publication date was visible. Sortable date is a stand-in from the May 2014 presidency date on the page, not a claim that the whole text was written then.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Title | Our Team |
+| Issuer | Individualized Funding Resource Centre Society |
+| URL | <https://www.ifrcsociety.org/our-team> |
+
+## Annotation
+
+Passages used in this catalogue (IFRC’s wording, not independently verified here):
+
+- Paul Gauthier is “one of the founders of the Choice in Supports for Independent Living (CSIL) program.”
+- Joseph Theriault “worked alongside Paul and others as pioneers of the individual funding project; then known as Enhanced Consumer Participation Model [ECPM]” and later “travelled throughout British Columbia with Paul” to “create and promote the CSIL Program.”
+- “When Paul Gauthier, our Executive Director, started on the CSIL program in 1994, Anthony Cheng was there at the forefront performing payroll services.”
+
+The 1994 phrasing is one public date in the 1993-versus-1994 conflict. The page does not cite ministry files or manuals.
+
+## Associated claims
+
+- [Paul Gauthier](../people/paul-gauthier.qmd)
+- [Joseph Theriault](../people/joseph-theriault.qmd)
+- [Wanted Ministry CSIL records](wanted-ministry-csil-pilot-records.qmd)
+- [Wanted ECPM manuals](wanted-ecpm-manuals.qmd)

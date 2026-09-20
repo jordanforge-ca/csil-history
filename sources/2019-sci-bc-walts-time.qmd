@@ -1,0 +1,57 @@
+---
+title: "Walt’s Time: He’s Far From Finished"
+date: 2019-02-25
+date_display: "25 February 2019 (web post); first appeared in The Spin, Winter 2018"
+date_precision: exact
+id: src-scibc-2019-walts-time
+record_status: catalogue-record
+source_authors:
+  - "Spinal Cord Injury BC"
+author: "Spinal Cord Injury BC"
+source_type: secondary
+availability: external-link-only
+verification_status: verified-inspected
+period: creekview
+organizations:
+  - "Spinal Cord Injury BC"
+people:
+  - "Walt Lawrence"
+  - "Doug Mowat"
+topics:
+  - independent-living
+  - housing
+external_url: "https://sci-bc.ca/walts-time-hes-far-from-finished/"
+archived_url: ""
+bibtex_key: scibc2019walt
+document_path: ""
+rights_note: "Organizational magazine feature republished on the SCI BC site. Link only."
+---
+
+::: {.callout-note}
+## Source inspected
+The public SCI BC page was read on 20 September 2026. It is a later profile, not a 1985 primary record.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Title | Walt’s Time: He’s Far From Finished |
+| Issuer | Spinal Cord Injury BC |
+| Posted | 25 February 2019 |
+| Prior appearance | “This article first appeared in our Winter 2018 issue of *The Spin*” |
+| URL | <https://sci-bc.ca/walts-time-hes-far-from-finished/> |
+
+## Annotation
+
+The profile says a “pivotal point” came in 1985 when Lawrence “joined several fellow quadriplegics and moved into semi-independent living at the newly constructed **Creekside** development—an innovative housing cooperative championed by SCI BC’s Doug Mowat.”
+
+That spelling (**Creekside**) disagrees with Haw 1989 and Fayerman 2018 (**Creekview**). This archive records the discrepancy and does not pick a winner. The page also attributes championship of the housing cooperative to Doug Mowat; that is SCI BC’s later wording.
+
+The article does not mention CSIL or ECPM.
+
+## Associated claims
+
+- [Walt Lawrence](../people/walt-lawrence.qmd)
+- [Doug Mowat](../people/doug-mowat.qmd)
+- [Creekview placeholder](../history/creekview.qmd)

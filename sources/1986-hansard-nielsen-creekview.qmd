@@ -1,0 +1,64 @@
+---
+title: "Hansard, 10 April 1986: Health Minister Jim Nielsen on Creekview Cooperative"
+date: 1986-04-10
+date_display: "10 April 1986 (morning sitting)"
+date_precision: exact
+id: src-hansard-1986-nielsen-creekview
+record_status: catalogue-record
+source_authors:
+  - "Jim Nielsen"
+  - "Legislative Assembly of British Columbia"
+author: "Hon. Jim Nielsen (Hansard)"
+source_type: primary
+availability: external-link-only
+verification_status: verified-inspected
+period: creekview
+organizations:
+  - "Legislative Assembly of British Columbia"
+  - "British Columbia Ministry of Health"
+  - "Canadian Paraplegic Association"
+people:
+  - "Jim Nielsen"
+topics:
+  - independent-living
+  - housing
+  - home-support
+external_url: "https://lims.leg.bc.ca/hdms/file/Debates/33rd4th/33p_04s_860410a.htm"
+archived_url: ""
+bibtex_key: hansard1986nielsen
+document_path: ""
+rights_note: "Official Hansard HTML. Link only. Electronic version is informational; printed Hansard remains the official version."
+---
+
+::: {.callout-note}
+## Source inspected
+The Legislative Assembly HTML of the 10 April 1986 morning sitting was read on 20 September 2026. The Creekview passage is in the Minister of Health’s estimates speech.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Sitting | Thursday, 10 April 1986, morning; 4th Session, 33rd Parliament |
+| Speaker | Hon. Mr. Nielsen, Minister of Health, on vote 37 |
+| Official HTML | <https://lims.leg.bc.ca/hdms/file/Debates/33rd4th/33p_04s_860410a.htm> |
+
+## Annotation
+
+In a continuing-care section of his estimates statement, Nielsen says:
+
+> A very specific endeavour began last year which I think is a tribute to the determination of a group of six young men who faced a future of institutional life as quadriplegics. These men, most of them depending on respiratory machines for breathing, convinced various government agencies to give them a chance to live in an independent group setting. They took up residence in the Creekview Cooperative apartment building near False Creek. I understand that their new lifestyle has been tremendous. In fact, I received correspondence yesterday, including a photograph of the six young men, from the Paraplegic Association. Apparently their life has just changed so dramatically. It has been a complete success, and we really congratulate them for putting the effort into getting it done.
+
+This is a contemporaneous ministerial statement that the move had already happened (“began last year”; “took up residence”) and that the Paraplegic Association had sent the minister a photograph. It does not name Creekview 202, an evaluation, Walt Lawrence, CSIL, or ECPM. “Complete success” is the minister’s characterization, not an inspected evaluation finding.
+
+A nearby paragraph describes a **different** community-living pilot “for people with severe mental and physical handicaps” with British Columbians for Mentally Handicapped People. That pilot is not treated here as Creekview.
+
+## Open questions
+
+- Whether Nielsen’s “six young men” are the same six persons Mowat described in [February 1984](1984-hansard-mowat-creekview.qmd).
+- What “last year” means in an April 1986 speech (calendar 1985 is consistent with Haw’s September 1985 opening; it is not independently dated here).
+
+## Associated claims
+
+- [Creekview placeholder](../history/creekview.qmd)
+- [Haw 1989](1989-haw-special-housing-needs.qmd)

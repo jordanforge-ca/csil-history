@@ -1,0 +1,58 @@
+---
+title: "An Introduction: The Beginning Steps towards CSIL (Module 1 of 10)"
+date: 2015-02-28
+date_display: "28 February 2015"
+date_precision: exact
+id: src-gauthier-2015-module1
+record_status: catalogue-record
+source_authors:
+  - "Paul Gauthier"
+  - "Individualized Funding Resource Centre Society"
+author: "Paul Gauthier (IFRC)"
+source_type: secondary
+availability: external-link-only
+verification_status: verified-inspected
+period: design-pilot
+organizations:
+  - "Individualized Funding Resource Centre Society"
+  - "British Columbia Ministry of Health"
+people:
+  - "Paul Gauthier"
+topics:
+  - individualized-funding
+  - program-design
+  - home-support
+external_url: "https://www.ifrcsociety.org/documents/resources/slides/getting-started/CSIL-Module-Series_Module-1.pdf"
+archived_url: ""
+bibtex_key: gauthier2015module1
+document_path: ""
+rights_note: "Public slide deck. Link only."
+---
+
+::: {.callout-note}
+## Source inspected
+The public PDF was read on 20 September 2026. It is a 2015 training presentation, not a 1990s ministry record. It is one side of the 1993-versus-1994 starting-year conflict.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Title | An Introduction: The Beginning Steps towards CSIL |
+| Subtitle on slide | Module 1 of 10: The Introduction to CSIL February 28, 2015 |
+| Speaker line | Paul Gauthier, Executive Director, Individualized Funding Resource Centre Society |
+| URL | <https://www.ifrcsociety.org/documents/resources/slides/getting-started/CSIL-Module-Series_Module-1.pdf> |
+
+## Annotation
+
+Under “How CSIL Evolved” the deck states: “Established by the Ministry of Health in British Columbia in **1994**, with people with disabilities in the forefront of the program design.” Gauthier is also labelled “the founder of the CSIL program.”
+
+Compare the May 2014 SCI series deck, which uses **1993** in a nearly identical sentence. This archive keeps both dates visible and does not choose between them.
+
+The rest of the deck is a how-to introduction (phases, supported lifestyle plan). It is catalogued here mainly for the dated founding claim.
+
+## Associated claims
+
+- [Wanted Ministry CSIL records](wanted-ministry-csil-pilot-records.qmd)
+- [Gauthier 2014 SCI presentation](2014-gauthier-sci-csil-presentation.qmd)
+- [CSIL design and pilot placeholder](../history/csil-pilot.qmd)

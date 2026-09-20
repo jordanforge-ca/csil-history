@@ -9,16 +9,22 @@ toc: false
 
 ## Documented role
 
-None recorded. No cited source on this site yet supports a role statement.
+On [24 February 1984](../sources/1984-hansard-mowat-creekview.qmd), Hansard records Mr. Mowat, speaking as an MLA in budget debate, describing six high-lesion respiratory quadriplegics about to leave Pearson Hospital for the Creekview Co-op on False Creek.
+
+The [SCI BC history page](../sources/sci-bc-history.qmd) states that in 1960 “Doug Mowat accepts the role of Executive Director” of BCPA and that he chaired the provincial International Year of the Disabled effort in 1981. That is later organizational history, not a contemporaneous appointment record.
 
 ## Attributed recollection
 
-None recorded.
+[Fayerman 2018](../sources/2018-vancouversun-walt-lawrence.qmd) reports Walt Lawrence giving Mowat, “then MLA,” credit in connection with a CPA cost analysis and the Creekview move. That is journalistic paraphrase of a later recollection.
 
 ## Sources mentioning this person
 
-None catalogued yet.
+- [Hansard, 24 February 1984](../sources/1984-hansard-mowat-creekview.qmd)
+- [SCI BC history](../sources/sci-bc-history.qmd)
+- [SCI Canada timeline](../sources/sci-can-timeline-mowat.qmd)
+- [Fayerman 2018](../sources/2018-vancouversun-walt-lawrence.qmd)
 
 ## Questions we would like to verify
 
-To be added when a research protocol exists. This stub does not list interview questions and does not invite unsolicited contact.
+- The relationship between Mowat’s BCPA executive-director role and his MLA role when he spoke in 1984.
+- Whether he appears in the unread 1987 evaluation or in 1986 ministerial correspondence from the Paraplegic Association.

@@ -7,10 +7,10 @@ id: src-wanted-keys-on-freedom
 record_status: catalogue-record
 source_authors:
   - "BC Rehabilitation Society"
-author: "BC Rehabilitation Society"
+author: "BC Rehabilitation Society (as named in the commissioning issue; not independently confirmed)"
 source_type: primary
 availability: known-to-exist-copy-sought
-verification_status: bibliographically-confirmed
+verification_status: open-question
 period: ecpm
 organizations:
   - "BC Rehabilitation Society"
@@ -18,6 +18,7 @@ people: []
 topics:
   - independent-living
   - home-support
+  - documentation
 external_url: ""
 archived_url: ""
 bibtex_key: bcrs1990keys
@@ -26,30 +27,47 @@ rights_note: "Copy not held. Do not upload a scan unless redistribution is clear
 ---
 
 ::: {.callout-note}
-## Known to exist — copy sought
-Bibliographic details on this page come only from [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). This archive has not inspected a copy or an independent catalogue record.
+## Still attested only by the commissioning issue
+The full title, corporate author, and approximate date on this page were first named in [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). A second public-source pass on 20 September 2026, including targeted CMHC / publications.gc.ca and bibliographic searches, did **not** recover a catalogue record, digitized copy, or independent secondary citation that repeats that title. `verification_status` is therefore `open-question` for the bibliographic details themselves: we have a named wanted item, not independent confirmation.
 :::
 
 ## Identification
 
-| Element | As stated in the commissioning issue |
-| --- | --- |
-| Title | Keys on Freedom: Resource manual for the development of self-managed community living alternatives for quadriplegic persons |
-| Creator | BC Rehabilitation Society |
-| Date | c. 1990 |
+| Element | As stated in the commissioning issue | Independent public evidence seen in this pass |
+| --- | --- | --- |
+| Title | Keys on Freedom: Resource manual for the development of self-managed community living alternatives for quadriplegic persons | Not found |
+| Creator | BC Rehabilitation Society | BC Rehab is independently attested as a 1990 ECPM manual issuer ([Roeher bibliography](1990s-roeher-if-bibliography.qmd)); that bibliography does **not** list *Keys on Freedom* |
+| Date | c. 1990 | Not independently confirmed |
+
+The research brief asked specifically for 1990s CMHC material citing both the Creekview 202 evaluation **and** *Keys on Freedom*. No such CMHC report was located.
+
+## Search leads documented (20 September 2026)
+
+None of the following returned this title.
+
+- Quoted-title and “self-managed community living” / “resource manual” web searches with BC Rehab or quadriplegic.
+- Internet Archive advanced search for `"Keys on Freedom"` with `quadriplegic` (zero items).
+- Web searches phrased as WorldCat / CMHC / “Canada Mortgage” queries.
+- publications.gc.ca-style CMHC collection browsing for Creekview 202 / Keys on Freedom (no matching hit retrieved).
+- The Roeher Institute / Brian Salisbury annotated bibliography (inspected PDF). It cites the 1990 ECPM skill-development manual and does not list *Keys on Freedom*.
+
+UBC, SFU, CMHC Housing Knowledge Centre, and Legislative Library catalogue interfaces were not successfully queried as native catalogues. They remain the highest-value next checks.
 
 ## Annotation
 
-This is a catalogue placeholder for a named resource manual. This archive does not yet describe its contents, circulation, or relationship to ECPM or CSIL.
+This remains a catalogue placeholder for a named resource manual. Absence from the Roeher bibliography and from retrieved CMHC lists is **not** proof the manual never existed. It is a negative finding from the public sources actually seen.
+
+Do not upgrade `verification_status` to `bibliographically-confirmed` until an independent catalogue record, citation, or copy is inspected.
 
 ## Open questions
 
 - Location of a copy.
-- Exact publication date and edition.
-- Whether and how the manual relates to ECPM materials from the same period.
+- Exact publication date, edition, pagination, and title-page wording.
+- Whether the work is distinct from the 1990 ECPM *Skill Development Manual*.
+- Whether a CMHC 1990s housing bibliography cites it (still unfound).
 
 ## See also
 
-- [ECPM placeholder](../history/ecpm.qmd)
 - [ECPM manual(s) wanted record](wanted-ecpm-manuals.qmd)
+- [Roeher Institute bibliography](1990s-roeher-if-bibliography.qmd)
 - [Wanted sources](../research/wanted-sources.qmd)

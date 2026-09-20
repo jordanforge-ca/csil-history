@@ -9,16 +9,19 @@ toc: false
 
 ## Documented role
 
-None recorded. No cited source on this site yet supports a role statement.
+None recorded from a contemporaneous 1980s source inspected in this archive. Later journalism and an SCI BC feature identify him as a Creekview resident and independent-living advocate.
 
 ## Attributed recollection
 
-None recorded.
+[Fayerman, *Vancouver Sun*, 20 September 2018](../sources/2018-vancouversun-walt-lawrence.qmd) reports Lawrence describing a 1985 move into “the Creekview Co-operative Apartment near Granville Island,” after a Canadian Paraplegic Association cost analysis, and crediting MLA Doug Mowat. [SCI BC, “Walt’s Time,” 2019](../sources/2019-sci-bc-walts-time.qmd) retells related material and uses the spelling “Creekside.” Those are later accounts. They do not, by themselves, define a role in CSIL (as opposed to earlier independent living / Creekview).
 
 ## Sources mentioning this person
 
-None catalogued yet.
+- [Fayerman 2018](../sources/2018-vancouversun-walt-lawrence.qmd)
+- [SCI BC, Walt’s Time (2019)](../sources/2019-sci-bc-walts-time.qmd)
 
 ## Questions we would like to verify
 
-To be added when a research protocol exists. This stub does not list interview questions and does not invite unsolicited contact.
+- Exact role in Creekview versus any later CSIL design or pilot work.
+- Whether he is one of the “six” persons named in [Hansard 1984](../sources/1984-hansard-mowat-creekview.qmd) and [1986](../sources/1986-hansard-nielsen-creekview.qmd) (those sittings do not name residents).
+- How “Creekside” in the 2019 feature relates to Creekview / Creekview 202.

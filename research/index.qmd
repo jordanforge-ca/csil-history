@@ -9,6 +9,8 @@ This section tracks active research gaps. It is not a findings page.
 
 The commissioning issue named five documents or record classes that are **known to exist** and whose copies are still sought. They are listed on [Wanted Sources](wanted-sources.qmd) and as individual catalogue records under [Sources](../sources/index.qmd).
 
+A September 2026 public-source pass added inspected catalogue records for contemporaneous and later public evidence (Hansard 1984 and 1986; Mattinson & Rompf 1987 abstract; Haw 1989; Roeher bibliography; Ombudsperson 2012; SCI BC and IFRC pages; current ministry and VCH CSIL policy). It did **not** recover the five wanted texts themselves. *Keys on Freedom* still lacks independent bibliographic confirmation. The 1995 HEU *Guardian* PDF was retrieved as a scan; the page-9 CSIL passage was read from the image.
+
 ## How to use this section
 
 - Add a wanted-source record when a document is known or strongly attested but not in hand.

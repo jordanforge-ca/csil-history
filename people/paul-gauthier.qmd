@@ -9,16 +9,20 @@ toc: false
 
 ## Documented role
 
-None recorded. No cited source on this site yet supports a role statement.
+The [Governor General Order of Canada citation](../sources/2023-order-of-canada-paul-gauthier.qmd) (awarded 11 May 2023) calls him “Initiator of British Columbia’s Choice in Supports for Independent Living” and co-founder of the Individualized Funding Resource Centre Society. That is an official honour citation, not a ministry design file, and it does not date CSIL.
 
 ## Attributed recollection
 
-None recorded.
+Later IFRC materials attributed to Gauthier, or describing him, disagree on the start year: [2014 slides](../sources/2014-gauthier-sci-csil-presentation.qmd) say CSIL was “established” in 1993 and mention a 50-person pilot; [2015 Module 1](../sources/2015-gauthier-csil-module-1.qmd) uses 1994 in an otherwise similar sentence; [IFRC Our Team](../sources/ifrc-our-team.qmd) says he “started on the CSIL program in 1994.” Those are later attributions, not inspected 1990s records.
 
 ## Sources mentioning this person
 
-None catalogued yet.
+- [Order of Canada citation](../sources/2023-order-of-canada-paul-gauthier.qmd)
+- [IFRC Our Team](../sources/ifrc-our-team.qmd)
+- [Gauthier 2014 SCI presentation](../sources/2014-gauthier-sci-csil-presentation.qmd)
+- [Gauthier 2015 Module 1](../sources/2015-gauthier-csil-module-1.qmd)
 
 ## Questions we would like to verify
 
-To be added when a research protocol exists. This stub does not list interview questions and does not invite unsolicited contact.
+- What “initiator” / “founder” refers to in contemporaneous 1993–95 files (design, advocacy, pilot participation, or later summary).
+- How his role relates to Joseph Theriault and ECPM as described on the IFRC page.

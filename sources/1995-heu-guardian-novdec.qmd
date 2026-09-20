@@ -1,0 +1,84 @@
+---
+title: "The Guardian (Hospital Employees' Union), November/December 1995 — home-care feature naming CSIL"
+date: 1995-12-01
+date_display: "November/December 1995 (Vol. 13, No. 6)"
+date_precision: exact
+id: src-heu-guardian-1995-novdec
+record_status: catalogue-record
+source_authors:
+  - "Geoff Meggs"
+  - "Hospital Employees' Union"
+author: "Geoff Meggs (Hospital Employees' Union)"
+source_type: primary
+availability: external-link-only
+verification_status: verified-inspected
+period: design-pilot
+organizations:
+  - "Hospital Employees' Union"
+  - "British Columbia Ministry of Health"
+  - "Community Support Branch"
+  - "Continuing Care Division"
+people:
+  - "Geoff Meggs"
+  - "Sally Hamilton"
+  - "Stan Henderson"
+topics:
+  - home-support
+  - individualized-funding
+  - program-design
+external_url: "https://heu.org/sites/default/files/uploads/Guardian_Vol_13_No_6_November_December_1995web.pdf"
+archived_url: ""
+bibtex_key: heu1995guardian
+document_path: ""
+rights_note: "Union newspaper scan hosted by HEU. Link only. Do not copy the PDF into this repository. Quotes below are short identification excerpts from a public scan."
+---
+
+::: {.callout-note}
+## Source inspected
+The November/December 1995 *Guardian* PDF was downloaded from HEU’s public archive on 20 September 2026. It is a 16-page image scan (no text layer). Cover and the CSIL passage on page 9 were read from rendered page images. OCR was used as a finding aid; wording below was checked against the page image.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Masthead | *Guardian*; “THE VOICE OF THE HOSPITAL EMPLOYEES' UNION”; VOL. 13 NO. 6; NOVEMBER/DECEMBER 1995 |
+| Archive listing | [HEU Guardian archives](https://heu.org/guardian-archives) |
+| PDF | <https://heu.org/sites/default/files/uploads/Guardian_Vol_13_No_6_November_December_1995web.pdf> |
+| Cover story | “HOMECARE pioneers” / Stan Henderson, by Geoff Meggs (Kate Williams photos); continued from p. 1 to p. 7 and p. 9 |
+| CSIL passage | Page 9 of the scan, in the Henderson funding sidebar |
+
+## Annotation
+
+The cover feature is about agency/home nursing for an 89-year-old Vancouver man with Alzheimer’s, not a CSIL how-to. On page 9 the article explains how the family obtained Ministry of Health money after other revenues ran out:
+
+> a new program of the Community Support Branch of the Continuing Care Division called “Choice in Supports for Independent Living” or CSIL. Designed as a pilot program for people with disabilities who want to take more responsibility for managing their own care, the scheme allows non-profit societies to receive direct funding to hire caregivers for community-based care.
+
+Further statements on that page, as read from the scan:
+
+- Sally Hamilton “manages the program for the ministry.”
+- Of “65,000 continuing care clients in the province, only 130 access CSIL funds,” and “only one other is an Alzheimer patient.”
+- The family formed a society and secured “$3,540 a month.”
+- Hamilton is quoted that the ministry expects CSIL employers “to pay within the unionized range, provide statutory benefits and keep a small cushion in the event of emergency.”
+
+This is contemporaneous 1995 public description of CSIL as a **new / pilot** Ministry of Health program housed in **Community Support Branch / Continuing Care Division**. That independently attests the administrative home named in the commissioning issue. It does **not** date the pilot’s start to 1993, 1994, or 1995, and it does not name ECPM, Gauthier, or Creekview.
+
+`source_type` is `primary`. HEU is a union newspaper with an interest in unionized home-support wages; treat cost and “pilot” wording as HEU’s contemporaneous report, not as a ministry instrument.
+
+## Limitations
+
+- Image scan; some numerals and small type are easy to misread. The 130 / 65,000 / $3,540 figures should be re-checked on a printed copy before they are used as statistics.
+- The Henderson case is an Alzheimer’s family-society use of CSIL, presented as exceptional.
+- “Designed as a pilot” in late 1995 can mean still piloting, recently piloted, or loosely “new.” It does not by itself settle province-wide 1995.
+
+## Open questions
+
+- Hamilton’s exact title and the instrument that created Community Support Branch CSIL.
+- Whether 130 clients is a province-wide pilot census or a snapshot of approved cases.
+- How this “non-profit societies” description relates to later CSIL Phase I (individual employer) / Phase II (client support group) language.
+
+## Associated claims
+
+- [Wanted Ministry CSIL records](wanted-ministry-csil-pilot-records.qmd)
+- [Ombudsperson 2012 (later 1994/1995 chronology)](2012-ombudsperson-best-of-care.qmd)
+- [CSIL design and pilot placeholder](../history/csil-pilot.qmd)

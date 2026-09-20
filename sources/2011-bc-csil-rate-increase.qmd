@@ -1,0 +1,57 @@
+---
+title: "B.C. to boost home support program rates"
+date: 2011-03-28
+date_display: "28 March 2011"
+date_precision: exact
+id: src-bcnews-2011-csil-rates
+record_status: catalogue-record
+source_authors:
+  - "British Columbia Ministry of Health"
+author: "British Columbia Ministry of Health"
+source_type: primary
+availability: external-link-only
+verification_status: verified-inspected
+period: later-review
+organizations:
+  - "British Columbia Ministry of Health"
+  - "Association of CSIL Employers"
+people:
+  - "Michael de Jong"
+  - "Tim Louis"
+  - "Ken Kramer"
+  - "Roger B. Jones"
+topics:
+  - home-support
+  - individualized-funding
+  - current-program
+external_url: "https://news.gov.bc.ca/releases/2011HLTH0018-000298"
+archived_url: ""
+bibtex_key: bcnews2011csil
+document_path: ""
+rights_note: "Crown news release. Link only."
+---
+
+::: {.callout-note}
+## Source inspected
+The public news.gov.bc.ca release was read on 20 September 2026.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Headline | B.C. to boost home support program rates |
+| Date | Monday, 28 March 2011 |
+| Release id in URL | 2011HLTH0018-000298 |
+| URL | <https://news.gov.bc.ca/releases/2011HLTH0018-000298> |
+
+## Annotation
+
+The release announces a CSIL hourly-rate increase effective 1 April 2011 (to $27.63, with further increases in 2012 and 2013). It describes CSIL as “a self-managed model of care where individuals are funded directly to hire workers to provide home support services.” Quick facts on the inspected page: more than 800 CSIL clients; about two per cent of home-support clients and 20 per cent of home-care support service hours; a CSIL funding working group established in December 2009 with the Association of CSIL Employers.
+
+The release does not state a 1993 or 1994 founding year. It is catalogued as later official evidence that a provincial CSIL program existed and was being repriced in 2011.
+
+## Associated claims
+
+- [HCC Policy Manual, Policy 4.C](hcc-policy-manual-4c.qmd)
+- [Later evolution placeholder](../history/evolution.qmd)

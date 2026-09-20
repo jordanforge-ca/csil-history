@@ -1,0 +1,56 @@
+---
+title: "Choice in Supports for Independent Living (CSIL) online workbooks"
+date: 2021-12-01
+date_display: "SCI BC info page inspected 20 September 2026; Module 2 PDF filename dated 2021"
+date_precision: approximate
+id: src-scibc-csil-workbook
+record_status: catalogue-record
+source_authors:
+  - "Spinal Cord Injury BC"
+  - "British Columbia Ministry of Health"
+author: "Spinal Cord Injury BC (with BC Ministry of Health funding)"
+source_type: near-primary
+availability: external-link-only
+verification_status: verified-inspected
+period: later-review
+organizations:
+  - "Spinal Cord Injury BC"
+  - "British Columbia Ministry of Health"
+  - "Law Foundation of BC"
+topics:
+  - home-support
+  - individualized-funding
+  - documentation
+  - current-program
+external_url: "https://sci-bc.ca/info-centre/choice-supports-independent-living/"
+archived_url: ""
+bibtex_key: scibccsworkbook
+document_path: ""
+rights_note: "Current training workbooks. Link only. Do not host the PDFs unless redistribution is clearly permitted."
+---
+
+::: {.callout-note}
+## Source inspected
+The SCI BC CSIL info page was read on 20 September 2026. The executive-summary and Module 2 PDFs linked from that page (and IFRC mirrors) were also opened. These are current how-to materials, not 1990s design records.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Page title | Choice in Supports for Independent Living (CSIL) |
+| Issuer | Spinal Cord Injury BC, “in partnership with the BC Ministry of Health and with support from a subsequent grant from the Law Foundation of BC” |
+| Page URL | <https://sci-bc.ca/info-centre/choice-supports-independent-living/> |
+| Linked files named on the page | Executive Summary; Modules 1–4; Appendices |
+| Example module URL opened | <https://sci-bc.ca/wp-content/uploads/2021/12/csil-module2-2021update.pdf> |
+
+## Annotation
+
+The page defines CSIL as an alternative way for people with disabilities in BC to receive home support: employers receive funds and are responsible for recruiting, hiring, training, scheduling, and supervising workers. The workbooks explain eligibility, application, and employer duties. They do not, in the pages and PDFs opened here, give a 1993 or 1994 founding date.
+
+`source_type` is `near-primary` because the workbooks are official-adjacent current guidance, not contemporaneous 1990s records.
+
+## Associated claims
+
+- [gov.bc.ca CSIL program page](gov-bc-csil-program-page.qmd)
+- [Later evolution placeholder](../history/evolution.qmd)

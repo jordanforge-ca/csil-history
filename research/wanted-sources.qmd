@@ -21,14 +21,17 @@ listing:
 toc: true
 ---
 
-These items were named in [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10) as high-priority sources the archive should be able to represent even before a digital copy is recovered. Bibliographic details below are **only** what that issue states. This project has not independently verified catalogue entries or inspected copies.
+These five items were named in [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). A September 2026 public-source pass looked for independent bibliographic evidence. Where a catalogue record, contemporaneous citation, or later official page was actually seen, the individual wanted record cites **that** evidence. Where nothing was found, the record says so.
 
-**Status pattern for all five:** Known to exist — copy sought.
+Copies of all five are still sought. Do not treat a wanted row as an inspected text.
 
 ## 1. Creekview 202 Project Evaluation Report
 
-- **Creator as named:** Patricia Ryan / Ryan & Wiggins
+- **Creator as named in the commissioning issue:** Patricia Ryan / Ryan & Wiggins
 - **Date as named:** c. 1987
+- **Independent public evidence now cited:** [Mattinson and Rompf 1987](../sources/1987-mattinson-rompf-creekview.qmd) (PubMed abstract: formal evaluation completed by the B.C. provincial government and CPA); [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) (“an independent evaluation of Creekview 202 was published” in 1987). Contemporaneous Creekview setting: [Hansard 1984](../sources/1984-hansard-mowat-creekview.qmd) and [1986](../sources/1986-hansard-nielsen-creekview.qmd).
+- **Still missing:** the evaluation itself; any catalogue record naming Ryan / Ryan & Wiggins; any CMHC bibliography citing this title.
+- **Authorship conflict preserved:** government-and-CPA (1987 abstract) versus Ryan / Ryan & Wiggins (commissioning issue) versus unnamed “independent” (Haw).
 - **Catalogue record:** [Creekview 202 Project Evaluation Report](../sources/wanted-creekview-202-evaluation.qmd)
 
 ## 2. Keys on Freedom
@@ -36,26 +39,37 @@ These items were named in [jordanforge-infrastructure issue 10](https://github.c
 - **Full title as named:** Keys on Freedom: Resource manual for the development of self-managed community living alternatives for quadriplegic persons
 - **Creator as named:** BC Rehabilitation Society
 - **Date as named:** c. 1990
+- **Public evidence now cited:** none found. Targeted CMHC / publications.gc.ca and bibliographic searches in this pass did not confirm title, author, or year. The Roeher bibliography does not list the title.
 - **Catalogue record:** [Keys on Freedom](../sources/wanted-keys-on-freedom.qmd)
 
 ## 3. Enhanced Consumer Participation Model (ECPM) manual(s)
 
 - **Creator as named:** BC Rehab / Greater Vancouver Home Support Society
 - **Date as named:** c. 1990 and possibly a 1994 training revision
+- **Public evidence now cited:** Roeher / Salisbury bibliography independently cites *Enhanced Consumer Participation Model: Skill Development Manual for Consumers of Home Support Services* (BC Rehab & Greater Vancouver Home Support Society, 1990; five modules; 52 pages plus appendices). See [that finding aid](../sources/1990s-roeher-if-bibliography.qmd).
+- **Still missing:** the manual itself; any 1994 revision; title-page authorship (including any role for Emma Van der Klift). Van der Klift’s inspected 1994 chapter is [a different work](../sources/1994-van-der-klift-hell-bent.qmd). Current [VCH CSIL pages](../sources/vch-csil-service-page.qmd) do not use the ECPM name.
 - **Catalogue record:** [ECPM manual(s)](../sources/wanted-ecpm-manuals.qmd)
 
 ## 4. Original Ministry of Health CSIL pilot/design records
 
 - **Date as named:** approximately 1993–95
 - **Likely administrative home as named:** Continuing Care Division / Community Support Branch
+- **Public evidence now cited:** later accounts disagree — [Gauthier 2014](../sources/2014-gauthier-sci-csil-presentation.qmd) says established 1993; [Gauthier 2015](../sources/2015-gauthier-csil-module-1.qmd) and [IFRC Our Team](../sources/ifrc-our-team.qmd) say 1994; [Ombudsperson 2012](../sources/2012-ombudsperson-best-of-care.qmd) says **pilot 1994, province-wide 1995**. [HEU *Guardian* Nov/Dec 1995](../sources/1995-heu-guardian-novdec.qmd) contemporaneously calls CSIL a new/pilot program of the Community Support Branch, Continuing Care Division.
 - **Catalogue record:** [Ministry CSIL pilot/design records](../sources/wanted-ministry-csil-pilot-records.qmd)
 
-## 5. CSIL Program Review Synthesis Report
+## 5. CSIL Program Review
 
-- **Full title as named:** Choice in Supports for Independent Living Review Program: Synthesis Report
+- **Title as named in the commissioning issue:** Choice in Supports for Independent Living Review Program: Synthesis Report
 - **Creator as named:** Ministry of Health Services / James Murtagh Consulting
 - **Date as named:** November 2008
-- **Catalogue record:** [2008 Synthesis Report](../sources/wanted-2008-program-review.qmd)
+- **Independent public evidence now cited:** *Best of Care* footnote 207: “Ministry of Health, Choice in Supports for Independent Living (CSIL) Program Review, November 2008.” Same volume also refers to a provincial review in 2007. Murtagh and “Synthesis Report” were not independently confirmed. A 2012 Foerster & Murtagh **Care Aide Registry** review is a different document.
+- **Catalogue record:** [2008 Program Review](../sources/wanted-2008-program-review.qmd)
+
+## Searches documented in this pass
+
+Public web; PubMed (PMID 3691990); BC Hansard HTML (1984, 1986; later Creekview sittings not found); HEU Guardian archive (Nov/Dec 1995 PDF retrieved); bcombudsperson.ca *Best of Care* PDFs; Internet Archive advanced search (zero hits for the Creekview evaluation title, “Enhanced Consumer Participation Model,” and “Keys on Freedom” + quadriplegic); WorldCat-style and CMHC / publications.gc.ca web searches (no *Keys on Freedom* hit); gov.bc.ca, vch.ca, and openinfo.gov.bc.ca PDFs; SCI BC and IFRC pages; Polio Place conference OCR; CanLII commentary PDF; Governor General honours page for Paul Gauthier; Broadreach Van der Klift pages.
+
+UBC, SFU, Legislative Library of British Columbia, and CMHC Housing Knowledge Centre native catalogue interfaces were not successfully queried. They remain useful next checks.
 
 ## If you have a lead
 

@@ -1,0 +1,82 @@
+---
+title: "Independent living for high-lesion quadriplegics (Mattinson and Rompf)"
+date: 1987-11-01
+date_display: "November 1987"
+date_precision: exact
+id: src-mattinson-1987-creekview
+record_status: catalogue-record
+source_authors:
+  - "Kevin Mattinson"
+  - "W. Rompf"
+author: "K. Mattinson and W. Rompf"
+source_type: near-primary
+availability: catalogue-or-citation-only
+verification_status: bibliographically-confirmed
+period: creekview
+organizations:
+  - "Pearson Hospital"
+  - "Canadian Paraplegic Association"
+  - "British Columbia provincial government"
+people:
+  - "Kevin Mattinson"
+  - "W. Rompf"
+topics:
+  - independent-living
+  - evaluation
+  - housing
+  - home-support
+external_url: "https://pubmed.ncbi.nlm.nih.gov/3691990"
+archived_url: ""
+bibtex_key: mattinson1987creekview
+document_path: ""
+rights_note: "Journal article. PubMed record and abstract inspected; full text not obtained. Do not upload a scan unless redistribution is clearly permitted."
+---
+
+::: {.callout-note}
+## Abstract and PubMed record inspected — full article not obtained
+The National Library of Medicine PubMed record (PMID 3691990) and its abstract were read on 20 September 2026. The *Dimensions in Health Service* article itself was not recovered. Do not treat this page as an inspection of the full paper or of the evaluation it reports.
+:::
+
+## Identification
+
+| Element | As seen on PubMed / MEDLINE |
+| --- | --- |
+| Title | Independent living for high-lesion quadriplegics. |
+| Authors | Mattinson K; Rompf W |
+| Affiliation on PubMed | Pearson Hospital, Vancouver (Mattinson) |
+| Journal | *Dimensions in health service* (ISO abbreviation *Dimens Health Serv*) |
+| Issue | 64(8), November 1987, pages 34, 36–37 |
+| ISSN | 0317-7645 |
+| PMID | 3691990 |
+| PubMed URL | <https://pubmed.ncbi.nlm.nih.gov/3691990> |
+| Indexing | MEDLINE; MeSH includes Quadriplegia/rehabilitation, Housing, Home Care Services, British Columbia |
+
+## Annotation
+
+The inspected abstract states, in full:
+
+> A formal evaluation of the Creekview project has been completed by the B.C. provincial government and CPA. This evaluation will determine the costs/benefits of Creekview as a model for future moves of severely disabled persons into the community. The evaluation looked at several issues such as operating costs, health status of residents at the time of relocation and one year later, quality of attendant staff, standards of care and general level of services provided. Pearson Hospital continues to play a role in the support of the Creekview project.
+
+This is independent, contemporaneous, PubMed-indexed public evidence that:
+
+1. a named “Creekview project” existed by 1987;
+2. contemporaries treated a **formal evaluation** as already completed;
+3. that evaluation was attributed here to “the B.C. provincial government and CPA,” not to Patricia Ryan / Ryan & Wiggins;
+4. the evaluation’s topics (operating costs; health status at relocation and one year later; attendant staff; standards of care; general services) overlap the topics [Haw 1989](1989-haw-special-housing-needs.qmd) later paraphrased.
+
+It does **not** confirm the commissioning-issue title “Creekview 202 Project Evaluation Report,” nor Ryan / Ryan & Wiggins authorship. Those remain unconfirmed. The article and the evaluation may be the same work, related works, or different documents. Mattinson’s Pearson affiliation is consistent with Haw’s statement that Pearson continued to support Creekview; it is not proof that Pearson authored the evaluation.
+
+`source_type` is `near-primary`: a 1987 professional article about a just-completed evaluation, not the evaluation report itself.
+
+## Open questions
+
+- Full-text location (*Dimensions in Health Service* holdings; UBC/SFU/Legislative Library).
+- Whether Mattinson and Rompf wrote the evaluation, summarized it, or both.
+- How this article relates to the Ryan / Ryan & Wiggins report named in the commissioning issue.
+- Whether “will determine” in the abstract means the evaluation was complete but not yet used for policy, or that analysis was still in progress.
+
+## Associated claims
+
+- [Creekview 202 evaluation (wanted)](wanted-creekview-202-evaluation.qmd)
+- [Haw 1989](1989-haw-special-housing-needs.qmd)
+- [Creekview placeholder](../history/creekview.qmd)

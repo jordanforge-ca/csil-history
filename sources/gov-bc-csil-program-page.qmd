@@ -1,0 +1,52 @@
+---
+title: "Choice in Supports for Independent Living (Province of British Columbia program page)"
+date: 2025-09-10
+date_display: "last updated 10 September 2025 (as shown on the page when inspected)"
+date_precision: exact
+id: src-govbc-csil-page
+record_status: catalogue-record
+source_authors:
+  - "British Columbia Ministry of Health"
+author: "British Columbia Ministry of Health"
+source_type: primary
+availability: external-link-only
+verification_status: verified-inspected
+period: later-review
+organizations:
+  - "British Columbia Ministry of Health"
+topics:
+  - home-support
+  - individualized-funding
+  - current-program
+external_url: "https://www2.gov.bc.ca/gov/content/health/accessing-health-care/home-community-care/care-options-and-cost/choice-in-supports-for-independent-living"
+archived_url: ""
+bibtex_key: govbccsilpage
+document_path: ""
+rights_note: "Current Crown program page. Link only. Describes present eligibility and rates, not 1990s design."
+---
+
+::: {.callout-note}
+## Source inspected
+The public gov.bc.ca page was read on 20 September 2026. It is current program guidance. It does not state a founding year.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Title | Choice in Supports for Independent Living |
+| Issuer | Province of British Columbia |
+| Last updated (on page) | 10 September 2025 |
+| URL | <https://www2.gov.bc.ca/gov/content/health/accessing-health-care/home-community-care/care-options-and-cost/choice-in-supports-for-independent-living> |
+
+## Annotation
+
+The page defines CSIL as “a self-directed option for eligible home support clients” who “receive funds directly from their local health authority to purchase their own home support services” and “become employers.” It lists eligibility criteria (including high physical care needs, physical disability, medical stability) and points to the CSIL Online Workbook and the Continuing Care Fees Regulation.
+
+This archive uses the page as a citable official description of the **current** program, not as evidence of 1993–95 design.
+
+## Associated claims
+
+- [HCC Policy Manual, Policy 4.C](hcc-policy-manual-4c.qmd)
+- [SCI BC CSIL workbook page](sci-bc-csil-workbook.qmd)
+- [Later evolution placeholder](../history/evolution.qmd)

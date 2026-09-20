@@ -1,45 +1,66 @@
-- id: tl-1980s-il-advocacy
-  title: "Disability-led independent-living and community-living advocacy in British Columbia"
-  date: 1982-01-01
-  date_iso: "1982-01-01"
-  date_display: "early 1980s"
-  date_precision: approximate
-  confidence: open-question
-  period: precursor
-  href: history/origins.qmd
-  sources_display: "None catalogued yet"
-  source_ids: []
-  notes: "Working research proposition from the commissioning brief. Not tied to an inspected source in this archive."
+- id: tl-1984-hansard-creekview
+  title: "Hansard: planned Creekview Co-op move from Pearson Hospital"
+  date: 1984-02-24
+  date_iso: "1984-02-24"
+  date_display: "24 February 1984"
+  date_precision: exact
+  confidence: verified-inspected
+  period: creekview
+  href: sources/1984-hansard-mowat-creekview.qmd
+  sources_display: "Hansard, 24 February 1984 (Mowat)"
+  source_ids:
+    - src-hansard-1984-mowat-creekview
+  notes: "Contemporaneous MLA speech. Describes six high-lesion respiratory quadriplegics about to leave Pearson for Creekview Co-op. Pre-opening."
 
 - id: tl-1985-creekview
-  title: "Creekview independent-living experiment (working date)"
-  date: 1985-01-01
-  date_iso: "1985-01-01"
-  date_display: "c. 1985"
+  title: "Creekview opening (working date, multiple later attestations)"
+  date: 1985-09-01
+  date_iso: "1985-09-01"
+  date_display: "c. September 1985"
   date_precision: approximate
-  confidence: open-question
+  confidence: bibliographically-confirmed
   period: creekview
   href: history/creekview.qmd
-  sources_display: "None catalogued yet"
-  source_ids: []
-  notes: "Approximate working date only. See the Creekview placeholder page."
+  sources_display: "Haw 1989; SCI BC history; Fayerman 2018; Hansard 1986"
+  source_ids:
+    - src-haw-1989-housing
+    - src-sci-bc-history
+    - src-fayerman-2018-lawrence
+    - src-hansard-1986-nielsen-creekview
+  notes: "Haw 1989 dates opening to September 1985. SCI BC history and Fayerman 2018 say 1985. Nielsen (April 1986) says the endeavour 'began last year.' No inspected 1985 opening instrument."
+
+- id: tl-1986-hansard-creekview
+  title: "Hansard: Health Minister reports Creekview residents in place"
+  date: 1986-04-10
+  date_iso: "1986-04-10"
+  date_display: "10 April 1986"
+  date_precision: exact
+  confidence: verified-inspected
+  period: creekview
+  href: sources/1986-hansard-nielsen-creekview.qmd
+  sources_display: "Hansard, 10 April 1986 (Nielsen)"
+  source_ids:
+    - src-hansard-1986-nielsen-creekview
+  notes: "Ministerial estimates speech. Six men 'took up residence' in Creekview Cooperative; Paraplegic Association sent a photograph. 'Complete success' is the minister's characterization."
 
 - id: tl-1987-creekview-eval
-  title: "Creekview 202 Project Evaluation Report (wanted source)"
-  date: 1987-01-01
-  date_iso: "1987-01-01"
+  title: "Creekview evaluation attested (report itself still wanted)"
+  date: 1987-11-01
+  date_iso: "1987-11-01"
   date_display: "c. 1987"
   date_precision: approximate
   confidence: bibliographically-confirmed
   period: creekview
   href: sources/wanted-creekview-202-evaluation.qmd
-  sources_display: "Wanted: Creekview 202 Project Evaluation Report"
+  sources_display: "Mattinson and Rompf 1987 abstract; Haw 1989; wanted evaluation report"
   source_ids:
     - src-wanted-creekview-202-eval
-  notes: "Known-to-exist document named in the commissioning issue. Copy not yet held. Year is approximate as stated there."
+    - src-mattinson-1987-creekview
+    - src-haw-1989-housing
+  notes: "1987 PubMed abstract says a formal evaluation was completed by the B.C. government and CPA. Haw 1989 says an independent evaluation of Creekview 202 was published in 1987. Ryan / Ryan & Wiggins authorship remains commissioning-issue only. Copy of the report not held."
 
 - id: tl-1990-keys-ecpm
-  title: "Keys on Freedom and ECPM manual material (wanted sources)"
+  title: "ECPM Skill Development Manual (1990) and Keys on Freedom (unconfirmed)"
   date: 1990-01-01
   date_iso: "1990-01-01"
   date_display: "c. 1990"
@@ -47,14 +68,15 @@
   confidence: bibliographically-confirmed
   period: ecpm
   href: history/ecpm.qmd
-  sources_display: "Wanted: Keys on Freedom; ECPM manual(s)"
+  sources_display: "Roeher bibliography (ECPM 1990); Keys on Freedom still unconfirmed"
   source_ids:
-    - src-wanted-keys-on-freedom
     - src-wanted-ecpm-manuals
-  notes: "Commissioning issue places Keys on Freedom and ECPM material around 1990. Relationship between the two is not established here."
+    - src-roeher-if-bibliography
+    - src-wanted-keys-on-freedom
+  notes: "Roeher independently cites a 1990 five-module ECPM manual. Keys on Freedom title/author/year remain commissioning-issue only. Relationship between the two is not established."
 
 - id: tl-1993-csil-design
-  title: "CSIL design / authorization (contested starting year)"
+  title: "CSIL 'established' 1993 (later attribution; contested)"
   date: 1993-01-01
   date_iso: "1993-01-01"
   date_display: "c. 1993"
@@ -62,13 +84,14 @@
   confidence: conflicting-evidence
   period: design-pilot
   href: history/csil-pilot.qmd
-  sources_display: "Wanted: original Ministry CSIL pilot/design records"
+  sources_display: "Gauthier 2014 slides; wanted ministry records"
   source_ids:
+    - src-gauthier-2014-sci-slides
     - src-wanted-ministry-csil-pilot-records
-  notes: "Working date from the commissioning brief. Later writers may treat 1993 or 1994 as a starting year. Do not silently reconcile with the 1994 row."
+  notes: "Gauthier 2014 says established in 1993. Do not silently reconcile with 1994 rows. No 1993 ministry file inspected."
 
 - id: tl-1994-csil-pilot
-  title: "CSIL pilot and possible ECPM training revision (contested starting year)"
+  title: "CSIL pilot / 'established' 1994 (contested starting year)"
   date: 1994-01-01
   date_iso: "1994-01-01"
   date_display: "c. 1994"
@@ -76,35 +99,41 @@
   confidence: conflicting-evidence
   period: design-pilot
   href: history/csil-pilot.qmd
-  sources_display: "Wanted: Ministry CSIL pilot/design records; ECPM manual(s)"
+  sources_display: "Ombudsperson 2012; Gauthier 2015; IFRC Our Team; wanted ministry records"
   source_ids:
+    - src-ombudsperson-2012-best-of-care
+    - src-gauthier-2015-module1
+    - src-ifrc-our-team
     - src-wanted-ministry-csil-pilot-records
     - src-wanted-ecpm-manuals
-  notes: "Working date from the commissioning brief. Preserve the 1993 versus 1994 disagreement until inspected sources settle what each year refers to (design, authorization, pilot, or later summary)."
+  notes: "Ombudsperson 2012: created as a pilot in 1994. Gauthier 2015 and IFRC Our Team also use 1994. A 1994 ECPM training revision remains unfound. Preserve disagreement with the 1993 row."
 
 - id: tl-1995-province-wide
-  title: "Province-wide CSIL availability (working date)"
+  title: "Province-wide CSIL availability (later official chronology)"
   date: 1995-01-01
   date_iso: "1995-01-01"
-  date_display: "c. 1995"
+  date_display: "1995"
   date_precision: approximate
-  confidence: open-question
+  confidence: bibliographically-confirmed
   period: province-wide
-  href: history/evolution.qmd
-  sources_display: "None catalogued yet"
-  source_ids: []
-  notes: "Working research proposition. Not yet supported by an inspected source in this archive."
+  href: sources/2012-ombudsperson-best-of-care.qmd
+  sources_display: "Ombudsperson, Best of Care Part 2 (2012); HEU Guardian Nov/Dec 1995"
+  source_ids:
+    - src-ombudsperson-2012-best-of-care
+    - src-heu-guardian-1995-novdec
+  notes: "2012 Ombudsperson report states CSIL was implemented province-wide in 1995 (later official chronology). The Nov/Dec 1995 HEU Guardian still calls CSIL a new/pilot Community Support Branch program and reports about 130 clients. Those two 1995 pictures are not automatically the same event."
 
 - id: tl-2008-program-review
-  title: "CSIL Program Review Synthesis Report (wanted source)"
+  title: "CSIL Program Review (November 2008 bibliographic record)"
   date: 2008-11-01
   date_iso: "2008-11-01"
   date_display: "November 2008"
-  date_precision: approximate
+  date_precision: contested
   confidence: bibliographically-confirmed
   period: later-review
   href: sources/wanted-2008-program-review.qmd
-  sources_display: "Wanted: CSIL Review Program Synthesis Report"
+  sources_display: "Best of Care footnote 207; wanted review text"
   source_ids:
     - src-wanted-2008-program-review
-  notes: "Known-to-exist document named in the commissioning issue (November 2008). Copy not yet held. Month is as stated there, not independently verified here."
+    - src-ombudsperson-2012-best-of-care
+  notes: "Best of Care cites Ministry of Health, CSIL Program Review, November 2008, and also refers to a provincial review in 2007. Commissioning-issue 'Synthesis Report' / Murtagh wording not independently confirmed. Copy not held."

@@ -1,0 +1,59 @@
+---
+title: "Choice in Support for Independent Living (Vancouver Coastal Health service page)"
+date: 2026-09-20
+date_display: "page inspected 20 September 2026; no last-updated date visible"
+date_precision: unknown
+id: src-vch-csil-page
+record_status: catalogue-record
+source_authors:
+  - "Vancouver Coastal Health"
+author: "Vancouver Coastal Health"
+source_type: primary
+availability: external-link-only
+verification_status: verified-inspected
+period: later-review
+organizations:
+  - "Vancouver Coastal Health"
+topics:
+  - home-support
+  - individualized-funding
+  - current-program
+external_url: "https://www.vch.ca/en/service/choice-support-independent-living"
+archived_url: ""
+bibtex_key: vchcsilpage
+document_path: ""
+rights_note: "Current health-authority service page. Link only. Describes present VCH CSIL delivery, not 1990s design."
+---
+
+::: {.callout-note}
+## Source inspected
+The public VCH service page was read on 20 September 2026. A site search in this pass did **not** find current or archived VCH pages that name ECPM / Enhanced Consumer Participation Model. This page is institutional survival of **CSIL**, not of the ECPM name.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Title | Choice in Support for Independent Living |
+| Issuer | Vancouver Coastal Health |
+| URL | <https://www.vch.ca/en/service/choice-support-independent-living> |
+| Title wording | VCH uses “Choice in **Support**” (singular) in the page title; body text also expands CSIL and links a “Choice in Supports” guidebook |
+
+## Annotation
+
+The page defines CSIL as “an alternative method for delivering home support for clients who can direct their care” and “an individualized funding approach.” It states that as a CSIL employer the client “receive[s] money from VCH to hire, manage, and pay [their] own home support staff,” and lists recruiting, hiring, training, scheduling and supervising. It links a CSIL handbook/guidebook and the provincial CSIL page.
+
+What this page can support: VCH currently administers CSIL as a named self-directed home-support option. What it cannot support: ECPM as a living VCH program name; any founding year; any statement that ECPM “survives” institutionally under that acronym.
+
+Related VCH mental-health “Consumer Involvement and Initiatives” pages use “consumer” in a different program family; they were not treated as ECPM evidence.
+
+## Open questions
+
+- Whether historical Vancouver Health Department / GVHSS / VCH intranet or retired PDFs still use the ECPM name.
+- Exact bibliographic details of the linked CSIL guidebook (not separately catalogued in this pass).
+
+## Associated claims
+
+- [Current provincial CSIL page](gov-bc-csil-program-page.qmd)
+- [Wanted ECPM manuals](wanted-ecpm-manuals.qmd)
+- [Later evolution placeholder](../history/evolution.qmd)

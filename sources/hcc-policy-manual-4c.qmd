@@ -1,0 +1,54 @@
+---
+title: "Home and Community Care Policy Manual, Policy 4.C — Choice in Supports for Independent Living (CSIL)"
+date: 2012-10-15
+date_display: "Policy 4.C effective 15 October 2012 in the inspected PDF; chapter contents page dated 19 June 2018"
+date_precision: exact
+id: src-hcc-policy-4c
+record_status: catalogue-record
+source_authors:
+  - "British Columbia Ministry of Health"
+author: "British Columbia Ministry of Health"
+source_type: primary
+availability: external-link-only
+verification_status: verified-inspected
+period: later-review
+organizations:
+  - "British Columbia Ministry of Health"
+topics:
+  - home-support
+  - individualized-funding
+  - program-design
+  - current-program
+external_url: "https://www2.gov.bc.ca/assets/gov/health-safety/home-community-care/accountability/hcc-policy-manual/4_hcc_policy_manual_chapter-4.pdf"
+archived_url: ""
+bibtex_key: hccpolicy4c
+document_path: ""
+rights_note: "Current Crown policy PDF. Link only. Later rate updates are listed on the manual landing page."
+---
+
+::: {.callout-note}
+## Source inspected
+Chapter 4 of the Home and Community Care Policy Manual (PDF) was read on 20 September 2026, together with the [manual landing page](https://www2.gov.bc.ca/gov/content/health/accessing-health-care/home-community-care/accountability/policy-and-standards/home-and-community-care-policy-manual). This is current administrative policy, not a 1990s design file.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Manual | Home and Community Care Policy Manual |
+| Section | 4.C Choice in Supports for Independent Living (CSIL), including 4.C.1–4.C.4 |
+| PDF URL | <https://www2.gov.bc.ca/assets/gov/health-safety/home-community-care/accountability/hcc-policy-manual/4_hcc_policy_manual_chapter-4.pdf> |
+| Effective date on 4.C.1–4.C.2 | 15 October 2012 |
+| Landing-page updates noticed | CSIL hourly-rate updates effective 25 July 2023 and 1 April 2024; eligibility-criteria clarification February 2021 |
+
+## Annotation
+
+Policy 4.C.1 describes CSIL as “a self-directed home support service” that health authorities “are responsible to fund” as “an alternative to receiving home support services.” It defines CSIL employer, client support group, CSIL representative, CSIL agreement, and CSIL funds. It states that clients receiving CSIL funding as of 31 March 2011 remain eligible after 1 April 2011 regardless of later eligibility criteria.
+
+The inspected PDF does not give a 1993 or 1994 founding date and does not cite the 2008 Murtagh synthesis.
+
+## Associated claims
+
+- [gov.bc.ca CSIL program page](gov-bc-csil-program-page.qmd)
+- [2011 rate-increase news release](2011-bc-csil-rate-increase.qmd)
+- [Later evolution placeholder](../history/evolution.qmd)
