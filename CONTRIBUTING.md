@@ -51,7 +51,18 @@ Current policy work may *link to* this archive. It must not determine historical
 
 ### 6. Accessible by default
 
-Use semantic headings (start body headings at `##` so the page title remains the single `h1`), descriptive link text, and visible structure. Do not convey meaning by colour alone. Do not add hover-only interactions or custom controls. See [docs/accessibility.qmd](docs/accessibility.qmd).
+The [accessibility baseline](docs/accessibility.qmd) is a merge blocker. In short:
+
+- One `h1`; body headings start at `##` (no fake headings via bold or size)
+- Skip link, landmarks, and current-page indication that is not colour alone
+- Visible `:focus-visible` rings; do not remove outlines
+- Usable at 200% zoom / ~320px; no sticky chrome covering text
+- Comfortable default body text (18px / line-height 1.6; never under ~16px)
+- Descriptive links; status as text, not colour only
+- Real tables with captions and headers
+- No unlabeled custom controls (site search is disabled on purpose)
+
+**Blocker and High accessibility gaps must be fixed before merge.** See [docs/accessibility.qmd](docs/accessibility.qmd) and the overrides in `styles.scss`.
 
 ### 7. Respect living participants
 

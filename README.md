@@ -27,7 +27,7 @@ quarto preview    # local preview server
 quarto render     # writes HTML to _site/
 ```
 
-After a render, optional first-pass accessibility checks (Python 3 standard library only):
+After a render, required accessibility baseline checks (Python 3 standard library only; merge blocker):
 
 ```bash
 python3 scripts/check_a11y.py _site

@@ -17,12 +17,7 @@ website:
   description: >-
     Public source-driven history of Choice in Supports for Independent Living
     (CSIL) in British Columbia. Evidence archive first; website second.
-  search:
-    location: navbar
-    type: textbox
-    keyboard-shortcut: ["/"]
-    copy-button: false
-    show-item-context: true
+  search: false
   navbar:
     background: "#083048"
     foreground: "#ffffff"
@@ -60,9 +55,6 @@ website:
       contents:
         - research/index.qmd
         - research/wanted-sources.qmd
-        - docs/source-metadata.qmd
-        - docs/vocabularies.qmd
-        - docs/evidence-status.qmd
     - id: documentation
       title: Project documentation
       style: docked

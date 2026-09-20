@@ -33,7 +33,7 @@ HTML is written to `_site/`, which is gitignored. Open `_site/index.html` in a b
 python3 scripts/check_a11y.py _site
 ```
 
-The script exits non-zero when a first-pass HTML problem is found.
+The script exits non-zero when a baseline (Blocker/High) HTML problem is found. That failure is a merge blocker.
 
 ## Continuous integration
 

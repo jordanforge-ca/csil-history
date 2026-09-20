@@ -1,77 +1,130 @@
 ---
 title: "Accessibility"
-subtitle: "Requirements, implementation, and automated checks"
+subtitle: "Project baseline — merge blocker for Blocker/High gaps"
 ---
 
-Accessibility is a hard requirement. The site prefers simple, readable HTML over visual novelty.
+Accessibility is a hard requirement and a **merge blocker** for this bootstrap. Prefer simplicity over visual novelty. Custom CSS lives in [`styles.scss`](https://github.com/jordanforge-ca/csil-history/blob/main/styles.scss) on top of Quarto’s **default** Bootstrap theme (chosen because it keeps native focus styles; we do not use a theme that zeroes outlines). Post-render fixes live in [`scripts/post_render.py`](https://github.com/jordanforge-ca/csil-history/blob/main/scripts/post_render.py). CI runs [`scripts/check_a11y.py`](https://github.com/jordanforge-ca/csil-history/blob/main/scripts/check_a11y.py) and must pass.
 
-## Approach
+This page is the project baseline. The thirteen rules below are the Accessibility Specialist peer-review requirements.
 
-| Requirement | How this project addresses it |
+## Baseline
+
+### 1. Skip link to main content (visible on focus)
+
+Every page starts with `Skip to main content`, injected as the first child of `<body>`. It is clipped until focused, then shown as a fixed control above other chrome. The target is `<main id="quarto-document-content" tabindex="-1">` so keyboard focus actually moves.
+
+**Blocker if missing, not first, or not visible on focus.**
+
+### 2. One `h1` per page; heading outline only
+
+The Quarto page title is the only `h1`. Body headings start at `##`. Do not fake headings with bold, font-size, or colour. Callout titles are labels, not outline headings.
+
+**Blocker if a page has no `h1`, more than one `h1`, or a skipped heading level.**
+
+### 3. Landmark structure
+
+Required landmarks: `header`, `nav`, `main`, `footer`. Multiple `nav` elements are named:
+
+| Landmark | Accessible name |
 | --- | --- |
-| Semantic HTML | Quarto website output plus ordinary Markdown headings, lists, and tables |
-| Page titles and heading hierarchy | Quarto page title is the `h1`; body headings start at `##` |
-| Descriptive link text | Contribution guide forbids “click here” / “here” / “read more” as sole link text |
-| Visible keyboard focus | Global `:focus-visible` outline in `styles.scss` (dark orange on light content, also visible on the dark navbar via offset) |
-| Contrast | Dark text on white; navbar dark blue (`#083048`) with white text; links `#083d73` |
-| No hover-only interaction | No custom widgets; links remain underlined in body text |
-| No inaccessible custom controls | Default Quarto navbar, search textbox, and tables only |
-| Zoom and Voice Control | System fonts, `px`/`rem` sizing, no pixel-locked click targets we introduced |
-| Reduced motion | `prefers-reduced-motion` disables animation and smooth scrolling |
+| Primary navbar | Primary |
+| Secondary/sidebar toggle bar | Section menu |
+| Sidebar | In this section |
+| Table of contents | On this page |
+| Breadcrumb | breadcrumb (Quarto) |
+| Prev/next | Previous and next pages |
 
-A skip link (`Skip to main content`) is injected as the first child of `<body>` by `scripts/post_render.py` after each Quarto render. It targets `#quarto-document-content`.
+The current page is indicated by **`aria-current="page"` plus underline/weight plus visually hidden “(current page)”** — not colour alone. Home uses `aria-current` on the site title. `404` is exempt.
 
-Quarto’s back-to-top control and listing filter boxes are turned off. The back-to-top control is an `onclick` anchor without an `href`. Listing filters are unlabeled text inputs. Both are avoidable with the current small tables, so this site uses browser find and ordinary headings instead.
+**Blocker if a landmark is missing, a `nav` is unnamed, or the current page is colour-only.**
 
-## What we intentionally did not add
+### 4. Visible `:focus-visible` rings
 
-- Decorative webfonts from a third-party CDN
-- Dark-mode theme toggling (easy to get contrast wrong)
-- JavaScript timeline libraries
-- Card grids that bury table data
-- Hover-only footnotes or menus
+Do not remove outlines. `styles.scss` sets a 3px orange (`#c45c00`) outline plus a white/orange double `box-shadow` so the ring stays ≥3:1 on both the light page and the dark navbar.
 
-Quarto’s navbar collapse control and search textbox are stock components and should remain keyboard-reachable. If a future Quarto release breaks that, prefer disabling the control over replacing it with a custom widget.
+**Blocker if a control we added has `outline: none` without a visible replacement.**
+
+### 5. `prefers-reduced-motion`
+
+`scroll-behavior` is `auto`. Quarto’s sticky/headroom header is unstuck and de-animated in CSS — hide-on-scroll is not essential. Any future timeline or animation must honour `prefers-reduced-motion`. There is no JavaScript timeline.
+
+**High if essential information is conveyed only by motion.**
+
+### 6. Reflow at 200% zoom / ~320px width
+
+The header is **static, not sticky**, so chrome cannot cover wrapped text. Body text uses `overflow-wrap`. Wide tables may scroll **inside** their container; the page’s prose must not require horizontal scrolling. Navbar items collapse to a hamburger below large breakpoints. Toggle controls are at least 44×44 px.
+
+**Blocker if text requires horizontal scrolling or sticky chrome eats content at ~320px or 200% zoom.**
+
+### 7. Descriptive link names
+
+Forbidden sole labels: “click here”, “here”, “read more”, “more”, “link”, “this”. External destinations get visually hidden “(external site)”. PDFs get “(PDF)”. Do not use a bare URL as the only link name.
+
+**Blocker if a generic or empty link name ships.**
+
+### 8. Contrast and status
+
+| Surface | Tokens | Target |
+| --- | --- | --- |
+| Body text | `#1a1a1a` on `#ffffff` | ≥4.5:1 |
+| Links | `#083d73` on `#ffffff` | ≥4.5:1 |
+| Navbar | `#ffffff` on `#083048` | ≥4.5:1 |
+| UI / focus | orange ring + white halo | ≥3:1 |
+
+Source and timeline statuses are **visible text** inside a bordered `.status-label`. Do not encode status by colour alone.
+
+**Blocker if status is colour-only or body text fails 4.5:1.**
+
+### 9. Tables
+
+Timeline and catalogue views are real `<table>` elements with `<caption>`, `<thead>`, and `scope="col"` headers. Do not invent `role="grid"`. A CSS-only card layout is not a substitute for these data tables.
+
+**Blocker if a data table lacks a caption/headers or uses grid roles.**
+
+### 10. Forms and contribution
+
+This site has **no on-page contribution form**. People contribute through GitHub issues and pull requests (see [About / Contribute](../about.qmd#how-to-contribute)). Site search is **disabled** — the Quarto autocomplete widget is an unlabeled custom control we chose not to keep.
+
+Any future control must have a programmatic label, text errors, and ~44px targets for buttons.
+
+**Blocker if an unlabeled control or hover-only widget is added.**
+
+### 11. Images and diagrams
+
+Meaningful images need descriptive `alt`. Decorative images use `alt=""`. Do not put critical history only in an image. This bootstrap has no content images.
+
+**Blocker if an `<img>` is missing an `alt` attribute.**
+
+### 12. Quarto theme and in-repo CSS
+
+- Theme: Quarto `default` (Bootstrap) + `styles.scss`.
+- `styles.scss` is grouped by baseline rule number. Treat it as the a11y override file.
+- `scripts/post_render.py` patches landmark names, skip target, current page, table captions, and external-link text after each render.
+
+**High if a theme or custom widget removes focus styles or adds inaccessible chrome.**
+
+### 13. Comfortable default body text
+
+Do not ship tiny theme defaults. Root/body text is **18px / 1rem** with **line-height 1.6** (`$font-size-root: 18px` in `styles.scss`). Never drop body text below ~16px. There is no in-page text-size widget — simplicity over novelty. Browser zoom to 200% must remain usable (see rule 6).
+
+**High if default body text is under ~16px or 200% zoom breaks reading.**
 
 ## Automated check
 
-[`scripts/check_a11y.py`](https://github.com/jordanforge-ca/csil-history/blob/main/scripts/check_a11y.py) walks rendered HTML using the Python standard library. It fails CI when it finds:
-
-- missing `lang` on `<html>`
-- empty or missing `<title>`
-- missing `h1`, or more than one `h1`
-- heading levels that skip (for example `h2` then `h4`)
-- missing skip link
-- images without `alt`
-- empty links, or link text that is only “click here”, “here”, “read more”, or “more”
-- missing `main` landmark or `#quarto-document-content`
-- positive `tabindex` values greater than 0
-
-The checker allows Quarto’s sidebar collapse control, which is an `<a>` without `href` but with an `aria-label`.
-
-The script is a first-pass gate, not a WCAG audit. It does not compute contrast ratios or operate a browser.
-
-Run it after `quarto render`:
-
 ```bash
+quarto render
 python3 scripts/check_a11y.py _site
 ```
 
-GitHub Actions runs the same command in [`.github/workflows/pages.yml`](https://github.com/jordanforge-ca/csil-history/blob/main/.github/workflows/pages.yml).
+CI runs the same command in [`.github/workflows/pages.yml`](https://github.com/jordanforge-ca/csil-history/blob/main/.github/workflows/pages.yml). A failing check is a **merge blocker**.
 
-## Manual review still needed
+The script is a first-pass HTML gate. It does not compute contrast ratios or drive a browser. Manual keyboard, zoom, and screen-reader passes remain follow-up **G**, but they do not delay baking this baseline into the bootstrap.
 
-Recommended follow-up (issue G in the bootstrap report):
+## Authoring rules
 
-- keyboard pass of navbar, search, listings, and skip link
-- 200% and 400% zoom
-- Voice Control / speech-control names for main links
-- screen-reader pass of a source record, the timeline table, and a person stub
-- contrast check of Quarto listing and callout chrome
-
-## Writing for accessibility
-
-- Use descriptive links: “Creekview evaluation (wanted source)”, not “this report”.
+- Start body headings at `##`.
+- Use descriptive link text.
 - Put status in text (`bibliographically-confirmed`), not colour alone.
-- Give data tables a caption and column headers (the timeline template does).
-- Do not add autoplay media or inaccessible PDFs as the only way to read a page.
+- Give data tables a caption and column headers.
+- Do not add autoplay media, custom widgets, or hover-only menus.
+- Do not re-enable site search or a sticky header without an a11y review that still meets this baseline.
