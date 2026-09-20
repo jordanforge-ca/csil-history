@@ -10,10 +10,10 @@
   sources_display: "Hansard, 24 February 1984 (Mowat)"
   source_ids:
     - src-hansard-1984-mowat-creekview
-  notes: "Contemporaneous MLA speech. Describes six high-lesion respiratory quadriplegics about to leave Pearson for Creekview Co-op. Pre-opening."
+  notes: "Contemporaneous MLA speech. Describes six high-lesion respiratory quadriplegics about to leave Pearson for Creekview Co-op, with support services plugged in. Pre-opening; does not name residents or an opening date. See the Creekview chapter."
 
 - id: tl-1985-creekview
-  title: "Creekview opening (working date, multiple later attestations)"
+  title: "Creekview 202 opening (September 1985 in Haw; no 1985 instrument)"
   date: 1985-09-01
   date_iso: "1985-09-01"
   date_display: "c. September 1985"
@@ -27,7 +27,7 @@
     - src-sci-bc-history
     - src-fayerman-2018-lawrence
     - src-hansard-1986-nielsen-creekview
-  notes: "Haw 1989 dates opening to September 1985. SCI BC history and Fayerman 2018 say 1985. Nielsen (April 1986) says the endeavour 'began last year.' No inspected 1985 opening instrument."
+  notes: "Haw 1989 dates Creekview 202 opening to September 1985 and describes CPA plus at least six former Pearson residents (five ventilator-dependent) in a 100-unit CMHC co-op. SCI BC history and Fayerman 2018 say 1985. Nielsen (April 1986) says the endeavour began last year. No inspected 1985 opening instrument."
 
 - id: tl-1986-hansard-creekview
   title: "Hansard: Health Minister reports Creekview residents in place"
@@ -41,7 +41,7 @@
   sources_display: "Hansard, 10 April 1986 (Nielsen)"
   source_ids:
     - src-hansard-1986-nielsen-creekview
-  notes: "Ministerial estimates speech. Six men 'took up residence' in Creekview Cooperative; Paraplegic Association sent a photograph. 'Complete success' is the minister's characterization."
+  notes: "Ministerial estimates speech. Six men took up residence in Creekview Cooperative after convincing government agencies; Paraplegic Association sent a photograph. Complete success is the minister's characterization, not an inspected evaluation finding."
 
 - id: tl-1987-creekview-eval
   title: "Creekview evaluation attested (report itself still wanted)"
@@ -51,13 +51,13 @@
   date_precision: approximate
   confidence: bibliographically-confirmed
   period: creekview
-  href: sources/wanted-creekview-202-evaluation.qmd
+  href: history/creekview.qmd
   sources_display: "Mattinson and Rompf 1987 abstract; Haw 1989; wanted evaluation report"
   source_ids:
     - src-wanted-creekview-202-eval
     - src-mattinson-1987-creekview
     - src-haw-1989-housing
-  notes: "1987 PubMed abstract says a formal evaluation was completed by the B.C. government and CPA. Haw 1989 says an independent evaluation of Creekview 202 was published in 1987. Ryan / Ryan & Wiggins authorship remains commissioning-issue only. Copy of the report not held."
+  notes: "1987 PubMed abstract says a formal evaluation was completed by the B.C. government and CPA and names topics, not findings. Haw 1989 paraphrases cost, health-status, and accreditation findings; those paraphrases are Haw's. Ryan / Ryan & Wiggins authorship remains commissioning-issue only. Copy of the report not held."
 
 - id: tl-1990-keys-ecpm
   title: "ECPM Skill Development Manual (1990) and Keys on Freedom (unconfirmed)"

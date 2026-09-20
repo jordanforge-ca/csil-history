@@ -57,6 +57,6 @@ The page does not mention ECPM, CSIL, Patricia Ryan, or a 1987 evaluation.
 
 ## Associated claims
 
-- [Creekview placeholder](../history/creekview.qmd)
+- [Creekview chapter](../history/creekview.qmd)
 - [Doug Mowat](../people/doug-mowat.qmd)
 - [Wanted Creekview evaluation](wanted-creekview-202-evaluation.qmd)

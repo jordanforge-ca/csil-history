@@ -11,14 +11,14 @@ The site is intentionally small and durable: Markdown files, structured front ma
 
 ## What this site is not
 
-- A complete history of CSIL, Creekview, or independent living in British Columbia
+- A complete history of CSIL or independent living in British Columbia (Creekview now has a cited chapter; it is still not a finished archive)
 - A current-program handbook or benefits explainer
 - An advocacy or campaign landing page
 - A place to store private employer, health, or correspondence files
 
 ## Working historical frame
 
-The commissioning brief for this archive suggested a lineage and a set of working dates so the information architecture would have somewhere to hang later evidence. Those items are recorded on [History](history/index.qmd) and the [Timeline](timeline.qmd) as **research propositions**. They are not verified findings of this project.
+The commissioning brief for this archive suggested a lineage and a set of working dates so the information architecture would have somewhere to hang later evidence. The [Creekview chapter](history/creekview.qmd) is now a cited reconstruction from inspected 1984–89 sources; it still does not treat Creekview as a proven predecessor of ECPM or CSIL. Remaining dates and the overall lineage stay **research propositions** on [History](history/index.qmd) and the [Timeline](timeline.qmd).
 
 ## Editorial principles
 

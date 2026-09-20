@@ -3,21 +3,38 @@ title: "Organizations"
 subtitle: "Names appearing in public source descriptions — not organizational histories"
 ---
 
-This section will hold one page per organization once a cited public source supports more than a name. This bootstrap does **not** write organizational histories.
+This section will hold one page per organization once a cited public source supports more than a name. This archive does **not** write organizational histories on this page.
 
-The names below appear in the commissioning issue’s wanted-source descriptions. Listing them here only means the archive should be able to attach evidence to those names later. It is not a claim about legal status, continuity, or a role in CSIL.
+Listing a name only means the archive can attach evidence to it. It is not a claim about legal status, continuity, or a role in CSIL.
+
+## Names from the commissioning issue
 
 | Name as given in the commissioning issue | Why the name appears here |
 | --- | --- |
 | BC Rehabilitation Society (also “BC Rehab”) | Named as creator of *Keys on Freedom* and, with Greater Vancouver Home Support Society, of ECPM manual(s) |
 | Greater Vancouver Home Support Society | Named with BC Rehab on ECPM manual(s) |
-| Ryan & Wiggins | Named with Patricia Ryan on the Creekview 202 evaluation |
+| Ryan & Wiggins | Named with Patricia Ryan on the Creekview 202 evaluation; not independently confirmed on an inspected title page |
 | British Columbia Ministry of Health, Continuing Care Division / Community Support Branch | Named as the likely administrative home of 1993–95 CSIL pilot/design records |
 | British Columbia Ministry of Health Services | Named with James Murtagh Consulting on the November 2008 synthesis report |
 | James Murtagh Consulting | Named as creator of the November 2008 synthesis report |
 
-Names now also appear in inspected public sources (for example BC Rehab and Greater Vancouver Home Support Society in the [Roeher bibliography](../sources/1990s-roeher-if-bibliography.qmd); Ministry of Health on the [2008 review citation](../sources/wanted-2008-program-review.qmd)). Listing a name is still not an organizational history.
+: Organization names taken from the commissioning issue’s wanted-source descriptions
 
-Creekview is treated on this site as a [history placeholder](../history/creekview.qmd), not as an organization record, because inspected sources describe a co-op apartment / project, not a corporate form.
+## Names in inspected Creekview-period sources
+
+Documented functions only. See the [Creekview chapter](../history/creekview.qmd).
+
+| Name as it appears in inspected sources | Documented function in those sources | Sources |
+| --- | --- | --- |
+| Creekview Co-op / Creekview Cooperative / Creekview 202 | Housing cooperative apartment / “integrated self managed independent living project” near False Creek; not treated here as a corporate CSIL entity | [Hansard 1984](../sources/1984-hansard-mowat-creekview.qmd); [Hansard 1986](../sources/1986-hansard-nielsen-creekview.qmd); [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) |
+| Pearson Hospital (later also “George Pearson Hospital”) | Extended-care setting residents left; Haw and the 1987 abstract say Pearson continued to support Creekview | Same Hansard sittings; Haw 1989; [Mattinson and Rompf 1987 abstract](../sources/1987-mattinson-rompf-creekview.qmd); [Fayerman 2018](../sources/2018-vancouversun-walt-lawrence.qmd) |
+| Canadian Paraplegic Association / BCPA (later SCI BC) | Haw: co-developer of Creekview 202 and funding conduit; Nielsen: sent the minister a photograph. Later SCI BC history claims the 1985 opening | Haw 1989; Hansard 1986; [SCI BC history](../sources/sci-bc-history.qmd) |
+| British Columbia Ministry of Health | Nielsen: one of the “government agencies” that allowed the independent group setting; Haw: funding through CPA; 1987 abstract: evaluation party | Hansard 1986; Haw 1989; Mattinson and Rompf 1987 abstract |
+| Workers Compensation Board | Haw: funding to tenants through CPA, with the ministry | Haw 1989 |
+| Canada Mortgage and Housing Corporation (CMHC) | Haw: funded the 100-unit cooperative building | Haw 1989 |
+
+: Organization names and functions attested in inspected Creekview sources
+
+Creekview remains a [history chapter](../history/creekview.qmd), not an organization stub, because inspected sources describe a co-op apartment / project and do not state a separate corporate form.
 
 When you add an organization page, separate documented functions (cited) from later attributions, and link every claim to a [source record](../sources/index.qmd).

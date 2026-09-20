@@ -14,8 +14,8 @@ Later work can gather cited accounts of institutional or agency home support, in
 
 ## Evidence status
 
-- **Documented facts:** none written as an origins narrative. The earliest inspected public record now catalogued is [Hansard, 24 February 1984](../sources/1984-hansard-mowat-creekview.qmd), which already describes the planned Creekview move.
-- **Open questions:** what public primary sources describe independent-living advocacy in British Columbia *before* that sitting, and how (if at all) they connect to Creekview or CSIL.
+- **Documented facts:** none written as an origins narrative. The earliest inspected public record now catalogued is [Hansard, 24 February 1984](../sources/1984-hansard-mowat-creekview.qmd), which already describes the planned Creekview move. [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) gives a CPA official’s later overview of 1970s–early-1980s housing and Long Term Care; that sequence is summarized on the [Creekview chapter](creekview.qmd), not rewritten here as a finished origins history.
+- **Open questions:** what *contemporaneous* public primary sources (before February 1984) describe independent-living advocacy in British Columbia, and how (if at all) they connect to Creekview or CSIL.
 - **Related wanted sources:** none specifically titled for this chapter in the commissioning issue.
 
 ## See also

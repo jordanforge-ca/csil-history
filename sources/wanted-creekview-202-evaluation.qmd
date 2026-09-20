@@ -81,10 +81,23 @@ Public evidence now independently confirms that contemporaries treated a 1987 Cr
 - How the 1987 evaluation relates to the CPA “cost analysis” in Fayerman 2018 and to the Mattinson & Rompf article.
 - Whether any CMHC 1990s bibliography cites this report (not found in this pass).
 
+## Recovery leads for Issue #6
+
+This reconstruction did not hunt new archives. Leads already on this record, plus items the Creekview chapter now makes more specific:
+
+- Full text of Mattinson and Rompf 1987, *Dimensions in Health Service* 64(8) — UBC / SFU / Legislative Library / CINAHL holdings.
+- Library or archival catalogue records for the evaluation title and for Patricia Ryan / Ryan & Wiggins (still unfound on the public web).
+- Ministry of Health estimates files around Nielsen’s 10 April 1986 sitting (he refers to Paraplegic Association correspondence and a photograph received “yesterday”).
+- CPA / BCPA / SCI BC project files; Haw 1989 also names a then-developing “Nobel House Cooperative” as taking the Creekview 202 concept further (do not silently equate with SCI BC history’s Stanley Noble Stronge project).
+
+Do not host a recovered scan unless redistribution is clearly permitted.
+
 ## See also
 
+- [Creekview chapter](../history/creekview.qmd)
 - [Mattinson and Rompf 1987](1987-mattinson-rompf-creekview.qmd)
 - [Haw 1989](1989-haw-special-housing-needs.qmd)
 - [Hansard 1984](1984-hansard-mowat-creekview.qmd)
 - [Hansard 1986](1986-hansard-nielsen-creekview.qmd)
 - [Wanted sources](../research/wanted-sources.qmd)
+- [Issue #6](https://github.com/jordanforge-ca/csil-history/issues/6)

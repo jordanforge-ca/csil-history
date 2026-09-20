@@ -79,4 +79,4 @@ It does **not** confirm the commissioning-issue title “Creekview 202 Project E
 
 - [Creekview 202 evaluation (wanted)](wanted-creekview-202-evaluation.qmd)
 - [Haw 1989](1989-haw-special-housing-needs.qmd)
-- [Creekview placeholder](../history/creekview.qmd)
+- [Creekview chapter](../history/creekview.qmd)

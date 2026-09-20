@@ -56,4 +56,4 @@ The article does not name CSIL, ECPM, or the 1987 evaluation title.
 
 - [Walt Lawrence](../people/walt-lawrence.qmd)
 - [Doug Mowat](../people/doug-mowat.qmd)
-- [Creekview placeholder](../history/creekview.qmd)
+- [Creekview chapter](../history/creekview.qmd)

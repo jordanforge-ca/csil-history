@@ -1,26 +1,214 @@
 ---
 title: "Creekview"
-subtitle: "Placeholder — not a finished chapter"
+subtitle: "A cited reconstruction from inspected 1984–89 evidence, plus later accounts"
 ---
 
 ::: {.callout-note}
-## Placeholder — not a finished chapter
-Inspected contemporaneous sources now exist. This page still does not write the Creekview narrative (Issue #3). It only points to catalogue records.
+## Scope of this chapter
+This page reconstructs Creekview from inspected catalogue records. It covers institutional and community-living context into the mid-1980s, the Creekview move, and 1987–89 evaluation evidence. It does **not** begin the Enhanced Consumer Participation Model (ECPM) or 1993–95 CSIL narrative. A 1987 evaluation is attested; the report itself is still [wanted](../sources/wanted-creekview-202-evaluation.qmd).
 :::
 
-## What this chapter is for
+## How this chapter uses evidence
 
-Later work can reconstruct what Creekview was, who documented it, and how later writers connect it to ECPM or CSIL. This page does not assert that relationship as fact.
+Statements below are labelled as one of:
 
-## Evidence status
+- **Documented** — taken from an inspected contemporaneous or near-primary source
+- **Attributed recollection** — a later named account; this archive is not independently asserting it
+- **Interpretation** — inferred from those sources, and said to be so
+- **Open question** — not settled by inspected evidence
 
-- **Documented facts (inspected):** [Hansard, 24 February 1984](../sources/1984-hansard-mowat-creekview.qmd) (planned move from Pearson to Creekview Co-op); [Hansard, 10 April 1986](../sources/1986-hansard-nielsen-creekview.qmd) (minister reports six residents in place).
-- **Bibliographically confirmed (evaluation copy sought):** a 1987 Creekview evaluation is attested by [Mattinson and Rompf 1987](../sources/1987-mattinson-rompf-creekview.qmd) and [Haw 1989](../sources/1989-haw-special-housing-needs.qmd). The [wanted evaluation record](../sources/wanted-creekview-202-evaluation.qmd) preserves the unconfirmed Ryan / Ryan & Wiggins attribution.
-- **Later organizational / journalistic accounts:** [SCI BC history](../sources/sci-bc-history.qmd); [Fayerman 2018](../sources/2018-vancouversun-walt-lawrence.qmd).
-- **Open questions:** exact title-page of the evaluation; meaning of “202”; Walt Lawrence’s named role versus the unnamed “six”; any formal link from Creekview to ECPM or CSIL.
+Contemporaneous records are preferred when later accounts differ. Cost figures from different years are not collapsed into one “savings” number.
+
+## What Creekview was
+
+Inspected 1984–89 sources describe Creekview as a community residence for a small group of men with high-level, mostly ventilator-dependent quadriplegia, located in a larger housing cooperative near False Creek / Granville Island in Vancouver.
+
+[Hansard, 24 February 1984](../sources/1984-hansard-mowat-creekview.qmd) (Doug Mowat, budget debate) names “the Creekview Co-op on False Creek” as the destination for six “high-lesion respiratory quadriplegic” residents then at Pearson Hospital, moving into “a six-bedroom co-op apartment … with all the support services plugged in.”
+
+[Hansard, 10 April 1986](../sources/1986-hansard-nielsen-creekview.qmd) (Hon. Jim Nielsen, Minister of Health) says six “young men,” “most of them depending on respiratory machines,” “took up residence in the Creekview Cooperative apartment building near False Creek” in “an independent group setting.”
+
+[Haw 1989](../sources/1989-haw-special-housing-needs.qmd) (Norman Haw, Director of Rehabilitation Services, Canadian Paraplegic Association) names the project **Creekview 202**: “an integrated self managed independent living project” occupying the equivalent of six one-bedroom apartments (4,700 square feet) in a 100-unit CMHC-funded cooperative with mixed incomes. Haw describes private bed-sitting rooms, shared kitchen and living space, a computer room, and a balcony.
+
+The numeral **“202”** appears in Haw and in the commissioning-issue evaluation title. No inspected source explains what it refers to (suite number, project code, or something else).
+
+[SCI BC’s later organizational history](../sources/sci-bc-history.qmd) calls Creekview “the world’s first integrated, self-managed housing project with shared support services for people with high-level quadriplegia.” That superlative is SCI BC’s later wording, not an independently verified claim.
+
+[SCI BC, “Walt’s Time” (2019)](../sources/2019-sci-bc-walts-time.qmd) uses the spelling **Creekside**. Contemporaneous Hansard, Haw 1989, and [Fayerman 2018](../sources/2018-vancouversun-walt-lawrence.qmd) say **Creekview**. This archive records the discrepancy and does not treat “Creekside” as a second project.
+
+## When it was conceived and opened
+
+No inspected 1985 opening instrument has been seen. The dating that can be supported is:
+
+| Claim | Status | Source |
+| --- | --- | --- |
+| By 24 February 1984 the move was already planned (“will soon be leaving”) | Documented | [Hansard, 24 February 1984](../sources/1984-hansard-mowat-creekview.qmd) |
+| Opening in September 1985 | Near-primary later statement | [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) |
+| Opening in 1985 | Later organizational / journalistic | [SCI BC history](../sources/sci-bc-history.qmd); [Fayerman 2018](../sources/2018-vancouversun-walt-lawrence.qmd) |
+| By April 1986 residents were in place; the minister said the endeavour “began last year” | Documented | [Hansard, 10 April 1986](../sources/1986-hansard-nielsen-creekview.qmd) |
+| An “early 1980s” CPA cost analysis preceded the move | Attributed recollection | [Fayerman 2018](../sources/2018-vancouversun-walt-lawrence.qmd) |
+
+: Dates for Creekview conception and opening, with evidence status
+
+**Interpretation:** conception is attested no later than February 1984; opening is attested as 1985, with Haw supplying the only month (September). The gap between Mowat’s “soon” and a September 1985 opening is unexplained in inspected sources.
+
+## Who initiated and participated
+
+Contemporaneous sources name a group of six men and do not name them as individuals.
+
+- Nielsen (April 1986): the six “convinced various government agencies to give them a chance to live in an independent group setting.”
+- Haw (1989): Creekview 202 was “developed by CPA and at least 6 former residents of Pearson Hospital, five of whom were ventilator-dependent.” All six “are equal members of the co-op.”
+- Mowat (February 1984) describes the planned move as an MLA; that sitting does not say he designed or ran the project.
+
+Later accounts add names and championship language:
+
+- [Fayerman 2018](../sources/2018-vancouversun-walt-lawrence.qmd) reports Walt Lawrence recalling “a group of five or six of us,” a 1985 move into “the Creekview Co-operative Apartment near Granville Island,” and credit to “then MLA Doug Mowat.” Fayerman writes that the Canadian Paraplegic Association (now SCI BC) “helped with a cost analysis for independent living.”
+- [SCI BC, “Walt’s Time” (2019)](../sources/2019-sci-bc-walts-time.qmd) says Lawrence “joined several fellow quadriplegics” at a housing cooperative “championed by SCI BC’s Doug Mowat.”
+
+**Interpretation:** inspected contemporaneous text supports a resident-and-CPA project that required government-agency agreement. Later SCI BC and journalistic wording that Mowat “championed” the cooperative is attributed recollection. Formal CSIL design-group membership is **not** documented for Lawrence or Mowat and is not inferred here.
+
+## Institutional and community-living context
+
+Haw’s 1989 talk is the inspected source that places Creekview in a longer housing-and-support sequence. It is a CPA official’s later overview, not a 1970s primary file.
+
+Haw’s relevant sequence, as he stated it:
+
+1. Before 1973, few options besides modified private homes, some rental stock, or an extended-care facility.
+2. 1972: Lions / CPA Paraplegic Lodge as a halfway house; limited government-subsidized home nursing; residents needed to be fairly independent or have family help.
+3. 1974: CPA convinced the provincial government to fund a first group home, presented as less expensive than institutional living.
+4. 1978: Long Term Care, as Haw describes it, added personal care and homemaker hours (a maximum of four hours a day) and allowed pooling of hours so some quadriplegic people could share a full-time attendant outside group housing.
+5. Haw says those hours were still not enough for “the most severely disabled persons, such as those paralyzed from the neck down.”
+6. 1979: Kelly Court — accessible apartments with shared attendant care, which Haw says “does not truly promote integration.”
+7. Creekview 202 (September 1985) is then introduced as an attempt “to expand housing options to some of the most severely disabled, the ventilator-dependent quadriplegics.”
+
+Mowat’s 1984 speech supplies the institutional contrast from the same period: Pearson Hospital as an extended-care setting for physically disabled people whose average age he gives as 42 (not an aged extended-care ward), including “a new type of disabled person called a high-lesion respiratory quadriplegic.”
+
+[SCI BC history](../sources/sci-bc-history.qmd) separately records earlier BCPA work (including the 1972 Lions Paraplegic Lodge and Doug Mowat as executive director from 1960). That page is later organizational narrative.
+
+## Relationship to Pearson Hospital
+
+Inspected sources agree that Creekview residents came from Pearson, and that Pearson did not simply disappear from their support after the move.
+
+| Claim | Status | Source |
+| --- | --- | --- |
+| Six people “will soon be leaving Pearson Hospital” for Creekview | Documented (pre-opening) | [Hansard, 24 February 1984](../sources/1984-hansard-mowat-creekview.qmd) |
+| Residents were “at least 6 former residents of Pearson Hospital” | Near-primary | [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) |
+| “Pearson Hospital continues to play a role in the support of the Creekview project” | Abstract only | [Mattinson and Rompf 1987](../sources/1987-mattinson-rompf-creekview.qmd) |
+| Attendants were trained by Pearson staff | Near-primary | [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) |
+| A Pearson respiratory therapist came to Creekview at first | Attributed recollection | [Fayerman 2018](../sources/2018-vancouversun-walt-lawrence.qmd) |
+| Lawrence spent 16 years at George Pearson Hospital before the move | Attributed recollection | [Fayerman 2018](../sources/2018-vancouversun-walt-lawrence.qmd) |
+
+: Inspected claims about Creekview’s relationship to Pearson Hospital
+
+Sources use **Pearson Hospital** (Hansard, Haw, Mattinson) and, later, **George Pearson Hospital** (Fayerman). This archive does not treat those as different institutions.
+
+## What support model residents used
+
+The most specific inspected description is Haw 1989:
+
+- The Ministry of Health and the Workers Compensation Board “have provided funding to the tenants through CPA for purchase of support services such as a paramedic, home-maker, nursing, physiotherapy and occupational therapy.”
+- “The attendant as primary care giver has been involved in a comprehensive training program by Pearson staff.”
+- “All six men are equal members of the co-op and one is actually president of the whole building and involved of hiring and firing all staff” (OCR wording).
+- Cooperative members pay a stated share of income for rent; Haw says no additional charge is made for support-staff accommodation.
+
+The [Mattinson and Rompf 1987 abstract](../sources/1987-mattinson-rompf-creekview.qmd) lists evaluation topics that match a staffed, funded community model (operating costs; attendant staff; standards of care; general services) and states that Pearson continued to support the project. It does not describe the employment relationship.
+
+Later recollection ([Fayerman 2018](../sources/2018-vancouversun-walt-lawrence.qmd)): Lawrence is quoted that he “could still direct [his] care”; Fayerman describes a “community-based shared-care model” with therapists making house calls. Fayerman also writes that the Provincial Respiratory Outreach Program later took over ventilator support from Pearson’s respiratory therapist. Those are 2018 attributions, not 1985 instruments.
+
+**What inspected evidence does not show.** It does not show that each resident was a statutory employer of attendants in the later CSIL sense, that funding was an individualized CSIL-style contract, or that a named home-support agency ran the house. Haw’s “funding to the tenants through CPA for purchase of support services,” plus one resident’s involvement in hiring and firing, is the strongest contemporaneous-adjacent description of self-direction.
+
+## What the 1987 evaluation examined and concluded
+
+The evaluation report itself has not been inspected. Two independent 1987–89 public sources attest that an evaluation existed.
+
+The [Mattinson and Rompf 1987 abstract](../sources/1987-mattinson-rompf-creekview.qmd) (full article not obtained) states that “a formal evaluation of the Creekview project has been completed by the B.C. provincial government and CPA” and “will determine the costs/benefits of Creekview as a model for future moves of severely disabled persons into the community.” Topics named in the abstract: operating costs; health status at relocation and one year later; quality of attendant staff; standards of care; general level of services. The abstract does **not** report those findings.
+
+[Haw 1989](../sources/1989-haw-special-housing-needs.qmd) says: “In 1987 an independent evaluation of Creekview 202 was published which confirmed the success of the project in three respects.” Haw then paraphrases:
+
+1. **Cost.** “The cost of providing tenant care was approximately 60% of maintaining the men at Pearson Hospital.” Haw gives an average per-diem cost to government “approximately $100 a day less” than Pearson, and “a combined cost savings to government of about $215,000 per year.”
+2. **Health status.** “Despite some individual variation, the overall status of the residents appeared to be at least as good as at Pearson Hospital. Physical health was maintained and mental health and social interactions were improved.” Haw adds that “Government was not interested in measuring quality of life.”
+3. **Standard of care.** “The Canadian Council of Hospital Accreditation’s standards were met and exceeded in virtually all cases.”
+
+Those three points are **Haw’s 1989 paraphrase**. They are not a substitute for the unread report, and they are not attributed here to Patricia Ryan or Ryan & Wiggins.
+
+Authorship remains contradictory and is not reconciled:
+
+| Attribution | Source | Status |
+| --- | --- | --- |
+| B.C. provincial government and CPA | [Mattinson and Rompf 1987 abstract](../sources/1987-mattinson-rompf-creekview.qmd) | Inspected abstract |
+| “An independent evaluation,” no author named | [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) | Inspected talk |
+| Patricia Ryan / Ryan & Wiggins; title “Creekview 202 Project Evaluation Report” | Commissioning issue only | See [wanted evaluation record](../sources/wanted-creekview-202-evaluation.qmd) |
+
+: Authorship attributions for the 1987 Creekview evaluation, not reconciled
+
+Cost figures from other moments are **not** the same claim as Haw’s paraphrase of the 1987 evaluation:
+
+- Mowat, February 1984 (pre-opening estimate): Pearson about $300 per diem versus about $45–$50 in the co-op.
+- Fayerman 2018 (later report of an “early 1980s” study): community living “would be 30 per cent less expensive.”
+
+Nielsen’s April 1986 phrase “complete success” is the minister’s characterization after receiving a Paraplegic Association photograph, not an evaluation finding.
+
+## Documented roles
+
+| Person or body | What inspected evidence supports | What it does not support |
+| --- | --- | --- |
+| Residents (unnamed “six”) | Planned leavers from Pearson (1984); in residence by 1986; Haw: developers with CPA, equal co-op members; Nielsen: they convinced government agencies | Named identities in 1980s records |
+| [Walt Lawrence](../people/walt-lawrence.qmd) | Later accounts identify him as a 1985 Creekview resident and independent-living advocate | Any contemporaneous 1980s naming; CSIL or ECPM design-group membership |
+| [Doug Mowat](../people/doug-mowat.qmd) | 24 February 1984 Hansard speech describing the planned move. Later org pages: BCPA executive director; MLA 1983–91 | Formal CSIL design-group membership; a contemporaneous appointment letter for the BCPA post |
+| Canadian Paraplegic Association / BCPA | Haw: co-developer; funding conduit; Nielsen: sent the minister a photograph. Later SCI BC history claims the 1985 opening | Legal continuity details; evaluation authorship |
+| Ministry of Health / “various government agencies” | Nielsen: agencies were convinced to allow the independent group setting; Haw: ministry funding through CPA; 1987 abstract: government as an evaluation party | Which branch signed what, and when |
+| Workers Compensation Board | Haw: funding to tenants through CPA, with the ministry | Share of funding; which residents were WCB clients |
+| CMHC | Haw: funded the 100-unit cooperative building | A recovered CMHC Creekview file |
+| Pearson Hospital / Pearson staff | Originating institution; continued support (abstract); attendant training (Haw) | That Pearson authored the evaluation (Mattinson’s Pearson affiliation is not that proof) |
+| Patricia Ryan / Ryan & Wiggins | Named only in the commissioning issue | Any inspected title page |
+
+: Documented and excluded roles for Creekview, from inspected sources only
+
+## Relationship to later ECPM or CSIL
+
+No inspected source in this catalogue states that Creekview became ECPM, that Creekview “led to CSIL,” or that Creekview residents sat on a CSIL design group.
+
+Later CSIL training material that does name pre-CSIL arrangements — [Gauthier 2014](../sources/2014-gauthier-sci-csil-presentation.qmd) — lists “The Agency,” “ECPM Enhanced Consumer Participation Model,” and “People paid themselves.” It does not name Creekview.
+
+**Interpretation, and no further:** Creekview, as described in 1984–89 sources, demonstrated community living and a degree of self-direction for people with very high physical support needs. Whether or how that demonstration directly influenced ECPM or CSIL remains an **open research question**. ECPM and CSIL are reserved for their own chapters.
+
+## Unresolved questions
+
+1. Exact title-page wording, date, pagination, issuing body, and authors of the 1987 evaluation — including whether Patricia Ryan / Ryan & Wiggins appear.
+2. What “202” refers to.
+3. How the 1987 evaluation relates to the Mattinson and Rompf article (same work, summary, or different document) and to the “early 1980s” CPA cost analysis in Fayerman 2018.
+4. Why a February 1984 “soon” became a September 1985 opening (if Haw’s month is right).
+5. Names of the six residents in public contemporaneous records; whether Lawrence is one of them.
+6. The employment and payroll relationship (CPA as employer, residents as employers, mixed).
+7. The ministry unit and WCB mechanism that paid “through CPA.”
+8. How “Creekside” entered the 2019 SCI BC feature.
+9. Whether Haw’s “Nobel House Cooperative” (the same 1989 OCR also says “Noble Housing Co-op”) is the same project as SCI BC history’s 1989 “Stanley Noble Stronge Housing Cooperative,” and how far that project copied Creekview.
+10. Any contemporaneous document that connects Creekview to ECPM or to 1993–95 CSIL design.
+
+Recovery of the evaluation and the full Mattinson and Rompf article belongs with [Issue #6](https://github.com/jordanforge-ca/csil-history/issues/6), not this chapter. Leads are listed on the [wanted evaluation record](../sources/wanted-creekview-202-evaluation.qmd).
+
+## Questions for a participant verification bank
+
+These questions are for a later verification protocol ([Issue #7](https://github.com/jordanforge-ca/csil-history/issues/7)). This page does not invite unsolicited contact.
+
+1. Who were the six residents named in 1984–86 Hansard, and was Walt Lawrence one of them?
+2. In 1985–87, who hired, paid, scheduled, and could dismiss attendants — residents, CPA, Pearson, a home-support agency, or some mix?
+3. What did “funding to the tenants through CPA” mean in practice (grant, brokerage, reimbursement)?
+4. Was there a written CPA cost analysis in the early 1980s that is distinct from the 1987 evaluation?
+5. What did residents and CPA staff understand “Creekview 202” to mean?
+6. What was Pearson’s continuing role after the move (training, respiratory support, backup admission)?
+7. Did anyone from Creekview later sit on an ECPM or CSIL design or advisory group? If so, in what capacity, and is that documented?
+8. How should the 2019 “Creekside” spelling be treated — error, informal name, or a different site?
+9. What was Doug Mowat’s role besides the 1984 Hansard speech (BCPA executive director, MLA, both at once, or something else)?
+10. Did residents regard Creekview as a stepping stone to more individualized funding, or as a finished housing-and-support arrangement?
 
 ## See also
 
 - [History overview](index.qmd)
 - [Timeline](../timeline.qmd)
-- [Creekview evaluation (wanted source)](../sources/wanted-creekview-202-evaluation.qmd)
+- [Walt Lawrence](../people/walt-lawrence.qmd)
+- [Doug Mowat](../people/doug-mowat.qmd)
+- [Creekview 202 evaluation (wanted)](../sources/wanted-creekview-202-evaluation.qmd)
+- [Hansard, 24 February 1984](../sources/1984-hansard-mowat-creekview.qmd)
+- [Hansard, 10 April 1986](../sources/1986-hansard-nielsen-creekview.qmd)
+- [Mattinson and Rompf 1987 abstract](../sources/1987-mattinson-rompf-creekview.qmd)
+- [Haw 1989](../sources/1989-haw-special-housing-needs.qmd)

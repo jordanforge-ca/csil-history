@@ -10,7 +10,7 @@ A 1990 ECPM manual is now independently cited. This page still does not write th
 
 ## What this chapter is for
 
-Later work can define ECPM from recovered manuals and contemporaneous records, and can test later claims that ECPM sits between Creekview and individualized CSIL funding.
+Later work can define ECPM from recovered manuals and contemporaneous records, and can test later claims that ECPM sits between Creekview and individualized CSIL funding. The [Creekview chapter](creekview.qmd) does not establish that relationship.
 
 ## Evidence status
 

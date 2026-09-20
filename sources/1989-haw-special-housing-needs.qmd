@@ -47,11 +47,12 @@ A publisher imprint and printed pagination were not confirmed from a title page 
 
 ## Annotation
 
-Haw gives a developmental account of accessible housing and support services in British Columbia from the early 1970s through the late 1980s. For this archive, the material passages are:
+Haw gives a developmental account of accessible housing and support services in British Columbia from the early 1970s through the late 1980s (Paraplegic Lodge 1972; first group home 1974; Long Term Care and hour-pooling 1978; Kelly Court 1979). For this archive, the material Creekview passages are:
 
 1. Creekview 202 opened in **September 1985** as “an integrated self managed independent living project developed by CPA and at least 6 former residents of Pearson Hospital, five of whom were ventilator-dependent,” occupying the equivalent of six one-bedroom apartments (4,700 square feet) in a 100-unit CMHC-funded co-operative.
-2. The Ministry of Health and the Workers Compensation Board “have provided funding to the tenants through CPA for purchase of support services.”
-3. “In 1987 an independent evaluation of Creekview 202 was published.” Haw then paraphrases cost, health-status, and accreditation findings. Those paraphrases are Haw’s, not a substitute for the evaluation.
+2. The Ministry of Health and the Workers Compensation Board “have provided funding to the tenants through CPA for purchase of support services such as a paramedic, home-maker, nursing, physiotherapy and occupational therapy.” Attendants were trained by Pearson staff. All six men “are equal members of the co-op”; Haw says one is president of the building and involved in hiring and firing staff.
+3. “In 1987 an independent evaluation of Creekview 202 was published which confirmed the success of the project in three respects.” Haw then paraphrases: tenant care about 60% of Pearson cost; about $100 a day less per diem and about $215,000 a year combined; overall health “at least as good,” with physical health maintained and mental health and social interactions improved; Canadian Council of Hospital Accreditation standards “met and exceeded in virtually all cases.” He adds that government “was not interested in measuring quality of life.” Those paraphrases are Haw’s, not a substitute for the evaluation.
+4. A next project then in development would, Haw says, take the Creekview 202 concept further for seven ventilator-dependent Pearson residents. The inspected OCR uses both “Nobel House Cooperative” and “Noble Housing Co-op.” This archive does not equate that project with SCI BC history’s later “Stanley Noble Stronge Housing Cooperative” without a title-page match.
 
 `source_type` is `near-primary`: a 1989 public talk by a CPA official about events a few years earlier, not the 1987 evaluation itself.
 
@@ -59,9 +60,10 @@ Haw gives a developmental account of accessible housing and support services in 
 
 - Printed publisher, place, and year of the bound proceedings.
 - Whether Haw’s “independent evaluation” is the Ryan / Ryan & Wiggins report named in the commissioning issue.
+- Whether “Nobel House Cooperative” is the 1989 Stanley Noble Stronge project on the SCI BC history page.
 
 ## Associated claims
 
 - [Creekview 202 evaluation (wanted)](wanted-creekview-202-evaluation.qmd)
-- [Creekview placeholder](../history/creekview.qmd)
+- [Creekview chapter](../history/creekview.qmd)
 - Timeline rows for c. 1985 and c. 1987
