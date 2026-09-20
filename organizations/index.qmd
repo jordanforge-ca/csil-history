@@ -13,10 +13,10 @@ The names below appear in the commissioning issue’s wanted-source descriptions
 | Greater Vancouver Home Support Society | Named with BC Rehab on ECPM manual(s) |
 | Ryan & Wiggins | Named with Patricia Ryan on the Creekview 202 evaluation |
 | British Columbia Ministry of Health, Continuing Care Division / Community Support Branch | Named as the likely administrative home of 1993–95 CSIL pilot/design records |
-| British Columbia Ministry of Health Services | Named with James Murtagh Consulting on the November 2008 synthesis report |
-| James Murtagh Consulting | Named as creator of the November 2008 synthesis report |
+| British Columbia Ministry of Health Services | Named on the cover and prepared-by page of the November 2008 synthesis report |
+| James Murtagh Consulting | Named as preparer on the November 2008 synthesis report’s prepared-by page |
 
-Names now also appear in inspected public sources (for example BC Rehab and Greater Vancouver Home Support Society in the [Roeher bibliography](../sources/1990s-roeher-if-bibliography.qmd); Ministry of Health on the [2008 review citation](../sources/wanted-2008-program-review.qmd)). Listing a name is still not an organizational history.
+Names now also appear in inspected public sources (for example BC Rehab and Greater Vancouver Home Support Society in the [Roeher bibliography](../sources/1990s-roeher-if-bibliography.qmd); Ministry of Health Services, Home and Community Care Branch, Health Authorities Division, and James Murtagh Consulting on the [2008 Program Review Synthesis Report](../sources/2008-program-review-synthesis.qmd)). Listing a name is still not an organizational history.
 
 Creekview is treated on this site as a [history placeholder](../history/creekview.qmd), not as an organization record, because inspected sources describe a co-op apartment / project, not a corporate form.
 

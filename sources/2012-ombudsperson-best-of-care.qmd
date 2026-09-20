@@ -74,17 +74,16 @@ This archive treats those passages as **later official chronology and a bibliogr
 - Ombudsperson: **pilot 1994 / province-wide 1995**.
 - [Gauthier 2014](2014-gauthier-sci-csil-presentation.qmd): “Established … in **1993**.”
 - [Gauthier 2015](2015-gauthier-csil-module-1.qmd) and [IFRC Our Team](ifrc-our-team.qmd): **1994**.
-- Same Ombudsperson volume: CSIL review in **2007**, bibliographic citation dated **November 2008**. Those may be the same review, staged products, or different items.
+- Same Ombudsperson volume: CSIL review in **2007**, bibliographic citation dated **November 2008**. The [inspected 2008 synthesis](2008-program-review-synthesis.qmd) matches the footnote’s short title and month. It describes a **2006** ministry review and is dated November 2008. This archive still does not treat the 2007 sentence and the 2008 synthesis as proven to be the same product.
 
 ## Open questions
 
 - Which 1994 instrument the Ombudsperson treated as the “pilot,” and which 1995 act as “province-wide.”
-- Whether footnote 207’s *CSIL Program Review* is the commissioning issue’s “Review Program: Synthesis Report.”
-- Why 2007 and November 2008 both appear.
+- Why the same volume says “provincial review in 2007” while citing a November 2008 *Program Review*.
 
 ## Associated claims
 
 - [Wanted Ministry CSIL records](wanted-ministry-csil-pilot-records.qmd)
-- [Wanted 2008 Program Review](wanted-2008-program-review.qmd)
+- [2008 Program Review Synthesis Report](2008-program-review-synthesis.qmd)
 - [CSIL design and pilot placeholder](../history/csil-pilot.qmd)
 - Timeline rows for 1994, 1995, and 2008

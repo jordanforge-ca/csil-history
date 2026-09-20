@@ -25,7 +25,8 @@ Each source has its own page with structured front matter. The schema is documen
 This catalogue now includes:
 
 - one clearly labelled **[example / template record](example-template-source-record.qmd)** (not a completed research item)
-- five **[wanted sources](../research/wanted-sources.qmd)** named in the commissioning issue, annotated with public bibliographic evidence or documented unsuccessful searches
+- four remaining **[wanted sources](../research/wanted-sources.qmd)** named in the commissioning issue (Creekview evaluation, *Keys on Freedom*, ECPM manual(s), ministry CSIL pilot/design records)
+- the November 2008 **[CSIL Program Review Synthesis Report](2008-program-review-synthesis.qmd)**, inspected as an Internet Archive Microlog fiche (no longer copy-sought)
 - inspected contemporaneous records (Hansard 1984 and 1986; Haw 1989; HEU *Guardian* Nov/Dec 1995 CSIL passage)
 - inspected bibliographic records (Mattinson & Rompf 1987 PubMed abstract; Roeher / Salisbury bibliography)
 - later official and organizational records (Ombudsperson *Best of Care* 2012; IFRC and SCI BC pages; current ministry and VCH CSIL pages; Order of Canada citation)

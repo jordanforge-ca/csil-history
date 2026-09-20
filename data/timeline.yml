@@ -124,16 +124,16 @@
   notes: "2012 Ombudsperson report states CSIL was implemented province-wide in 1995 (later official chronology). The Nov/Dec 1995 HEU Guardian still calls CSIL a new/pilot Community Support Branch program and reports about 130 clients. Those two 1995 pictures are not automatically the same event."
 
 - id: tl-2008-program-review
-  title: "CSIL Program Review (November 2008 bibliographic record)"
+  title: "CSIL Program Review Synthesis Report (November 2008)"
   date: 2008-11-01
   date_iso: "2008-11-01"
   date_display: "November 2008"
-  date_precision: contested
-  confidence: bibliographically-confirmed
+  date_precision: exact
+  confidence: verified-inspected
   period: later-review
-  href: sources/wanted-2008-program-review.qmd
-  sources_display: "Best of Care footnote 207; wanted review text"
+  href: sources/2008-program-review-synthesis.qmd
+  sources_display: "Inspected IA Microlog fiche; Best of Care footnote 207"
   source_ids:
-    - src-wanted-2008-program-review
+    - src-2008-program-review-synthesis
     - src-ombudsperson-2012-best-of-care
-  notes: "Best of Care cites Ministry of Health, CSIL Program Review, November 2008, and also refers to a provincial review in 2007. Commissioning-issue 'Synthesis Report' / Murtagh wording not independently confirmed. Copy not held."
+  notes: "Cover dated November 2008; prepared-by page dated November, 2008. James Murtagh Consulting named as preparer. Best of Care also refers to a provincial review in 2007; this archive does not treat that 2007 mention as proven identical to this synthesis. The report dates CSIL to the 1990's and does not choose 1993 versus 1994."
