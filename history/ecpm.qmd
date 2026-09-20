@@ -1,0 +1,26 @@
+---
+title: "Enhanced Consumer Participation Model (ECPM)"
+subtitle: "Placeholder — not a finished chapter"
+---
+
+::: {.callout-note}
+## Working research proposition
+The commissioning brief places ECPM material around 1990 and notes a possible 1994 training revision. It also names *Keys on Freedom* (c. 1990). This page does not treat those items as inspected, nor does it assert how they relate to each other or to CSIL.
+:::
+
+## What this chapter is for
+
+Later work can define ECPM from recovered manuals and contemporaneous records, and can test later claims that ECPM sits between Creekview and individualized CSIL funding.
+
+## Evidence status
+
+- **Documented facts:** none recorded on this page yet.
+- **Bibliographically confirmed (copies sought):**
+  - [*Keys on Freedom*](../sources/wanted-keys-on-freedom.qmd) (BC Rehabilitation Society, c. 1990)
+  - [ECPM manual(s)](../sources/wanted-ecpm-manuals.qmd) (BC Rehab / Greater Vancouver Home Support Society, c. 1990 and possibly a 1994 training revision)
+- **Open questions:** how many distinct ECPM publications exist; whether a 1994 item is a revision, a training manual, or a different work; how *Keys on Freedom* relates to ECPM.
+
+## See also
+
+- [History overview](index.qmd)
+- [Wanted sources](../research/wanted-sources.qmd)

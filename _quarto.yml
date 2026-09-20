@@ -1,0 +1,110 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "*/*.qmd"
+    - "!CONTRIBUTING.md"
+    - "!README.md"
+    - "!documents/README.md"
+  post-render: scripts/post_render.py
+
+website:
+  title: "CSIL History Archive"
+  site-url: https://jordanforge-ca.github.io/csil-history
+  repo-url: https://github.com/jordanforge-ca/csil-history
+  repo-actions: [edit, source, issue]
+  description: >-
+    Public source-driven history of Choice in Supports for Independent Living
+    (CSIL) in British Columbia. Evidence archive first; website second.
+  search: false
+  navbar:
+    background: "#083048"
+    foreground: "#ffffff"
+    pinned: false
+    title: "CSIL History Archive"
+    left:
+      - text: History
+        href: history/index.qmd
+      - text: Timeline
+        href: timeline.qmd
+      - text: Sources
+        href: sources/index.qmd
+      - text: People
+        href: people/index.qmd
+      - text: Organizations
+        href: organizations/index.qmd
+      - text: Wanted Sources
+        href: research/wanted-sources.qmd
+      - text: About / Contribute
+        href: about.qmd
+  sidebar:
+    - id: history
+      title: History
+      style: docked
+      contents:
+        - history/index.qmd
+        - history/origins.qmd
+        - history/creekview.qmd
+        - history/ecpm.qmd
+        - history/csil-pilot.qmd
+        - history/evolution.qmd
+    - id: research
+      title: Research
+      style: docked
+      contents:
+        - research/index.qmd
+        - research/wanted-sources.qmd
+    - id: documentation
+      title: Project documentation
+      style: docked
+      contents:
+        - about.qmd
+        - docs/source-metadata.qmd
+        - docs/vocabularies.qmd
+        - docs/evidence-status.qmd
+        - docs/copyright-policy.qmd
+        - docs/accessibility.qmd
+        - docs/local-build.qmd
+  page-navigation: true
+  bread-crumbs: true
+  back-to-top-navigation: false
+  reader-mode: false
+  page-footer:
+    background: "#f4f1ea"
+    foreground: "#1a1a1a"
+    left: >-
+      Original site content
+      [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+      Historical source documents do not inherit this license.
+    right:
+      - text: Source repository
+        href: https://github.com/jordanforge-ca/csil-history
+      - text: How to contribute
+        href: about.qmd#how-to-contribute
+      - text: Copyright policy
+        href: docs/copyright-policy.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - default
+      - styles.scss
+    toc: true
+    toc-location: right
+    toc-title: "On this page"
+    lang: en
+    email-obfuscation: none
+    link-external-icon: false
+    link-external-newwindow: false
+    smooth-scroll: false
+    anchor-sections: true
+    code-copy: true
+    title-block-banner: false
+    theme-dark: false
+    grid:
+      sidebar-width: 260px
+      body-width: 820px
+      margin-width: 240px

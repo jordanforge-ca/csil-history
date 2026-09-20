@@ -1,0 +1,25 @@
+---
+title: "Origins"
+subtitle: "Placeholder — not a finished chapter"
+---
+
+::: {.callout-note}
+## Working research proposition
+This page reserves space for evidence about disability-led independent-living and community-living advocacy in British Columbia before Creekview, ECPM, and CSIL. No origins narrative has been written for this bootstrap.
+:::
+
+## What this chapter is for
+
+Later work can gather cited accounts of institutional or agency home support, independent-living organising, and any documented experiments that preceded Creekview. Until those sources are catalogued, treat any lineage that starts this chapter as a hypothesis.
+
+## Evidence status
+
+- **Documented facts:** none recorded on this page yet.
+- **Open questions:** what public primary sources describe independent-living advocacy in British Columbia in the early 1980s, and how (if at all) they connect to Creekview or CSIL.
+- **Related wanted sources:** none specifically titled for this chapter in the commissioning issue.
+
+## See also
+
+- [History overview](index.qmd)
+- [Timeline](../timeline.qmd)
+- [Wanted sources](../research/wanted-sources.qmd)

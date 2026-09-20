@@ -1,0 +1,12 @@
+.quarto/
+_site/
+.DS_Store
+*.pyc
+__pycache__/
+.Rproj.user
+.Rhistory
+.jupyter_cache/
+/.luarc.json
+
+/.quarto/
+**/*.quarto_ipynb

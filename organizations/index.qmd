@@ -1,0 +1,21 @@
+---
+title: "Organizations"
+subtitle: "Names appearing in public source descriptions — not organizational histories"
+---
+
+This section will hold one page per organization once a cited public source supports more than a name. This bootstrap does **not** write organizational histories.
+
+The names below appear in the commissioning issue’s wanted-source descriptions. Listing them here only means the archive should be able to attach evidence to those names later. It is not a claim about legal status, continuity, or a role in CSIL.
+
+| Name as given in the commissioning issue | Why the name appears here |
+| --- | --- |
+| BC Rehabilitation Society (also “BC Rehab”) | Named as creator of *Keys on Freedom* and, with Greater Vancouver Home Support Society, of ECPM manual(s) |
+| Greater Vancouver Home Support Society | Named with BC Rehab on ECPM manual(s) |
+| Ryan & Wiggins | Named with Patricia Ryan on the Creekview 202 evaluation |
+| British Columbia Ministry of Health, Continuing Care Division / Community Support Branch | Named as the likely administrative home of 1993–95 CSIL pilot/design records |
+| British Columbia Ministry of Health Services | Named with James Murtagh Consulting on the November 2008 synthesis report |
+| James Murtagh Consulting | Named as creator of the November 2008 synthesis report |
+
+Creekview is treated on this site as a [history placeholder](../history/creekview.qmd), not as an organization record, because the commissioning issue does not state its legal form.
+
+When you add an organization page, separate documented functions (cited) from later attributions, and link every claim to a [source record](../sources/index.qmd).

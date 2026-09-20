@@ -1,0 +1,65 @@
+---
+title: "Local build instructions"
+---
+
+## Prerequisites
+
+- [Quarto](https://quarto.org/docs/get-started/) 1.5 or later (`quarto --version`)
+- Python 3.10+ only if you want to run the accessibility script (standard library; no pip packages)
+
+No R, Jupyter, database, or private jordanforge toolchain is required. Source pages are static Markdown.
+
+## Preview
+
+From the repository root:
+
+```bash
+quarto preview
+```
+
+Quarto prints a local URL. The site uses relative links plus `site-url: https://jordanforge-ca.github.io/csil-history` for the published location.
+
+## Render
+
+```bash
+quarto render
+```
+
+HTML is written to `_site/`, which is gitignored. Open `_site/index.html` in a browser if you do not want the preview server.
+
+## Accessibility check
+
+```bash
+python3 scripts/check_a11y.py _site
+```
+
+The script exits non-zero when a baseline (Blocker/High) HTML problem is found. That failure is a merge blocker.
+
+## Continuous integration
+
+[`.github/workflows/pages.yml`](https://github.com/jordanforge-ca/csil-history/blob/main/.github/workflows/pages.yml) runs on pull requests and on pushes to `main`:
+
+1. Install Quarto (`quarto-dev/quarto-actions/setup@v2`)
+2. `quarto render`
+3. `python3 scripts/check_a11y.py _site`
+4. On `main` only: upload the Pages artifact and deploy
+
+## Enabling GitHub Pages
+
+A repository administrator should set **Settings → Pages → Source** to **GitHub Actions**. Until that is done, the workflow can build on pull requests but production deploy will not have a Pages environment.
+
+Expected public URL:
+
+<https://jordanforge-ca.github.io/csil-history/>
+
+## Adding content
+
+| Task | Where |
+| --- | --- |
+| New source | Copy `sources/example-template-source-record.qmd` |
+| New timeline event | Append to `data/timeline.yml` |
+| New person stub | Copy a file in `people/` |
+| New bibliography entry | `references.bib` |
+| Hosted document | Only after [copyright policy](copyright-policy.qmd) |
+
+See [CONTRIBUTING.md](https://github.com/jordanforge-ca/csil-history/blob/main/CONTRIBUTING.md).

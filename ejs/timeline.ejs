@@ -1,0 +1,34 @@
+<table class="timeline-table table">
+  <caption>Working CSIL history timeline. Dates are research propositions unless a cited source has been inspected.</caption>
+  <thead>
+    <tr>
+      <th scope="col">Date</th>
+      <th scope="col">Event</th>
+      <th scope="col">Confidence / status</th>
+      <th scope="col">Associated sources</th>
+      <th scope="col">Notes</th>
+    </tr>
+  </thead>
+  <tbody class="list">
+    <% for (const item of items) { %>
+    <tr <%= metadataAttrs(item) %>>
+      <td>
+        <time datetime="<%= item.date_iso || item.date %>"><%= item.date_display || item.date %></time>
+        <% if (item.date_precision) { %>
+        <div><span class="status-label"><%= item.date_precision %></span></div>
+        <% } %>
+      </td>
+      <td class="listing-title">
+        <% if (item.href) { %>
+        <a href="<%= item.href %>"><%= item.title %></a>
+        <% } else { %>
+        <%= item.title %>
+        <% } %>
+      </td>
+      <td class="listing-confidence"><span class="status-label"><%= item.confidence %></span></td>
+      <td class="listing-sources_display"><%= item.sources_display || "None catalogued yet" %></td>
+      <td class="listing-notes"><%= item.notes || "" %></td>
+    </tr>
+    <% } %>
+  </tbody>
+</table>

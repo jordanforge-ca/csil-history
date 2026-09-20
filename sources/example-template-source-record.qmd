@@ -1,0 +1,66 @@
+---
+title: "[EXAMPLE / TEMPLATE] Sample source record"
+date: 1900-01-01
+date_display: "n/a — template only"
+date_precision: unknown
+id: src-example-template
+record_status: example-template
+example: true
+source_authors:
+  - "Not a real author — replace this field"
+author: "[template — not a historical author]"
+source_type: reference-finding-aid
+availability: catalogue-or-citation-only
+verification_status: open-question
+period: unknown
+organizations: []
+people: []
+topics:
+  - documentation
+external_url: ""
+archived_url: ""
+bibtex_key: exampletemplate
+document_path: ""
+rights_note: "Template only. Do not attach a file to a copy of this page unless redistribution is clearly permitted."
+---
+
+::: {.callout-important}
+## Example / template only
+This page demonstrates the source-record model. It is **not** a historical source and must not be cited as evidence.
+:::
+
+Copy this file when adding a real source. Rename the file and the `id`. Remove the `[EXAMPLE / TEMPLATE]` prefix, set `record_status` to `catalogue-record` or `complete`, and delete this callout.
+
+## How to fill the front matter
+
+| Field | What to put here |
+| --- | --- |
+| `title` | The document or record title, not a headline claim |
+| `date` | ISO date used for sorting. For “c. 1987”, `1987-01-01` plus `date_precision: approximate` is enough |
+| `date_display` | Human-readable date, including `c.` or a range |
+| `source_authors` | Creators of the **historical item**, not website editors |
+| `source_type` | One of: `primary`, `near-primary`, `secondary`, `oral-history`, `reference-finding-aid` |
+| `availability` | See [vocabularies](../docs/vocabularies.qmd) |
+| `verification_status` | See [evidence statuses](../docs/evidence-status.qmd) |
+| `period` | Optional chapter tag (`precursor`, `creekview`, `ecpm`, `design-pilot`, `province-wide`, `later-review`, `unknown`) |
+| `organizations` / `people` / `topics` | Identifiers or display names already used on this site when possible |
+| `external_url` / `archived_url` | Stable public link and optional archived copy |
+| `document_path` | Only if a file is lawfully hosted under `documents/` |
+| `rights_note` | Copyright or permission status |
+
+`author` is a listing-friendly string. Quarto may also display it as page authorship; that is acceptable on source pages because it names the historical document’s creator.
+
+## Annotation (replace this)
+
+Write a short note covering:
+
+1. What the item is.
+2. What you have actually seen (full text, catalogue record, citation only).
+3. What it can and cannot support.
+4. Open questions.
+
+Do not paste long copyrighted excerpts. Quote only as needed for identification or a specific claim.
+
+## Associated claims
+
+List any history, timeline, or person statements that rely on this item. If there are none yet, say so.

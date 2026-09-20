@@ -1,0 +1,25 @@
+---
+title: "Creekview"
+subtitle: "Placeholder — not a finished chapter"
+---
+
+::: {.callout-note}
+## Working research proposition
+The commissioning brief places Creekview around 1985 and a Creekview evaluation around 1987. Those dates are not verified from an inspected source in this archive.
+:::
+
+## What this chapter is for
+
+Later work can reconstruct what Creekview was, who documented it, and how later writers connect it to ECPM or CSIL. This page does not assert that relationship as fact.
+
+## Evidence status
+
+- **Documented facts:** none recorded on this page yet.
+- **Bibliographically confirmed (copy sought):** [Creekview 202 Project Evaluation Report](../sources/wanted-creekview-202-evaluation.qmd), named as a known-to-exist document (Patricia Ryan / Ryan & Wiggins, c. 1987).
+- **Open questions:** the institutional setting of Creekview; whether “202” is a project code; how the evaluation was circulated.
+
+## See also
+
+- [History overview](index.qmd)
+- [Timeline](../timeline.qmd)
+- [Creekview evaluation (wanted source)](../sources/wanted-creekview-202-evaluation.qmd)

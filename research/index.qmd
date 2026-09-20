@@ -1,0 +1,22 @@
+---
+title: "Research"
+subtitle: "Gaps, wanted documents, and work still to do"
+---
+
+This section tracks active research gaps. It is not a findings page.
+
+## Current priorities
+
+The commissioning issue named five documents or record classes that are **known to exist** and whose copies are still sought. They are listed on [Wanted Sources](wanted-sources.qmd) and as individual catalogue records under [Sources](../sources/index.qmd).
+
+## How to use this section
+
+- Add a wanted-source record when a document is known or strongly attested but not in hand.
+- Keep status labels honest (`known-to-exist-copy-sought`, `physical-copy-known`, `permission-required`, and so on).
+- Do not convert a gap list into narrative history.
+
+## Related documentation
+
+- [Source metadata schema](../docs/source-metadata.qmd)
+- [Evidence and verification statuses](../docs/evidence-status.qmd)
+- [Copyright and source-file policy](../docs/copyright-policy.qmd)

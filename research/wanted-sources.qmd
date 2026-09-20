@@ -1,0 +1,62 @@
+---
+title: "Wanted Sources"
+subtitle: "Known to exist — copy sought"
+listing:
+  - id: wanted-source-records
+    contents:
+      - ../sources/wanted-*.qmd
+    type: table
+    sort: "date"
+    sort-ui: false
+    filter-ui: false
+    include:
+      availability: known-to-exist-copy-sought
+    fields: [title, date_display, author, availability, verification_status]
+    field-display-names:
+      title: Title
+      date_display: Date
+      author: As named
+      availability: Availability
+      verification_status: Verification
+toc: true
+---
+
+These items were named in [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10) as high-priority sources the archive should be able to represent even before a digital copy is recovered. Bibliographic details below are **only** what that issue states. This project has not independently verified catalogue entries or inspected copies.
+
+**Status pattern for all five:** Known to exist — copy sought.
+
+## 1. Creekview 202 Project Evaluation Report
+
+- **Creator as named:** Patricia Ryan / Ryan & Wiggins
+- **Date as named:** c. 1987
+- **Catalogue record:** [Creekview 202 Project Evaluation Report](../sources/wanted-creekview-202-evaluation.qmd)
+
+## 2. Keys on Freedom
+
+- **Full title as named:** Keys on Freedom: Resource manual for the development of self-managed community living alternatives for quadriplegic persons
+- **Creator as named:** BC Rehabilitation Society
+- **Date as named:** c. 1990
+- **Catalogue record:** [Keys on Freedom](../sources/wanted-keys-on-freedom.qmd)
+
+## 3. Enhanced Consumer Participation Model (ECPM) manual(s)
+
+- **Creator as named:** BC Rehab / Greater Vancouver Home Support Society
+- **Date as named:** c. 1990 and possibly a 1994 training revision
+- **Catalogue record:** [ECPM manual(s)](../sources/wanted-ecpm-manuals.qmd)
+
+## 4. Original Ministry of Health CSIL pilot/design records
+
+- **Date as named:** approximately 1993–95
+- **Likely administrative home as named:** Continuing Care Division / Community Support Branch
+- **Catalogue record:** [Ministry CSIL pilot/design records](../sources/wanted-ministry-csil-pilot-records.qmd)
+
+## 5. CSIL Program Review Synthesis Report
+
+- **Full title as named:** Choice in Supports for Independent Living Review Program: Synthesis Report
+- **Creator as named:** Ministry of Health Services / James Murtagh Consulting
+- **Date as named:** November 2008
+- **Catalogue record:** [2008 Synthesis Report](../sources/wanted-2008-program-review.qmd)
+
+## If you have a lead
+
+Open a GitHub issue describing the item and where a public copy might live. Do **not** email or attach files of uncertain copyright, and do not send private or health-related records. See [copyright policy](../docs/copyright-policy.qmd).

@@ -1,0 +1,73 @@
+---
+title: "Source metadata schema"
+subtitle: "Structured front matter for every annotated source"
+---
+
+Every file in `sources/` except the index is a source record. Front matter is the machine-readable catalogue. Prose below the front matter is the annotation.
+
+This schema is what the issue’s example YAML was aiming at, with two deliberate adjustments:
+
+1. Historical creators are stored in `source_authors` (and a listing string `author`) so they are not confused with website maintainers.
+2. `reference / finding-aid` is stored as `reference-finding-aid` so values stay token-safe. Display language may use the slash form.
+
+## Required fields
+
+```yaml
+---
+title: "Document title"
+date: 1990-01-01
+date_display: "c. 1990"
+date_precision: approximate
+id: src-short-stable-id
+record_status: catalogue-record
+source_authors:
+  - "Name or corporate author"
+author: "Listing-friendly creator string"
+source_type: primary
+availability: known-to-exist-copy-sought
+verification_status: bibliographically-confirmed
+---
+```
+
+| Field | Type | Required | Notes |
+| --- | --- | --- | --- |
+| `title` | string | yes | Item title, not a claim |
+| `date` | ISO date | yes | Used for sorting; may be a midpoint for a range |
+| `date_display` | string | yes | Human form (`c. 1987`, `November 2008`, `1993–95`) |
+| `date_precision` | token | yes | `exact` \| `approximate` \| `contested` \| `unknown` |
+| `id` | string | yes | Stable `src-...` identifier |
+| `record_status` | token | yes | `example-template` \| `catalogue-record` \| `draft` \| `complete` |
+| `source_authors` | list | yes | Historical creators |
+| `author` | string | recommended | Shown in table listings |
+| `source_type` | token | yes | See [vocabularies](vocabularies.qmd) |
+| `availability` | token | yes | See [vocabularies](vocabularies.qmd) |
+| `verification_status` | token | yes | See [evidence statuses](evidence-status.qmd) |
+
+## Recommended fields
+
+| Field | Type | Notes |
+| --- | --- | --- |
+| `period` | token | `precursor` \| `creekview` \| `ecpm` \| `design-pilot` \| `province-wide` \| `later-review` \| `unknown` |
+| `organizations` | list | Display names or future org slugs |
+| `people` | list | Display names or `person_id` values |
+| `topics` | list | See topic vocabulary |
+| `external_url` | URL | Stable public location |
+| `archived_url` | URL | Internet Archive or equivalent, when one already exists |
+| `bibtex_key` | string | Key in `references.bib` |
+| `document_path` | path | Only if a file is hosted under `documents/` |
+| `rights_note` | string | Copyright / permission status |
+| `example` | boolean | `true` only on the labelled template |
+
+## Page body
+
+After the front matter, include:
+
+1. A status callout when the item is a template, wanted source, or otherwise incomplete
+2. An identification table (what you know, and from where)
+3. An annotation that states what was actually seen
+4. Open questions
+5. Links to history, people, or timeline records that rely on the item
+
+## Example
+
+The labelled demonstration record is [sources/example-template-source-record.qmd](../sources/example-template-source-record.qmd).

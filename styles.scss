@@ -1,0 +1,328 @@
+/*-- scss:defaults --*/
+// Accessibility baseline overrides on Quarto's default Bootstrap theme.
+// This file is the in-repo a11y layer. Prefer these tokens over decorative
+// theme colours. Document changes in docs/accessibility.qmd.
+
+$primary: #083d73;
+$link-color: #083d73;
+$link-hover-color: #05284d;
+$body-color: #1a1a1a;
+$body-bg: #ffffff;
+$navbar-bg: #083048;
+$navbar-fg: #ffffff;
+$navbar-hl: #ffffff;
+$footer-bg: #f4f1ea;
+$footer-fg: #1a1a1a;
+$font-size-root: 18px; // baseline 13: never under 16px; 18–20px preferred
+$font-size-base: 1rem;
+$line-height-base: 1.6;
+$font-family-sans-serif: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+$headings-font-family: $font-family-sans-serif;
+$headings-color: #10233a;
+$headings-font-weight: 700;
+$border-color: #5c6570;
+$input-border-color: #5c6570;
+$focus-ring-color: #c45c00;
+
+/*-- scss:rules --*/
+
+// ---------------------------------------------------------------------------
+// 1. Skip link — visible on focus, above chrome
+// ---------------------------------------------------------------------------
+
+.skip-link {
+  position: absolute;
+  left: 0.5rem;
+  top: 0.5rem;
+  z-index: 12000;
+  padding: 0.6rem 0.9rem;
+  background: #083048;
+  color: #ffffff;
+  font-weight: 700;
+  text-decoration: underline;
+  border: 2px solid #ffffff;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  clip-path: inset(50%);
+  width: 1px;
+  height: 1px;
+  white-space: nowrap;
+}
+
+.skip-link:focus,
+.skip-link:focus-visible {
+  position: fixed;
+  clip: auto;
+  clip-path: none;
+  width: auto;
+  height: auto;
+  overflow: visible;
+  white-space: normal;
+  color: #ffffff;
+}
+
+// ---------------------------------------------------------------------------
+// 4. Visible :focus-visible rings — do not remove outlines
+//    Double ring (white + orange) so the ring stays ≥3:1 on light and dark UI
+// ---------------------------------------------------------------------------
+
+:focus {
+  outline: 3px solid #c45c00;
+  outline-offset: 3px;
+}
+
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+:focus-visible {
+  outline: 3px solid #c45c00;
+  outline-offset: 3px;
+  box-shadow: 0 0 0 3px #ffffff, 0 0 0 6px #c45c00;
+}
+
+a.nav-link:focus-visible,
+.navbar-brand:focus-visible,
+.navbar-toggler:focus-visible,
+.sidebar a:focus-visible,
+.nav-footer a:focus-visible,
+.toc-action:focus-visible,
+.pagination-link:focus-visible,
+.skip-link:focus-visible {
+  outline: 3px solid #c45c00;
+  outline-offset: 3px;
+  box-shadow: 0 0 0 3px #ffffff, 0 0 0 6px #c45c00;
+}
+
+// ---------------------------------------------------------------------------
+// 5. prefers-reduced-motion — no essential motion
+// ---------------------------------------------------------------------------
+
+html {
+  font-size: 18px;
+  scroll-behavior: auto;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// 6. Reflow — unstick Quarto chrome so 200% zoom / ~320px does not hide text
+// ---------------------------------------------------------------------------
+
+body.nav-fixed {
+  padding-top: 0 !important;
+}
+
+#quarto-header,
+#quarto-header.fixed-top,
+#quarto-header.headroom,
+#quarto-header.headroom--pinned,
+#quarto-header.headroom--unpinned,
+#quarto-header.headroom--top,
+#quarto-header.headroom--not-top {
+  position: static !important;
+  top: auto !important;
+  transform: none !important;
+  will-change: auto !important;
+}
+
+.headroom {
+  transition: none !important;
+}
+
+main,
+#quarto-document-content,
+#quarto-content,
+.page-columns,
+.page-rows-contents {
+  max-width: 100%;
+}
+
+#quarto-document-content h1,
+#quarto-document-content p,
+#quarto-document-content li {
+  overflow-wrap: break-word;
+}
+
+.quarto-listing,
+.timeline-table,
+.quarto-listing-table,
+table {
+  max-width: 100%;
+}
+
+.quarto-listing,
+figure,
+.table-wrapper {
+  overflow-x: auto;
+}
+
+img,
+svg,
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+// ---------------------------------------------------------------------------
+// 3. Current page is more than colour (underline + weight; aria-current in HTML)
+// ---------------------------------------------------------------------------
+
+.navbar .nav-link.active,
+.navbar .nav-link[aria-current="page"],
+.navbar-brand[aria-current="page"] {
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 0.25em;
+}
+
+.sidebar .sidebar-link.active,
+.sidebar .sidebar-link[aria-current="page"] {
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+// ---------------------------------------------------------------------------
+// 13. Comfortable default type — not a cramped theme default
+//     18px root, body 1rem, line-height 1.6. Zoom to 200% is the size control.
+// ---------------------------------------------------------------------------
+
+html,
+body {
+  font-size: 18px;
+}
+
+body {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+#quarto-document-content,
+#quarto-document-content p,
+#quarto-document-content li,
+#quarto-document-content td,
+#quarto-document-content th {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+// ---------------------------------------------------------------------------
+// 7. Links — underline in body text; chrome underlines on hover/focus
+// ---------------------------------------------------------------------------
+
+a {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+a:hover {
+  text-decoration-thickness: 0.15em;
+}
+
+nav.navbar a,
+.navbar a,
+#quarto-header a,
+.sidebar a,
+.nav-footer a,
+#TOC a {
+  text-decoration: none;
+}
+
+nav.navbar a:hover,
+nav.navbar a:focus-visible,
+.sidebar a:hover,
+.sidebar a:focus-visible,
+.nav-footer a:hover,
+.nav-footer a:focus-visible,
+#TOC a:hover,
+#TOC a:focus-visible {
+  text-decoration: underline;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  white-space: normal;
+  max-width: min(22rem, calc(100vw - 5.5rem));
+}
+
+.navbar-expand-lg .navbar-nav {
+  flex-wrap: wrap;
+}
+
+@media (max-width: 36rem) {
+  .navbar-brand {
+    font-size: 1rem;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// 8. Status is text + border, not colour alone
+// ---------------------------------------------------------------------------
+
+.status-label {
+  display: inline-block;
+  border: 1px solid #1a1a1a;
+  padding: 0.1rem 0.4rem;
+  font-size: 0.9em;
+  background: #f4f1ea;
+  color: #1a1a1a;
+}
+
+// ---------------------------------------------------------------------------
+// 9. Tables
+// ---------------------------------------------------------------------------
+
+table {
+  caption-side: top;
+}
+
+table caption {
+  text-align: left;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: #1a1a1a;
+}
+
+.timeline-table th,
+.timeline-table td,
+.quarto-listing-table th,
+.quarto-listing-table td {
+  vertical-align: top;
+}
+
+// ---------------------------------------------------------------------------
+// 10. Large targets for controls we keep (~44px)
+// ---------------------------------------------------------------------------
+
+.navbar-toggler,
+.quarto-btn-toggle,
+button.btn {
+  min-width: 44px;
+  min-height: 44px;
+}
+
+.nav-footer .nav-link,
+.toc-action,
+.pagination-link {
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+}
+
+.callout {
+  border-left-width: 0.35rem;
+}
+
+#quarto-document-content h1 {
+  line-height: 1.25;
+}

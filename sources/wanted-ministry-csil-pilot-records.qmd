@@ -1,0 +1,60 @@
+---
+title: "Original Ministry of Health CSIL pilot/design records"
+date: 1994-01-01
+date_display: "approximately 1993–95"
+date_precision: approximate
+id: src-wanted-ministry-csil-pilot-records
+record_status: catalogue-record
+source_authors:
+  - "British Columbia Ministry of Health"
+author: "British Columbia Ministry of Health"
+source_type: primary
+availability: known-to-exist-copy-sought
+verification_status: bibliographically-confirmed
+period: design-pilot
+organizations:
+  - "British Columbia Ministry of Health"
+  - "Continuing Care Division"
+  - "Community Support Branch"
+people: []
+topics:
+  - program-design
+  - individualized-funding
+  - home-support
+external_url: ""
+archived_url: ""
+bibtex_key: moh1993csilpilot
+document_path: ""
+rights_note: "Government records. Copy not held. Crown copyright or access rules may apply. Do not upload unless redistribution is clearly permitted."
+---
+
+::: {.callout-note}
+## Known to exist — copy sought
+Bibliographic details on this page come only from [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). This archive has not inspected a copy or an independent catalogue record.
+:::
+
+## Identification
+
+| Element | As stated in the commissioning issue |
+| --- | --- |
+| Description | Original Ministry of Health CSIL pilot/design records |
+| Date | Approximately 1993–95 |
+| Likely administrative home | Continuing Care Division / Community Support Branch |
+
+This is a **class of records**, not a single titled publication. The sortable date `1994-01-01` is a midpoint for the stated range, not a claim that a specific instrument is dated 1994.
+
+## Annotation
+
+These records are listed so the 1993–95 design and pilot period has a catalogue hook. They are also relevant to the preserved disagreement about 1993 versus 1994 as a CSIL starting year.
+
+## Open questions
+
+- Which specific files, memos, Treasury Board or ministry instruments, or pilot evaluations exist and are public.
+- What each dated item authorises (design, pilot, or broader availability).
+- Access and copyright status for any recovered copies.
+
+## See also
+
+- [CSIL design and pilot placeholder](../history/csil-pilot.qmd)
+- [Timeline](../timeline.qmd)
+- [Wanted sources](../research/wanted-sources.qmd)

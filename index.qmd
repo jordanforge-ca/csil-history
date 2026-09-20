@@ -1,0 +1,19 @@
+---
+title: "CSIL History Archive"
+subtitle: "A public evidence archive for Choice in Supports for Independent Living in British Columbia"
+toc: false
+---
+
+Choice in Supports for Independent Living (CSIL) is the name of a British Columbia home-support program. Public program materials describe it as a way for eligible people to manage funding and employ their own workers. This site does not treat those program descriptions as a substitute for historical evidence about how CSIL was designed, piloted, or changed.
+
+This archive exists to collect, cite, and annotate the sources from which a history of CSIL can be reconstructed. It is meant for CSIL employers, disability advocates, researchers, journalists, policy staff, and people who took part in that history. The project is a digital-history and annotated-bibliography effort, not a campaign.
+
+The reconstruction is incomplete on purpose. Pages distinguish documented fact, attributed recollection, interpretation, conflicting evidence, and open questions. Where dates or lineages are still unsettled — including whether later writers treat **1993 or 1994** as a CSIL starting year — the archive should show the disagreement rather than hide it.
+
+A working research proposition used only to organise this site, and **not** offered here as a settled history, is:
+
+**institutional or agency care → disability-led independent-living experiments → Creekview → Enhanced Consumer Participation Model (ECPM) → direct individualized funding → CSIL design and pilot → a province-wide program.**
+
+Working dates attached to that lineage (early 1980s advocacy; Creekview around 1985 and an evaluation around 1987; ECPM material around 1990 and possibly a 1994 revision; CSIL design around 1993, a pilot around 1994, and province-wide availability around 1995) remain propositions until sources are inspected. See the [history placeholders](history/index.qmd), the [timeline](timeline.qmd), and [wanted sources](research/wanted-sources.qmd).
+
+If you can help, the most useful contributions are citations, catalogue records, permitted scans, and corrections. Please read [About / Contribute](about.qmd#how-to-contribute) and do not send private or health-related records.

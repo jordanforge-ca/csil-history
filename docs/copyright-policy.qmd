@@ -1,0 +1,50 @@
+---
+title: "Copyright and source-file policy"
+---
+
+This archive is a citation and annotation project. It is not a wholesale document dump.
+
+## Repository license is not a source-document license
+
+Original writing, configuration, and scripts in this repository are [CC BY 4.0](../about.qmd). That licence **does not** attach to third-party historical documents.
+
+If a PDF or scan later appears under `documents/`, assume it keeps its original copyright, Crown copyright, or unknown-rights status unless the matching source page documents a specific permission.
+
+## Default handling
+
+For material that may still be copyrighted, record:
+
+1. Metadata and a short annotation
+2. A bibliographic citation (`references.bib`)
+3. A stable public link, when one exists
+4. An archived-link field, when an archived copy already exists
+
+Do **not** copy every historical PDF into the repository.
+
+## When a file may be hosted
+
+Commit a file under [`documents/`](https://github.com/jordanforge-ca/csil-history/blob/main/documents/README.md) only when redistribution is clearly permitted and the permission or licence is quoted on the source page (`rights_note`).
+
+Clear permission means one of:
+
+- public domain
+- written permission from the copyright holder for this reproduction
+- a licence on the work that expressly allows redistribution of the copy we host
+- a Crown or government copyright notice that clearly allows this reproduction
+
+## When a file must not be hosted
+
+- private CSIL employer records
+- personal health information
+- unpublished private correspondence
+- private-chat or private-repo material
+- scans with unknown rights
+- library or archival copies that are restricted
+
+## Fair dealing / quotation
+
+Short quotation for identification or a specific cited claim may be acceptable. Do not paste chapters, manuals, or evaluation reports into Markdown.
+
+## Contributor reminder
+
+If rights are unclear, open an issue describing the source **without** attaching the file.
