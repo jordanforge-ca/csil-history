@@ -21,9 +21,9 @@ listing:
 toc: true
 ---
 
-These five items were named in [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). A September 2026 public-source pass looked for independent bibliographic evidence. Where a catalogue record, contemporaneous citation, or later official page was actually seen, the individual wanted record cites **that** evidence. Where nothing was found, the record says so.
+These items were named in [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). A September 2026 public-source pass looked for independent bibliographic evidence. Where a catalogue record, contemporaneous citation, or later official page was actually seen, the individual wanted record cites **that** evidence. Where nothing was found, the record says so.
 
-Copies of all five are still sought. Do not treat a wanted row as an inspected text.
+**Four copies are still sought** (Creekview evaluation, *Keys on Freedom*, ECPM manual(s), and original ministry CSIL pilot/design records). The November 2008 program-review synthesis is no longer copy-sought: a Microlog fiche is inspectable on Internet Archive (see below). Do not treat a remaining wanted row as an inspected text.
 
 ## 1. Creekview 202 Project Evaluation Report
 
@@ -58,19 +58,23 @@ Copies of all five are still sought. Do not treat a wanted row as an inspected t
 - **Public evidence now cited:** later accounts disagree — [Gauthier 2014](../sources/2014-gauthier-sci-csil-presentation.qmd) says established 1993; [Gauthier 2015](../sources/2015-gauthier-csil-module-1.qmd) and [IFRC Our Team](../sources/ifrc-our-team.qmd) say 1994; [Ombudsperson 2012](../sources/2012-ombudsperson-best-of-care.qmd) says **pilot 1994, province-wide 1995**. [HEU *Guardian* Nov/Dec 1995](../sources/1995-heu-guardian-novdec.qmd) contemporaneously calls CSIL a new/pilot program of the Community Support Branch, Continuing Care Division.
 - **Catalogue record:** [Ministry CSIL pilot/design records](../sources/wanted-ministry-csil-pilot-records.qmd)
 
-## 5. CSIL Program Review
+## Recovered (no longer copy-sought): 2008 CSIL Program Review Synthesis Report
 
-- **Title as named in the commissioning issue:** Choice in Supports for Independent Living Review Program: Synthesis Report
-- **Creator as named:** Ministry of Health Services / James Murtagh Consulting
-- **Date as named:** November 2008
-- **Independent public evidence now cited:** *Best of Care* footnote 207: “Ministry of Health, Choice in Supports for Independent Living (CSIL) Program Review, November 2008.” Same volume also refers to a provincial review in 2007. Murtagh and “Synthesis Report” were not independently confirmed. A 2012 Foerster & Murtagh **Care Aide Registry** review is a different document.
-- **Catalogue record:** [2008 Program Review](../sources/wanted-2008-program-review.qmd)
+- **Cover title as inspected:** Choice in Supports for Independent Living (CSIL) Program Review
+- **Cover subtitle as inspected:** Synthesis Report
+- **Prepared by (title page):** James Murtagh Consulting for Home and Community Care Branch, Health Authorities Division, BC Ministry of Health Services
+- **Date on cover / prepared-by page:** November 2008 / November, 2008
+- **Public copy:** Internet Archive Microlog fiche [`micro_IA40244204_0972`](https://archive.org/details/micro_IA40244204_0972)
+- **Catalogue record:** [2008 Program Review Synthesis Report](../sources/2008-program-review-synthesis.qmd)
+- **Still not treated as settled:** *Best of Care*’s “provincial review in 2007” versus this November 2008 synthesis; 1993 versus 1994 (the report says only “the 1990's”).
 
 ## Searches documented in this pass
 
 Public web; PubMed (PMID 3691990); BC Hansard HTML (1984, 1986; later Creekview sittings not found); HEU Guardian archive (Nov/Dec 1995 PDF retrieved); bcombudsperson.ca *Best of Care* PDFs; Internet Archive advanced search (zero hits for the Creekview evaluation title, “Enhanced Consumer Participation Model,” and “Keys on Freedom” + quadriplegic); WorldCat-style and CMHC / publications.gc.ca web searches (no *Keys on Freedom* hit); gov.bc.ca, vch.ca, and openinfo.gov.bc.ca PDFs; SCI BC and IFRC pages; Polio Place conference OCR; CanLII commentary PDF; Governor General honours page for Paul Gauthier; Broadreach Van der Klift pages.
 
 UBC, SFU, Legislative Library of British Columbia, and CMHC Housing Knowledge Centre native catalogue interfaces were not successfully queried. They remain useful next checks.
+
+A later 20 September 2026 follow-up opened the Internet Archive Microlog item `micro_IA40244204_0972` (*Choice in Supports for Independent Living (CSIL) program review synthesis report*). The earlier advanced-search note that IA “did not return either title” for the 2008 review was a miss; the fiche is public. Creekview, *Keys on Freedom*, ECPM, and ministry pilot/design copies were not recovered in that follow-up.
 
 ## If you have a lead
 
