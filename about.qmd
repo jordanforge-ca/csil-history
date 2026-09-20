@@ -1,0 +1,70 @@
+---
+title: "About / Contribute"
+subtitle: "Purpose, editorial rules, and how to add evidence"
+---
+
+## What this site is
+
+The CSIL History Archive is a public Quarto website and GitHub repository for a source-driven history of Choice in Supports for Independent Living (CSIL) in British Columbia. It privileges an annotated bibliography and source-location records over a finished narrative.
+
+The site is intentionally small and durable: Markdown files, structured front matter, a BibTeX file, and static HTML. There is no database, CMS, or application backend.
+
+## What this site is not
+
+- A complete history of CSIL, Creekview, or independent living in British Columbia
+- A current-program handbook or benefits explainer
+- An advocacy or campaign landing page
+- A place to store private employer, health, or correspondence files
+
+## Working historical frame
+
+The commissioning brief for this archive suggested a lineage and a set of working dates so the information architecture would have somewhere to hang later evidence. Those items are recorded on [History](history/index.qmd) and the [Timeline](timeline.qmd) as **research propositions**. They are not verified findings of this project.
+
+## Editorial principles
+
+The full contributor guide is [CONTRIBUTING.md](https://github.com/jordanforge-ca/csil-history/blob/main/CONTRIBUTING.md). In short:
+
+1. Evidence before narrative.
+2. Prefer primary and near-primary sources.
+3. Separate fact, attribution, and interpretation.
+4. Preserve disagreement (including 1993 versus 1994 as a CSIL starting year).
+5. Keep advocacy out of the historical record.
+6. Design for accessibility first.
+7. Respect living participants; publish personal material only with permission.
+
+## How to contribute {#how-to-contribute}
+
+Useful contributions include:
+
+- a catalogue record for a public document, with a stable link
+- a correction to a citation, date precision, or status label
+- a scan or transcript **only** when redistribution is clearly permitted
+- an oral-history note that already has publication permission
+
+How to do it:
+
+1. Read [CONTRIBUTING.md](https://github.com/jordanforge-ca/csil-history/blob/main/CONTRIBUTING.md).
+2. Copy the [example source record](sources/example-template-source-record.qmd).
+3. Use the [source metadata schema](docs/source-metadata.qmd) and [controlled vocabularies](docs/vocabularies.qmd).
+4. Open a pull request or a GitHub issue. Describe the item; do not attach files of uncertain rights.
+
+Please do not contact living participants unless a separately agreed research protocol exists. That work is out of scope for casual website contributions.
+
+## Project documentation
+
+| Page | Contents |
+| --- | --- |
+| [Source metadata schema](docs/source-metadata.qmd) | Front matter fields for source records |
+| [Controlled vocabularies](docs/vocabularies.qmd) | Allowed values for type, availability, period, topics |
+| [Evidence and verification statuses](docs/evidence-status.qmd) | How uncertainty is labelled |
+| [Copyright and source-file policy](docs/copyright-policy.qmd) | What may be hosted in `documents/` |
+| [Accessibility](docs/accessibility.qmd) | Requirements, CI checks, and known limits |
+| [Local build instructions](docs/local-build.qmd) | Quarto preview, render, and CI |
+
+## License
+
+Original writing and configuration in this repository are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Historical source documents, including any future files in `documents/`, **do not inherit** that license.
+
+## Commissioning note
+
+This public repository was bootstrapped from [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). Use that issue as product context only. Do not copy private infrastructure or private CSIL records into this archive.

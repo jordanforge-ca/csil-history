@@ -1,0 +1,24 @@
+---
+title: "Later evolution"
+subtitle: "Placeholder — not a finished chapter"
+---
+
+::: {.callout-note}
+## Working research proposition
+The commissioning brief includes province-wide availability around 1995 and a 2008 program-review synthesis as later reference points. Neither is written up as history here.
+:::
+
+## What this chapter is for
+
+Later work can track how CSIL changed after a design/pilot period: eligibility, administration, reviews, and public documentation. This chapter should stay source-led and should not become a policy-recommendation page.
+
+## Evidence status
+
+- **Documented facts:** none recorded on this page yet.
+- **Bibliographically confirmed (copy sought):** [Choice in Supports for Independent Living Review Program: Synthesis Report](../sources/wanted-2008-program-review.qmd) (Ministry of Health Services / James Murtagh Consulting, November 2008).
+- **Open questions:** when and how CSIL became available province-wide; which later reviews are public; what administrative homes the program had after the mid-1990s.
+
+## See also
+
+- [CSIL design and pilot](csil-pilot.qmd)
+- [2008 synthesis report (wanted source)](../sources/wanted-2008-program-review.qmd)

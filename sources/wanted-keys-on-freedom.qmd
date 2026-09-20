@@ -1,0 +1,55 @@
+---
+title: "Keys on Freedom: Resource manual for the development of self-managed community living alternatives for quadriplegic persons"
+date: 1990-01-01
+date_display: "c. 1990"
+date_precision: approximate
+id: src-wanted-keys-on-freedom
+record_status: catalogue-record
+source_authors:
+  - "BC Rehabilitation Society"
+author: "BC Rehabilitation Society"
+source_type: primary
+availability: known-to-exist-copy-sought
+verification_status: bibliographically-confirmed
+period: ecpm
+organizations:
+  - "BC Rehabilitation Society"
+people: []
+topics:
+  - independent-living
+  - home-support
+external_url: ""
+archived_url: ""
+bibtex_key: bcrs1990keys
+document_path: ""
+rights_note: "Copy not held. Do not upload a scan unless redistribution is clearly permitted."
+---
+
+::: {.callout-note}
+## Known to exist — copy sought
+Bibliographic details on this page come only from [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). This archive has not inspected a copy or an independent catalogue record.
+:::
+
+## Identification
+
+| Element | As stated in the commissioning issue |
+| --- | --- |
+| Title | Keys on Freedom: Resource manual for the development of self-managed community living alternatives for quadriplegic persons |
+| Creator | BC Rehabilitation Society |
+| Date | c. 1990 |
+
+## Annotation
+
+This is a catalogue placeholder for a named resource manual. This archive does not yet describe its contents, circulation, or relationship to ECPM or CSIL.
+
+## Open questions
+
+- Location of a copy.
+- Exact publication date and edition.
+- Whether and how the manual relates to ECPM materials from the same period.
+
+## See also
+
+- [ECPM placeholder](../history/ecpm.qmd)
+- [ECPM manual(s) wanted record](wanted-ecpm-manuals.qmd)
+- [Wanted sources](../research/wanted-sources.qmd)

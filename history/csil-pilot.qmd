@@ -1,0 +1,33 @@
+---
+title: "CSIL design and pilot"
+subtitle: "Placeholder — not a finished chapter"
+---
+
+::: {.callout-note}
+## Conflicting or unsettled dates
+The commissioning brief asks this archive to accommodate CSIL design or authorization around **1993**, a pilot around **1994**, and later disagreement about which year counts as a start. This page does not choose between 1993 and 1994.
+:::
+
+## What this chapter is for
+
+Later work can separate, with citations:
+
+- program design and ministry authorization
+- a pilot
+- province-wide availability
+- later retrospective start dates
+
+Those may be different events. They should not be merged in prose until sources are inspected.
+
+## Evidence status
+
+- **Documented facts:** none recorded on this page yet.
+- **Bibliographically confirmed (copy sought):** [original Ministry of Health CSIL pilot/design records](../sources/wanted-ministry-csil-pilot-records.qmd), approximately 1993–95, described as likely involving the Continuing Care Division / Community Support Branch.
+- **Conflicting evidence to preserve:** 1993 versus 1994 as a CSIL starting year in later accounts.
+- **Open questions:** what “start” refers to in each later account; which records survive; what the pilot’s scope was.
+
+## See also
+
+- [Timeline rows for 1993 and 1994](../timeline.qmd)
+- [Wanted Ministry records](../sources/wanted-ministry-csil-pilot-records.qmd)
+- [Later evolution](evolution.qmd)

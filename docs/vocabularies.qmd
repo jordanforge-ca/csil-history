@@ -1,0 +1,83 @@
+---
+title: "Controlled vocabularies"
+subtitle: "Allowed tokens for source and timeline records"
+---
+
+Use these values unless a pull request updates this page first. Do not invent near-synonyms (`official`, `public-pdf`, `rumoured`) in front matter.
+
+## `source_type`
+
+| Token | Meaning |
+| --- | --- |
+| `primary` | Contemporaneous document, record, or other first-hand artefact from the period under study |
+| `near-primary` | Close to the events or created from them (for example a commissioned review that quotes files the archive does not have) |
+| `secondary` | Later narrative, journalism, or scholarship that is not itself the event record |
+| `oral-history` | Recorded or transcribed recollection, published only with permission |
+| `reference-finding-aid` | Catalogue record, bibliography, archival description, or this site’s own template/finding aid |
+
+Display form `reference / finding-aid` maps to `reference-finding-aid`.
+
+## `availability`
+
+| Token | Meaning |
+| --- | --- |
+| `full-text-public` | A copy this project may point to (or host) as publicly readable |
+| `external-link-only` | Full text exists at a stable external URL; we do not host the file |
+| `catalogue-or-citation-only` | We have a citation or catalogue entry, not the text |
+| `known-to-exist-copy-sought` | The item is attested; this archive does not have a copy |
+| `physical-copy-known` | A physical location is known; no digital copy is held here |
+| `permission-required` | A copy exists but may not be published or quoted beyond fair identification without permission |
+
+## `verification_status`
+
+See [Evidence and verification statuses](evidence-status.qmd) for definitions. Tokens:
+
+- `verified-inspected`
+- `bibliographically-confirmed`
+- `attributed-recollection`
+- `interpretation`
+- `conflicting-evidence`
+- `open-question`
+
+## `date_precision`
+
+- `exact`
+- `approximate`
+- `contested`
+- `unknown`
+
+## `period`
+
+Optional chapter tags for filtering, not a verified periodization:
+
+- `precursor`
+- `creekview`
+- `ecpm`
+- `design-pilot`
+- `province-wide`
+- `later-review`
+- `unknown`
+
+## `topics`
+
+Starter list; add tokens here when you first use a new one:
+
+- `independent-living`
+- `home-support`
+- `individualized-funding`
+- `program-design`
+- `evaluation`
+- `documentation`
+
+## `record_status`
+
+- `example-template`
+- `catalogue-record`
+- `draft`
+- `complete`
+
+## `page_status` (people)
+
+- `stub`
+- `draft`
+- `complete`

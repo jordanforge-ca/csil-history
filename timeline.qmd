@@ -1,0 +1,25 @@
+---
+title: "Timeline"
+subtitle: "Working dates, confidence labels, and associated sources"
+listing:
+  - id: timeline-events
+    contents: data/timeline.yml
+    template: ejs/timeline.ejs
+    sort: "date"
+    sort-ui: false
+    filter-ui: false
+    page-size: 50
+    field-display-names:
+      date_display: Date
+      title: Event
+      confidence: Confidence / status
+      sources_display: Associated sources
+      notes: Notes
+toc: false
+---
+
+This view is generated from [`data/timeline.yml`](https://github.com/jordanforge-ca/csil-history/blob/main/data/timeline.yml). Edit that file to add or correct events. There is no JavaScript timeline library.
+
+Dates here are **working research propositions** unless a linked source record says a copy was inspected. Approximate and contested dates are labelled in the Date column. The 1993 and 1994 CSIL rows are both kept so the archive does not pick a starting year in advance of the evidence.
+
+Status values use the [evidence and verification vocabulary](docs/evidence-status.qmd).

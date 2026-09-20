@@ -1,0 +1,57 @@
+---
+title: "Choice in Supports for Independent Living Review Program: Synthesis Report"
+date: 2008-11-01
+date_display: "November 2008"
+date_precision: approximate
+id: src-wanted-2008-program-review
+record_status: catalogue-record
+source_authors:
+  - "James Murtagh Consulting"
+author: "James Murtagh Consulting"
+source_type: near-primary
+availability: known-to-exist-copy-sought
+verification_status: bibliographically-confirmed
+period: later-review
+organizations:
+  - "British Columbia Ministry of Health Services"
+  - "James Murtagh Consulting"
+people: []
+topics:
+  - evaluation
+  - home-support
+external_url: ""
+archived_url: ""
+bibtex_key: murtagh2008csil
+document_path: ""
+rights_note: "Copy not held. Government-commissioned report; do not upload unless redistribution is clearly permitted."
+---
+
+::: {.callout-note}
+## Known to exist — copy sought
+Bibliographic details on this page come only from [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). This archive has not inspected a copy or an independent catalogue record.
+:::
+
+## Identification
+
+| Element | As stated in the commissioning issue |
+| --- | --- |
+| Title | Choice in Supports for Independent Living Review Program: Synthesis Report |
+| Creator | Ministry of Health Services / James Murtagh Consulting |
+| Date | November 2008 |
+
+`source_type` is set to `near-primary` because the commissioning issue describes a commissioned synthesis/review, not an original 1990s design file. That classification can change if an inspected copy shows otherwise.
+
+## Annotation
+
+This record is a later reference point, not a substitute for 1990s primary sources.
+
+## Open questions
+
+- Location of a public copy.
+- Exact subtitle and contract/client wording on the title page.
+- What primary sources the synthesis cites (those may become new wanted items).
+
+## See also
+
+- [Later evolution placeholder](../history/evolution.qmd)
+- [Wanted sources](../research/wanted-sources.qmd)

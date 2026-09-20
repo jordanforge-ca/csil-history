@@ -1,0 +1,30 @@
+---
+title: "Sources"
+subtitle: "Annotated catalogue — evidence before narrative"
+listing:
+  - id: source-catalogue
+    contents: "*.qmd"
+    type: table
+    sort: "date"
+    sort-ui: false
+    filter-ui: false
+    page-size: 25
+    fields: [title, date_display, source_type, availability, verification_status]
+    field-display-names:
+      title: Title
+      date_display: Date
+      source_type: Source type
+      availability: Availability
+      verification_status: Verification
+    categories: false
+toc: false
+---
+
+Each source has its own page with structured front matter. The schema is documented in [source metadata](../docs/source-metadata.qmd). Controlled values are listed in [vocabularies](../docs/vocabularies.qmd) and [evidence statuses](../docs/evidence-status.qmd).
+
+This bootstrap includes:
+
+- one clearly labelled **[example / template record](example-template-source-record.qmd)** (not a completed research item)
+- catalogue records for five **[wanted sources](../research/wanted-sources.qmd)** named in the commissioning issue
+
+Do not treat a catalogue row as proof that this archive has inspected the document. Check `verification_status` and `availability`.

@@ -1,0 +1,77 @@
+---
+title: "Accessibility"
+subtitle: "Requirements, implementation, and automated checks"
+---
+
+Accessibility is a hard requirement. The site prefers simple, readable HTML over visual novelty.
+
+## Approach
+
+| Requirement | How this project addresses it |
+| --- | --- |
+| Semantic HTML | Quarto website output plus ordinary Markdown headings, lists, and tables |
+| Page titles and heading hierarchy | Quarto page title is the `h1`; body headings start at `##` |
+| Descriptive link text | Contribution guide forbids “click here” / “here” / “read more” as sole link text |
+| Visible keyboard focus | Global `:focus-visible` outline in `styles.scss` (dark orange on light content, also visible on the dark navbar via offset) |
+| Contrast | Dark text on white; navbar dark blue (`#083048`) with white text; links `#083d73` |
+| No hover-only interaction | No custom widgets; links remain underlined in body text |
+| No inaccessible custom controls | Default Quarto navbar, search textbox, and tables only |
+| Zoom and Voice Control | System fonts, `px`/`rem` sizing, no pixel-locked click targets we introduced |
+| Reduced motion | `prefers-reduced-motion` disables animation and smooth scrolling |
+
+A skip link (`Skip to main content`) is injected as the first child of `<body>` by `scripts/post_render.py` after each Quarto render. It targets `#quarto-document-content`.
+
+Quarto’s back-to-top control and listing filter boxes are turned off. The back-to-top control is an `onclick` anchor without an `href`. Listing filters are unlabeled text inputs. Both are avoidable with the current small tables, so this site uses browser find and ordinary headings instead.
+
+## What we intentionally did not add
+
+- Decorative webfonts from a third-party CDN
+- Dark-mode theme toggling (easy to get contrast wrong)
+- JavaScript timeline libraries
+- Card grids that bury table data
+- Hover-only footnotes or menus
+
+Quarto’s navbar collapse control and search textbox are stock components and should remain keyboard-reachable. If a future Quarto release breaks that, prefer disabling the control over replacing it with a custom widget.
+
+## Automated check
+
+[`scripts/check_a11y.py`](https://github.com/jordanforge-ca/csil-history/blob/main/scripts/check_a11y.py) walks rendered HTML using the Python standard library. It fails CI when it finds:
+
+- missing `lang` on `<html>`
+- empty or missing `<title>`
+- missing `h1`, or more than one `h1`
+- heading levels that skip (for example `h2` then `h4`)
+- missing skip link
+- images without `alt`
+- empty links, or link text that is only “click here”, “here”, “read more”, or “more”
+- missing `main` landmark or `#quarto-document-content`
+- positive `tabindex` values greater than 0
+
+The checker allows Quarto’s sidebar collapse control, which is an `<a>` without `href` but with an `aria-label`.
+
+The script is a first-pass gate, not a WCAG audit. It does not compute contrast ratios or operate a browser.
+
+Run it after `quarto render`:
+
+```bash
+python3 scripts/check_a11y.py _site
+```
+
+GitHub Actions runs the same command in [`.github/workflows/pages.yml`](https://github.com/jordanforge-ca/csil-history/blob/main/.github/workflows/pages.yml).
+
+## Manual review still needed
+
+Recommended follow-up (issue G in the bootstrap report):
+
+- keyboard pass of navbar, search, listings, and skip link
+- 200% and 400% zoom
+- Voice Control / speech-control names for main links
+- screen-reader pass of a source record, the timeline table, and a person stub
+- contrast check of Quarto listing and callout chrome
+
+## Writing for accessibility
+
+- Use descriptive links: “Creekview evaluation (wanted source)”, not “this report”.
+- Put status in text (`bibliographically-confirmed`), not colour alone.
+- Give data tables a caption and column headers (the timeline template does).
+- Do not add autoplay media or inaccessible PDFs as the only way to read a page.

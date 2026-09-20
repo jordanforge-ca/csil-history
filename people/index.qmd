@@ -1,0 +1,27 @@
+---
+title: "People"
+subtitle: "Name stubs only — no biographies in this bootstrap"
+listing:
+  - id: people-catalogue
+    contents: "*.qmd"
+    type: table
+    sort: "title"
+    sort-ui: false
+    filter-ui: false
+    fields: [title, page_status]
+    field-display-names:
+      title: Name
+      page_status: Page status
+toc: false
+---
+
+These pages reserve names the archive should be able to attach evidence to later. **They are not biographies.** This bootstrap does not assign roles, affiliations, or participation claims.
+
+Each stub can later distinguish:
+
+1. Documented role (cited)
+2. Attributed recollection
+3. Sources mentioning the person
+4. Questions we would like to verify
+
+Do not contact living participants unless a separately agreed research protocol exists. See [CONTRIBUTING.md](https://github.com/jordanforge-ca/csil-history/blob/main/CONTRIBUTING.md).

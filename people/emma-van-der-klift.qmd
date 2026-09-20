@@ -1,0 +1,24 @@
+---
+title: "Emma Van der Klift"
+person_id: emma-van-der-klift
+page_status: stub
+toc: false
+---
+
+{{< include ../_includes/person-stub.md >}}
+
+## Documented role
+
+None recorded. No cited source on this site yet supports a role statement.
+
+## Attributed recollection
+
+None recorded.
+
+## Sources mentioning this person
+
+None catalogued yet.
+
+## Questions we would like to verify
+
+To be added when a research protocol exists. This stub does not list interview questions and does not invite unsolicited contact.

@@ -1,0 +1,33 @@
+---
+title: "Evidence and verification statuses"
+subtitle: "Do not collapse uncertainty into definitive prose"
+---
+
+Every material claim and every source record should carry a status from this list. Timeline events use the same tokens in the `confidence` field.
+
+## Statuses
+
+| Token | Label | Use when |
+| --- | --- | --- |
+| `verified-inspected` | Verified / source inspected | A contributor has seen the item (or a reliable complete copy) and the annotation is based on that inspection |
+| `bibliographically-confirmed` | Bibliographically confirmed | Title, creator, or date is attested (for example by the commissioning issue or a catalogue) but this archive has not inspected the full source |
+| `attributed-recollection` | Attributed recollection | A named person remembers or is reported to remember something; the archive is not independently asserting it |
+| `interpretation` | Interpretation | A relationship, cause, or meaning is being inferred from other evidence |
+| `conflicting-evidence` | Conflicting evidence | Reliable or at least citable accounts disagree (for example 1993 versus 1994 as a CSIL start) |
+| `open-question` | Open question | The archive does not yet have enough evidence to go further |
+
+## How to write with these statuses
+
+- A `bibliographically-confirmed` wanted source is **not** a verified fact about what the document says.
+- An `interpretation` must say what it is inferred from.
+- `conflicting-evidence` rows stay in the timeline until inspected sources show they name different events — and even then, record that resolution.
+- Colour, if used at all, is only a hint. The token or label must appear as text (see the `status-label` style).
+
+## Fields versus prose
+
+Front matter states the status of the **record**. The page body states the status of each **claim**. A single source page may contain a bibliographically confirmed title and several open questions about contents.
+
+## Related
+
+- [Source metadata schema](source-metadata.qmd)
+- [Controlled vocabularies](vocabularies.qmd)

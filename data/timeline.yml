@@ -1,0 +1,110 @@
+- id: tl-1980s-il-advocacy
+  title: "Disability-led independent-living and community-living advocacy in British Columbia"
+  date: 1982-01-01
+  date_iso: "1982-01-01"
+  date_display: "early 1980s"
+  date_precision: approximate
+  confidence: open-question
+  period: precursor
+  href: history/origins.qmd
+  sources_display: "None catalogued yet"
+  source_ids: []
+  notes: "Working research proposition from the commissioning brief. Not tied to an inspected source in this archive."
+
+- id: tl-1985-creekview
+  title: "Creekview independent-living experiment (working date)"
+  date: 1985-01-01
+  date_iso: "1985-01-01"
+  date_display: "c. 1985"
+  date_precision: approximate
+  confidence: open-question
+  period: creekview
+  href: history/creekview.qmd
+  sources_display: "None catalogued yet"
+  source_ids: []
+  notes: "Approximate working date only. See the Creekview placeholder page."
+
+- id: tl-1987-creekview-eval
+  title: "Creekview 202 Project Evaluation Report (wanted source)"
+  date: 1987-01-01
+  date_iso: "1987-01-01"
+  date_display: "c. 1987"
+  date_precision: approximate
+  confidence: bibliographically-confirmed
+  period: creekview
+  href: sources/wanted-creekview-202-evaluation.qmd
+  sources_display: "Wanted: Creekview 202 Project Evaluation Report"
+  source_ids:
+    - src-wanted-creekview-202-eval
+  notes: "Known-to-exist document named in the commissioning issue. Copy not yet held. Year is approximate as stated there."
+
+- id: tl-1990-keys-ecpm
+  title: "Keys on Freedom and ECPM manual material (wanted sources)"
+  date: 1990-01-01
+  date_iso: "1990-01-01"
+  date_display: "c. 1990"
+  date_precision: approximate
+  confidence: bibliographically-confirmed
+  period: ecpm
+  href: history/ecpm.qmd
+  sources_display: "Wanted: Keys on Freedom; ECPM manual(s)"
+  source_ids:
+    - src-wanted-keys-on-freedom
+    - src-wanted-ecpm-manuals
+  notes: "Commissioning issue places Keys on Freedom and ECPM material around 1990. Relationship between the two is not established here."
+
+- id: tl-1993-csil-design
+  title: "CSIL design / authorization (contested starting year)"
+  date: 1993-01-01
+  date_iso: "1993-01-01"
+  date_display: "c. 1993"
+  date_precision: contested
+  confidence: conflicting-evidence
+  period: design-pilot
+  href: history/csil-pilot.qmd
+  sources_display: "Wanted: original Ministry CSIL pilot/design records"
+  source_ids:
+    - src-wanted-ministry-csil-pilot-records
+  notes: "Working date from the commissioning brief. Later writers may treat 1993 or 1994 as a starting year. Do not silently reconcile with the 1994 row."
+
+- id: tl-1994-csil-pilot
+  title: "CSIL pilot and possible ECPM training revision (contested starting year)"
+  date: 1994-01-01
+  date_iso: "1994-01-01"
+  date_display: "c. 1994"
+  date_precision: contested
+  confidence: conflicting-evidence
+  period: design-pilot
+  href: history/csil-pilot.qmd
+  sources_display: "Wanted: Ministry CSIL pilot/design records; ECPM manual(s)"
+  source_ids:
+    - src-wanted-ministry-csil-pilot-records
+    - src-wanted-ecpm-manuals
+  notes: "Working date from the commissioning brief. Preserve the 1993 versus 1994 disagreement until inspected sources settle what each year refers to (design, authorization, pilot, or later summary)."
+
+- id: tl-1995-province-wide
+  title: "Province-wide CSIL availability (working date)"
+  date: 1995-01-01
+  date_iso: "1995-01-01"
+  date_display: "c. 1995"
+  date_precision: approximate
+  confidence: open-question
+  period: province-wide
+  href: history/evolution.qmd
+  sources_display: "None catalogued yet"
+  source_ids: []
+  notes: "Working research proposition. Not yet supported by an inspected source in this archive."
+
+- id: tl-2008-program-review
+  title: "CSIL Program Review Synthesis Report (wanted source)"
+  date: 2008-11-01
+  date_iso: "2008-11-01"
+  date_display: "November 2008"
+  date_precision: approximate
+  confidence: bibliographically-confirmed
+  period: later-review
+  href: sources/wanted-2008-program-review.qmd
+  sources_display: "Wanted: CSIL Review Program Synthesis Report"
+  source_ids:
+    - src-wanted-2008-program-review
+  notes: "Known-to-exist document named in the commissioning issue (November 2008). Copy not yet held. Month is as stated there, not independently verified here."
