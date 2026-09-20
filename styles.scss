@@ -157,27 +157,21 @@ main,
 }
 
 .quarto-listing,
-.timeline-table,
-.quarto-listing-table,
-table {
-  max-width: 100%;
-}
-
-.quarto-listing,
 figure,
-.table-wrapper,
-.table-scroll {
+.table-wrapper {
   max-width: 100%;
   overflow-x: auto;
-  overscroll-behavior-x: contain;
 }
 
 .table-scroll {
   display: block;
+  max-width: 100%;
   margin: 0 0 1rem;
   padding: 0.15rem;
   border: 1px solid #5c6570;
   background: #ffffff;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
 }
 
 .table-scroll:focus,
@@ -188,17 +182,22 @@ figure,
 }
 
 .table-scroll > table {
+  width: 100%;
+  max-width: none;
   margin-bottom: 0;
+}
+
+.table-scroll .timeline-table,
+.table-scroll .quarto-listing-table {
+  min-width: 36rem;
 }
 
 .timeline-table th,
 .timeline-table td,
 .quarto-listing-table th,
-.quarto-listing-table td,
-#quarto-document-content td,
-#quarto-document-content th {
-  overflow-wrap: anywhere;
-  word-break: break-word;
+.quarto-listing-table td {
+  overflow-wrap: break-word;
+  word-break: normal;
 }
 
 img,

@@ -363,9 +363,6 @@ def wrap_scroll_tables(html: str) -> str:
         if TABLE_SCROLL_BEFORE_RE.search(before) or 'class="table-scroll"' in before:
             return table
         is_timeline = "timeline-table" in table
-        is_listing = "quarto-listing-table" in table or "quarto-listing" in before
-        if not (is_timeline or is_listing):
-            return table
         label = (
             "Working CSIL history timeline. Scroll horizontally on small screens."
             if is_timeline
