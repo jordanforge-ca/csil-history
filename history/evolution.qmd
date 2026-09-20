@@ -15,11 +15,11 @@ Later work can track how CSIL changed after a design/pilot period: eligibility, 
 ## Evidence status
 
 - **Later official chronology:** [Ombudsperson 2012](../sources/2012-ombudsperson-best-of-care.qmd) states province-wide implementation in 1995 and cites a November 2008 CSIL Program Review (also referring to a 2007 provincial review).
-- **Bibliographically confirmed (copy sought):** [CSIL Program Review](../sources/wanted-2008-program-review.qmd). Murtagh / “Synthesis Report” wording remains unconfirmed.
+- **Inspected later review (link only):** [CSIL Program Review Synthesis Report](../sources/2008-program-review-synthesis.qmd) (James Murtagh Consulting for Home and Community Care Branch, November 2008; Internet Archive Microlog fiche). Cover title matches the Ombudsperson short title; the cover subtitle is “Synthesis Report.” The report dates CSIL to “the 1990's” and does not choose 1993 versus 1994.
 - **Current program documentation (not founding records):** [gov.bc.ca CSIL page](../sources/gov-bc-csil-program-page.qmd); [HCC Policy 4.C](../sources/hcc-policy-manual-4c.qmd); [VCH CSIL page](../sources/vch-csil-service-page.qmd).
 - **Open questions:** 2007 versus November 2008 review products; administrative homes after the mid-1990s; whether ECPM survived as a VCH name (no current public hit).
 
 ## See also
 
 - [CSIL design and pilot](csil-pilot.qmd)
-- [2008 program review (wanted source)](../sources/wanted-2008-program-review.qmd)
+- [2008 program review synthesis (inspected)](../sources/2008-program-review-synthesis.qmd)

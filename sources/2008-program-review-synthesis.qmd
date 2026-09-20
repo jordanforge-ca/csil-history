@@ -1,0 +1,108 @@
+---
+title: "Choice in Supports for Independent Living (CSIL) Program Review: Synthesis Report"
+date: 2008-11-01
+date_display: "November 2008"
+date_precision: exact
+id: src-2008-program-review-synthesis
+record_status: catalogue-record
+source_authors:
+  - "James Murtagh Consulting"
+author: "James Murtagh Consulting"
+source_type: near-primary
+availability: external-link-only
+verification_status: verified-inspected
+period: later-review
+organizations:
+  - "James Murtagh Consulting"
+  - "British Columbia Ministry of Health Services"
+  - "Home and Community Care Branch"
+  - "Health Authorities Division"
+people: []
+topics:
+  - evaluation
+  - home-support
+external_url: "https://archive.org/details/micro_IA40244204_0972"
+archived_url: "https://archive.org/details/micro_IA40244204_0972"
+bibtex_key: murtagh2008csil
+document_path: ""
+rights_note: "Inspected as an Internet Archive Microlog fiche scan. The fiche header card is a Micromedia ProQuest microfiche with a copyright notice for that edition. Crown / government-commissioned text; no redistribution licence was seen. Do not host the PDF in this repository."
+---
+
+::: {.callout-note}
+## Source inspected
+Internet Archive item [`micro_IA40244204_0972`](https://archive.org/details/micro_IA40244204_0972) was opened on 20 September 2026. Identifying BookReader pages (fiche header, cover, prepared-by page, acknowledgements, contents, introduction page 1, back cover) were viewed as images. The remainder of the same fiche was read from IA’s DjVu OCR of that item. The PDF is **not** hosted here.
+:::
+
+## Identification
+
+| Element | As seen on the IA fiche (or, where noted, only in IA catalogue metadata) |
+| --- | --- |
+| Cover heading | BC Ministry of Health Services |
+| Cover title | Choice in Supports for Independent Living (CSIL) Program Review |
+| Cover subtitle | Synthesis Report |
+| Cover date | November 2008 |
+| Prepared-by page | Prepared by: James Murtagh Consulting / for / Home and Community Care Branch / Health Authorities Division / BC Ministry of Health Services / November, 2008 |
+| ISBN on prepared-by page | 978-0-7726-6054-1 |
+| Fiche header card | Micromedia ProQuest Microlog; document title “Choice in Supports for Independent Living (CSIL) program review (British Columbia)”; microfiche no. 2009-04610 |
+| IA identifier | `micro_IA40244204_0972` |
+| IA item URL | <https://archive.org/details/micro_IA40244204_0972> |
+| Pagination | Contents list runs through page 10. IA metadata also says “10 p” and `imagecount` 16 (fiche cards plus front/back matter). |
+| IA catalogue extras **not** seen on the title pages | Publisher string “[Victoria, B.C.] : BC Ministry of Health Services”; ISBN-10 `0772660549`; OCLC `650085067` |
+
+: Identification of the 2008 CSIL Program Review Synthesis Report as seen on Internet Archive item micro_IA40244204_0972.
+
+Former catalogue id: `src-wanted-2008-program-review` (file `sources/wanted-2008-program-review.qmd`).
+
+`source_type` remains `near-primary`: a 2008 commissioned synthesis of earlier review papers, not a 1990s design file.
+
+## Title and authorship variants (resolved from the pages)
+
+| Wording | Where it came from | Relation to the inspected pages |
+| --- | --- | --- |
+| Choice in Supports for Independent Living Review Program: Synthesis Report | Commissioning issue | **Not** the cover wording. “Review Program” is reversed relative to the cover’s “Program Review.” “Synthesis Report” *does* appear as the cover subtitle. |
+| Choice in Supports for Independent Living (CSIL) Program Review | *Best of Care* footnote 207 (Volume 1: “Ministry of Health”; Overview: “Ministry of Health Services”) | Matches the **cover title**, without the “Synthesis Report” subtitle. |
+| James Murtagh Consulting | Commissioning issue; previously unconfirmed in this archive | **Present** on the prepared-by page as the preparing body. No individual named James Murtagh appears on the pages opened. |
+| Ministry of Health / Ministry of Health Services | *Best of Care* footnote | Cover and prepared-by page use **BC Ministry of Health Services**. The client line is Home and Community Care Branch, Health Authorities Division. |
+
+: Compared title and authorship wordings for the 2008 CSIL Program Review from the commissioning issue, Best of Care, and the inspected fiche.
+
+Front-matter `title` joins the cover title and subtitle with a colon. That colon is a catalogue convention; the cover sets “Synthesis Report” on its own line.
+
+## Annotation
+
+This is a later reference point, not a substitute for 1990s primary sources.
+
+The introduction (page 1, opened as an image) dates CSIL only as “the 1990's”:
+
+> Participation in the program has grown annually since its establishment in the 1990's
+
+That sentence does **not** choose 1993 versus 1994. This archive must not use the 2008 synthesis to pick a starting year.
+
+What the opened pages and the IA OCR of the same item can support:
+
+- That a November 2008 *Program Review* / *Synthesis Report* prepared by James Murtagh Consulting for the Home and Community Care Branch exists and is inspectable online as this Microlog fiche.
+- That the authors present the report as a synthesis of recent, relatively independent CSIL review efforts (the introduction and section 2 describe a 2006 Ministry of Health Services review that produced background papers but “no final report,” plus other 2006 reviews).
+- That *Best of Care* footnote 207’s short title and November 2008 date match this cover.
+
+What they do **not** settle:
+
+- The *Best of Care* statement that “The CSIL program underwent a provincial review in 2007.” The inspected 2008 synthesis describes a **2006** ministry review and is dated November 2008. This archive still does not treat “2007 provincial review” and this November 2008 synthesis as proven to be the same product.
+- Founding-year questions (1993 versus 1994; pilot versus province-wide).
+- Redistribution of the IA PDF (ProQuest fiche copyright notice; no hosting licence seen).
+
+Do not confuse this item with the 2012 Foerster & Murtagh **Care Aide and Community Health Worker Registry** review (FOI HTH-2012-00165), which is a different program and year.
+
+## Open questions
+
+- Whether *Best of Care*’s “provincial review in 2007” is this synthesis, the 2006 ministry process, a contract year, or another product.
+- A born-digital ministry file separate from the Microlog scan, if one exists.
+- Place of publication (not on the title pages opened; IA catalogue only).
+- Day within November 2008.
+- Independent confirmation of the IA metadata OCLC number.
+- The other review documents this synthesis cites (named in OCR; not separately catalogued here). Those may become new wanted items.
+
+## Associated claims
+
+- [Ombudsperson 2012](2012-ombudsperson-best-of-care.qmd) (footnote 207)
+- [Later evolution placeholder](../history/evolution.qmd)
+- Timeline row for November 2008
