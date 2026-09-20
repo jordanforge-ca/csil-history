@@ -17,22 +17,25 @@ Every page starts with `Skip to main content`, injected as the first child of `<
 
 ### 2. One `h1` per page; heading outline only
 
-The Quarto page title is the only `h1`. Body headings start at `##`. Do not fake headings with bold, font-size, or colour. Callout titles are labels, not outline headings.
+The Quarto page title is the only `h1` and the **first heading** in the document. Body headings start at `##`. Do not fake headings with bold, font-size, or colour. Callout titles are labels, not outline headings. The right-hand TOC label (“On this page”) is a styled paragraph, not an `h2`, so it cannot steal the outline ahead of the page title.
 
-**Blocker if a page has no `h1`, more than one `h1`, or a skipped heading level.**
+**Blocker if a page has no `h1`, more than one `h1`, a heading before the page `h1`, or a skipped heading level.**
 
 ### 3. Landmark structure
 
-Required landmarks: `header`, `nav`, `main`, `footer`. Multiple `nav` elements are named:
+Required landmarks: `header`, `nav`, `main`, `footer`. There is **one** banner: the site chrome (`#quarto-header`, named “Site”). The page title block is a `div`, not a second `<header>`. Multiple `nav` elements are named:
 
 | Landmark | Accessible name |
 | --- | --- |
+| Site banner | Site |
 | Primary navbar | Primary |
 | Secondary/sidebar toggle bar | Section menu |
 | Sidebar | In this section |
 | Table of contents | On this page |
 | Breadcrumb | breadcrumb (Quarto) |
 | Prev/next | Previous and next pages |
+
+The navbar collapse control is a native `button` with `aria-expanded` / `aria-controls`. It must **not** have `role="menu"` (that role is for menu widgets, not a disclosure).
 
 The current page is indicated by **`aria-current="page"` plus underline/weight plus visually hidden “(current page)”** — not colour alone. Home uses `aria-current` on the site title. `404` is exempt.
 
@@ -52,7 +55,7 @@ Do not remove outlines. `styles.scss` sets a 3px orange (`#c45c00`) outline plus
 
 ### 6. Reflow at 200% zoom / ~320px width
 
-The header is **static, not sticky**, so chrome cannot cover wrapped text. Body text uses `overflow-wrap`. Wide tables may scroll **inside** their container; the page’s prose must not require horizontal scrolling. Navbar items collapse to a hamburger below large breakpoints. Toggle controls are at least 44×44 px.
+The header is **static, not sticky**, so chrome cannot cover wrapped text. Body text uses `overflow-wrap`. Wide tables may scroll **inside** a `.table-scroll` region (`role="region"`, `tabindex="0"`, named as a horizontally scrollable table); the page’s prose must not require horizontal scrolling. The Timeline page also has a short note that the grid scrolls sideways on small screens. Navbar items collapse to a hamburger below large breakpoints. Toggle controls are at least 44×44 px.
 
 **Blocker if text requires horizontal scrolling or sticky chrome eats content at ~320px or 200% zoom.**
 
@@ -99,7 +102,7 @@ Meaningful images need descriptive `alt`. Decorative images use `alt=""`. Do not
 
 - Theme: Quarto `default` (Bootstrap) + `styles.scss`.
 - `styles.scss` is grouped by baseline rule number. Treat it as the a11y override file.
-- `scripts/post_render.py` patches landmark names, skip target, current page, table captions, and external-link text after each render.
+- `scripts/post_render.py` patches landmark names, skip target, current page, table captions, external-link text, TOC title demotion, navbar `role="menu"` removal, single banner landmark, and contained table overflow after each render.
 
 **High if a theme or custom widget removes focus styles or adds inaccessible chrome.**
 
