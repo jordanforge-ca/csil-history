@@ -9,7 +9,7 @@ toc: false
 
 ## Documented role
 
-None recorded. No cited source on this site yet supports a role statement.
+[Van der Klift and Norman Kunc, “Hell-Bent on Helping” (1994)](../sources/1994-van-der-klift-hell-bent.qmd) is a published chapter on help and inclusive education. It does not name ECPM, CSIL, BC Rehab, Greater Vancouver Home Support Society, or Vancouver Health Department. No inspected public source in this pass identifies her as author of a 1994 ECPM training manual.
 
 ## Attributed recollection
 
@@ -17,8 +17,10 @@ None recorded.
 
 ## Sources mentioning this person
 
-None catalogued yet.
+- [Hell-Bent on Helping (1994)](../sources/1994-van-der-klift-hell-bent.qmd)
+- [ECPM manuals wanted record](../sources/wanted-ecpm-manuals.qmd) (named in the commissioning issue / research brief only)
 
 ## Questions we would like to verify
 
-To be added when a research protocol exists. This stub does not list interview questions and does not invite unsolicited contact.
+- Whether a 1994 ECPM training manual exists and, if so, whether she is named on it.
+- Whether “1994 ECPM manual” in later notes is a conflicting citation of the 1990 Roeher-cited manual, a distinct edition, or a confusion with this 1994 chapter.

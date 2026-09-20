@@ -1,0 +1,71 @@
+---
+title: "Hansard, 24 February 1984: Doug Mowat on Creekview Co-op and high-lesion respiratory quadriplegia"
+date: 1984-02-24
+date_display: "24 February 1984 (morning sitting)"
+date_precision: exact
+id: src-hansard-1984-mowat-creekview
+record_status: catalogue-record
+source_authors:
+  - "Doug Mowat"
+  - "Legislative Assembly of British Columbia"
+author: "Doug Mowat (Hansard)"
+source_type: primary
+availability: external-link-only
+verification_status: verified-inspected
+period: creekview
+organizations:
+  - "Legislative Assembly of British Columbia"
+  - "Pearson Hospital"
+  - "British Columbia Ministry of Health"
+people:
+  - "Doug Mowat"
+topics:
+  - independent-living
+  - housing
+  - home-support
+external_url: "https://lims.leg.bc.ca/hdms/file/Debates/33rd2nd/33p_02s_840224a.htm"
+archived_url: ""
+bibtex_key: hansard1984mowat
+document_path: ""
+rights_note: "Official Hansard HTML. Link only. Electronic version is informational; printed Hansard remains the official version."
+---
+
+::: {.callout-note}
+## Source inspected
+The Legislative Assembly HTML of the 24 February 1984 morning sitting was read on 20 September 2026. This is contemporaneous legislative speech, not a later organizational history.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Sitting | Friday, 24 February 1984, morning; 2nd Session, 33rd Parliament |
+| Speaker | Mr. Mowat, in budget debate |
+| Official HTML | <https://lims.leg.bc.ca/hdms/file/Debates/33rd2nd/33p_02s_840224a.htm> |
+| Page cue in HTML | debate pages beginning at 3455 |
+
+## Annotation
+
+Mowat, speaking as an MLA in support of the budget, describes Pearson Hospital as an extended-care setting whose average age is 42, and names “a new type of disabled person called a high-lesion respiratory quadriplegic.” He then states that six such persons “will soon be leaving Pearson Hospital to move into their own accommodation at the Creekview Co-op on False Creek,” into “a six-bedroom co-op apartment … with all the support services plugged in.” He contrasts a Pearson per diem of $300 (about $2,000 a day for the six) with an estimated $45 to $50 per diem in the co-op. He frames the move as “mainstreaming.”
+
+This is the earliest public official text inspected in this pass that names Creekview as the destination for ventilator-dependent high-lesion quadriplegia leaving Pearson. It is **pre-opening**: “will soon be leaving.” It does not use the numeral “202,” does not name an evaluation, and does not name CSIL or ECPM.
+
+`source_type` is `primary`: a contemporaneous legislative record of a planned move, not a later summary.
+
+## Limitations
+
+- Cost figures and the “six-bedroom” description are Mowat’s 1984 estimates, not an inspected evaluation.
+- The HTML banner states that the printed Hansard remains official.
+- Later sources date opening to September 1985 ([Haw 1989](1989-haw-special-housing-needs.qmd); [SCI BC history](sci-bc-history.qmd)). This sitting does not give an opening date.
+
+## Open questions
+
+- Whether “Creekview Co-op on False Creek” is the same legal entity later called Creekview 202 / Creekview Cooperative Apartment.
+- How Mowat obtained the per-diem figures (ministry briefing, CPA, or personal knowledge).
+- Whether Hansard after opening (see [Nielsen, 10 April 1986](1986-hansard-nielsen-creekview.qmd)) describes the same six residents.
+
+## Associated claims
+
+- [Doug Mowat](../people/doug-mowat.qmd)
+- [Creekview placeholder](../history/creekview.qmd)
+- Timeline row for the Creekview move

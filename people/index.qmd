@@ -1,6 +1,6 @@
 ---
 title: "People"
-subtitle: "Name stubs only — no biographies in this bootstrap"
+subtitle: "Stubs with cited roles only — not biographies"
 listing:
   - id: people-catalogue
     contents: "*.qmd"
@@ -15,9 +15,7 @@ listing:
 toc: false
 ---
 
-These pages reserve names the archive should be able to attach evidence to later. **They are not biographies.** This bootstrap does not assign roles, affiliations, or participation claims.
-
-Each stub can later distinguish:
+These pages reserve names the archive can attach evidence to. **They are not biographies.** Role statements appear only when a cited public source supports them, and they stay in the four stub sections:
 
 1. Documented role (cited)
 2. Attributed recollection

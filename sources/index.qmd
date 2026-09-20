@@ -8,7 +8,7 @@ listing:
     sort: "date"
     sort-ui: false
     filter-ui: false
-    page-size: 25
+    page-size: 40
     fields: [title, date_display, source_type, availability, verification_status]
     field-display-names:
       title: Title
@@ -22,9 +22,12 @@ toc: false
 
 Each source has its own page with structured front matter. The schema is documented in [source metadata](../docs/source-metadata.qmd). Controlled values are listed in [vocabularies](../docs/vocabularies.qmd) and [evidence statuses](../docs/evidence-status.qmd).
 
-This bootstrap includes:
+This catalogue now includes:
 
 - one clearly labelled **[example / template record](example-template-source-record.qmd)** (not a completed research item)
-- catalogue records for five **[wanted sources](../research/wanted-sources.qmd)** named in the commissioning issue
+- five **[wanted sources](../research/wanted-sources.qmd)** named in the commissioning issue, annotated with public bibliographic evidence or documented unsuccessful searches
+- inspected contemporaneous records (Hansard 1984 and 1986; Haw 1989; HEU *Guardian* Nov/Dec 1995 CSIL passage)
+- inspected bibliographic records (Mattinson & Rompf 1987 PubMed abstract; Roeher / Salisbury bibliography)
+- later official and organizational records (Ombudsperson *Best of Care* 2012; IFRC and SCI BC pages; current ministry and VCH CSIL pages; Order of Canada citation)
 
-Do not treat a catalogue row as proof that this archive has inspected the document. Check `verification_status` and `availability`.
+Do not treat a catalogue row as proof that this archive has inspected the original 1980s–90s manuals or ministry files. Check `verification_status` and `availability`. Check the annotation before treating a later webpage as confirmation of a 1980s–90s fact.

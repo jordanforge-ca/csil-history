@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Consumer Participation Model (ECPM) manual(s)"
 date: 1990-01-01
-date_display: "c. 1990; possibly a 1994 training revision"
+date_display: "c. 1990; a 1994 training revision remains an open question"
 date_precision: approximate
 id: src-wanted-ecpm-manuals
 record_status: catalogue-record
@@ -16,11 +16,14 @@ period: ecpm
 organizations:
   - "BC Rehabilitation Society"
   - "Greater Vancouver Home Support Society"
-people: []
+people:
+  - "Joseph Theriault"
+  - "Emma Van der Klift"
 topics:
   - independent-living
   - home-support
   - program-design
+  - documentation
 external_url: ""
 archived_url: ""
 bibtex_key: ecpm1990manual
@@ -29,32 +32,48 @@ rights_note: "Copy not held. Do not upload a scan unless redistribution is clear
 ---
 
 ::: {.callout-note}
-## Known to exist — copy sought
-Bibliographic details on this page come only from [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). This archive has not inspected a copy or an independent catalogue record.
+## 1990 manual bibliographically confirmed — copy sought; 1994 revision still unfound
+A 1990 ECPM skill-development manual with five modules is independently cited in a public 1990s bibliography inspected for this catalogue. No copy of that manual was recovered. A possible 1994 training revision, named in [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10) and in the later research brief as associated with Emma Van der Klift, was **not** found. Van der Klift’s inspected 1994 publication is a different work ([Hell-Bent on Helping](1994-van-der-klift-hell-bent.qmd)).
 :::
 
 ## Identification
 
-| Element | As stated in the commissioning issue |
+| Element | Evidence |
 | --- | --- |
-| Title | Enhanced Consumer Participation Model (ECPM) manual(s) |
-| Creator | BC Rehab / Greater Vancouver Home Support Society |
-| Date | c. 1990 and possibly a 1994 training revision |
+| Title as cited independently | “Enhanced Consumer Participation Model: Skill Development Manual for Consumers of Home Support Services” — [Roeher Institute with Brian Salisbury](1990s-roeher-if-bibliography.qmd) |
+| Creator as cited independently | “BC Rehab & Greater Vancouver Home Support Society” (same bibliography) |
+| Date as cited independently | 1990 (same bibliography) |
+| Physical description as cited independently | “A training manual that includes 5 modules intended to empower consumers to act as effective employers (52 pages plus appendices)” |
+| Later organizational attribution | [IFRC “Our Team”](ifrc-our-team.qmd) describes ECPM as “the individual funding project” that preceded CSIL, naming Joseph Theriault with Paul Gauthier. No manual title or date. |
+| Pre-CSIL list in later slides | [Gauthier 2014](2014-gauthier-sci-csil-presentation.qmd) lists “ECPM Enhanced Consumer Participation Model” as a pre-CSIL step, without a citation. |
+| 1994 training revision | Named in the commissioning issue and research brief. Not found in Roeher, IFRC slides, Internet Archive, or Van der Klift’s public pages. |
+| Emma Van der Klift / Vancouver Health Department | Named in the commissioning issue / research brief. The inspected 1994 Van der Klift & Kunc chapter does not mention ECPM or those agencies. |
+| VCH “institutional survival” | Current [VCH CSIL service page](vch-csil-service-page.qmd) does **not** use the ECPM name. |
 
-This record may represent more than one publication. It is kept as a single wanted item until distinct editions can be identified from inspected copies or independent catalogue records.
+This record may still represent more than one publication. It is kept as a single wanted item until distinct editions can be identified.
+
+## What this pass actually inspected
+
+Inspected: Roeher / Salisbury bibliography PDF; IFRC Our Team; Gauthier 2014 slides; Van der Klift & Kunc 1994 chapter (Broadreach republication); current VCH CSIL page; Internet Archive advanced search for the quoted phrase (zero items, 20 September 2026).
+
+Not inspected: the 1990 manual; any 1994 revision; a library catalogue holding record.
 
 ## Annotation
 
-The commissioning issue treats ECPM manuals as high-priority missing documents. This archive does not yet define ECPM from those texts.
+Public bibliographic evidence supports treating a 1990 *Skill Development Manual* (five modules; 52 pages plus appendices; BC Rehab & GVHSS) as a real, cited publication. The archive has not seen the text. Later IFRC pages treat ECPM as a named precursor project; that is later institutional history, not a formal predecessor declaration in a 1990s instrument. The 1990 versus 1994 date question remains open. ECPM as a formal predecessor to CSIL remains an **interpretation** until a contemporaneous instrument says so.
 
 ## Open questions
 
 - How many manuals or editions exist.
-- Whether a 1994 item is a revision, a training manual, or a different work.
-- Authorship and exact issuing bodies on the title pages.
+- Whether a 1994 item is a revision, a training manual, or a conflicting citation of the 1990 work.
+- Title-page authorship, including any role for Emma Van der Klift, GVHSS, or Vancouver Health Department.
 - Relationship to [*Keys on Freedom*](wanted-keys-on-freedom.qmd).
+- Whether any historical VCH / Vancouver Health Department file still uses the ECPM name.
 
 ## See also
 
-- [ECPM placeholder](../history/ecpm.qmd)
+- [Roeher Institute bibliography](1990s-roeher-if-bibliography.qmd)
+- [Van der Klift 1994 (not the ECPM manual)](1994-van-der-klift-hell-bent.qmd)
+- [IFRC Our Team](ifrc-our-team.qmd)
+- [VCH CSIL page](vch-csil-service-page.qmd)
 - [Wanted sources](../research/wanted-sources.qmd)

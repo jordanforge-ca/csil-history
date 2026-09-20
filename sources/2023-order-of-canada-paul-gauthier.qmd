@@ -1,0 +1,55 @@
+---
+title: "Order of Canada citation: Paul Joseph Gauthier"
+date: 2023-05-11
+date_display: "awarded 11 May 2023; invested 12 December 2024"
+date_precision: exact
+id: src-gg-2023-gauthier
+record_status: catalogue-record
+source_authors:
+  - "Office of the Secretary to the Governor General"
+author: "Governor General of Canada"
+source_type: primary
+availability: external-link-only
+verification_status: verified-inspected
+period: later-review
+organizations:
+  - "Individualized Funding Resource Centre Society"
+people:
+  - "Paul Gauthier"
+topics:
+  - independent-living
+  - individualized-funding
+external_url: "https://www.gg.ca/en/honours/recipients/146-120852"
+archived_url: ""
+bibtex_key: gg2023gauthier
+document_path: ""
+rights_note: "Official Canadian honours citation. Link only."
+---
+
+::: {.callout-note}
+## Source inspected
+The Governor General honours page was read on 20 September 2026.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Honoree | Mr. Paul Joseph Gauthier, Vancouver, British Columbia |
+| Honour | Member of the Order of Canada |
+| Awarded | 11 May 2023 |
+| Invested | 12 December 2024 |
+| URL | <https://www.gg.ca/en/honours/recipients/146-120852> |
+
+## Annotation
+
+The citation, as published, states:
+
+> Disability rights activist Paul Gauthier is committed to increasing the visibility and full integration of people living with disabilities. Initiator of British Columbia’s Choice in Supports for Independent Living, and co-founder of the Individualized Funding Resource Centre Society, he is a steadfast advocate for the removal of systemic barriers and the implementation of progressive policies. He is also a celebrated five-time boccia Paralympian.
+
+This is an official honour citation, not a ministry design file. It supports a **documented-role** note on the Paul Gauthier person page. It does not date CSIL’s start and does not name ECPM.
+
+## Associated claims
+
+- [Paul Gauthier](../people/paul-gauthier.qmd)
+- [IFRC Our Team](ifrc-our-team.qmd)

@@ -1,18 +1,19 @@
 ---
-title: "Choice in Supports for Independent Living Review Program: Synthesis Report"
+title: "Choice in Supports for Independent Living (CSIL) Program Review"
 date: 2008-11-01
-date_display: "November 2008"
-date_precision: approximate
+date_display: "November 2008 (a 2007 'provincial review' is also attested)"
+date_precision: contested
 id: src-wanted-2008-program-review
 record_status: catalogue-record
 source_authors:
-  - "James Murtagh Consulting"
-author: "James Murtagh Consulting"
+  - "British Columbia Ministry of Health"
+author: "British Columbia Ministry of Health (Murtagh attribution not independently confirmed)"
 source_type: near-primary
 availability: known-to-exist-copy-sought
 verification_status: bibliographically-confirmed
 period: later-review
 organizations:
+  - "British Columbia Ministry of Health"
   - "British Columbia Ministry of Health Services"
   - "James Murtagh Consulting"
 people: []
@@ -27,31 +28,46 @@ rights_note: "Copy not held. Government-commissioned report; do not upload unles
 ---
 
 ::: {.callout-note}
-## Known to exist — copy sought
-Bibliographic details on this page come only from [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). This archive has not inspected a copy or an independent catalogue record.
+## Bibliographically confirmed by a later official report — copy still sought
+[Ombudsperson, *The Best of Care* Part 2 (2012)](2012-ombudsperson-best-of-care.qmd) footnote 207 cites “Ministry of Health, Choice in Supports for Independent Living (CSIL) Program Review, November 2008.” The Overview PDF of the same report attributes that footnote to “Ministry of Health Services.” The commissioning issue’s longer title (“Review Program: Synthesis Report”) and “James Murtagh Consulting” authorship were **not** independently confirmed. The report itself was not recovered.
 :::
 
 ## Identification
 
-| Element | As stated in the commissioning issue |
-| --- | --- |
-| Title | Choice in Supports for Independent Living Review Program: Synthesis Report |
-| Creator | Ministry of Health Services / James Murtagh Consulting |
-| Date | November 2008 |
+| Element | Commissioning issue | Independent public evidence now seen |
+| --- | --- | --- |
+| Title | Choice in Supports for Independent Living Review Program: Synthesis Report | *Best of Care*: “Choice in Supports for Independent Living (CSIL) Program Review” |
+| Creator | Ministry of Health Services / James Murtagh Consulting | *Best of Care*: Ministry of Health (Volume 1) / Ministry of Health Services (Overview). Murtagh not named |
+| Date | November 2008 | November 2008 in the same footnote. Same volume also says “The CSIL program underwent a provincial review in 2007.” |
 
-`source_type` is set to `near-primary` because the commissioning issue describes a commissioned synthesis/review, not an original 1990s design file. That classification can change if an inspected copy shows otherwise.
+`source_type` is `near-primary` because the item is described as a commissioned review. Classification can change if an inspected copy shows otherwise.
+
+The title used in front matter now follows the **inspected footnote**, not the commissioning-issue wording. The commissioning-issue title is retained above as an unresolved variant.
+
+## Search leads and near-misses (do not conflate)
+
+Inspected or seen, and **not** treated as this review:
+
+- 2012 Foerster & Murtagh **Care Aide and Community Health Worker Registry** review (FOI HTH-2012-00165). Different program and year; this is the public James Murtagh health-consulting hit.
+- British Columbia Law Institute *Family Caregiving* remark that a CSIL family-payment policy “took effect in 2007 subsequent to a review of the CSIL program” after *Hutchinson*. Does not name Murtagh, “synthesis,” or November 2008.
+- Internet Archive advanced search did not return either title.
+
+Useful next checks: Legislative Library of British Columbia; openinfo.gov.bc.ca FOI packages for 2007–09 “CSIL review”; bibliographies inside later HCC manuals.
 
 ## Annotation
 
-This record is a later reference point, not a substitute for 1990s primary sources.
+Independent official citation now supports treating a November 2008 *CSIL Program Review* as a real ministry document. That is enough to stop saying the bibliographic record exists only in the commissioning issue. It is **not** enough to claim Murtagh authorship, the “Synthesis Report” subtitle, or that the 2007 “provincial review” and the November 2008 citation are the same product.
 
 ## Open questions
 
 - Location of a public copy.
-- Exact subtitle and contract/client wording on the title page.
-- What primary sources the synthesis cites (those may become new wanted items).
+- Exact title-page wording (Program Review vs Review Program: Synthesis Report).
+- Whether James Murtagh Consulting appears on the title page.
+- Whether 2007 and November 2008 name one review, two products, or a contract year versus a publication month.
+- What primary sources the review cites.
 
 ## See also
 
+- [Ombudsperson 2012](2012-ombudsperson-best-of-care.qmd)
 - [Later evolution placeholder](../history/evolution.qmd)
 - [Wanted sources](../research/wanted-sources.qmd)

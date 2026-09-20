@@ -1,0 +1,62 @@
+---
+title: "An Annotated Bibliography on Individualized Funding & Service Brokerage"
+date: 1998-01-01
+date_display: "c. 1997–99 (host file named 1997; inspected text includes 1998–99 items)"
+date_precision: approximate
+id: src-roeher-if-bibliography
+record_status: catalogue-record
+source_authors:
+  - "The Roeher Institute"
+  - "Brian Salisbury"
+author: "The Roeher Institute with Brian Salisbury"
+source_type: reference-finding-aid
+availability: external-link-only
+verification_status: verified-inspected
+period: ecpm
+organizations:
+  - "The Roeher Institute"
+  - "BC Rehab"
+  - "Greater Vancouver Home Support Society"
+people:
+  - "Brian Salisbury"
+topics:
+  - individualized-funding
+  - documentation
+  - program-design
+external_url: "https://allenshea.com/wp-content/uploads/2021/01/Bibliogaphy-of-Core-Resources-1997.pdf"
+archived_url: ""
+bibtex_key: roeher1997ifbib
+document_path: ""
+rights_note: "Public PDF hosted by Allen, Shea & Associates. Link only. Filename misspells Bibliography."
+---
+
+::: {.callout-note}
+## Source inspected
+The public PDF was read on 20 September 2026. It is a finding aid. It does **not** reproduce the ECPM manual. A printed publication year and place were not confirmed beyond the host filename and the date range of cited works.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Title (first page) | AN ANNOTATED BIBLIOGRAPHY On INDIVIDUALIZED FUNDING & SERVICE BROKERAGE prepared by The Roeher Institute with Brian Salisbury |
+| Host URL | <https://allenshea.com/wp-content/uploads/2021/01/Bibliogaphy-of-Core-Resources-1997.pdf> |
+| Host filename date | 1997 |
+| Latest items noticed in the inspected text | Entries dated 1998 and 1999 appear, so the compilation is later than the filename alone suggests |
+
+## Annotation
+
+The entry that grounds the ECPM wanted record, quoted in full as it appears:
+
+> BC Rehab & Greater Vancouver Home Support Society  
+> “Enhanced Consumer Participation Model: Skill Development Manual for Consumers of Home Support Services”, BC Rehab & Greater Vancouver Home Support Society, 1990  
+> A training manual that includes 5 modules intended to empower consumers to act as effective employers (52 pages plus appendices)
+
+The same bibliography lists a June 1997 BCCPD individualized-funding conference whose annotation mentions “the Choices in Support for Independent Living Program” (wording *Choices in Support*, not *Choice in Supports*). That conference report was not recovered in this pass.
+
+The bibliography does **not** list *Keys on Freedom*, a Creekview evaluation, or a 1994 ECPM revision.
+
+## Associated claims
+
+- [ECPM manual(s) wanted record](wanted-ecpm-manuals.qmd)
+- [ECPM placeholder](../history/ecpm.qmd)

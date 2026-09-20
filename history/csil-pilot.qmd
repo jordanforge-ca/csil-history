@@ -21,13 +21,15 @@ Those may be different events. They should not be merged in prose until sources 
 
 ## Evidence status
 
-- **Documented facts:** none recorded on this page yet.
-- **Bibliographically confirmed (copy sought):** [original Ministry of Health CSIL pilot/design records](../sources/wanted-ministry-csil-pilot-records.qmd), approximately 1993–95, described as likely involving the Continuing Care Division / Community Support Branch.
-- **Conflicting evidence to preserve:** 1993 versus 1994 as a CSIL starting year in later accounts.
-- **Open questions:** what “start” refers to in each later account; which records survive; what the pilot’s scope was.
+- **Documented facts:** none from 1993–95 ministry files. Those records remain [wanted](../sources/wanted-ministry-csil-pilot-records.qmd).
+- **Later official chronology:** [Ombudsperson, *Best of Care* Part 2 (2012)](../sources/2012-ombudsperson-best-of-care.qmd) — pilot 1994, province-wide 1995.
+- **Later speaker/org attributions:** [Gauthier 2014](../sources/2014-gauthier-sci-csil-presentation.qmd) (established 1993; 50-person pilot); [Gauthier 2015](../sources/2015-gauthier-csil-module-1.qmd) and [IFRC Our Team](../sources/ifrc-our-team.qmd) (1994).
+- **Contemporaneous newspaper (inspected):** [HEU *Guardian* Nov/Dec 1995](../sources/1995-heu-guardian-novdec.qmd) — CSIL as a new/pilot Community Support Branch / Continuing Care Division program.
+- **Conflicting evidence to preserve:** 1993 versus 1994 as a CSIL starting year; “established” versus piloted 1994 / province-wide 1995. Do not pick a winner here.
+- **Open questions:** what “start” refers to in each account; Continuing Care Division / Community Support Branch as administrative home; ECPM as formal predecessor versus later reconstruction.
 
 ## See also
 
-- [Timeline rows for 1993 and 1994](../timeline.qmd)
+- [Timeline rows for 1993, 1994, and 1995](../timeline.qmd)
 - [Wanted Ministry records](../sources/wanted-ministry-csil-pilot-records.qmd)
 - [Later evolution](evolution.qmd)

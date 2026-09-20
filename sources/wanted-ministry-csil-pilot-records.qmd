@@ -2,7 +2,7 @@
 title: "Original Ministry of Health CSIL pilot/design records"
 date: 1994-01-01
 date_display: "approximately 1993–95"
-date_precision: approximate
+date_precision: contested
 id: src-wanted-ministry-csil-pilot-records
 record_status: catalogue-record
 source_authors:
@@ -10,13 +10,14 @@ source_authors:
 author: "British Columbia Ministry of Health"
 source_type: primary
 availability: known-to-exist-copy-sought
-verification_status: bibliographically-confirmed
+verification_status: conflicting-evidence
 period: design-pilot
 organizations:
   - "British Columbia Ministry of Health"
   - "Continuing Care Division"
   - "Community Support Branch"
-people: []
+people:
+  - "Paul Gauthier"
 topics:
   - program-design
   - individualized-funding
@@ -29,32 +30,53 @@ rights_note: "Government records. Copy not held. Crown copyright or access rules
 ---
 
 ::: {.callout-note}
-## Known to exist — copy sought
-Bibliographic details on this page come only from [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). This archive has not inspected a copy or an independent catalogue record.
+## Known to exist as a class — copies sought; dates conflict
+No original 1993–95 Ministry of Health design file, Treasury Board submission, or pilot instrument was recovered. Later public sources **disagree** on 1993 versus 1994 as an “established” year, and a 2012 official report gives **pilot 1994 / province-wide 1995**. Continuing Care Division / Community Support Branch as the 1995 administrative home is now attested in the inspected [HEU *Guardian* Nov/Dec 1995](1995-heu-guardian-novdec.qmd) feature (union newspaper, not a ministry file). Original 1993–95 design instruments remain unfound.
 :::
 
 ## Identification
 
-| Element | As stated in the commissioning issue |
-| --- | --- |
-| Description | Original Ministry of Health CSIL pilot/design records |
-| Date | Approximately 1993–95 |
-| Likely administrative home | Continuing Care Division / Community Support Branch |
+This is a **class of records**, not a single titled publication. The sortable date `1994-01-01` is a midpoint, not a claim that a specific instrument is dated 1994.
 
-This is a **class of records**, not a single titled publication. The sortable date `1994-01-01` is a midpoint for the stated range, not a claim that a specific instrument is dated 1994.
+| Element | Evidence |
+| --- | --- |
+| Description | Original Ministry of Health CSIL pilot/design records (commissioning issue) |
+| Date range as named | Approximately 1993–95 (commissioning issue) |
+| Administrative home as named in the commissioning issue | Continuing Care Division / Community Support Branch |
+| Administrative home as seen in a 1995 public source | [HEU *Guardian* Nov/Dec 1995](1995-heu-guardian-novdec.qmd): “new program of the Community Support Branch of the Continuing Care Division called ‘Choice in Supports for Independent Living’ or CSIL,” “designed as a pilot program.” |
+| 1993 “established” claim | [Gauthier 2014](2014-gauthier-sci-csil-presentation.qmd): “Established by the Ministry of Health in British Columbia in 1993…” Same deck: “The Pilot — 50 people tried it out.” |
+| 1994 “established” claim | [Gauthier 2015](2015-gauthier-csil-module-1.qmd): “…in 1994…” |
+| 1994 start on IFRC staff page | [IFRC Our Team](ifrc-our-team.qmd): Gauthier “started on the CSIL program in 1994.” |
+| Later official chronology | [Ombudsperson, *Best of Care* Part 2 (2012)](2012-ombudsperson-best-of-care.qmd): “established as a pilot in 1994 and implemented province-wide in 1995.” |
+| Later existence of a named program | *Hutchinson* summary ([2005 CanLIIDocs 513](2005-human-rights-digest-hutchinson.qmd)): client accepted in 1998. |
+| Current policy (not a founding record) | [HCC Policy Manual 4.C](hcc-policy-manual-4c.qmd); [gov.bc.ca CSIL page](gov-bc-csil-program-page.qmd). |
+
+## What this pass actually inspected
+
+Inspected: Gauthier 2014 and 2015 decks; IFRC Our Team; *Best of Care* Volume 1 and Overview; current ministry and VCH CSIL pages; HCC Policy Manual chapter 4; 2011 rate-increase news release; *Hutchinson* digest; HEU Nov/Dec 1995 PDF cover and page-9 CSIL passage.
+
+Not inspected: any 1993–95 ministry file; a Legislative Library or BC Archives finding aid for Continuing Care Division CSIL files.
+
+## Near-miss (do not conflate)
+
+The Roeher bibliography cites Kelly MacKinnon, “Individualized Funding Service Brokerage Pilot,” Ministry of Social Services, October 1995 — a **Social Services** IF/brokerage pilot (1991–96), not a demonstrated Ministry of Health CSIL instrument.
 
 ## Annotation
 
-These records are listed so the 1993–95 design and pilot period has a catalogue hook. They are also relevant to the preserved disagreement about 1993 versus 1994 as a CSIL starting year.
+Public sources now document, in print, three different start-stories: established 1993; established 1994; piloted 1994 and province-wide 1995. They do not replace the missing ministry instruments, and they do not say what each year authorized (design, Treasury Board approval, pilot intake, or broader availability). ECPM as a formal predecessor is still reconstructed from later accounts ([IFRC Our Team](ifrc-our-team.qmd); [Gauthier 2014](2014-gauthier-sci-csil-presentation.qmd)), not from an inspected 1990s ministry file.
 
 ## Open questions
 
-- Which specific files, memos, Treasury Board or ministry instruments, or pilot evaluations exist and are public.
-- What each dated item authorises (design, pilot, or broader availability).
-- Access and copyright status for any recovered copies.
+- Which files exist and are public.
+- What each dated item authorises.
+- Whether “50 people tried it out” (Gauthier 2014) is contemporaneous or later recollection.
+- Whether Hansard for 1993–95 names CSIL (not retrieved in this pass).
+- What ministry instrument created Community Support Branch CSIL, and whether Sally Hamilton’s role is documented elsewhere.
 
 ## See also
 
-- [CSIL design and pilot placeholder](../history/csil-pilot.qmd)
-- [Timeline](../timeline.qmd)
+- [Ombudsperson 2012](2012-ombudsperson-best-of-care.qmd)
+- [HEU Guardian Nov/Dec 1995](1995-heu-guardian-novdec.qmd)
+- [Gauthier 2014 (1993)](2014-gauthier-sci-csil-presentation.qmd)
+- [Gauthier 2015 (1994)](2015-gauthier-csil-module-1.qmd)
 - [Wanted sources](../research/wanted-sources.qmd)

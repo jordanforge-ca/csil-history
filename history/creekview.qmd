@@ -4,8 +4,8 @@ subtitle: "Placeholder — not a finished chapter"
 ---
 
 ::: {.callout-note}
-## Working research proposition
-The commissioning brief places Creekview around 1985 and a Creekview evaluation around 1987. Those dates are not verified from an inspected source in this archive.
+## Placeholder — not a finished chapter
+Inspected contemporaneous sources now exist. This page still does not write the Creekview narrative (Issue #3). It only points to catalogue records.
 :::
 
 ## What this chapter is for
@@ -14,9 +14,10 @@ Later work can reconstruct what Creekview was, who documented it, and how later 
 
 ## Evidence status
 
-- **Documented facts:** none recorded on this page yet.
-- **Bibliographically confirmed (copy sought):** [Creekview 202 Project Evaluation Report](../sources/wanted-creekview-202-evaluation.qmd), named as a known-to-exist document (Patricia Ryan / Ryan & Wiggins, c. 1987).
-- **Open questions:** the institutional setting of Creekview; whether “202” is a project code; how the evaluation was circulated.
+- **Documented facts (inspected):** [Hansard, 24 February 1984](../sources/1984-hansard-mowat-creekview.qmd) (planned move from Pearson to Creekview Co-op); [Hansard, 10 April 1986](../sources/1986-hansard-nielsen-creekview.qmd) (minister reports six residents in place).
+- **Bibliographically confirmed (evaluation copy sought):** a 1987 Creekview evaluation is attested by [Mattinson and Rompf 1987](../sources/1987-mattinson-rompf-creekview.qmd) and [Haw 1989](../sources/1989-haw-special-housing-needs.qmd). The [wanted evaluation record](../sources/wanted-creekview-202-evaluation.qmd) preserves the unconfirmed Ryan / Ryan & Wiggins attribution.
+- **Later organizational / journalistic accounts:** [SCI BC history](../sources/sci-bc-history.qmd); [Fayerman 2018](../sources/2018-vancouversun-walt-lawrence.qmd).
+- **Open questions:** exact title-page of the evaluation; meaning of “202”; Walt Lawrence’s named role versus the unnamed “six”; any formal link from Creekview to ECPM or CSIL.
 
 ## See also
 

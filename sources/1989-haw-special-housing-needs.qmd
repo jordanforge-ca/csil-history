@@ -1,0 +1,67 @@
+---
+title: "Special Housing Needs (Norman Haw, Canadian Paraplegic Association)"
+date: 1989-11-02
+date_display: "2–5 November 1989 (conference)"
+date_precision: exact
+id: src-haw-1989-housing
+record_status: catalogue-record
+source_authors:
+  - "Norman Haw"
+author: "Norman Haw (Canadian Paraplegic Association)"
+source_type: near-primary
+availability: external-link-only
+verification_status: verified-inspected
+period: creekview
+organizations:
+  - "Canadian Paraplegic Association"
+  - "British Columbia Ministry of Health"
+people:
+  - "Norman Haw"
+topics:
+  - independent-living
+  - housing
+  - evaluation
+external_url: "http://www.polioplace.org/sites/default/files/files/Manging%20Post%20Polio%20Problems%20VII-IX%20OCR.pdf"
+archived_url: ""
+bibtex_key: haw1989housing
+document_path: ""
+rights_note: "Conference proceedings OCR hosted by Polio Place. Link only; do not copy the PDF into this repository."
+---
+
+::: {.callout-note}
+## Source inspected
+This archive inspected the public OCR of sections VII–IX of the conference proceedings, and the front matter in the companion OCR of sections I–II, on 20 September 2026. The evaluation report Haw cites was **not** inspected.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Host publication | *Managing Post Polio Problems*: Proceedings of the First Pacific Northwest Regional Polio Conference, 2–5 November 1989, Richmond, B.C. |
+| Sponsor (front matter) | Post Polio Awareness and Support Society of British Columbia |
+| Contribution | “VII. Special Housing Needs,” speaker identified as Norman Haw, Canadian Paraplegic Association; Haw states he is Director of Rehabilitation Services for CPA |
+| Public copy inspected | Polio Place OCR PDF (filename spells “Manging”) |
+| Companion front-matter OCR | [Polio Place, sections I–II](http://www.polioplace.org/sites/default/files/files/Manging%20Post%20Polio%20Problems%20I-II%20OCR.pdf) |
+
+A publisher imprint and printed pagination were not confirmed from a title page in this pass.
+
+## Annotation
+
+Haw gives a developmental account of accessible housing and support services in British Columbia from the early 1970s through the late 1980s. For this archive, the material passages are:
+
+1. Creekview 202 opened in **September 1985** as “an integrated self managed independent living project developed by CPA and at least 6 former residents of Pearson Hospital, five of whom were ventilator-dependent,” occupying the equivalent of six one-bedroom apartments (4,700 square feet) in a 100-unit CMHC-funded co-operative.
+2. The Ministry of Health and the Workers Compensation Board “have provided funding to the tenants through CPA for purchase of support services.”
+3. “In 1987 an independent evaluation of Creekview 202 was published.” Haw then paraphrases cost, health-status, and accreditation findings. Those paraphrases are Haw’s, not a substitute for the evaluation.
+
+`source_type` is `near-primary`: a 1989 public talk by a CPA official about events a few years earlier, not the 1987 evaluation itself.
+
+## Open questions
+
+- Printed publisher, place, and year of the bound proceedings.
+- Whether Haw’s “independent evaluation” is the Ryan / Ryan & Wiggins report named in the commissioning issue.
+
+## Associated claims
+
+- [Creekview 202 evaluation (wanted)](wanted-creekview-202-evaluation.qmd)
+- [Creekview placeholder](../history/creekview.qmd)
+- Timeline rows for c. 1985 and c. 1987

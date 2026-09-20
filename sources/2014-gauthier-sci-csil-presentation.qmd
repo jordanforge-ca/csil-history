@@ -1,0 +1,62 @@
+---
+title: "CSIL presentation (IFRC and Spinal Cord Injury BC, 3-part series)"
+date: 2014-05-08
+date_display: "8, 15 and 22 May 2014"
+date_precision: exact
+id: src-gauthier-2014-sci-slides
+record_status: catalogue-record
+source_authors:
+  - "Paul Gauthier"
+  - "Individualized Funding Resource Centre Society"
+  - "Spinal Cord Injury BC"
+author: "Paul Gauthier (IFRC / SCI BC)"
+source_type: secondary
+availability: external-link-only
+verification_status: verified-inspected
+period: design-pilot
+organizations:
+  - "Individualized Funding Resource Centre Society"
+  - "Spinal Cord Injury BC"
+  - "British Columbia Ministry of Health"
+people:
+  - "Paul Gauthier"
+topics:
+  - individualized-funding
+  - program-design
+  - home-support
+external_url: "https://www.ifrcsociety.org/documents/resources/slides/getting-started/SCI-Presentation-1.pdf"
+archived_url: ""
+bibtex_key: gauthier2014scislides
+document_path: ""
+rights_note: "Public slide deck. Link only."
+---
+
+::: {.callout-note}
+## Source inspected
+The public PDF was read on 20 September 2026. It is a 2014 training presentation, not a 1990s ministry record. It is one side of the 1993-versus-1994 starting-year conflict.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Title slide | “CSIL Presented by Paul Gauthier Individualized Funding Resource Centre Society and Spinal Cord Injury BC 3 part series May 8, 15 & 22, 2014” |
+| URL | <https://www.ifrcsociety.org/documents/resources/slides/getting-started/SCI-Presentation-1.pdf> |
+
+## Annotation
+
+Material passages:
+
+- Under “Pre CSIL?” the deck lists: “1. The Agency  2. ECPM Enhanced Consumer Participation Model  3. People paid themselves.”
+- Under “The beginning of CSIL”: “Established by the Ministry of Health in British Columbia in **1993**, with people with disabilities in the forefront of the program design.”
+- “The Pilot — 50 people tried it out.”
+- “Who was initially involved? Collaboration between home support agencies, BC Ministry of Health senior staff and consumers.”
+- Gauthier is labelled “Founder of CSIL.”
+
+A later IFRC deck by the same speaker ([2015 Module 1](2015-gauthier-csil-module-1.qmd)) uses **1994** in otherwise similar sentences. This archive does not reconcile the two.
+
+## Associated claims
+
+- [Wanted Ministry CSIL records](wanted-ministry-csil-pilot-records.qmd)
+- [CSIL design and pilot placeholder](../history/csil-pilot.qmd)
+- [Paul Gauthier](../people/paul-gauthier.qmd)

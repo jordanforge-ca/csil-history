@@ -9,19 +9,19 @@ The commissioning brief suggested this working lineage so later evidence has a p
 
 **institutional or agency care → disability-led independent-living experiments → Creekview → Enhanced Consumer Participation Model (ECPM) → direct individualized funding → CSIL design and pilot → a province-wide program.**
 
-That sentence is a **research proposition**. This archive has not yet inspected the sources needed to confirm, qualify, or replace it.
+That sentence is a **research proposition**. Catalogue records now exist for several of the dates; the lineage itself is still not written as history.
 
-Working dates to accommodate, also unconfirmed here:
+Working dates to accommodate:
 
 | Working date | Placeholder | Status on this site |
 | --- | --- | --- |
 | Early 1980s | Independent-living / community-living advocacy in British Columbia | Open question |
-| c. 1985 | Creekview | Open question |
-| c. 1987 | Creekview evaluation | Wanted source named; copy not held |
-| c. 1990 | ECPM material and *Keys on Freedom* | Wanted sources named; copy not held |
+| c. 1985 | Creekview | Opening attested by later/near-primary sources; 1984–86 Hansard inspected |
+| c. 1987 | Creekview evaluation | Evaluation attested (Mattinson & Rompf; Haw); report copy not held; Ryan authorship unconfirmed |
+| c. 1990 | ECPM material and *Keys on Freedom* | 1990 ECPM manual independently cited; *Keys on Freedom* still unconfirmed |
 | c. 1993 | CSIL design / authorization | Contested with 1994 |
-| c. 1994 | CSIL pilot; possible ECPM training revision | Contested with 1993 |
-| c. 1995 | Province-wide availability | Open question |
+| c. 1994 | CSIL pilot; possible ECPM training revision | Contested with 1993; 1994 revision unfound |
+| c. 1995 | Province-wide availability | Later official chronology (Ombudsperson 2012); 1995 HEU still says “pilot” |
 
 Use the [timeline](../timeline.qmd) for the same propositions in date order, and [sources](../sources/index.qmd) for catalogue records.
 

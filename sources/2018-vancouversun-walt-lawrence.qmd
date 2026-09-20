@@ -1,0 +1,59 @@
+---
+title: "Inspiring, long-surviving disability advocate Walt Lawrence grateful for 50 years of support"
+date: 2018-09-20
+date_display: "20 September 2018"
+date_precision: exact
+id: src-fayerman-2018-lawrence
+record_status: catalogue-record
+source_authors:
+  - "Pamela Fayerman"
+author: "Pamela Fayerman (Vancouver Sun)"
+source_type: secondary
+availability: external-link-only
+verification_status: verified-inspected
+period: creekview
+organizations:
+  - "Canadian Paraplegic Association"
+  - "Spinal Cord Injury BC"
+  - "George Pearson Hospital"
+people:
+  - "Walt Lawrence"
+  - "Doug Mowat"
+topics:
+  - independent-living
+  - housing
+external_url: "https://vancouversun.com/news/local-news/long-surviving-quadriplegic-walt-lawrence-grateful-for-50-years-of-support"
+archived_url: ""
+bibtex_key: fayerman2018lawrence
+document_path: ""
+rights_note: "Newspaper article. Link only; do not paste long excerpts."
+---
+
+::: {.callout-note}
+## Source inspected
+The public *Vancouver Sun* article was read on 20 September 2026. Statements about Creekview and Doug Mowat are **attributed recollections and journalistic paraphrase**, not inspected 1980s records.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Headline | Inspiring, long-surviving disability advocate Walt Lawrence grateful for 50 years of support |
+| Byline | Pamela Fayerman |
+| Publication | *Vancouver Sun* |
+| Date | 20 September 2018 (page also shows last updated 23 September 2018) |
+| URL | <https://vancouversun.com/news/local-news/long-surviving-quadriplegic-walt-lawrence-grateful-for-50-years-of-support> |
+
+## Annotation
+
+Lawrence is quoted on leaving George Pearson Hospital and directing his own care. Fayerman writes that in the early 1980s the Canadian Paraplegic Association (now SCI BC) “helped with a cost analysis for independent living,” that Lawrence “gives credit to then MLA Doug Mowat,” and that a study found community living “would be 30 per cent less expensive.” She dates the move to “a co-op housing cluster called the Creekview Co-operative Apartment near Granville Island” to 1985.
+
+Those figures and the MLA attribution are reported here as the article states them. They are not independently checked against the 1987 evaluation (still not held). Hansard does record Mowat speaking about Creekview in [February 1984](1984-hansard-mowat-creekview.qmd); that sitting does not name Lawrence or a 30-per-cent figure.
+
+The article does not name CSIL, ECPM, or the 1987 evaluation title.
+
+## Associated claims
+
+- [Walt Lawrence](../people/walt-lawrence.qmd)
+- [Doug Mowat](../people/doug-mowat.qmd)
+- [Creekview placeholder](../history/creekview.qmd)
