@@ -47,9 +47,10 @@ These items were named in [jordanforge-infrastructure issue 10](https://github.c
 
 - **Creator as named:** BC Rehab / Greater Vancouver Home Support Society
 - **Date as named:** c. 1990 and possibly a 1994 training revision
-- **Public evidence now cited:** Roeher / Salisbury bibliography independently cites *Enhanced Consumer Participation Model: Skill Development Manual for Consumers of Home Support Services* (BC Rehab & Greater Vancouver Home Support Society, 1990; five modules; 52 pages plus appendices). See [that finding aid](../sources/1990s-roeher-if-bibliography.qmd).
-- **Still missing:** the manual itself; any 1994 revision; title-page authorship (including any role for Emma Van der Klift). Van der Klift’s inspected 1994 chapter is [a different work](../sources/1994-van-der-klift-hell-bent.qmd). Current [VCH CSIL pages](../sources/vch-csil-service-page.qmd) do not use the ECPM name.
+- **Public evidence now cited:** Roeher / Salisbury bibliography independently cites *Enhanced Consumer Participation Model: Skill Development Manual for Consumers of Home Support Services* (BC Rehab & Greater Vancouver Home Support Society, 1990; five modules; 52 pages plus appendices). See [that finding aid](../sources/1990s-roeher-if-bibliography.qmd). [Experiment 001](experiments/001-ecpm-manual-identity.md) re-inspected that PDF and found no second independent bibliography.
+- **Still missing:** the manual itself; any independently verifiable 1994 revision (still only [issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10) / [issue 5](https://github.com/jordanforge-ca/csil-history/issues/5)); title-page authorship (including any role for Emma Van der Klift or Vancouver Health Department). Van der Klift’s inspected 1994 chapter is [a different work](../sources/1994-van-der-klift-hell-bent.qmd). Current [VCH CSIL pages](../sources/vch-csil-service-page.qmd) do not use the ECPM name. Experiment 001 classification: **INSUFFICIENT EVIDENCE** for 1990/1994 identity.
 - **Catalogue record:** [ECPM manual(s)](../sources/wanted-ecpm-manuals.qmd)
+- **Experiment 001 catalogue leads still open:** native UBC (blocked 20 September 2026), SFU, UVic, Legislative Library print catalogue, CMHC Housing Knowledge Centre, and LAC Aurora/Voilà interfaces; WorldCat and Internet Archive native result pages timed out and web hits showed no holding.
 
 ## 4. Original Ministry of Health CSIL pilot/design records
 
@@ -72,7 +73,7 @@ These items were named in [jordanforge-infrastructure issue 10](https://github.c
 
 Public web; PubMed (PMID 3691990); BC Hansard HTML (1984, 1986; later Creekview sittings not found); HEU Guardian archive (Nov/Dec 1995 PDF retrieved); bcombudsperson.ca *Best of Care* PDFs; Internet Archive advanced search (zero hits for the Creekview evaluation title, “Enhanced Consumer Participation Model,” and “Keys on Freedom” + quadriplegic); WorldCat-style and CMHC / publications.gc.ca web searches (no *Keys on Freedom* hit); gov.bc.ca, vch.ca, and openinfo.gov.bc.ca PDFs; SCI BC and IFRC pages; Polio Place conference OCR; CanLII commentary PDF; Governor General honours page for Paul Gauthier; Broadreach Van der Klift pages.
 
-UBC, SFU, Legislative Library of British Columbia, and CMHC Housing Knowledge Centre native catalogue interfaces were not successfully queried. They remain useful next checks.
+UBC, SFU, Legislative Library of British Columbia, and CMHC Housing Knowledge Centre native catalogue interfaces were not successfully queried. They remain useful next checks. Experiment 001 (20 September 2026) retried UBC (blocked), WorldCat and Internet Archive native result pages (timed out; web hits showed no ECPM-manual holding), and LAC/LLBC web search (no matching record). See [the experiment memo](experiments/001-ecpm-manual-identity.md).
 
 A later 20 September 2026 follow-up opened the Internet Archive Microlog item `micro_IA40244204_0972` (*Choice in Supports for Independent Living (CSIL) program review synthesis report*). The earlier advanced-search note that IA “did not return either title” for the 2008 review was a miss; the fiche is public. Creekview, *Keys on Freedom*, ECPM, and ministry pilot/design copies were not recovered in that follow-up.
 

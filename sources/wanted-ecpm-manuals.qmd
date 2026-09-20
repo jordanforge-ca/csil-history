@@ -33,7 +33,7 @@ rights_note: "Copy not held. Do not upload a scan unless redistribution is clear
 
 ::: {.callout-note}
 ## 1990 manual bibliographically confirmed — copy sought; 1994 revision still unfound
-A 1990 ECPM skill-development manual with five modules is independently cited in a public 1990s bibliography inspected for this catalogue. No copy of that manual was recovered. A possible 1994 training revision, named in [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10) and in the later research brief as associated with Emma Van der Klift, was **not** found. Van der Klift’s inspected 1994 publication is a different work ([Hell-Bent on Helping](1994-van-der-klift-hell-bent.qmd)).
+A 1990 ECPM skill-development manual with five modules is independently cited in a public 1990s bibliography inspected for this catalogue. No copy of that manual was recovered. [Experiment 001](../research/experiments/001-ecpm-manual-identity.md) re-inspected that Roeher/Salisbury entry and still found **no** independently verifiable 1994 ECPM training manual. The 1994 item remains a later report: [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10) (working proposition) and [csil-history#5](https://github.com/jordanforge-ca/csil-history/issues/5) (uncited “evidence suggests,” including Emma Van der Klift and Vancouver Health Department). Van der Klift’s inspected 1994 publication is a different work ([Hell-Bent on Helping](1994-van-der-klift-hell-bent.qmd)). Experiment classification: **INSUFFICIENT EVIDENCE** for same work / edition / distinct works.
 :::
 
 ## Identification
@@ -46,21 +46,23 @@ A 1990 ECPM skill-development manual with five modules is independently cited in
 | Physical description as cited independently | “A training manual that includes 5 modules intended to empower consumers to act as effective employers (52 pages plus appendices)” |
 | Later organizational attribution | [IFRC “Our Team”](ifrc-our-team.qmd) describes ECPM as “the individual funding project” that preceded CSIL, naming Joseph Theriault with Paul Gauthier. No manual title or date. |
 | Pre-CSIL list in later slides | [Gauthier 2014](2014-gauthier-sci-csil-presentation.qmd) lists “ECPM Enhanced Consumer Participation Model” as a pre-CSIL step, without a citation. |
-| 1994 training revision | Named in the commissioning issue and research brief. Not found in Roeher, IFRC slides, Internet Archive, or Van der Klift’s public pages. |
-| Emma Van der Klift / Vancouver Health Department | Named in the commissioning issue / research brief. The inspected 1994 Van der Klift & Kunc chapter does not mention ECPM or those agencies. |
+| 1994 training revision | Reported only in [issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10) and [issue 5](https://github.com/jordanforge-ca/csil-history/issues/5). Not found in Roeher, WorldCat/IA/LAC web hits (Experiment 001), IFRC snippets, or Van der Klift’s inspected 1994 chapter. |
+| Emma Van der Klift / Vancouver Health Department | Clustered with a ~1994 manual in [issue 5](https://github.com/jordanforge-ca/csil-history/issues/5) without a cited source. Issue 10 lists Van der Klift among people to accommodate, separately from the “possibly 1994” proposition. The inspected 1994 Van der Klift & Kunc chapter does not mention ECPM or those agencies. |
 | VCH “institutional survival” | Current [VCH CSIL service page](vch-csil-service-page.qmd) does **not** use the ECPM name. |
 
 This record may still represent more than one publication. It is kept as a single wanted item until distinct editions can be identified.
 
 ## What this pass actually inspected
 
-Inspected: Roeher / Salisbury bibliography PDF; IFRC Our Team; Gauthier 2014 slides; Van der Klift & Kunc 1994 chapter (Broadreach republication); current VCH CSIL page; Internet Archive advanced search for the quoted phrase (zero items, 20 September 2026).
+Earlier catalogue pass: Roeher / Salisbury bibliography PDF; IFRC Our Team; Gauthier 2014 slides; Van der Klift & Kunc 1994 chapter (Broadreach republication); current VCH CSIL page; Internet Archive advanced search for the quoted phrase (zero items, 20 September 2026).
+
+Experiment 001 (20 September 2026): Roeher/Salisbury PDF re-inspected; Broadreach Hell-Bent page re-opened (no ECPM match); issues 10, 5, and 14 read; WorldCat, Internet Archive, LAC/Voilà, and LLBC *web* searches returned no holding; UBC Library native search was blocked. See [the experiment memo](../research/experiments/001-ecpm-manual-identity.md).
 
 Not inspected: the 1990 manual; any 1994 revision; a library catalogue holding record.
 
 ## Annotation
 
-Public bibliographic evidence supports treating a 1990 *Skill Development Manual* (five modules; 52 pages plus appendices; BC Rehab & GVHSS) as a real, cited publication. The archive has not seen the text. Later IFRC pages treat ECPM as a named precursor project; that is later institutional history, not a formal predecessor declaration in a 1990s instrument. The 1990 versus 1994 date question remains open. ECPM as a formal predecessor to CSIL remains an **interpretation** until a contemporaneous instrument says so.
+Public bibliographic evidence supports treating a 1990 *Skill Development Manual* (five modules; 52 pages plus appendices; BC Rehab & GVHSS) as a real, cited publication. The archive has not seen the text. Experiment 001 found no second independent bibliography and no holding record. The 1990 versus 1994 date question remains open because the 1994 date is still an uncited later report, not a competing inspected citation. Later IFRC pages treat ECPM as a named precursor project; that is later institutional history, not a formal predecessor declaration in a 1990s instrument, and it was not used to settle manual identity.
 
 ## Open questions
 
@@ -77,3 +79,4 @@ Public bibliographic evidence supports treating a 1990 *Skill Development Manual
 - [IFRC Our Team](ifrc-our-team.qmd)
 - [VCH CSIL page](vch-csil-service-page.qmd)
 - [Wanted sources](../research/wanted-sources.qmd)
+- [Experiment 001 memo](../research/experiments/001-ecpm-manual-identity.md)
