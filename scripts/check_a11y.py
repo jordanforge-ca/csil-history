@@ -258,6 +258,9 @@ def check_page(path: Path, site_root: Path) -> list[str]:
     if rel.as_posix() != "404.html" and not parser.has_aria_current:
         errors.append(f"{rel}: current page is not indicated with aria-current")
 
+    if re.search(r"scope=\"col\"ead", raw, flags=re.IGNORECASE):
+        errors.append(f"{rel}: <thead> was corrupted into a th (scope=col on thead)")
+
     for table in parser.tables:
         if table["role"] == "grid":
             errors.append(f"{rel}: table uses role=grid; use a real table instead")

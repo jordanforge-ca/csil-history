@@ -242,12 +242,13 @@ def caption_tables(html: str, rel: str) -> str:
         html,
         flags=re.DOTALL | re.IGNORECASE,
     )
-    html = re.sub(
-        r"<th(?![^>]*scope=)",
-        '<th scope="col"',
-        html,
-        flags=re.IGNORECASE,
-    )
+    def add_scope(m: re.Match[str]) -> str:
+        tag = m.group(0)
+        if "scope=" in tag.lower():
+            return tag
+        return tag[:-1] + ' scope="col">'
+
+    html = re.sub(r"<th\b[^>]*>", add_scope, html, flags=re.IGNORECASE)
     return html
 
 
