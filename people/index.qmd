@@ -1,6 +1,6 @@
 ---
 title: "People"
-subtitle: "Name stubs only — no biographies in this bootstrap"
+subtitle: "Stubs with cited public mentions only — not biographies"
 listing:
   - id: people-catalogue
     contents: "*.qmd"
@@ -15,13 +15,13 @@ listing:
 toc: false
 ---
 
-These pages reserve names the archive should be able to attach evidence to later. **They are not biographies.** This bootstrap does not assign roles, affiliations, or participation claims.
+These pages hold names the archive can attach evidence to. They are **not biographies**. A documented-role note appears only when a cited public source supports it.
 
-Each stub can later distinguish:
+Each stub distinguishes:
 
 1. Documented role (cited)
 2. Attributed recollection
-3. Sources mentioning the person
+3. Sources mentioning this person
 4. Questions we would like to verify
 
 Do not contact living participants unless a separately agreed research protocol exists. See [CONTRIBUTING.md](https://github.com/jordanforge-ca/csil-history/blob/main/CONTRIBUTING.md).

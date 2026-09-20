@@ -7,7 +7,9 @@ This section tracks active research gaps. It is not a findings page.
 
 ## Current priorities
 
-The commissioning issue named five documents or record classes that are **known to exist** and whose copies are still sought. They are listed on [Wanted Sources](wanted-sources.qmd) and as individual catalogue records under [Sources](../sources/index.qmd).
+Four of the five commissioning-issue targets remain **copy sought**: the Creekview 202 evaluation, *Keys on Freedom*, ECPM manuals, and original 1993–95 ministry CSIL records. The fifth — the November 2008 synthesis — is now a public Internet Archive scan ([catalogue record](../sources/wanted-2008-program-review.qmd)).
+
+See [Wanted Sources](wanted-sources.qmd) and [catalogue search notes](catalogue-search-notes.qmd).
 
 ## How to use this section
 

@@ -1,0 +1,62 @@
+---
+title: "Participation in and employee attitude toward organizational change: a case study on strategic change at George Pearson Centre"
+date: 1993-06-01
+date_display: "June 1993"
+date_precision: exact
+id: src-clay-1993-pearson
+record_status: catalogue-record
+source_authors:
+  - "Nancy Margaret Clay"
+author: "Nancy Margaret Clay"
+source_type: secondary
+availability: external-link-only
+verification_status: verified-inspected
+period: creekview
+organizations:
+  - "British Columbia Rehabilitation Society"
+  - "George Pearson Centre"
+people:
+  - "Nancy Margaret Clay"
+topics:
+  - independent-living
+  - documentation
+external_url: "https://doi.org/10.14288/1.0098819"
+archived_url: ""
+bibtex_key: clay1993pearson
+document_path: ""
+rights_note: "UBC cIRcle thesis. Link only."
+---
+
+::: {.callout-note}
+## Source inspected
+The public cIRcle text was read. Creekview appears as a citation of B.C. Rehab documents, not as a study of Creekview itself.
+:::
+
+## Identification
+
+| Element | As inspected |
+| --- | --- |
+| Author | Nancy Margaret Clay |
+| Degree statement | Thesis, University of British Columbia, June 1993 |
+| DOI | [10.14288/1.0098819](https://doi.org/10.14288/1.0098819) |
+| Subject | Employee participation in B.C. Rehab strategic planning at George Pearson Centre |
+
+: Identification
+
+## Annotation
+
+Clay writes that, with assistance from the Canadian Paraplegic Association, “six young men with high lesion quadriplegia, four of whom were ventilator-dependent, moved from Pearson to a group apartment in the False Creek area of Vancouver.” She quotes B.C. Rehabilitation Society (1992d, p. 18) that Creekview was “probably the first time anywhere that people with such severe disabilities had made such a move and achieved such independence.” She also notes Noble House (January 1992) as a later move.
+
+Resident counts differ from Haw 1989 (Haw: at least six men, five ventilator-dependent). The conflict is left standing. Clay does not cite a 1987 evaluation, ECPM, or CSIL.
+
+The thesis independently attests B.C. Rehab as an organization producing internal histories in 1992 — a lead for *Keys on Freedom* and ECPM searches, not a substitute for those manuals.
+
+## Open questions
+
+- Full bibliographic details of “B.C. Rehabilitation Society, 1992d,” the internal history Clay quotes.
+- Why ventilator-dependent counts differ across later accounts.
+
+## See also
+
+- [Haw 1989](haw-1989-creekview-account.qmd)
+- [Creekview evaluation (wanted)](wanted-creekview-202-evaluation.qmd)

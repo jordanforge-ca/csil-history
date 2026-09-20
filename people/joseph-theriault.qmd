@@ -1,7 +1,7 @@
 ---
 title: "Joseph Theriault"
 person_id: joseph-theriault
-page_status: stub
+page_status: draft
 toc: false
 ---
 
@@ -9,16 +9,19 @@ toc: false
 
 ## Documented role
 
-None recorded. No cited source on this site yet supports a role statement.
+The [IFRC “Our Team” page](../sources/ifrc-our-team.qmd) (inspected) states that Joseph Theriault has been president of the IFRC board since May 2014; that he worked as a home support worker, residential care attendant, and for CSIL employers; and that he “worked alongside Paul and others as pioneers of the individual funding project; then known as Enhanced Consumer Participation Model [ECPM].” It also states that he travelled the province on CSIL and gave workshops through Capilano Community College.
+
+Those are IFRC statements. This archive has not inspected ECPM manuals or workshop handouts that would test them.
 
 ## Attributed recollection
 
-None recorded.
+None recorded from a named oral-history protocol.
 
 ## Sources mentioning this person
 
-None catalogued yet.
+- [IFRC Our Team](../sources/ifrc-our-team.qmd)
 
 ## Questions we would like to verify
 
-To be added when a research protocol exists. This stub does not list interview questions and does not invite unsolicited contact.
+- Dated ECPM or CSIL training materials that name Theriault.
+- Dates and syllabi of the Capilano College workshops.

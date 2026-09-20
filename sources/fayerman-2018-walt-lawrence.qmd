@@ -1,0 +1,63 @@
+---
+title: "Pamela Fayerman, “Inspiring, long-surviving disability advocate Walt Lawrence grateful for 50 years of support”"
+date: 2018-09-20
+date_display: "20 September 2018"
+date_precision: exact
+id: src-fayerman-2018-lawrence
+record_status: catalogue-record
+source_authors:
+  - "Pamela Fayerman"
+author: "Pamela Fayerman (Vancouver Sun)"
+source_type: secondary
+availability: external-link-only
+verification_status: verified-inspected
+period: creekview
+organizations:
+  - "Canadian Paraplegic Association"
+  - "Creekview Co-operative"
+people:
+  - "Walt Lawrence"
+  - "Doug Mowat"
+topics:
+  - independent-living
+external_url: "https://vancouversun.com/news/local-news/long-surviving-quadriplegic-walt-lawrence-grateful-for-50-years-of-support"
+archived_url: ""
+bibtex_key: fayerman2018lawrence
+document_path: ""
+rights_note: "Newspaper article. Link only. Do not paste long excerpts."
+---
+
+::: {.callout-note}
+## Source inspected
+The Vancouver Sun article was read on 20 September 2026. Recollections are Fayerman’s reporting of named speakers, not independently verified events.
+:::
+
+## Identification
+
+| Element | As inspected |
+| --- | --- |
+| Headline | Inspiring, long-surviving disability advocate Walt Lawrence grateful for 50 years of support |
+| Author / date | Pamela Fayerman, 20 September 2018 (updated 23 September 2018) |
+| URL | [Vancouver Sun article](https://vancouversun.com/news/local-news/long-surviving-quadriplegic-walt-lawrence-grateful-for-50-years-of-support) |
+
+: Identification
+
+## Annotation
+
+Fayerman reports Walt Lawrence’s account that a group of five or six people at George Pearson Hospital wanted to direct their own care; that in the early 1980s the Canadian Paraplegic Association (now SCI BC) helped with a cost analysis; that Lawrence credits then-MLA Doug Mowat with championing the cause; that a study found community living about 30 percent less expensive than the rehabilitation facility; and that in 1985 Lawrence and friends moved into “a co-op housing cluster called the Creekview Co-operative Apartment near Granville Island.”
+
+The “30 percent less expensive” figure does not match Norman Haw’s 1989 summary of a 1987 evaluation (about 60% of Pearson costs). Both statements are catalogued. They are not collapsed into one finding.
+
+This article does not mention CSIL or ECPM.
+
+## Open questions
+
+- Whether the “cost analysis” is the 1987 evaluation, an earlier CPA study, or something else.
+- Exact legal name of the co-op in 1985.
+
+## See also
+
+- [Walt Lawrence](../people/walt-lawrence.qmd)
+- [Doug Mowat](../people/doug-mowat.qmd)
+- [Haw 1989](haw-1989-creekview-account.qmd)
+- [SCI BC “Walt’s Time”](sci-bc-2019-walt-lawrence.qmd)

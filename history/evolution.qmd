@@ -5,7 +5,7 @@ subtitle: "Placeholder — not a finished chapter"
 
 ::: {.callout-note}
 ## Working research proposition
-The commissioning brief includes province-wide availability around 1995 and a 2008 program-review synthesis as later reference points. Neither is written up as history here.
+Province-wide availability around 1995 remains an open question. A November 2008 program-review synthesis has now been inspected via a public scan. Current program pages and policy manuals describe today’s CSIL; they are not a 1990s history.
 :::
 
 ## What this chapter is for
@@ -14,11 +14,11 @@ Later work can track how CSIL changed after a design/pilot period: eligibility, 
 
 ## Evidence status
 
-- **Documented facts:** none recorded on this page yet.
-- **Bibliographically confirmed (copy sought):** [Choice in Supports for Independent Living Review Program: Synthesis Report](../sources/wanted-2008-program-review.qmd) (Ministry of Health Services / James Murtagh Consulting, November 2008).
-- **Open questions:** when and how CSIL became available province-wide; which later reviews are public; what administrative homes the program had after the mid-1990s.
+- **Inspected later official sources:** [2008 synthesis](../sources/wanted-2008-program-review.qmd); [2011 rate-increase news release](../sources/bc-gov-news-2011-csil-rates.qmd); [HCC Policy Manual ch. 4](../sources/hcc-policy-manual-csil.qmd); [current provincial CSIL page](../sources/gov-bc-csil-program-page.qmd); [SCI BC workbook](../sources/sci-bc-csil-workbook.qmd).
+- **Hansard lead only:** [2000 index entry](../sources/hansard-2000-csil-index.qmd) (transcript not read).
+- **Open questions:** when and how CSIL became available province-wide; whereabouts of the 2006 ministry background papers, BCPA compilation, and VIHA review cited in 2008.
 
 ## See also
 
 - [CSIL design and pilot](csil-pilot.qmd)
-- [2008 synthesis report (wanted source)](../sources/wanted-2008-program-review.qmd)
+- [2008 synthesis report](../sources/wanted-2008-program-review.qmd)

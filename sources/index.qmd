@@ -22,9 +22,11 @@ toc: false
 
 Each source has its own page with structured front matter. The schema is documented in [source metadata](../docs/source-metadata.qmd). Controlled values are listed in [vocabularies](../docs/vocabularies.qmd) and [evidence statuses](../docs/evidence-status.qmd).
 
-This bootstrap includes:
+This catalogue now includes:
 
 - one clearly labelled **[example / template record](example-template-source-record.qmd)** (not a completed research item)
-- catalogue records for five **[wanted sources](../research/wanted-sources.qmd)** named in the commissioning issue
+- wanted-source records for Creekview, *Keys on Freedom*, ECPM manuals, and 1993–95 ministry files, now grounded in public citations or documented unsuccessful searches
+- the **2008 CSIL Program Review Synthesis Report**, inspected via a public Internet Archive fiche scan
+- additional inspected public records (program pages, workbooks, Hansard index, secondary histories, IFRC and SCI BC pages)
 
-Do not treat a catalogue row as proof that this archive has inspected the document. Check `verification_status` and `availability`.
+Do not treat a catalogue row as proof that this archive has inspected the original historical file. Check `verification_status` and `availability`. Search methods are listed in [catalogue search notes](../research/catalogue-search-notes.qmd).

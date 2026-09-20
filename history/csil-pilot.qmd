@@ -5,7 +5,7 @@ subtitle: "Placeholder — not a finished chapter"
 
 ::: {.callout-note}
 ## Conflicting or unsettled dates
-The commissioning brief asks this archive to accommodate CSIL design or authorization around **1993**, a pilot around **1994**, and later disagreement about which year counts as a start. This page does not choose between 1993 and 1994.
+Public later sources disagree about **1993** versus **1994** as a CSIL starting year. The inspected 2008 ministry-commissioned synthesis says only “the 1990's.” A 2006 Health Canada report says the program had existed “for the past twenty years.” This page does not choose among those wordings.
 :::
 
 ## What this chapter is for
@@ -21,9 +21,11 @@ Those may be different events. They should not be merged in prose until sources 
 
 ## Evidence status
 
-- **Documented facts:** none recorded on this page yet.
-- **Bibliographically confirmed (copy sought):** [original Ministry of Health CSIL pilot/design records](../sources/wanted-ministry-csil-pilot-records.qmd), approximately 1993–95, described as likely involving the Continuing Care Division / Community Support Branch.
-- **Conflicting evidence to preserve:** 1993 versus 1994 as a CSIL starting year in later accounts.
+- **Documented facts from inspected 1990s ministry files:** none. Original instruments remain [wanted](../sources/wanted-ministry-csil-pilot-records.qmd).
+- **Later 1993 claim:** [IFRC / SCI deck](../sources/ifrc-sci-presentation-1993.qmd).
+- **Later 1994 claims:** [IFRC Module 1](../sources/ifrc-csil-module-1-1994.qmd); [Kelly et al. 2020](../sources/kelly-2020-directly-funded.qmd); IFRC Our Team (Cheng biography).
+- **Later unspecified 1990s:** [2008 synthesis](../sources/wanted-2008-program-review.qmd).
+- **Later “twenty years” as of 2006:** [Spalding et al.](../sources/spalding-2006-self-managed.qmd).
 - **Open questions:** what “start” refers to in each later account; which records survive; what the pilot’s scope was.
 
 ## See also

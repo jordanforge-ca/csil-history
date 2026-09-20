@@ -55,6 +55,7 @@ website:
       contents:
         - research/index.qmd
         - research/wanted-sources.qmd
+        - research/catalogue-search-notes.qmd
     - id: documentation
       title: Project documentation
       style: docked

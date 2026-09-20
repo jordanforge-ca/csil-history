@@ -5,7 +5,7 @@ subtitle: "Placeholder — not a finished chapter"
 
 ::: {.callout-note}
 ## Working research proposition
-The commissioning brief places Creekview around 1985 and a Creekview evaluation around 1987. Those dates are not verified from an inspected source in this archive.
+Later public sources place Creekview (sometimes spelled Creekside) in 1985 and an independent evaluation in 1987. This page does not treat those later accounts as the evaluation itself, and it does not assert how Creekview relates to ECPM or CSIL.
 :::
 
 ## What this chapter is for
@@ -14,9 +14,10 @@ Later work can reconstruct what Creekview was, who documented it, and how later 
 
 ## Evidence status
 
-- **Documented facts:** none recorded on this page yet.
-- **Bibliographically confirmed (copy sought):** [Creekview 202 Project Evaluation Report](../sources/wanted-creekview-202-evaluation.qmd), named as a known-to-exist document (Patricia Ryan / Ryan & Wiggins, c. 1987).
-- **Open questions:** the institutional setting of Creekview; whether “202” is a project code; how the evaluation was circulated.
+- **Documented facts on inspected later sources:** Creekview 202 described as opening September 1985 ([Haw 1989](../sources/haw-1989-creekview-account.qmd)); SCI BC history dates “Creekview” to 1985; Fayerman 2018 reports a 1985 move to Creekview Co-operative; Clay 1993 quotes a B.C. Rehab history on a False Creek move. Resident counts and ventilator-dependent counts differ across those pages.
+- **Bibliographically confirmed (copy sought):** [Creekview 202 Project Evaluation Report](../sources/wanted-creekview-202-evaluation.qmd). A 1987 independent evaluation is attested by Haw; the title and “Patricia Ryan / Ryan & Wiggins” are not independently confirmed.
+- **Conflicting later wording:** “Creekview” versus “Creekside”; Haw’s cost findings versus Fayerman’s “30 percent less expensive.”
+- **Open questions:** institutional setting; whether “202” is a project code or unit number; how the evaluation was circulated.
 
 ## See also
 

@@ -1,7 +1,7 @@
 ---
 title: "Paul Gauthier"
 person_id: paul-gauthier
-page_status: stub
+page_status: draft
 toc: false
 ---
 
@@ -9,16 +9,18 @@ toc: false
 
 ## Documented role
 
-None recorded. No cited source on this site yet supports a role statement.
+The [IFRC “Our Team” page](../sources/ifrc-our-team.qmd) (inspected) states that Paul Gauthier is founder and executive director of the Individualized Funding Resource Centre Society and “one of the founders of the Choice in Supports for Independent Living (CSIL) program.” The same page’s Anthony Cheng biography says Gauthier “started on the CSIL program in 1994.” Those are IFRC statements, not inspected 1990s ministry records.
 
 ## Attributed recollection
 
-None recorded.
+None recorded from a named oral-history protocol.
 
 ## Sources mentioning this person
 
-None catalogued yet.
+- [IFRC Our Team](../sources/ifrc-our-team.qmd)
+- [IFRC / SCI slide deck using a 1993 founding year](../sources/ifrc-sci-presentation-1993.qmd) (presented by Paul Gauthier)
 
 ## Questions we would like to verify
 
-To be added when a research protocol exists. This stub does not list interview questions and does not invite unsolicited contact.
+- What “founder” means in contemporaneous 1993–95 documents.
+- Relationship, if any, to ECPM manuals (Theriault’s IFRC biography links Gauthier to ECPM; the manuals themselves have not been inspected).

@@ -1,0 +1,68 @@
+---
+title: "B.C. to boost home support program rates"
+date: 2011-03-28
+date_display: "28 March 2011"
+date_precision: exact
+id: src-bc-news-2011-csil
+record_status: catalogue-record
+source_authors:
+  - "British Columbia Ministry of Health"
+author: "British Columbia Ministry of Health"
+source_type: primary
+availability: external-link-only
+verification_status: verified-inspected
+period: later-review
+organizations:
+  - "British Columbia Ministry of Health"
+  - "Association of CSIL Employers"
+people:
+  - "Michael de Jong"
+  - "Tim Louis"
+  - "Ken Kramer"
+  - "Roger B. Jones"
+topics:
+  - home-support
+  - individualized-funding
+external_url: "https://news.gov.bc.ca/releases/2011HLTH0018-000298"
+archived_url: ""
+bibtex_key: bcnews2011csil
+document_path: ""
+rights_note: "Provincial news release. Link only."
+---
+
+::: {.callout-note}
+## Source inspected
+The news.gov.bc.ca release was read. It is a 2011 rate-policy announcement, not a founding document.
+:::
+
+## Identification
+
+| Element | As inspected |
+| --- | --- |
+| Headline | B.C. to boost home support program rates |
+| Date | Monday, 28 March 2011, 2:36 p.m. |
+| Release ID | 2011HLTH0018-000298 |
+| URL | [British Columbia government page](https://news.gov.bc.ca/releases/2011HLTH0018-000298) |
+
+: Identification
+
+## Annotation
+
+The release announces CSIL hourly-rate increases from 1 April 2011 ($27.63) through April 2013 ($29.50), estimates program funding rising from about $50 million (2010–11) to about $69 million (2013–14), and says more than 800 people then received CSIL (about 2% of home-support clients and 20% of home-support hours). It states that in December 2009 the Ministry of Health Services established a CSIL funding working group with the Association of CSIL Employers.
+
+It also says new eligibility criteria would focus the program on disabilities and high-intensity care needs, with current clients unaffected — consistent with the grandfathering sentence later seen in [HCC Policy Manual 4.C](hcc-policy-manual-csil.qmd).
+
+Quoted speakers (de Jong, Louis, Kramer, Jones) are named on the release. Their praise of the program is not treated as historical evidence about 1993–95.
+
+A “Learn More” URL `http://www.health.gov.bc.ca/hcc/csil.html` is given. A Wayback Machine redirect to a 22 October 2012 capture of that URL was observed; the capture body was not fully fetched.
+
+## Open questions
+
+- Contents of the December 2009 working-group papers.
+- Full text of the 2012 Wayback capture.
+
+## See also
+
+- [HCC Policy Manual](hcc-policy-manual-csil.qmd)
+- [Government CSIL page](gov-bc-csil-program-page.qmd)
+- [Later evolution](../history/evolution.qmd)

@@ -1,0 +1,60 @@
+---
+title: "BC Legislature Hansard index, 2000: “Choices in Supports for Independent Living program”"
+date: 2000-01-01
+date_display: "2000 (36th Parliament, 4th session index)"
+date_precision: exact
+id: src-hansard-2000-csil-index
+record_status: catalogue-record
+source_authors:
+  - "Legislative Assembly of British Columbia"
+author: "Legislative Assembly of British Columbia (Hansard index)"
+source_type: reference-finding-aid
+availability: catalogue-or-citation-only
+verification_status: bibliographically-confirmed
+period: later-review
+organizations:
+  - "Legislative Assembly of British Columbia"
+people:
+  - "Mike Farnworth"
+  - "Colin Hansen"
+topics:
+  - home-support
+  - documentation
+external_url: "https://lims.leg.bc.ca/hdms/file/Index/36th4th/2000ndxc.htm"
+archived_url: ""
+bibtex_key: hansard2000csil
+document_path: ""
+rights_note: "Public Hansard index. The underlying debate transcript was not recovered in this pass."
+---
+
+::: {.callout-note}
+## Index inspected; transcript not yet read
+The 2000 Hansard subject index was read. Page 16168 of the debates was not opened. This is a finding aid, not a verified quotation of what was said.
+:::
+
+## Identification
+
+| Element | As inspected |
+| --- | --- |
+| Index | BC Legislature — 2000 Hansard Index (36th Parliament, 4th session) |
+| URL | [Legislative Assembly page](https://lims.leg.bc.ca/hdms/file/Index/36th4th/2000ndxc.htm) |
+| Heading as printed | “Choices in Supports for Independent Living program” |
+| Entry as printed | “Changes to program (Farnworth) 16168 (Hansen) 16168” |
+
+: Identification
+
+## Annotation
+
+By 2000 the Legislative Assembly’s indexer used the program name (with “Choices,” plural). Mike Farnworth and Colin Hansen are the names attached to page 16168. Without the transcript, this archive cannot say what change was discussed or what founding year, if any, speakers used.
+
+URL patterns tried for the 12 July 2000 afternoon Hansard file returned 404. A follow-up should use the Assembly’s current debate-transcript search for volume/page 16168.
+
+## Open questions
+
+- Exact date, volume, and wording of the page 16168 exchange.
+- Whether earlier Hansard indexes (1993–99) use the CSIL name.
+
+## See also
+
+- [Wanted ministry records](wanted-ministry-csil-pilot-records.qmd)
+- [Catalogue search notes](../research/catalogue-search-notes.qmd)

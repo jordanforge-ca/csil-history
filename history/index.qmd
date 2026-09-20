@@ -16,11 +16,11 @@ Working dates to accommodate, also unconfirmed here:
 | Working date | Placeholder | Status on this site |
 | --- | --- | --- |
 | Early 1980s | Independent-living / community-living advocacy in British Columbia | Open question |
-| c. 1985 | Creekview | Open question |
-| c. 1987 | Creekview evaluation | Wanted source named; copy not held |
-| c. 1990 | ECPM material and *Keys on Freedom* | Wanted sources named; copy not held |
-| c. 1993 | CSIL design / authorization | Contested with 1994 |
-| c. 1994 | CSIL pilot; possible ECPM training revision | Contested with 1993 |
+| c. 1985 | Creekview | Later public sources inspected; 1985 opening attested, details conflict |
+| c. 1987 | Creekview evaluation | Wanted; 1987 evaluation attested by Haw 1989; copy not held |
+| c. 1990 | ECPM material and *Keys on Freedom* | ECPM 1990 manual cited in a later bibliography; *Keys* still unconfirmed |
+| c. 1993 | CSIL design / authorization | Contested with 1994; no 1990s ministry file recovered |
+| c. 1994 | CSIL pilot; possible ECPM training revision | Contested with 1993; 1994 ECPM revision still unverified |
 | c. 1995 | Province-wide availability | Open question |
 
 Use the [timeline](../timeline.qmd) for the same propositions in date order, and [sources](../sources/index.qmd) for catalogue records.

@@ -8,13 +8,16 @@ record_status: catalogue-record
 source_authors:
   - "Patricia Ryan"
   - "Ryan & Wiggins"
-author: "Patricia Ryan / Ryan & Wiggins"
+author: "Patricia Ryan / Ryan & Wiggins (as named in the commissioning issue)"
 source_type: primary
 availability: known-to-exist-copy-sought
 verification_status: bibliographically-confirmed
 period: creekview
-organizations: []
-people: []
+organizations:
+  - "Canadian Paraplegic Association"
+  - "Ryan & Wiggins"
+people:
+  - "Patricia Ryan"
 topics:
   - evaluation
   - independent-living
@@ -27,31 +30,46 @@ rights_note: "Copy not held. Do not upload a scan unless redistribution is clear
 
 ::: {.callout-note}
 ## Known to exist — copy sought
-Bibliographic details on this page come only from [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). This archive has not inspected a copy or an independent catalogue record.
+An independent 1987 evaluation of Creekview 202 is attested in public secondary sources inspected for this catalogue. This archive has **not** recovered the evaluation itself. The creator attribution “Patricia Ryan / Ryan & Wiggins” still comes only from [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10); public searches in 2026 did not independently confirm that name on a title page or catalogue record.
 :::
 
 ## Identification
 
-| Element | As stated in the commissioning issue |
+| Element | Evidence and source of the statement |
 | --- | --- |
-| Title | Creekview 202 Project Evaluation Report |
-| Creator | Patricia Ryan / Ryan & Wiggins |
-| Date | c. 1987 |
+| Project named | Creekview 202, an integrated self-managed independent-living project in a False Creek / Granville Island housing co-operative |
+| Opening date as later stated | September 1985 ([Haw 1989](haw-1989-creekview-account.qmd); [SCI BC history](sci-bc-history.qmd); [Fayerman 2018](fayerman-2018-walt-lawrence.qmd)) |
+| Evaluation date as later stated | “In 1987 an independent evaluation of Creekview 202 was published” ([Haw 1989](haw-1989-creekview-account.qmd)) |
+| Title as named in the commissioning issue | Creekview 202 Project Evaluation Report |
+| Creator as named in the commissioning issue only | Patricia Ryan / Ryan & Wiggins |
+| WorldCat / Internet Archive (2026 search) | No matching catalogue record found under the commissioning-issue title or “Ryan & Wiggins” + Creekview |
 
-No place of publication, pagination, or report number is recorded here beyond that statement.
+: Identification
 
 ## Annotation
 
-This record exists so the catalogue can represent a document the project believes existed but has not yet recovered digitally. It is a target for later evidence work, not a completed annotation.
+This record remains a **wanted primary source**. What has been inspected is later public writing *about* an evaluation, not the evaluation.
+
+Norman Haw, speaking as Director of Rehabilitation Services for the Canadian Paraplegic Association at the November 1989 Pacific Northwest Regional Polio Conference, said Creekview 202 opened in September 1985 and that a 1987 independent evaluation reported three findings: tenant-care cost about 60% of Pearson Hospital; government per-diem savings of about $100 a day (about $215,000 a year combined); health status at least as good as at Pearson, with physical health maintained and mental health and social interaction improved; and Canadian Council of Hospital Accreditation standards met or exceeded. Haw did not name the evaluator or give a formal title-page citation.
+
+[SCI BC’s history page](sci-bc-history.qmd) places “Creekview” in 1985 as “the world’s first integrated, self-managed housing project with shared support services for people with high-level quadriplegia.” [Pamela Fayerman (2018)](fayerman-2018-walt-lawrence.qmd) attributes to Walt Lawrence a statement that CPA helped with an early-1980s cost analysis and that a study found community living about 30 percent less expensive than the rehabilitation facility. That percentage does not match Haw’s “approximately 60%” of Pearson costs. The two later accounts are catalogued; they are not treated as the same document.
+
+Searches of WorldCat (title and Ryan/Wiggins queries), Internet Archive, UBC Library HTML search, and the open web did not recover a title-page PDF, ISBN, or library holding for “Creekview 202 Project Evaluation Report.”
 
 ## Open questions
 
-- Where a copy now lives (archives, personal papers, agency files).
-- The exact title page wording and date.
-- What “202” refers to.
-- Whether redistribution of any recovered copy is permitted.
+- Exact title-page wording, pagination, place of publication, and report number.
+- Whether Patricia Ryan / Ryan & Wiggins is the 1987 evaluator named by later writers.
+- Where a copy now lives (CPA/SCI BC files, ministry records, personal papers, Legislative Library).
+- Whether Haw’s 1987 evaluation, Fayerman’s “cost analysis,” and the commissioning-issue report are one document or several.
+- What “202” refers to on the original title page (unit number is later used for the Creekview Co-op suite).
 
 ## See also
 
+- [Norman Haw, 1989 conference account](haw-1989-creekview-account.qmd)
+- [SCI BC history page](sci-bc-history.qmd)
+- [Fayerman 2018 (Walt Lawrence)](fayerman-2018-walt-lawrence.qmd)
+- [Nancy Clay 1993 thesis](clay-1993-pearson.qmd)
 - [Creekview placeholder](../history/creekview.qmd)
 - [Wanted sources](../research/wanted-sources.qmd)
+- [Catalogue search notes](../research/catalogue-search-notes.qmd)

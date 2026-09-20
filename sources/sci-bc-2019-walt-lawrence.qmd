@@ -1,0 +1,60 @@
+---
+title: "Spinal Cord Injury BC, “Walt’s Time: He’s Far From Finished”"
+date: 2019-02-25
+date_display: "25 February 2019 (first appeared in The Spin, Winter 2018)"
+date_precision: exact
+id: src-sci-bc-2019-lawrence
+record_status: catalogue-record
+source_authors:
+  - "Spinal Cord Injury BC"
+author: "Spinal Cord Injury BC"
+source_type: secondary
+availability: external-link-only
+verification_status: verified-inspected
+period: creekview
+organizations:
+  - "Spinal Cord Injury BC"
+people:
+  - "Walt Lawrence"
+  - "Doug Mowat"
+topics:
+  - independent-living
+external_url: "https://sci-bc.ca/walts-time-hes-far-from-finished/"
+archived_url: ""
+bibtex_key: scibc2019lawrence
+document_path: ""
+rights_note: "Organizational magazine article republished on the SCI BC site. Link only."
+---
+
+::: {.callout-note}
+## Source inspected
+The public article was read. It uses the place-name **Creekside**, not Creekview.
+:::
+
+## Identification
+
+| Element | As inspected |
+| --- | --- |
+| Title | Walt’s Time: He’s Far From Finished |
+| Posted | 25 February 2019 |
+| Prior appearance | Winter 2018 issue of *The Spin* |
+| URL | [SCI BC page](https://sci-bc.ca/walts-time-hes-far-from-finished/) |
+
+: Identification
+
+## Annotation
+
+The article states that in 1985 Lawrence “joined several fellow quadriplegics and moved into semi-independent living at the newly constructed Creekside development—an innovative housing cooperative championed by SCI BC’s Doug Mowat.” It describes later work as a Vancouver Coastal Health peer counsellor at GF Strong.
+
+The spelling **Creekside** conflicts with Creekview 202 in Haw 1989, the SCI BC history page, and Fayerman 2018. This archive does not decide that they are the same place, though later writers treat them as the 1985 Granville Island / False Creek project.
+
+## Open questions
+
+- Whether “Creekside” is a slip, an alternate name, or a different development.
+- What “championed by … Doug Mowat” rests on besides this later sentence.
+
+## See also
+
+- [Fayerman 2018](fayerman-2018-walt-lawrence.qmd)
+- [SCI BC history](sci-bc-history.qmd)
+- [Walt Lawrence](../people/walt-lawrence.qmd)

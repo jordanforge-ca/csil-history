@@ -1,0 +1,63 @@
+---
+title: "Individualized Funding Resource Centre Society, “Our Team”"
+date: 2023-01-01
+date_display: "n.d. living page (mentions 2023 Order of Canada; inspected 20 September 2026)"
+date_precision: unknown
+id: src-ifrc-our-team
+record_status: catalogue-record
+source_authors:
+  - "Individualized Funding Resource Centre Society"
+author: "Individualized Funding Resource Centre Society"
+source_type: secondary
+availability: external-link-only
+verification_status: verified-inspected
+period: unknown
+organizations:
+  - "Individualized Funding Resource Centre Society"
+people:
+  - "Paul Gauthier"
+  - "Joseph Theriault"
+  - "Anthony Cheng"
+topics:
+  - individualized-funding
+  - home-support
+  - documentation
+external_url: "https://www.ifrcsociety.org/our-team"
+archived_url: ""
+bibtex_key: ifrcOurTeam
+document_path: ""
+rights_note: "Organizational web page. Link only. Biographical claims are IFRC’s, not independently verified here."
+---
+
+::: {.callout-note}
+## Source inspected
+The public “Our Team” page was read on 20 September 2026. Statements below are **IFRC’s attributions**, not inspected 1990s records.
+:::
+
+## Identification
+
+| Element | As inspected |
+| --- | --- |
+| Title | Our Team |
+| URL | [IFRC Society page](https://www.ifrcsociety.org/our-team) |
+
+: Identification
+
+## Annotation
+
+The page states that Paul Gauthier is founder and executive director of IFRC and “one of the founders of the Choice in Supports for Independent Living (CSIL) program.” It states that Joseph Theriault, IFRC board president since May 2014, “worked alongside Paul and others as pioneers of the individual funding project; then known as Enhanced Consumer Participation Model [ECPM],” later travelling the province on CSIL and giving workshops through Capilano Community College. Anthony Cheng’s biography says that “when Paul Gauthier … started on the CSIL program in 1994, Anthony was there at the forefront performing payroll services.”
+
+The 1994 sentence on this same page is one pole of the preserved 1993 versus 1994 disagreement (see [IFRC decks](ifrc-sci-presentation-1993.qmd) that use 1993).
+
+This archive does not convert these biographies into independent facts about 1990s ministry decisions.
+
+## Open questions
+
+- Contemporaneous documents that would test the “founder” and “ECPM pioneer” claims.
+- Dated copies of the Capilano College workshops.
+
+## See also
+
+- [Paul Gauthier](../people/paul-gauthier.qmd)
+- [Joseph Theriault](../people/joseph-theriault.qmd)
+- [ECPM manuals (wanted)](wanted-ecpm-manuals.qmd)

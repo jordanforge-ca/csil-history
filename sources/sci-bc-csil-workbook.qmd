@@ -1,0 +1,68 @@
+---
+title: "CSIL Online Workbook"
+date: 2021-12-01
+date_display: "c. 2010s–2021 (current hosted modules; Module 2/3 marked 2021 update)"
+date_precision: approximate
+id: src-sci-bc-csil-workbook
+record_status: catalogue-record
+source_authors:
+  - "BC Paraplegic Association"
+  - "Spinal Cord Injury BC"
+  - "British Columbia Ministry of Health"
+author: "SCI BC / BC Paraplegic Association, funded by the BC Ministry of Health"
+source_type: near-primary
+availability: external-link-only
+verification_status: verified-inspected
+period: later-review
+organizations:
+  - "Spinal Cord Injury BC"
+  - "British Columbia Ministry of Health"
+  - "Law Foundation of BC"
+people: []
+topics:
+  - home-support
+  - individualized-funding
+  - program-design
+external_url: "https://sci-bc.ca/info-centre/choice-supports-independent-living/"
+archived_url: ""
+bibtex_key: scibcCsilWorkbook
+document_path: ""
+rights_note: "Public program workbook. Link only; do not commit the PDFs."
+---
+
+::: {.callout-note}
+## Source inspected
+The landing page and Module 1 / Module 2 / executive-summary PDFs were read. This is current program guidance, not a 1990s design file.
+:::
+
+## Identification
+
+| Element | As inspected |
+| --- | --- |
+| Landing page | [SCI BC page](https://sci-bc.ca/info-centre/choice-supports-independent-living/) |
+| Title on Module 1 PDF | *CSIL Online Workbook: A Guide to Applying for and Managing Choice in Supports for Independent Living* |
+| Credit on Module 1 | “Prepared by BC Paraplegic Association Funded by BC Ministry of Health” |
+| Landing-page funding note | “funded by the BC Ministry of Health and the Law Foundation of BC” |
+| Module 1 URL | [SCI BC PDF](https://sci-bc.ca/wp-content/uploads/csil-module1.pdf) |
+| Module 2 URL | [SCI BC PDF](https://sci-bc.ca/wp-content/uploads/2021/12/csil-module2-2021update.pdf) |
+| Executive summary | [SCI BC PDF](https://sci-bc.ca/wp-content/uploads/csil-exec-summary.pdf) |
+
+: Identification
+
+## Annotation
+
+The workbook explains eligibility, two “Phases” (self-managing employer vs Client Support Group / representative), and how to apply. It describes CSIL as a self-directed option for home-support clients with high-intensity care needs. The inspected modules do **not** give a 1993 or 1994 founding year.
+
+The landing page is a current SCI BC resource. The Module 1 title block still names BC Paraplegic Association, which the [SCI BC history page](sci-bc-history.qmd) says became SCI BC in 2012. First publication year of the workbook was not printed on the pages inspected.
+
+The provincial CSIL page points readers to this workbook.
+
+## Open questions
+
+- First edition date and whether a ministry-issued predecessor existed in the 1990s.
+- How the Law Foundation-funded revision differs from the BCPA original.
+
+## See also
+
+- [Government CSIL page](gov-bc-csil-program-page.qmd)
+- [HCC Policy Manual, chapter 4](hcc-policy-manual-csil.qmd)

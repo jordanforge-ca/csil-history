@@ -1,0 +1,60 @@
+---
+title: "Choice in Supports for Independent Living (provincial program page)"
+date: 2025-09-10
+date_display: "page last updated 10 September 2025 (inspected 20 September 2026)"
+date_precision: exact
+id: src-gov-bc-csil-page
+record_status: catalogue-record
+source_authors:
+  - "Province of British Columbia"
+author: "Province of British Columbia"
+source_type: primary
+availability: external-link-only
+verification_status: verified-inspected
+period: later-review
+organizations:
+  - "British Columbia Ministry of Health"
+people: []
+topics:
+  - home-support
+  - individualized-funding
+  - program-design
+external_url: "https://www2.gov.bc.ca/gov/content/health/accessing-health-care/home-community-care/care-options-and-cost/choice-in-supports-for-independent-living"
+archived_url: ""
+bibtex_key: govbcCsilPage
+document_path: ""
+rights_note: "Crown website. Link only."
+---
+
+::: {.callout-note}
+## Source inspected
+The current provincial program page was read on 20 September 2026. It describes present rules. It does not narrate 1993–95 origins.
+:::
+
+## Identification
+
+| Element | As inspected |
+| --- | --- |
+| Title | Choice in Supports for Independent Living |
+| Last updated | 10 September 2025 |
+| URL | [British Columbia government page](https://www2.gov.bc.ca/gov/content/health/accessing-health-care/home-community-care/care-options-and-cost/choice-in-supports-for-independent-living) |
+| Older URL named in 2011 news release | `http://www.health.gov.bc.ca/hcc/csil.html` (Wayback capture exists at 22 October 2012; that capture was not fully fetched in this pass) |
+
+: Identification
+
+## Annotation
+
+The page defines CSIL as a self-directed option: clients receive funds from their health authority and become employers, or a client support group / representative may act as employer. It lists eligibility (home-support assessment, high physical care needs, medical stability, available resources, client rate, ability to manage or have a substitute employer) and publishes hourly rates for 2022–2024. It points to the CSIL Online Workbook and to the Continuing Care Fees Regulation for the client-rate formula.
+
+This is evidence of the **current** public program, not of founding dates.
+
+## Open questions
+
+- When this URL replaced `health.gov.bc.ca/hcc/csil.html`.
+- Whether archived versions of the old URL carry historical narrative that the current page omits.
+
+## See also
+
+- [SCI BC workbook](sci-bc-csil-workbook.qmd)
+- [HCC Policy Manual](hcc-policy-manual-csil.qmd)
+- [2011 rate-increase news release](bc-gov-news-2011-csil-rates.qmd)

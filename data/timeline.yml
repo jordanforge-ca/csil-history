@@ -7,9 +7,11 @@
   confidence: open-question
   period: precursor
   href: history/origins.qmd
-  sources_display: "None catalogued yet"
-  source_ids: []
-  notes: "Working research proposition from the commissioning brief. Not tied to an inspected source in this archive."
+  sources_display: "Haw 1989 (housing overview); SCI BC history (organizational timeline)"
+  source_ids:
+    - src-haw-1989-creekview
+    - src-sci-bc-history
+  notes: "Working research proposition. Haw 1989 describes 1970s–80s housing and support experiments; it is not a complete origins narrative."
 
 - id: tl-1985-creekview
   title: "Creekview independent-living experiment (working date)"
@@ -17,12 +19,16 @@
   date_iso: "1985-01-01"
   date_display: "c. 1985"
   date_precision: approximate
-  confidence: open-question
+  confidence: bibliographically-confirmed
   period: creekview
   href: history/creekview.qmd
-  sources_display: "None catalogued yet"
-  source_ids: []
-  notes: "Approximate working date only. See the Creekview placeholder page."
+  sources_display: "Haw 1989; SCI BC history; Fayerman 2018; Clay 1993"
+  source_ids:
+    - src-haw-1989-creekview
+    - src-sci-bc-history
+    - src-fayerman-2018-lawrence
+    - src-clay-1993-pearson
+  notes: "September 1985 opening is stated by Haw. Later writers also use 1985. SCI BC 2019 says Creekside. Resident counts differ."
 
 - id: tl-1987-creekview-eval
   title: "Creekview 202 Project Evaluation Report (wanted source)"
@@ -33,10 +39,11 @@
   confidence: bibliographically-confirmed
   period: creekview
   href: sources/wanted-creekview-202-evaluation.qmd
-  sources_display: "Wanted: Creekview 202 Project Evaluation Report"
+  sources_display: "Wanted evaluation; attested in Haw 1989"
   source_ids:
     - src-wanted-creekview-202-eval
-  notes: "Known-to-exist document named in the commissioning issue. Copy not yet held. Year is approximate as stated there."
+    - src-haw-1989-creekview
+  notes: "Haw 1989 says an independent evaluation was published in 1987. Copy not held. Patricia Ryan / Ryan & Wiggins not independently confirmed."
 
 - id: tl-1990-keys-ecpm
   title: "Keys on Freedom and ECPM manual material (wanted sources)"
@@ -47,11 +54,12 @@
   confidence: bibliographically-confirmed
   period: ecpm
   href: history/ecpm.qmd
-  sources_display: "Wanted: Keys on Freedom; ECPM manual(s)"
+  sources_display: "ECPM 1990 manual cited in Roeher/Salisbury bibliography; Keys on Freedom still unconfirmed"
   source_ids:
     - src-wanted-keys-on-freedom
     - src-wanted-ecpm-manuals
-  notes: "Commissioning issue places Keys on Freedom and ECPM material around 1990. Relationship between the two is not established here."
+    - src-allenshea-1997-bibliography
+  notes: "1990 ECPM Skill Development Manual is cited in a later public bibliography. Keys on Freedom remains commissioning-issue-only. Relationship between the two is not established here."
 
 - id: tl-1993-csil-design
   title: "CSIL design / authorization (contested starting year)"
@@ -62,10 +70,11 @@
   confidence: conflicting-evidence
   period: design-pilot
   href: history/csil-pilot.qmd
-  sources_display: "Wanted: original Ministry CSIL pilot/design records"
+  sources_display: "IFRC/SCI slides (1993); wanted ministry records"
   source_ids:
     - src-wanted-ministry-csil-pilot-records
-  notes: "Working date from the commissioning brief. Later writers may treat 1993 or 1994 as a starting year. Do not silently reconcile with the 1994 row."
+    - src-ifrc-sci-1993
+  notes: "Later IFRC/SCI deck says established in 1993. Do not silently reconcile with the 1994 row. No 1990s ministry instrument recovered."
 
 - id: tl-1994-csil-pilot
   title: "CSIL pilot and possible ECPM training revision (contested starting year)"
@@ -76,11 +85,13 @@
   confidence: conflicting-evidence
   period: design-pilot
   href: history/csil-pilot.qmd
-  sources_display: "Wanted: Ministry CSIL pilot/design records; ECPM manual(s)"
+  sources_display: "IFRC Module 1 (1994); Kelly et al. 2020; wanted ministry records; ECPM manuals"
   source_ids:
     - src-wanted-ministry-csil-pilot-records
     - src-wanted-ecpm-manuals
-  notes: "Working date from the commissioning brief. Preserve the 1993 versus 1994 disagreement until inspected sources settle what each year refers to (design, authorization, pilot, or later summary)."
+    - src-ifrc-module-1-1994
+    - src-kelly-2020-df
+  notes: "Later sources use 1994. A 1994 ECPM revision is still unverified. Preserve disagreement with the 1993 row."
 
 - id: tl-1995-province-wide
   title: "Province-wide CSIL availability (working date)"
@@ -91,20 +102,48 @@
   confidence: open-question
   period: province-wide
   href: history/evolution.qmd
-  sources_display: "None catalogued yet"
+  sources_display: "None inspected that date province-wide availability to 1995"
   source_ids: []
   notes: "Working research proposition. Not yet supported by an inspected source in this archive."
 
+- id: tl-2000-hansard-index
+  title: "Hansard index entry for CSIL program changes"
+  date: 2000-01-01
+  date_iso: "2000-01-01"
+  date_display: "2000"
+  date_precision: exact
+  confidence: bibliographically-confirmed
+  period: later-review
+  href: sources/hansard-2000-csil-index.qmd
+  sources_display: "2000 Hansard subject index (transcript not read)"
+  source_ids:
+    - src-hansard-2000-csil-index
+  notes: "Index heading uses Choices (plural). Farnworth and Hansen at page 16168. Debate text not inspected."
+
 - id: tl-2008-program-review
-  title: "CSIL Program Review Synthesis Report (wanted source)"
+  title: "CSIL Program Review Synthesis Report"
   date: 2008-11-01
   date_iso: "2008-11-01"
   date_display: "November 2008"
-  date_precision: approximate
-  confidence: bibliographically-confirmed
+  date_precision: exact
+  confidence: verified-inspected
   period: later-review
   href: sources/wanted-2008-program-review.qmd
-  sources_display: "Wanted: CSIL Review Program Synthesis Report"
+  sources_display: "James Murtagh Consulting / Ministry of Health Services (IA fiche scan)"
   source_ids:
     - src-wanted-2008-program-review
-  notes: "Known-to-exist document named in the commissioning issue (November 2008). Copy not yet held. Month is as stated there, not independently verified here."
+  notes: "Inspected via Internet Archive Microlog scan. Says CSIL was established in the 1990s; does not choose 1993 or 1994."
+
+- id: tl-2011-csil-rates
+  title: "Provincial CSIL hourly-rate increase announced"
+  date: 2011-03-28
+  date_iso: "2011-03-28"
+  date_display: "28 March 2011"
+  date_precision: exact
+  confidence: verified-inspected
+  period: later-review
+  href: sources/bc-gov-news-2011-csil-rates.qmd
+  sources_display: "Ministry of Health news release 2011HLTH0018-000298"
+  source_ids:
+    - src-bc-news-2011-csil
+  notes: "Inspected news release. Also notes a December 2009 CSIL funding working group with the Association of CSIL Employers."

@@ -1,0 +1,60 @@
+---
+title: "Spinal Cord Injury BC, “History” (organizational timeline)"
+date: 2012-01-01
+date_display: "n.d. living page (name change dated 2012; inspected 20 September 2026)"
+date_precision: unknown
+id: src-sci-bc-history
+record_status: catalogue-record
+source_authors:
+  - "Spinal Cord Injury BC"
+author: "Spinal Cord Injury BC"
+source_type: secondary
+availability: external-link-only
+verification_status: verified-inspected
+period: unknown
+organizations:
+  - "Spinal Cord Injury BC"
+  - "Canadian Paraplegic Association (BC Division)"
+people:
+  - "Doug Mowat"
+topics:
+  - independent-living
+  - documentation
+external_url: "https://sci-bc.ca/about-us/history/"
+archived_url: ""
+bibtex_key: scibcHistory
+document_path: ""
+rights_note: "Organizational web page. Link only."
+---
+
+::: {.callout-note}
+## Source inspected
+The public history page was read on 20 September 2026. It is a later organizational timeline, not a contemporaneous 1980s record.
+:::
+
+## Identification
+
+| Element | As inspected |
+| --- | --- |
+| Title | History |
+| Site | Spinal Cord Injury BC |
+| URL | [SCI BC page](https://sci-bc.ca/about-us/history/) |
+| Sortable date | 2012-01-01 (year the page dates the BCPA → SCI BC name change); the page itself is undated |
+
+: Identification
+
+## Annotation
+
+The page states that the BC Division of the Canadian Paraplegic Association began in 1957; that Doug Mowat “accepts the role of Executive Director” in 1960; and that in 1985 “Creekview opens near Granville Island in Vancouver. Creekview was the world’s first integrated, self-managed housing project with shared support services for people with high-level quadriplegia.”
+
+It does not mention CSIL, ECPM, *Keys on Freedom*, or a 1987 evaluation. The 1985 Creekview sentence is a later institutional claim. It is catalogued here because it is a public, inspectable statement — not because this archive has verified “world’s first.”
+
+## Open questions
+
+- Sources SCI BC used for the 1985 Creekview sentence.
+- Why a later SCI BC article about Walt Lawrence says “Creekside” rather than “Creekview.”
+
+## See also
+
+- [Creekview evaluation (wanted)](wanted-creekview-202-evaluation.qmd)
+- [Doug Mowat](../people/doug-mowat.qmd)

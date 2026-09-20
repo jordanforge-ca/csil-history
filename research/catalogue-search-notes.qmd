@@ -1,0 +1,39 @@
+---
+title: "Catalogue search notes"
+subtitle: "What was searched in September 2026 — not a findings narrative"
+---
+
+This page records searches run while populating the initial catalogue. Negative results are listed so later work does not repeat the same queries uncritically. Dates are 20 September 2026 unless noted.
+
+## Wanted titles
+
+| Query or venue | Result as observed |
+| --- | --- |
+| WorldCat HTML search: Creekview 202 Project Evaluation; Keys on Freedom + quadriplegic; Enhanced Consumer Participation Model; Choice in Supports + Murtagh; Ryan Wiggins Creekview | Result pages loaded; no inspected hit that was clearly the wanted item. WorldCat’s JavaScript result count was not machine-readable in the fetch used. |
+| Internet Archive advanced search | Creekview 202 evaluation: 0. ECPM exact title: 0. Keys on Freedom: 0. Title “Choice in Supports for Independent Living”: **1** item — the 2008 synthesis fiche (`micro_IA40244204_0972`). |
+| UBC Library HTML search (Creekview 202 evaluation) | Page returned 404 in the automated fetch; not treated as a completed catalogue search. |
+| SFU Library / Legislative Library online catalogues | Not successfully queried as structured catalogues in this pass. |
+| CanLII keyword browse | *Continuing Care Act* and later community-living statutes found; no CSIL-named statute or 1993–95 instrument located. |
+| Open web | Creekview 202 independently described (Haw 1989; SCI BC; Fayerman 2018). ECPM 1990 manual cited (Roeher/Salisbury bibliography). Keys on Freedom **not** independently cited. Patricia Ryan / Ryan & Wiggins **not** independently cited. |
+
+: Search venues and results for wanted titles
+
+## Other public items inspected
+
+Listed as catalogue records under [Sources](../sources/index.qmd). URLs used are on those pages.
+
+## Leads not yet turned into records
+
+- BCPA, *Employers Review of the CSIL Program: A Compilation* (2006) — cited in the 2008 synthesis
+- VIHA, *Choice in Supports for Independent Living: A Program Review and A New Service Delivery Model* (September 2006) — cited in the 2008 synthesis
+- *Home & Community Care Policy Manual* (April 2007, sections 5.A) — cited in the 2008 synthesis
+- B.C. Rehabilitation Society internal history cited by Clay as “1992d”
+- VCH CSIL handbook/guidebook linked from the VCH service page
+- Hansard debates at page 16168 (2000 index only)
+- Wayback capture of `http://www.health.gov.bc.ca/hcc/csil.html` (22 October 2012)
+- Creekview Co-op 2013 newsletter mentioned on a public forum (PDF not inspected here)
+- 2012 Open Information package HTH-2012-00165 (Murtagh named on a **different** registry review)
+
+## What remains missing
+
+The Creekview 202 evaluation text, *Keys on Freedom*, ECPM manuals, and original 1993–95 ministry instruments were not recovered. Emma Van der Klift was not found as a named ECPM author on any public item inspected in this pass.

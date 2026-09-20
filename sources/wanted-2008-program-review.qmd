@@ -1,57 +1,83 @@
 ---
-title: "Choice in Supports for Independent Living Review Program: Synthesis Report"
+title: "Choice in Supports for Independent Living (CSIL) Program Review Synthesis Report"
 date: 2008-11-01
 date_display: "November 2008"
-date_precision: approximate
+date_precision: exact
 id: src-wanted-2008-program-review
 record_status: catalogue-record
 source_authors:
   - "James Murtagh Consulting"
-author: "James Murtagh Consulting"
+author: "James Murtagh Consulting, for BC Ministry of Health Services"
 source_type: near-primary
-availability: known-to-exist-copy-sought
-verification_status: bibliographically-confirmed
+availability: external-link-only
+verification_status: verified-inspected
 period: later-review
 organizations:
   - "British Columbia Ministry of Health Services"
   - "James Murtagh Consulting"
+  - "Home and Community Care Branch"
 people: []
 topics:
   - evaluation
   - home-support
-external_url: ""
-archived_url: ""
+external_url: "https://archive.org/details/micro_IA40244204_0972"
+archived_url: "https://archive.org/details/micro_IA40244204_0972"
 bibtex_key: murtagh2008csil
 document_path: ""
-rights_note: "Copy not held. Government-commissioned report; do not upload unless redistribution is clearly permitted."
+rights_note: "Crown / ministry-commissioned report. A Microlog fiche scan is publicly viewable on Internet Archive. This archive does not host the PDF."
 ---
 
 ::: {.callout-note}
-## Known to exist — copy sought
-Bibliographic details on this page come only from [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). This archive has not inspected a copy or an independent catalogue record.
+## Inspected via public scan
+A Microlog microfiche scan and OCR text layer are on the Internet Archive. This annotation is based on that scan’s title pages and OCR, not on a paper original. The file is not copied into this repository.
 :::
 
 ## Identification
 
-| Element | As stated in the commissioning issue |
+| Element | As inspected on the Internet Archive scan / catalogue record |
 | --- | --- |
-| Title | Choice in Supports for Independent Living Review Program: Synthesis Report |
-| Creator | Ministry of Health Services / James Murtagh Consulting |
-| Date | November 2008 |
+| Cover title | Choice in Supports for Independent Living (CSIL) Program Review / Synthesis Report |
+| Prepared by | James Murtagh Consulting for Home and Community Care Branch, Health Authorities Division, BC Ministry of Health Services |
+| Date on title page | November 2008 |
+| ISBN | 978-0-7726-6054-1 (Internet Archive metadata; OCR last digit is damaged) |
+| OCLC | 650085067 |
+| Extent | 10 pages (catalogue); scan `imagecount` 16 |
+| Publisher as catalogued | [Victoria, B.C.] : BC Ministry of Health Services |
+| Associated names in IA metadata | James Murtagh Consulting; British Columbia. Home and Community Care |
+| Public URL | [Internet Archive item page](https://archive.org/details/micro_IA40244204_0972) |
+| Commissioning-issue title (not used as the title here) | “Choice in Supports for Independent Living Review Program: Synthesis Report” — word order differs from the cover |
 
-`source_type` is set to `near-primary` because the commissioning issue describes a commissioned synthesis/review, not an original 1990s design file. That classification can change if an inspected copy shows otherwise.
+: Identification
+
+`source_type` remains `near-primary`: a 2008 commissioned synthesis of earlier reviews, not a 1990s design file.
 
 ## Annotation
 
-This record is a later reference point, not a substitute for 1990s primary sources.
+What was actually seen: the Internet Archive item `micro_IA40244204_0972` (Microlog fiche, ProQuest), including cover, “Prepared by” page, acknowledgements, table of contents, and OCR of the body.
+
+The report states that CSIL is a self-managed option within BC home support; that about 2% of almost 31,000 home-support clients had chosen it; and that participation “has grown annually since its establishment in the 1990's.” It does **not** choose 1993 or 1994.
+
+It describes a 2006 Ministry of Health Services CSIL review (interviews, focus groups, a questionnaire to almost 500 CSIL clients) that generated background papers but “no final report.” It also cites:
+
+- British Columbia Paraplegic Association, *Employers Review of the CSIL Program: A Compilation* (2006)
+- Vancouver Island Health Authority, *Choice in Supports for Independent Living: A Program Review and A New Service Delivery Model* (September 2006)
+- *Home & Community Care Policy Manual* sections dated April 2007
+
+Acknowledgements thank CSIL consumers and health-authority staff from the 2006 review, the CSIL Redesign Working Group, and the Provincial Home Health Standing Committee.
+
+Those 2006 items are new leads; they are not yet separate catalogue records.
+
+A 2012 Open Information package naming James Murtagh with Dr. Vicki Foerster is a **different** contract (Care Aide and Community Health Worker Registry review, recommendations due November 2012). It is not this 2008 synthesis.
 
 ## Open questions
 
-- Location of a public copy.
-- Exact subtitle and contract/client wording on the title page.
-- What primary sources the synthesis cites (those may become new wanted items).
+- Location of a born-digital ministry PDF, if one exists besides the fiche scan.
+- Contents and whereabouts of the 2006 ministry background papers, the BCPA 2006 compilation, and the September 2006 VIHA review.
+- Whether Murtagh Consulting’s working papers (as opposed to this 10-page synthesis) survive.
 
 ## See also
 
+- [Wanted 1993–95 ministry records](wanted-ministry-csil-pilot-records.qmd)
 - [Later evolution placeholder](../history/evolution.qmd)
+- [SCI BC CSIL workbook](sci-bc-csil-workbook.qmd)
 - [Wanted sources](../research/wanted-sources.qmd)

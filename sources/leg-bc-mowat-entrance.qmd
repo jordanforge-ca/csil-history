@@ -1,0 +1,57 @@
+---
+title: "Legislative Assembly of British Columbia, “The Mowat Entrance”"
+date: 2013-01-01
+date_display: "entrance dated 2013; page undated (inspected 20 September 2026)"
+date_precision: approximate
+id: src-leg-bc-mowat-entrance
+record_status: catalogue-record
+source_authors:
+  - "Legislative Assembly of British Columbia"
+author: "Legislative Assembly of British Columbia"
+source_type: secondary
+availability: external-link-only
+verification_status: verified-inspected
+period: unknown
+organizations:
+  - "Legislative Assembly of British Columbia"
+  - "B.C. Paraplegic Association"
+  - "B.C. Paraplegic Foundation"
+people:
+  - "Doug Mowat"
+topics:
+  - documentation
+external_url: "https://www.leg.bc.ca/learn/discover-your-legislature/building-tour/exterior-features/legislative-precinct/mowat-entrance"
+archived_url: ""
+bibtex_key: legbcMowatEntrance
+document_path: ""
+rights_note: "Legislative Assembly web page. Link only."
+---
+
+::: {.callout-note}
+## Source inspected
+The public building-tour page was read. It is an institutional commemorative note, not a CSIL history.
+:::
+
+## Identification
+
+| Element | As inspected |
+| --- | --- |
+| Title | The Mowat Entrance |
+| URL | [Legislative Assembly page](https://www.leg.bc.ca/learn/discover-your-legislature/building-tour/exterior-features/legislative-precinct/mowat-entrance) |
+
+: Identification
+
+## Annotation
+
+The page says a new barrier-free entrance was unveiled in 2013 and “named the Mowat Entrance after Doug Mowat, the first MLA to use a wheelchair while in office.” It adds that Mowat “was a tireless advocate for those suffering from spinal cord injuries and physical impairments, spending years working with the B.C. Paraplegic Foundation and the B.C. Paraplegic Association.”
+
+This supports a documented public role for Doug Mowat as MLA and BCPA/Foundation advocate. It does not mention Creekview, ECPM, or CSIL.
+
+## Open questions
+
+- Dates of Mowat’s service as MLA (not stated on this page).
+
+## See also
+
+- [Doug Mowat](../people/doug-mowat.qmd)
+- [SCI BC history](sci-bc-history.qmd)

@@ -1,0 +1,67 @@
+---
+title: "Directly-Funded Care Programs in Canada"
+date: 2020-10-13
+date_display: "13 October 2020"
+date_precision: exact
+id: src-kelly-2020-df
+record_status: catalogue-record
+source_authors:
+  - "Christine Kelly"
+  - "Lisette Dansereau"
+  - "Kevin Balkaran"
+  - "Elizabeth Tingey"
+  - "Katie Aubrecht"
+  - "Mary Jean Hande"
+  - "Allison Williams"
+author: "Christine Kelly and colleagues"
+source_type: secondary
+availability: external-link-only
+verification_status: verified-inspected
+period: later-review
+organizations:
+  - "University of Manitoba"
+  - "British Columbia Ministry of Health"
+people: []
+topics:
+  - individualized-funding
+  - home-support
+  - evaluation
+external_url: "http://hdl.handle.net/1993/35118"
+archived_url: ""
+bibtex_key: kelly2020df
+document_path: ""
+rights_note: "University of Manitoba MSpace report. Link only."
+---
+
+::: {.callout-note}
+## Source inspected
+The public MSpace text was read. CSIL appears as one program in a national scan.
+:::
+
+## Identification
+
+| Element | As inspected |
+| --- | --- |
+| Title | Directly-Funded Care Programs in Canada |
+| Repository | University of Manitoba MSpace, [repository record](http://hdl.handle.net/1993/35118) |
+| Published | 13 October 2020 |
+
+: Identification
+
+## Annotation
+
+The BC section (heading “Choices for Supports in Independent Living”) states: “Initiated in 1994, the Choices for Supports in Independent Living program provides flexible self-directed home care for clients with chronic health conditions.” It says the program is supported by Spinal Cord Injury BC and the Individualized Funding Resource Centre, served 956 clients in 2015–16 (80 percent under age 65), and is administered through regional health authorities and funded by the Ministry of Health.
+
+The title wording (“Choices for Supports”) differs from the ministry’s current “Choice in Supports.” Eligibility wording in the scan (chronic conditions, post-hospital, end-of-life) does not match the current provincial CSIL page’s high-physical-care-needs formula. Those mismatches are left as features of this secondary source, not corrected against the ministry page.
+
+This is a 1994-side source in the founding-year conflict.
+
+## Open questions
+
+- Which informant or document supplied “Initiated in 1994.”
+- Why the scan’s eligibility description diverges from the current HCC manual.
+
+## See also
+
+- [IFRC 1994 slides](ifrc-csil-module-1-1994.qmd)
+- [Wanted ministry records](wanted-ministry-csil-pilot-records.qmd)

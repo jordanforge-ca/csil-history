@@ -14,6 +14,6 @@ A working research proposition used only to organise this site, and **not** offe
 
 **institutional or agency care → disability-led independent-living experiments → Creekview → Enhanced Consumer Participation Model (ECPM) → direct individualized funding → CSIL design and pilot → a province-wide program.**
 
-Working dates attached to that lineage (early 1980s advocacy; Creekview around 1985 and an evaluation around 1987; ECPM material around 1990 and possibly a 1994 revision; CSIL design around 1993, a pilot around 1994, and province-wide availability around 1995) remain propositions until sources are inspected. See the [history placeholders](history/index.qmd), the [timeline](timeline.qmd), and [wanted sources](research/wanted-sources.qmd).
+Working dates attached to that lineage remain propositions until contemporaneous sources are inspected. Later public accounts of Creekview (1985) and an evaluation (1987), a cited 1990 ECPM manual, and conflicting 1993 versus 1994 CSIL start years are now in the [source catalogue](sources/index.qmd). The November 2008 program-review synthesis has been inspected via a public scan. See the [history placeholders](history/index.qmd), the [timeline](timeline.qmd), and [wanted sources](research/wanted-sources.qmd).
 
 If you can help, the most useful contributions are citations, catalogue records, permitted scans, and corrections. Please read [About / Contribute](about.qmd#how-to-contribute) and do not send private or health-related records.

@@ -1,0 +1,56 @@
+---
+title: "Vancouver Coastal Health, “Choice in Support for Independent Living”"
+date: 2026-09-20
+date_display: "n.d. living page (inspected 20 September 2026)"
+date_precision: unknown
+id: src-vch-csil-page
+record_status: catalogue-record
+source_authors:
+  - "Vancouver Coastal Health"
+author: "Vancouver Coastal Health"
+source_type: primary
+availability: external-link-only
+verification_status: verified-inspected
+period: later-review
+organizations:
+  - "Vancouver Coastal Health"
+people: []
+topics:
+  - home-support
+  - individualized-funding
+external_url: "https://www.vch.ca/en/service/choice-support-independent-living"
+archived_url: ""
+bibtex_key: vchCsilPage
+document_path: ""
+rights_note: "Health-authority web page. Link only."
+---
+
+::: {.callout-note}
+## Source inspected
+The VCH service page was read. Title wording on the page is “Choice in Support” (singular *Support*).
+:::
+
+## Identification
+
+| Element | As inspected |
+| --- | --- |
+| Title on the page | Choice in Support for Independent Living |
+| URL | [Vancouver Coastal Health page](https://www.vch.ca/en/service/choice-support-independent-living) |
+| Linked resources named | “CSIL Handbook” / “Choice in Supports for Independent Living (CSIL) guidebook”; link to the provincial CSIL page |
+
+: Identification
+
+## Annotation
+
+VCH describes CSIL as an individualized-funding alternative for clients who can direct their care: the employer receives money from VCH to hire, manage, and pay home-support staff. The page does not give a founding year.
+
+The handbook/guidebook file linked from the page was not opened in this pass (the landing page lists it; the PDF itself is a follow-up item).
+
+## Open questions
+
+- Bibliographic details of the VCH CSIL handbook (date, author, relationship to the SCI BC workbook).
+
+## See also
+
+- [Government CSIL page](gov-bc-csil-program-page.qmd)
+- [SCI BC workbook](sci-bc-csil-workbook.qmd)

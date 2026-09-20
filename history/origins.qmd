@@ -14,9 +14,9 @@ Later work can gather cited accounts of institutional or agency home support, in
 
 ## Evidence status
 
-- **Documented facts:** none recorded on this page yet.
+- **Documented facts:** none recorded as a finished origins narrative.
+- **Later overviews catalogued:** [Haw 1989](../sources/haw-1989-creekview-account.qmd) describes 1970s–80s housing and support experiments; [SCI BC history](../sources/sci-bc-history.qmd) is an organizational timeline from 1957.
 - **Open questions:** what public primary sources describe independent-living advocacy in British Columbia in the early 1980s, and how (if at all) they connect to Creekview or CSIL.
-- **Related wanted sources:** none specifically titled for this chapter in the commissioning issue.
 
 ## See also
 

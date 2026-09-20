@@ -1,7 +1,7 @@
 ---
 title: "Walt Lawrence"
 person_id: walt-lawrence
-page_status: stub
+page_status: draft
 toc: false
 ---
 
@@ -9,16 +9,22 @@ toc: false
 
 ## Documented role
 
-None recorded. No cited source on this site yet supports a role statement.
+[Pamela Fayerman (2018)](../sources/fayerman-2018-walt-lawrence.qmd) reports Lawrence’s account that he lived at George Pearson Hospital and, in 1985, moved with friends into “the Creekview Co-operative Apartment near Granville Island,” and that he later worked as a Vancouver Coastal Health peer counsellor at G.F. Strong.
+
+[SCI BC (2019)](../sources/sci-bc-2019-walt-lawrence.qmd) states that in 1985 he moved into “semi-independent living at the newly constructed **Creekside** development” and that he has worked as a peer counsellor at GF Strong.
+
+The Creekview / Creekside spelling difference is left unresolved.
 
 ## Attributed recollection
 
-None recorded.
+Fayerman quotes Lawrence on directing care, a CPA cost analysis, and credit to Doug Mowat. Those quotations are attributed recollection in a newspaper interview, not independently verified events.
 
 ## Sources mentioning this person
 
-None catalogued yet.
+- [Fayerman 2018](../sources/fayerman-2018-walt-lawrence.qmd)
+- [SCI BC, “Walt’s Time”](../sources/sci-bc-2019-walt-lawrence.qmd)
 
 ## Questions we would like to verify
 
-To be added when a research protocol exists. This stub does not list interview questions and does not invite unsolicited contact.
+- Whether Creekview and Creekside name the same 1985 project.
+- Whether Lawrence is named in the unrecovered 1987 evaluation.

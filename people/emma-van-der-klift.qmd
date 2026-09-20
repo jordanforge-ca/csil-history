@@ -9,7 +9,7 @@ toc: false
 
 ## Documented role
 
-None recorded. No cited source on this site yet supports a role statement.
+None recorded for Creekview, ECPM, or CSIL. Public items inspected for the initial catalogue (including the [Roeher / Salisbury bibliography](../sources/allenshea-1997-if-bibliography.qmd) and [IFRC Our Team](../sources/ifrc-our-team.qmd)) do not name Van der Klift as an ECPM manual author. Separately published 1993–94 essays on help and human services were seen in search results; they are not treated here as ECPM or CSIL sources.
 
 ## Attributed recollection
 
@@ -17,8 +17,9 @@ None recorded.
 
 ## Sources mentioning this person
 
-None catalogued yet.
+None catalogued yet in a CSIL or ECPM role.
 
 ## Questions we would like to verify
 
-To be added when a research protocol exists. This stub does not list interview questions and does not invite unsolicited contact.
+- Whether an inspected ECPM title page names Van der Klift.
+- Whether Vancouver Health Department or GVHSS personnel lists name her for this work.

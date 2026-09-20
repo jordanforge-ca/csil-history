@@ -1,0 +1,60 @@
+---
+title: "IFRC, “An Introduction: The Beginning Steps towards CSIL” (1994 founding claim)"
+date: 2015-01-01
+date_display: "n.d. (slides inspected 20 September 2026)"
+date_precision: unknown
+id: src-ifrc-module-1-1994
+record_status: catalogue-record
+source_authors:
+  - "Individualized Funding Resource Centre Society"
+author: "Individualized Funding Resource Centre Society"
+source_type: secondary
+availability: external-link-only
+verification_status: verified-inspected
+period: design-pilot
+organizations:
+  - "Individualized Funding Resource Centre Society"
+  - "British Columbia Ministry of Health"
+people: []
+topics:
+  - individualized-funding
+  - program-design
+  - home-support
+external_url: "https://www.ifrcsociety.org/documents/resources/slides/getting-started/CSIL-Module-Series_Module-1.pdf"
+archived_url: ""
+bibtex_key: ifrcModule11994
+document_path: ""
+rights_note: "Public slide PDF. Link only."
+---
+
+::: {.callout-note}
+## Source inspected
+The PDF was read. It is a later training deck. It does not reproduce a 1994 ministry instrument.
+:::
+
+## Identification
+
+| Element | As inspected |
+| --- | --- |
+| Title on the deck | An Introduction: The Beginning Steps towards CSIL |
+| URL | [IFRC Society PDF](https://www.ifrcsociety.org/documents/resources/slides/getting-started/CSIL-Module-Series_Module-1.pdf) |
+| Founding sentence | “Established by the Ministry of Health in British Columbia in 1994, with people with disabilities in the forefront of the program design.” |
+
+: Identification
+
+## Annotation
+
+This deck is one public source of the **1994** start-year claim. Closely worded IFRC and ALS Society of BC workshop slides repeat 1994. [Kelly et al. 2020](kelly-2020-directly-funded.qmd) also writes “Initiated in 1994.” A different IFRC deck uses **1993**. This archive does not pick a winner.
+
+The same deck describes Phase I / Phase II, says funding comes from the home-support budget, and states there is no wait list and no ministry policy requiring six months on an agency.
+
+## Open questions
+
+- Date the slides were prepared.
+- Whether “established … in 1994” means authorization, first clients, or province-wide availability.
+
+## See also
+
+- [IFRC / SCI deck using 1993](ifrc-sci-presentation-1993.qmd)
+- [Wanted ministry records](wanted-ministry-csil-pilot-records.qmd)
+- [CSIL design and pilot](../history/csil-pilot.qmd)

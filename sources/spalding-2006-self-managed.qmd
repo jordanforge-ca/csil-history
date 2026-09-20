@@ -1,0 +1,64 @@
+---
+title: "Self Managed Care Programs in Canada: A Report to Health Canada"
+date: 2006-06-01
+date_display: "June 2006"
+date_precision: exact
+id: src-spalding-2006-smc
+record_status: catalogue-record
+source_authors:
+  - "Karen Spalding"
+  - "Jillian R. Watkins"
+  - "A. Paul Williams"
+author: "Karen Spalding, Jillian R. Watkins, and A. Paul Williams"
+source_type: secondary
+availability: external-link-only
+verification_status: verified-inspected
+period: later-review
+organizations:
+  - "Health Canada"
+  - "British Columbia Ministry of Health"
+people: []
+topics:
+  - individualized-funding
+  - home-support
+  - evaluation
+external_url: "https://www.canada.ca/en/health-canada/services/publications/health-system-services/self-managed-care-programs-canada-report-to-health-canada.html"
+archived_url: ""
+bibtex_key: spalding2006smc
+document_path: ""
+rights_note: "Health Canada publication page. Link only."
+---
+
+::: {.callout-note}
+## Source inspected
+The Canada.ca HTML of the report was read. The CSIL section relies in part on “personal communication” and a then-current website.
+:::
+
+## Identification
+
+| Element | As inspected |
+| --- | --- |
+| Title | Self Managed Care Programs in Canada: A Report to Health Canada |
+| Date / ISBN | June 2006; ISBN 978-0-662-46351-1 |
+| Prepared for | Home and Continuing Care Unit, Health Care Policy Directorate, Health Canada |
+| URL | [Canada.ca report page](https://www.canada.ca/en/health-canada/services/publications/health-system-services/self-managed-care-programs-canada-report-to-health-canada.html) |
+
+: Identification
+
+## Annotation
+
+Section 5.2 heads the BC program “Choices for Support in Independent Living (CSIL)” (wording as published). It says the program, funded by B.C.’s Ministry of Health, “has been in existence for the past twenty years, though it has undergone many structural changes since its inception,” describes Phase One and Phase Two, and reports “currently 100 individuals in the program and there is no waiting list” (personal communication).
+
+“Past twenty years” from June 2006 would reach about 1986 if read as arithmetic. This archive records the authors’ sentence. It does **not** treat that span as a verified founding year, and it does not reconcile it with 1993, 1994, or the 2008 synthesis’s “1990's.”
+
+The same report notes that staff at the BC program were unaware of Vela Microboards in the same province — a finding about information access, not about origins.
+
+## Open questions
+
+- What “inception” the authors had in mind.
+- Identity of the personal-communication informant.
+
+## See also
+
+- [Wanted ministry records](wanted-ministry-csil-pilot-records.qmd)
+- [2008 synthesis](wanted-2008-program-review.qmd)

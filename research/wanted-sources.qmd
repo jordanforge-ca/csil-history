@@ -21,40 +21,36 @@ listing:
 toc: true
 ---
 
-These items were named in [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10) as high-priority sources the archive should be able to represent even before a digital copy is recovered. Bibliographic details below are **only** what that issue states. This project has not independently verified catalogue entries or inspected copies.
+These items were first named in [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). This page no longer treats that issue as the only bibliographic evidence. Each row still means **copy not held here**, except where a record has since been moved to a public link (the 2008 synthesis).
 
-**Status pattern for all five:** Known to exist — copy sought.
+See [catalogue search notes](catalogue-search-notes.qmd) for queries that returned nothing.
 
 ## 1. Creekview 202 Project Evaluation Report
 
-- **Creator as named:** Patricia Ryan / Ryan & Wiggins
-- **Date as named:** c. 1987
+- **Publicly attested:** an independent 1987 evaluation is described in [Haw 1989](../sources/haw-1989-creekview-account.qmd). Creekview’s 1985 opening is also stated on [SCI BC’s history page](../sources/sci-bc-history.qmd) and in [Fayerman 2018](../sources/fayerman-2018-walt-lawrence.qmd).
+- **Still only from the commissioning issue:** creator “Patricia Ryan / Ryan & Wiggins.” No WorldCat or Internet Archive record under that name was found.
 - **Catalogue record:** [Creekview 202 Project Evaluation Report](../sources/wanted-creekview-202-evaluation.qmd)
 
 ## 2. Keys on Freedom
 
-- **Full title as named:** Keys on Freedom: Resource manual for the development of self-managed community living alternatives for quadriplegic persons
-- **Creator as named:** BC Rehabilitation Society
-- **Date as named:** c. 1990
+- **As named:** *Keys on Freedom: Resource manual for the development of self-managed community living alternatives for quadriplegic persons* (BC Rehabilitation Society, c. 1990).
+- **Independent confirmation:** none found in the catalogues and sites searched.
 - **Catalogue record:** [Keys on Freedom](../sources/wanted-keys-on-freedom.qmd)
 
 ## 3. Enhanced Consumer Participation Model (ECPM) manual(s)
 
-- **Creator as named:** BC Rehab / Greater Vancouver Home Support Society
-- **Date as named:** c. 1990 and possibly a 1994 training revision
+- **Independently cited title:** *Enhanced Consumer Participation Model: Skill Development Manual for Consumers of Home Support Services* (BC Rehab & Greater Vancouver Home Support Society, 1990; 5 modules, 52 pages plus appendices) in the [Roeher / Salisbury bibliography](../sources/allenshea-1997-if-bibliography.qmd).
+- **Still open:** a possible 1994 training revision; Emma Van der Klift as author (not found on inspected public items).
 - **Catalogue record:** [ECPM manual(s)](../sources/wanted-ecpm-manuals.qmd)
 
 ## 4. Original Ministry of Health CSIL pilot/design records
 
-- **Date as named:** approximately 1993–95
-- **Likely administrative home as named:** Continuing Care Division / Community Support Branch
+- **Still a class of records, not a recovered file.** Later public sources disagree: **1993** ([IFRC / SCI deck](../sources/ifrc-sci-presentation-1993.qmd)) versus **1994** ([IFRC Module 1](../sources/ifrc-csil-module-1-1994.qmd); [Kelly et al. 2020](../sources/kelly-2020-directly-funded.qmd)). The inspected [2008 synthesis](../sources/wanted-2008-program-review.qmd) says only “the 1990's.”
 - **Catalogue record:** [Ministry CSIL pilot/design records](../sources/wanted-ministry-csil-pilot-records.qmd)
 
 ## 5. CSIL Program Review Synthesis Report
 
-- **Full title as named:** Choice in Supports for Independent Living Review Program: Synthesis Report
-- **Creator as named:** Ministry of Health Services / James Murtagh Consulting
-- **Date as named:** November 2008
+- **Recovered as a public scan.** James Murtagh Consulting for Home and Community Care Branch, November 2008. Internet Archive Microlog fiche. No longer listed in the “copy sought” table below.
 - **Catalogue record:** [2008 Synthesis Report](../sources/wanted-2008-program-review.qmd)
 
 ## If you have a lead

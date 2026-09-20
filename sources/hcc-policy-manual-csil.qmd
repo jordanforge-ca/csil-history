@@ -1,0 +1,59 @@
+---
+title: "Home and Community Care Policy Manual, Chapter 4 — Home Health Services (CSIL sections 4.C)"
+date: 2018-06-19
+date_display: "chapter contents dated 19 June 2018; some subsections effective 29 October 2015"
+date_precision: exact
+id: src-hcc-policy-manual-csil
+record_status: catalogue-record
+source_authors:
+  - "British Columbia Ministry of Health"
+author: "British Columbia Ministry of Health"
+source_type: primary
+availability: external-link-only
+verification_status: verified-inspected
+period: later-review
+organizations:
+  - "British Columbia Ministry of Health"
+people: []
+topics:
+  - home-support
+  - program-design
+  - individualized-funding
+external_url: "https://www2.gov.bc.ca/assets/gov/health-safety/home-community-care/accountability/hcc-policy-manual/4_hcc_policy_manual_chapter-4.pdf"
+archived_url: ""
+bibtex_key: mohHccCh4
+document_path: ""
+rights_note: "Crown policy PDF. Link only."
+---
+
+::: {.callout-note}
+## Source inspected
+The public Chapter 4 PDF was read, focusing on section 4.C (CSIL). This is current operational policy, not a 1990s pilot file.
+:::
+
+## Identification
+
+| Element | As inspected |
+| --- | --- |
+| Document | Home and Community Care Policy Manual, Chapter 4, Home Health Services |
+| CSIL sections | 4.C.1 General Description and Definitions; 4.C.2 Service Needs Determination; 4.C.3 CSIL Administration; 4.C.4 Payment to Family Members |
+| URL | [British Columbia government page (PDF)](https://www2.gov.bc.ca/assets/gov/health-safety/home-community-care/accountability/hcc-policy-manual/4_hcc_policy_manual_chapter-4.pdf) |
+| Dates on inspected pages | Chapter contents 19 June 2018; 4.A effective 29 October 2015; 4.C.3 effective 19 June 2018 |
+
+: Identification
+
+## Annotation
+
+Section 4.C requires health authorities to fund CSIL as a self-directed alternative to agency home support. It defines CSIL employer, client support group, CSIL representative, CSIL agreement, and CSIL funds. Clients who cannot always direct their own care may participate through a support group or representative. A grandfathering sentence states that clients receiving CSIL funding as of 31 March 2011 remain eligible after 1 April 2011 regardless of later 4.C.2 criteria.
+
+The 2008 synthesis cited an April 2007 *Home & Community Care Policy Manual* (sections 5.A). Chapter numbering has changed. The 2007 manual was not recovered in this pass.
+
+## Open questions
+
+- Public location of the April 2007 manual cited in 2008.
+- Revision history that would show when CSIL first entered the manual.
+
+## See also
+
+- [2008 synthesis](wanted-2008-program-review.qmd)
+- [Government CSIL page](gov-bc-csil-program-page.qmd)

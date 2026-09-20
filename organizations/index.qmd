@@ -3,19 +3,25 @@ title: "Organizations"
 subtitle: "Names appearing in public source descriptions — not organizational histories"
 ---
 
-This section will hold one page per organization once a cited public source supports more than a name. This bootstrap does **not** write organizational histories.
+This section will hold one page per organization once a cited public source supports more than a name. This page does **not** write organizational histories.
 
-The names below appear in the commissioning issue’s wanted-source descriptions. Listing them here only means the archive should be able to attach evidence to those names later. It is not a claim about legal status, continuity, or a role in CSIL.
+Names below appear either in the commissioning issue or in public sources catalogued in this pass. Listing a name is not a claim about legal continuity.
 
-| Name as given in the commissioning issue | Why the name appears here |
+| Name | Why the name appears here |
 | --- | --- |
-| BC Rehabilitation Society (also “BC Rehab”) | Named as creator of *Keys on Freedom* and, with Greater Vancouver Home Support Society, of ECPM manual(s) |
-| Greater Vancouver Home Support Society | Named with BC Rehab on ECPM manual(s) |
-| Ryan & Wiggins | Named with Patricia Ryan on the Creekview 202 evaluation |
-| British Columbia Ministry of Health, Continuing Care Division / Community Support Branch | Named as the likely administrative home of 1993–95 CSIL pilot/design records |
-| British Columbia Ministry of Health Services | Named with James Murtagh Consulting on the November 2008 synthesis report |
-| James Murtagh Consulting | Named as creator of the November 2008 synthesis report |
+| BC Rehabilitation Society (also “BC Rehab”) | Named as creator of *Keys on Freedom* (commissioning issue, not independently confirmed). Independently cited on the 1990 ECPM manual ([Roeher / Salisbury bibliography](../sources/allenshea-1997-if-bibliography.qmd)) and in [Clay 1993](../sources/clay-1993-pearson.qmd) |
+| Greater Vancouver Home Support Society | Named with BC Rehab on the 1990 ECPM manual citation |
+| Canadian Paraplegic Association / BC Paraplegic Association / Spinal Cord Injury BC | Named in [Haw 1989](../sources/haw-1989-creekview-account.qmd), [SCI BC history](../sources/sci-bc-history.qmd), and the [CSIL workbook](../sources/sci-bc-csil-workbook.qmd) |
+| Creekview Co-operative (False Creek / Granville Island) | Named in Haw 1989, Fayerman 2018, and SCI BC history. Later SCI BC writing uses “Creekside” |
+| Ryan & Wiggins | Named with Patricia Ryan on the Creekview 202 evaluation in the commissioning issue only |
+| British Columbia Ministry of Health / Ministry of Health Services | Named on the [2008 synthesis](../sources/wanted-2008-program-review.qmd), current [program page](../sources/gov-bc-csil-program-page.qmd), and [HCC policy manual](../sources/hcc-policy-manual-csil.qmd) |
+| Home and Community Care Branch, Health Authorities Division | Named as the 2008 synthesis client on the inspected title page |
+| James Murtagh Consulting | Named as preparer of the November 2008 synthesis |
+| Individualized Funding Resource Centre Society | [Our Team](../sources/ifrc-our-team.qmd) and later CSIL training slides |
+| Association of CSIL Employers | Named in the [2011 news release](../sources/bc-gov-news-2011-csil-rates.qmd) |
 
-Creekview is treated on this site as a [history placeholder](../history/creekview.qmd), not as an organization record, because the commissioning issue does not state its legal form.
+: Organizations named in catalogued public sources
+
+Creekview is also treated as a [history placeholder](../history/creekview.qmd), because its legal form in 1985 is not settled on this site.
 
 When you add an organization page, separate documented functions (cited) from later attributions, and link every claim to a [source record](../sources/index.qmd).

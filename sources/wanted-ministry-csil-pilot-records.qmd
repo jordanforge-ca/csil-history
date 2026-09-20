@@ -16,7 +16,8 @@ organizations:
   - "British Columbia Ministry of Health"
   - "Continuing Care Division"
   - "Community Support Branch"
-people: []
+people:
+  - "Paul Gauthier"
 topics:
   - program-design
   - individualized-funding
@@ -29,32 +30,53 @@ rights_note: "Government records. Copy not held. Crown copyright or access rules
 ---
 
 ::: {.callout-note}
-## Known to exist — copy sought
-Bibliographic details on this page come only from [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). This archive has not inspected a copy or an independent catalogue record.
+## Known to exist as a class — copies sought
+This is a **class of records**, not a single titled publication. Later public sources disagree about whether CSIL was “established” in **1993** or **1994**. The 2008 ministry-commissioned synthesis inspected for this catalogue says only “the 1990's.” Original 1993–95 design, authorization, or pilot instruments have not been recovered. The commissioning issue’s “Continuing Care Division / Community Support Branch” label has not been independently confirmed on a contemporaneous title page.
 :::
 
 ## Identification
 
-| Element | As stated in the commissioning issue |
+| Element | What public sources actually say |
 | --- | --- |
-| Description | Original Ministry of Health CSIL pilot/design records |
-| Date | Approximately 1993–95 |
-| Likely administrative home | Continuing Care Division / Community Support Branch |
+| Description | Original Ministry of Health CSIL pilot/design records (commissioning issue) |
+| Date range as named there | Approximately 1993–95 |
+| Likely administrative home as named there | Continuing Care Division / Community Support Branch |
+| 1993 claim inspected | [IFRC / SCI BC slide deck](ifrc-sci-presentation-1993.qmd): “Established by the Ministry of Health in British Columbia in 1993” |
+| 1994 claim inspected | [IFRC Module 1 slides](ifrc-csil-module-1-1994.qmd); [Kelly et al. 2020](kelly-2020-directly-funded.qmd): “Initiated in 1994” |
+| 1990s, year unspecified | [2008 synthesis report](wanted-2008-program-review.qmd): growth “since its establishment in the 1990's” |
+| Loose retrospective span | [Spalding et al. 2006](spalding-2006-self-managed.qmd): program “in existence for the past twenty years” (written June 2006) |
+| Sortable date on this record | `1994-01-01` is a midpoint for the stated range, not a claim that a specific instrument is dated 1994 |
 
-This is a **class of records**, not a single titled publication. The sortable date `1994-01-01` is a midpoint for the stated range, not a claim that a specific instrument is dated 1994.
+: Identification
 
 ## Annotation
 
-These records are listed so the 1993–95 design and pilot period has a catalogue hook. They are also relevant to the preserved disagreement about 1993 versus 1994 as a CSIL starting year.
+No Treasury Board minute, ministry circular, pilot evaluation, or 1993–95 program manual was located on gov.bc.ca, openinfo.gov.bc.ca, CanLII, Internet Archive title search, or the Legislative Assembly site in this pass. What exists in public is later description.
+
+The 1993 versus 1994 disagreement is **preserved**. The sources inspected here do not show whether those years name different events (design, authorization, pilot start, first clients) or are simply inconsistent retrospectives. [IFRC’s own pages](ifrc-our-team.qmd) also say Paul Gauthier “started on the CSIL program in 1994” (Anthony Cheng biography) while another IFRC deck uses 1993.
+
+Spalding, Watkins and Williams (June 2006) wrote that CSIL “has been in existence for the past twenty years.” Taken literally that would reach the mid-1980s. That sentence is catalogued as the authors’ wording; it is not used here to move the founding date, and it is not reconciled with 1993/1994.
 
 ## Open questions
 
 - Which specific files, memos, Treasury Board or ministry instruments, or pilot evaluations exist and are public.
 - What each dated item authorises (design, pilot, or broader availability).
+- Whether “Continuing Care Division / Community Support Branch” is the contemporaneous administrative home.
 - Access and copyright status for any recovered copies.
+
+## Search leads still worth following
+
+- BC government publications / Legislative Library (1993–95 Ministry of Health annual reports and continuing-care circulars)
+- Open Information FOI packages beyond the 2012 briefing note already seen
+- CanLII and the BC Gazette for any named CSIL instrument
+- Successor Home and Community Care policy-manual revision histories
 
 ## See also
 
+- [2008 CSIL Program Review Synthesis Report](wanted-2008-program-review.qmd)
+- [IFRC slides using 1993](ifrc-sci-presentation-1993.qmd)
+- [IFRC slides using 1994](ifrc-csil-module-1-1994.qmd)
+- [Kelly et al. 2020](kelly-2020-directly-funded.qmd)
+- [Spalding et al. 2006](spalding-2006-self-managed.qmd)
 - [CSIL design and pilot placeholder](../history/csil-pilot.qmd)
-- [Timeline](../timeline.qmd)
 - [Wanted sources](../research/wanted-sources.qmd)

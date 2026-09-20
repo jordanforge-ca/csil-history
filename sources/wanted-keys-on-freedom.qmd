@@ -7,7 +7,7 @@ id: src-wanted-keys-on-freedom
 record_status: catalogue-record
 source_authors:
   - "BC Rehabilitation Society"
-author: "BC Rehabilitation Society"
+author: "BC Rehabilitation Society (as named in the commissioning issue)"
 source_type: primary
 availability: known-to-exist-copy-sought
 verification_status: bibliographically-confirmed
@@ -27,29 +27,46 @@ rights_note: "Copy not held. Do not upload a scan unless redistribution is clear
 
 ::: {.callout-note}
 ## Known to exist — copy sought
-Bibliographic details on this page come only from [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). This archive has not inspected a copy or an independent catalogue record.
+The full title and corporate author on this page still come from [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). Public catalogue and web searches in 2026 did **not** independently confirm a library holding, ISBN, or inspected copy. The item remains attested by the commissioning issue only.
 :::
 
 ## Identification
 
-| Element | As stated in the commissioning issue |
+| Element | As stated, and what was checked |
 | --- | --- |
-| Title | Keys on Freedom: Resource manual for the development of self-managed community living alternatives for quadriplegic persons |
-| Creator | BC Rehabilitation Society |
-| Date | c. 1990 |
+| Title as named in the commissioning issue | Keys on Freedom: Resource manual for the development of self-managed community living alternatives for quadriplegic persons |
+| Creator as named there | BC Rehabilitation Society |
+| Date as named there | c. 1990 |
+| WorldCat query “Keys on Freedom” + quadriplegic / BC Rehabilitation (2026) | No matching bibliographic record identified in the result pages inspected |
+| Internet Archive title search | `numFound: 0` |
+| Open-web search | No BC Rehab manual under this title; unrelated U.S. “Keys to Freedom” vehicle-grant program only |
+
+: Identification
 
 ## Annotation
 
-This is a catalogue placeholder for a named resource manual. This archive does not yet describe its contents, circulation, or relationship to ECPM or CSIL.
+This remains a catalogue placeholder. Unlike the [ECPM skill-development manual](wanted-ecpm-manuals.qmd), which is cited by title in a later public bibliography, *Keys on Freedom* was not located in the public catalogues and sites checked for this pass.
+
+BC Rehabilitation Society (B.C. Rehab) is independently attested as an organization in [Nancy Clay’s 1993 UBC thesis](clay-1993-pearson.qmd), which used B.C. Rehab documents and described Creekview as a community-living move from George Pearson Centre. That thesis does **not** cite *Keys on Freedom*.
 
 ## Open questions
 
-- Location of a copy.
-- Exact publication date and edition.
-- Whether and how the manual relates to ECPM materials from the same period.
+- Whether the manual was published, circulated internally, or only planned.
+- Exact publication date, edition, and author names on any title page.
+- Whether and how it relates to the 1990 ECPM *Skill Development Manual* from BC Rehab and Greater Vancouver Home Support Society.
+- Location of a copy (GF Strong / Pearson successor files, SCI BC, ministry, private papers).
+
+## Search leads still worth following
+
+- Legislative Library of British Columbia government-publications files
+- UBC and SFU special collections / BC Rehab deposit copies
+- SCI BC / former Canadian Paraplegic Association BC library
+- Internet Archive and WorldCat under variant titles (“Keys *to* Freedom,” “self-managed community living,” “quadriplegic persons”)
 
 ## See also
 
-- [ECPM placeholder](../history/ecpm.qmd)
 - [ECPM manual(s) wanted record](wanted-ecpm-manuals.qmd)
+- [Clay 1993 thesis](clay-1993-pearson.qmd)
+- [ECPM placeholder](../history/ecpm.qmd)
 - [Wanted sources](../research/wanted-sources.qmd)
+- [Catalogue search notes](../research/catalogue-search-notes.qmd)

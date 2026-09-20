@@ -1,0 +1,65 @@
+---
+title: "IFRC / SCI BC slide deck: “Presented by Paul Gauthier … 3 part series” (1993 founding claim)"
+date: 2015-01-01
+date_display: "n.d. (slides inspected 20 September 2026)"
+date_precision: unknown
+id: src-ifrc-sci-1993
+record_status: catalogue-record
+source_authors:
+  - "Paul Gauthier"
+  - "Individualized Funding Resource Centre Society"
+  - "Spinal Cord Injury BC"
+author: "Paul Gauthier / IFRC Society and SCI BC"
+source_type: secondary
+availability: external-link-only
+verification_status: verified-inspected
+period: design-pilot
+organizations:
+  - "Individualized Funding Resource Centre Society"
+  - "Spinal Cord Injury BC"
+  - "British Columbia Ministry of Health"
+people:
+  - "Paul Gauthier"
+topics:
+  - individualized-funding
+  - program-design
+  - home-support
+external_url: "https://www.ifrcsociety.org/documents/resources/slides/getting-started/SCI-Presentation-1.pdf"
+archived_url: ""
+bibtex_key: ifrcSci1993slides
+document_path: ""
+rights_note: "Public slide PDF. Link only."
+---
+
+::: {.callout-note}
+## Source inspected
+The PDF was read. It is a later training deck. It does not reproduce a 1993 ministry instrument.
+:::
+
+## Identification
+
+| Element | As inspected |
+| --- | --- |
+| Cover line | “Presented by Paul Gauthier Individualized Funding Resource Centre Society and Spinal Cord Injury BC 3 part series” |
+| URL | [IFRC Society PDF](https://www.ifrcsociety.org/documents/resources/slides/getting-started/SCI-Presentation-1.pdf) |
+| Founding sentence | “Established by the Ministry of Health in British Columbia in 1993, with people with disabilities in the forefront of the program design.” |
+| Other historical line on the same deck | A slide lists “1. The Agency 2. ECPM Enhanced Consumer Participation Model 3. People paid themselves” |
+
+: Identification
+
+## Annotation
+
+This deck is one public source of the **1993** start-year claim. A different IFRC deck uses **1994**. Both are later slides. Neither is an inspected 1993–95 government record.
+
+The ECPM line is a three-step schematic, not a dated publication list.
+
+## Open questions
+
+- Date the slides were prepared.
+- Which, if any, ministry document the 1993 year is taken from.
+
+## See also
+
+- [IFRC Module 1 (1994 claim)](ifrc-csil-module-1-1994.qmd)
+- [Wanted ministry records](wanted-ministry-csil-pilot-records.qmd)
+- [CSIL design and pilot](../history/csil-pilot.qmd)

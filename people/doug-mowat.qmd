@@ -1,7 +1,7 @@
 ---
 title: "Doug Mowat"
 person_id: doug-mowat
-page_status: stub
+page_status: draft
 toc: false
 ---
 
@@ -9,16 +9,26 @@ toc: false
 
 ## Documented role
 
-None recorded. No cited source on this site yet supports a role statement.
+[SCI BC’s history page](../sources/sci-bc-history.qmd) states that in 1960 Doug Mowat “accepts the role of Executive Director” of the BC Paraplegic Association, and that he chaired the provincial International Year of the Disabled committee in 1981.
+
+The [Legislative Assembly’s Mowat Entrance page](../sources/leg-bc-mowat-entrance.qmd) states that he was “the first MLA to use a wheelchair while in office” and that he spent years working with the B.C. Paraplegic Foundation and the B.C. Paraplegic Association.
+
+Later writers connect him to the 1985 Creekview / Creekside housing project ([Fayerman 2018](../sources/fayerman-2018-walt-lawrence.qmd); [SCI BC 2019](../sources/sci-bc-2019-walt-lawrence.qmd)). Those are later attributions, not 1980s ministry or CPA files.
+
+This archive has not found a public source inspected here that names Mowat as a CSIL program designer.
 
 ## Attributed recollection
 
-None recorded.
+None recorded from a named oral-history protocol.
 
 ## Sources mentioning this person
 
-None catalogued yet.
+- [SCI BC history](../sources/sci-bc-history.qmd)
+- [Legislative Assembly, Mowat Entrance](../sources/leg-bc-mowat-entrance.qmd)
+- [Fayerman 2018](../sources/fayerman-2018-walt-lawrence.qmd)
+- [SCI BC, “Walt’s Time”](../sources/sci-bc-2019-walt-lawrence.qmd)
 
 ## Questions we would like to verify
 
-To be added when a research protocol exists. This stub does not list interview questions and does not invite unsolicited contact.
+- Dates of service as MLA.
+- Contemporaneous documents for any Creekview or CSIL role.

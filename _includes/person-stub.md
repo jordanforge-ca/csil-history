@@ -1,4 +1,4 @@
 ::: {.callout-note}
-## Stub page — not a biography
-This page records a name only. No role, affiliation, or participation claim is made here until a cited source is added.
+## Not a biography
+This page is a name record. Role or participation statements appear only in the sections below, and only when a cited public source supports them.
 :::
