@@ -60,5 +60,5 @@ A nearby paragraph describes a **different** community-living pilot “for peopl
 
 ## Associated claims
 
-- [Creekview placeholder](../history/creekview.qmd)
+- [Creekview chapter](../history/creekview.qmd)
 - [Haw 1989](1989-haw-special-housing-needs.qmd)

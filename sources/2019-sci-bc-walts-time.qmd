@@ -54,4 +54,4 @@ The article does not mention CSIL or ECPM.
 
 - [Walt Lawrence](../people/walt-lawrence.qmd)
 - [Doug Mowat](../people/doug-mowat.qmd)
-- [Creekview placeholder](../history/creekview.qmd)
+- [Creekview chapter](../history/creekview.qmd)

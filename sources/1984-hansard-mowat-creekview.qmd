@@ -67,5 +67,5 @@ This is the earliest public official text inspected in this pass that names Cree
 ## Associated claims
 
 - [Doug Mowat](../people/doug-mowat.qmd)
-- [Creekview placeholder](../history/creekview.qmd)
+- [Creekview chapter](../history/creekview.qmd)
 - Timeline row for the Creekview move
