@@ -143,8 +143,11 @@ main,
 #quarto-document-content,
 #quarto-content,
 .page-columns,
-.page-rows-contents {
+.page-rows-contents,
+.page-layout-article,
+.quarto-container {
   max-width: 100%;
+  min-width: 0;
 }
 
 #quarto-document-content h1,
@@ -162,8 +165,40 @@ table {
 
 .quarto-listing,
 figure,
-.table-wrapper {
+.table-wrapper,
+.table-scroll {
+  max-width: 100%;
   overflow-x: auto;
+  overscroll-behavior-x: contain;
+}
+
+.table-scroll {
+  display: block;
+  margin: 0 0 1rem;
+  padding: 0.15rem;
+  border: 1px solid #5c6570;
+  background: #ffffff;
+}
+
+.table-scroll:focus,
+.table-scroll:focus-visible {
+  outline: 3px solid #c45c00;
+  outline-offset: 3px;
+  box-shadow: 0 0 0 3px #ffffff, 0 0 0 6px #c45c00;
+}
+
+.table-scroll > table {
+  margin-bottom: 0;
+}
+
+.timeline-table th,
+.timeline-table td,
+.quarto-listing-table th,
+.quarto-listing-table td,
+#quarto-document-content td,
+#quarto-document-content th {
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 img,
@@ -325,4 +360,18 @@ button.btn {
 
 #quarto-document-content h1 {
   line-height: 1.25;
+}
+
+// TOC label is a <p>, not a heading — keep visual weight without outline theft
+#toc-title,
+#TOC .toc-title {
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 1.4;
+  margin: 0 0 0.5rem;
+  color: #10233a;
+}
+
+#title-block-header.quarto-title-block {
+  margin-bottom: 1rem;
 }

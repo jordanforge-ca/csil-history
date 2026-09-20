@@ -23,3 +23,5 @@ This view is generated from [`data/timeline.yml`](https://github.com/jordanforge
 Dates here are **working research propositions** unless a linked source record says a copy was inspected. Approximate and contested dates are labelled in the Date column. The 1993 and 1994 CSIL rows are both kept so the archive does not pick a starting year in advance of the evidence.
 
 Status values use the [evidence and verification vocabulary](docs/evidence-status.qmd).
+
+On small screens the timeline table scrolls sideways inside its own region. Tab to that region to scroll it with the keyboard. The rest of the page should not require horizontal scrolling.

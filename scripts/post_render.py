@@ -12,6 +12,10 @@ runs after every `quarto render` and:
 6. Captions listing tables and adds scope="col" to header cells
 7. Calls out external / PDF links in accessible text
 8. Removes the empty sidebar-expand <a> (duplicate of the toggle button)
+9. Demotes the TOC "On this page" title so the page h1 is first in the outline
+10. Removes role="menu" from the navbar disclosure button
+11. Keeps a single banner landmark (title block is not a second <header>)
+12. Wraps wide data tables in a keyboard-focusable scroll region
 
 Standard library only. Safe to run more than once.
 """
@@ -48,6 +52,27 @@ EMPTY_SIDEBAR_A_RE = re.compile(
 )
 MAIN_RE = re.compile(
     r'<main([^>]*id="quarto-document-content"[^>]*)>',
+    flags=re.IGNORECASE,
+)
+TOC_TITLE_RE = re.compile(
+    r"<h2(\s+id=\"toc-title\"[^>]*)>(.*?)</h2>",
+    flags=re.IGNORECASE | re.DOTALL,
+)
+NAVBAR_TOGGLER_RE = re.compile(r"<button\b[^>]*>", flags=re.IGNORECASE)
+TITLE_BLOCK_RE = re.compile(
+    r"<header(\s+id=\"title-block-header\"[^>]*)>(.*?)</header>",
+    flags=re.IGNORECASE | re.DOTALL,
+)
+SITE_HEADER_RE = re.compile(
+    r"<header(\s+id=\"quarto-header\"[^>]*)>",
+    flags=re.IGNORECASE,
+)
+TABLE_RE = re.compile(
+    r"<table\b[^>]*>.*?</table>",
+    flags=re.IGNORECASE | re.DOTALL,
+)
+TABLE_SCROLL_BEFORE_RE = re.compile(
+    r'<div class="table-scroll"[^>]*>\s*$',
     flags=re.IGNORECASE,
 )
 NAV_LABELS = (
@@ -284,6 +309,76 @@ def mark_external_links(html: str) -> str:
     )
 
 
+def demote_toc_title(html: str) -> str:
+    """Keep the TOC label, but do not let it steal the heading outline."""
+
+    def _repl(m: re.Match[str]) -> str:
+        attrs, inner = m.group(1), m.group(2)
+        if "class=" in attrs.lower():
+            attrs = re.sub(
+                r'class="([^"]*)"',
+                r'class="\1 toc-title"',
+                attrs,
+                count=1,
+                flags=re.IGNORECASE,
+            )
+        else:
+            attrs += ' class="toc-title"'
+        return f"<p{attrs}>{inner}</p>"
+
+    return TOC_TITLE_RE.sub(_repl, html)
+
+
+def strip_menu_role_from_buttons(html: str) -> str:
+    """Navbar toggler is a disclosure button, not a menu widget."""
+
+    def _button(m: re.Match[str]) -> str:
+        tag = m.group(0)
+        if re.search(r'\srole=["\']menu["\']', tag, flags=re.IGNORECASE):
+            tag = re.sub(r'\srole=["\']menu["\']', "", tag, flags=re.IGNORECASE)
+        return tag
+
+    return NAVBAR_TOGGLER_RE.sub(_button, html)
+
+
+def consolidate_headers(html: str) -> str:
+    """One banner landmark: site chrome. Title block stays a named container."""
+
+    def _site(m: re.Match[str]) -> str:
+        tag = "<header" + m.group(1) + ">"
+        if "aria-label=" not in tag.lower() and "aria-labelledby=" not in tag.lower():
+            tag = tag[:-1] + ' aria-label="Site">'
+        return tag
+
+    html = SITE_HEADER_RE.sub(_site, html, count=1)
+    return TITLE_BLOCK_RE.sub(r"<div\1>\2</div>", html, count=1)
+
+
+def wrap_scroll_tables(html: str) -> str:
+    """Contain wide tables so page-level sideways scroll is not required."""
+
+    def _wrap(m: re.Match[str]) -> str:
+        table = m.group(0)
+        before = html[max(0, m.start() - 160) : m.start()]
+        if TABLE_SCROLL_BEFORE_RE.search(before) or 'class="table-scroll"' in before:
+            return table
+        is_timeline = "timeline-table" in table
+        is_listing = "quarto-listing-table" in table or "quarto-listing" in before
+        if not (is_timeline or is_listing):
+            return table
+        label = (
+            "Working CSIL history timeline. Scroll horizontally on small screens."
+            if is_timeline
+            else "Data table. Scroll horizontally on small screens."
+        )
+        return (
+            f'<div class="table-scroll" role="region" tabindex="0" '
+            f'aria-label="{label}">{table}</div>'
+        )
+
+    return TABLE_RE.sub(_wrap, html)
+
+
 def patch(path: Path, site_root: Path) -> bool:
     rel = page_key(path, site_root)
     html = path.read_text(encoding="utf-8")
@@ -293,6 +388,10 @@ def patch(path: Path, site_root: Path) -> bool:
     html = caption_tables(html, rel)
     html = mark_external_links(html)
     html = EMPTY_SIDEBAR_A_RE.sub("", html)
+    html = demote_toc_title(html)
+    html = strip_menu_role_from_buttons(html)
+    html = consolidate_headers(html)
+    html = wrap_scroll_tables(html)
     path.write_text(html, encoding="utf-8")
     return True
 

@@ -53,6 +53,8 @@ class PageParser(HTMLParser):
         self.has_doc_content_id = False
         self.has_header = False
         self.has_footer = False
+        self.headers: list[dict[str, str | None]] = []
+        self.menu_role_buttons: list[str] = []
         self.navs: list[dict[str, str | None]] = []
         self.has_aria_current = False
         self.positive_tabindexes: list[str] = []
@@ -76,6 +78,16 @@ class PageParser(HTMLParser):
         if tag == "header" or role == "banner":
             self.has_header = True
             self.seen_header = True
+            self.headers.append(
+                {
+                    "id": attr.get("id"),
+                    "aria_label": attr.get("aria-label"),
+                    "aria_labelledby": attr.get("aria-labelledby"),
+                }
+            )
+        if tag == "button" and (role or "").lower() == "menu":
+            classes = attr.get("class") or ""
+            self.menu_role_buttons.append(classes or "button")
         if tag == "footer" or role == "contentinfo":
             self.has_footer = True
         if tag == "nav" or role == "navigation":
@@ -224,6 +236,13 @@ def check_page(path: Path, site_root: Path) -> list[str]:
         errors.append(f"{rel}: no h1 heading")
     elif len(h1s) > 1:
         errors.append(f"{rel}: multiple h1 headings ({len(h1s)})")
+    if parser.headings and parser.headings[0][0] != 1:
+        level, text = parser.headings[0]
+        errors.append(
+            f"{rel}: first heading is h{level} ({text or 'untitled'}); page h1 must come first"
+        )
+    if re.search(r"<h[2-6][^>]*\bid=[\"']toc-title[\"']", raw, flags=re.IGNORECASE):
+        errors.append(f"{rel}: TOC title is a heading and steals the outline before the page h1")
 
     last_level = 0
     for level, text in parser.headings:
@@ -240,6 +259,35 @@ def check_page(path: Path, site_root: Path) -> list[str]:
 
     if not parser.has_header:
         errors.append(f"{rel}: missing header / banner landmark")
+    elif len(parser.headers) > 1:
+        named = [
+            h
+            for h in parser.headers
+            if (h.get("aria_label") or h.get("aria_labelledby"))
+        ]
+        names = [(h.get("aria_label") or h.get("aria_labelledby") or "") for h in named]
+        if len(named) < len(parser.headers):
+            errors.append(
+                f"{rel}: {len(parser.headers)} banner landmarks; name each distinctly or keep a single header"
+            )
+        elif len(set(names)) < len(names):
+            errors.append(f"{rel}: multiple banner landmarks share the same accessible name")
+
+    if parser.menu_role_buttons:
+        errors.append(
+            f"{rel}: disclosure button has role=menu ({', '.join(parser.menu_role_buttons)})"
+        )
+
+    if rel.as_posix() == "timeline.html":
+        if not re.search(
+            r'<div class="table-scroll"[^>]*tabindex="0"',
+            raw,
+            flags=re.IGNORECASE,
+        ):
+            errors.append(
+                f"{rel}: timeline table must sit in a keyboard-focusable .table-scroll region"
+            )
+
     if not parser.has_main and not parser.has_doc_content_id:
         errors.append(f"{rel}: missing main landmark or #quarto-document-content")
     if parser.has_doc_content_id and parser.main_tabindex != "-1":
