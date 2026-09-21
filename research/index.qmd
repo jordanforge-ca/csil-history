@@ -13,7 +13,7 @@ The November 2008 CSIL program-review synthesis is **no longer copy-sought**. A 
 
 A September 2026 public-source pass added inspected catalogue records for contemporaneous and later public evidence (Hansard 1984 and 1986; Mattinson & Rompf 1987 abstract; Haw 1989; Roeher bibliography; Ombudsperson 2012; SCI BC and IFRC pages; current ministry and VCH CSIL policy). *Keys on Freedom* still lacks independent bibliographic confirmation. The 1995 HEU *Guardian* PDF was retrieved as a scan; the page-9 CSIL passage was read from the image.
 
-The [Creekview chapter](../history/creekview.qmd) reconstructs the 1980s project from that catalogue. The 1987 evaluation report remains wanted.
+Cited history chapters now cover [Creekview](../history/creekview.qmd) (also origins/context), [ECPM](../history/ecpm.qmd), [CSIL design and pilot](../history/csil-pilot.qmd), and [later evolution](../history/evolution.qmd). Copies still sought are listed on [Wanted Sources](wanted-sources.qmd). The 1987 Creekview evaluation report remains wanted. A [state of the evidence](../history/index.qmd#state-of-the-evidence) summary sits on the History index.
 
 ## How to use this section
 

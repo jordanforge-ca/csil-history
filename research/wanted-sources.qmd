@@ -48,14 +48,14 @@ These items were named in [jordanforge-infrastructure issue 10](https://github.c
 - **Creator as named:** BC Rehab / Greater Vancouver Home Support Society
 - **Date as named:** c. 1990 and possibly a 1994 training revision
 - **Public evidence now cited:** Roeher / Salisbury bibliography independently cites *Enhanced Consumer Participation Model: Skill Development Manual for Consumers of Home Support Services* (BC Rehab & Greater Vancouver Home Support Society, 1990; five modules; 52 pages plus appendices). See [that finding aid](../sources/1990s-roeher-if-bibliography.qmd).
-- **Still missing:** the manual itself; any 1994 revision; title-page authorship (including any role for Emma Van der Klift). Van der Klift’s inspected 1994 chapter is [a different work](../sources/1994-van-der-klift-hell-bent.qmd). Current [VCH CSIL pages](../sources/vch-csil-service-page.qmd) do not use the ECPM name.
+- **Still missing:** the manual itself; any 1994 revision; title-page authorship (including any role for Emma Van der Klift). Van der Klift’s inspected 1994 chapter is [a different work](../sources/1994-van-der-klift-hell-bent.qmd). Current [VCH CSIL pages](../sources/vch-csil-service-page.qmd) do not use the ECPM name. Experiment 001 classified the 1990-versus-1994 identity question as **INSUFFICIENT EVIDENCE**. Narrative: [ECPM chapter](../history/ecpm.qmd).
 - **Catalogue record:** [ECPM manual(s)](../sources/wanted-ecpm-manuals.qmd)
 
 ## 4. Original Ministry of Health CSIL pilot/design records
 
 - **Date as named:** approximately 1993–95
 - **Likely administrative home as named:** Continuing Care Division / Community Support Branch
-- **Public evidence now cited:** later accounts disagree — [Gauthier 2014](../sources/2014-gauthier-sci-csil-presentation.qmd) says established 1993; [Gauthier 2015](../sources/2015-gauthier-csil-module-1.qmd) and [IFRC Our Team](../sources/ifrc-our-team.qmd) say 1994; [Ombudsperson 2012](../sources/2012-ombudsperson-best-of-care.qmd) says **pilot 1994, province-wide 1995**. [HEU *Guardian* Nov/Dec 1995](../sources/1995-heu-guardian-novdec.qmd) contemporaneously calls CSIL a new/pilot program of the Community Support Branch, Continuing Care Division.
+- **Public evidence now cited:** later accounts disagree — [Gauthier 2014](../sources/2014-gauthier-sci-csil-presentation.qmd) says established 1993; [Gauthier 2015](../sources/2015-gauthier-csil-module-1.qmd) and [IFRC Our Team](../sources/ifrc-our-team.qmd) say 1994; [Ombudsperson 2012](../sources/2012-ombudsperson-best-of-care.qmd) says **pilot 1994, province-wide 1995**. [HEU *Guardian* Nov/Dec 1995](../sources/1995-heu-guardian-novdec.qmd) contemporaneously calls CSIL a new/pilot program of the Community Support Branch, Continuing Care Division. Experiment 002 classified this as **PARTIAL STAGED CHRONOLOGY**. Narrative: [CSIL design and pilot](../history/csil-pilot.qmd).
 - **Catalogue record:** [Ministry CSIL pilot/design records](../sources/wanted-ministry-csil-pilot-records.qmd)
 
 ## Recovered (no longer copy-sought): 2008 CSIL Program Review Synthesis Report

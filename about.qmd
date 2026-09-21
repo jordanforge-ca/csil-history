@@ -5,13 +5,13 @@ subtitle: "Purpose, editorial rules, and how to add evidence"
 
 ## What this site is
 
-The CSIL History Archive is a public Quarto website and GitHub repository for a source-driven history of Choice in Supports for Independent Living (CSIL) in British Columbia. It privileges an annotated bibliography and source-location records over a finished narrative.
+The CSIL History Archive is a public Quarto website and GitHub repository for a source-driven history of Choice in Supports for Independent Living (CSIL) in British Columbia. It privileges an annotated bibliography and source-location records over a closed narrative. Core history chapters are cited reconstructions; missing documents and conflicting dates stay visible.
 
 The site is intentionally small and durable: Markdown files, structured front matter, a BibTeX file, and static HTML. There is no database, CMS, or application backend.
 
 ## What this site is not
 
-- A complete history of CSIL or independent living in British Columbia (Creekview now has a cited chapter; it is still not a finished archive)
+- A complete history of CSIL or independent living in British Columbia (core chapters are cited reconstructions; many documents remain wanted)
 - A current-program handbook or benefits explainer
 - An advocacy or campaign landing page
 - A place to store private employer, health, or correspondence files
@@ -27,10 +27,12 @@ The full contributor guide is [CONTRIBUTING.md](https://github.com/jordanforge-c
 1. Evidence before narrative.
 2. Prefer primary and near-primary sources.
 3. Separate fact, attribution, and interpretation.
-4. Preserve disagreement (including 1993 versus 1994 as a CSIL starting year).
+4. Preserve disagreement (including 1993 versus 1994 as a CSIL “established” year, and later official 1994-pilot / 1995-province-wide wording versus contemporaneous late-1995 “new/pilot” language).
 5. Keep advocacy out of the historical record.
 6. Design for accessibility first.
 7. Respect living participants; publish personal material only with permission.
+
+A short [state of the evidence](history/index.qmd#state-of-the-evidence) summary — well established, later reconstruction, and unresolved — is on the History index.
 
 ## How to contribute {#how-to-contribute}
 

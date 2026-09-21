@@ -16,7 +16,7 @@ Pages will go live after a maintainer enables GitHub Pages with **Source: GitHub
 - A research workspace for reconstructing CSIL's history from primary and near-primary sources.
 - A public catalogue of documents that are known to exist but have not yet been recovered.
 
-It does **not** currently contain a finished historical narrative, bulk-ingested PDFs, or private records.
+It does **not** contain a closed or exhaustive history, bulk-ingested PDFs, or private records. Core history chapters are now cited reconstructions with open questions kept visible.
 
 ## Local build
 
@@ -43,7 +43,7 @@ More detail: [docs/local-build.qmd](docs/local-build.qmd).
 | `history/` | Cited chapters for Creekview, ECPM, CSIL design/pilot, and later evolution; origins/context is folded into Creekview |
 | `timeline.qmd` + `data/timeline.yml` | Working timeline driven from structured data |
 | `sources/` | Annotated source records, including one labelled example |
-| `people/` | Name stubs only until cited evidence exists |
+| `people/` | Cited role records (not biographies) for names attached to public sources |
 | `organizations/` | Directory for organizations named in public sources |
 | `research/wanted-sources.qmd` | Known-to-exist documents still being sought |
 | `documents/` | Hosted files only when redistribution is clearly permitted |

@@ -135,4 +135,19 @@
   source_ids:
     - src-2008-program-review-synthesis
     - src-ombudsperson-2012-best-of-care
-  notes: "Cover dated November 2008; prepared-by page dated November, 2008. James Murtagh Consulting named as preparer. Best of Care also refers to a provincial review in 2007; this archive does not treat that 2007 mention as proven identical to this synthesis. The report dates CSIL to the 1990's and does not choose 1993 versus 1994."
+  notes: "Cover dated November 2008; prepared-by page dated November, 2008. James Murtagh Consulting named as preparer. Best of Care also refers to a provincial review in 2007; this archive does not treat that 2007 mention as proven identical to this synthesis. The report dates CSIL to the 1990's and does not choose 1993 versus 1994. See the later-evolution chapter."
+
+- id: tl-2011-csil-rates
+  title: "Ministry announces CSIL hourly-rate increases (program already provincial)"
+  date: 2011-03-28
+  date_iso: "2011-03-28"
+  date_display: "28 March 2011"
+  date_precision: exact
+  confidence: verified-inspected
+  period: later-review
+  href: history/evolution.qmd
+  sources_display: "BC Ministry of Health news release 2011HLTH0018-000298; HCC Policy 4.C"
+  source_ids:
+    - src-bcnews-2011-csil-rates
+    - src-hcc-policy-4c
+  notes: "Later official evidence of a scaled provincial program (more than 800 clients in the release). Effective date of the first announced increase is 1 April 2011. Does not settle 1993 versus 1994. HCC Policy 4.C later grandfathers clients on CSIL as of 31 March 2011."
