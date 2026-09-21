@@ -5,7 +5,7 @@ subtitle: "A mid-1980s co-op where men with high-level quadriplegia moved out of
 
 Creekview was a Vancouver housing project in the mid-1980s. A small group of men with high-level quadriplegia moved from hospital into a co-op apartment. Most of them used ventilators.
 
-Creekview did not create CSIL. It showed that people with very high support needs could live outside an institution and take a greater role in directing their support.
+Creekview did not create CSIL. It showed that people with very high support needs could live outside an institution. Haw later described some self-direction in the house; the evidence does not show a CSIL-style individual employer contract.
 
 ## What housing and support looked like before Creekview
 
@@ -21,7 +21,7 @@ In [February 1984](../sources/1984-hansard-mowat-creekview.qmd), Doug Mowat told
 
 Creekview was a community residence near False Creek / Granville Island in Vancouver. It housed a small group of men with high-level, mostly ventilator-dependent quadriplegia.
 
-Mowat told the legislature that six “high-lesion respiratory quadriplegic” residents would soon leave Pearson Hospital for “the Creekview Co-op on False Creek.” He described a six-bedroom co-op apartment “with all the support services plugged in.”
+In [February 1984](../sources/1984-hansard-mowat-creekview.qmd), Doug Mowat told the legislature that six “high-lesion respiratory quadriplegic” residents would soon leave Pearson Hospital for “the Creekview Co-op on False Creek.” He described a six-bedroom co-op apartment “with all the support services plugged in.”
 
 In [April 1986](../sources/1986-hansard-nielsen-creekview.qmd), Health Minister Jim Nielsen said six “young men,” “most of them depending on respiratory machines,” were living there in “an independent group setting.”
 
@@ -91,7 +91,7 @@ No source we have read says Creekview became ECPM or “led to CSIL.” None say
 
 [Gauthier 2014](../sources/2014-gauthier-sci-csil-presentation.qmd) lists pre-CSIL arrangements. It names “The Agency,” ECPM, and “People paid themselves.” It does not name Creekview.
 
-Creekview showed that community living and some self-direction were possible for people with very high physical support needs. Whether that directly influenced ECPM or CSIL remains an **open question**. The next chapter turns to ECPM: later sources describe a move from shared support in a housing project toward funding and employer responsibilities that followed the individual. The evidence does not show that Creekview formally became ECPM.
+Creekview showed that community living and some self-direction were possible for people with very high physical support needs. Whether that directly influenced ECPM or CSIL remains an **open question**. Later sources describe ECPM as individual funding and employer training that followed the person, rather than shared support in a housing project. The evidence does not show that Creekview formally became ECPM.
 
 ## What we still do not know
 

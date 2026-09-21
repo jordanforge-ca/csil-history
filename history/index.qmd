@@ -3,7 +3,7 @@ title: "History"
 subtitle: "From hospital and agency care toward CSIL"
 ---
 
-The chapters below follow how support in British Columbia moved from hospital and agency care toward a named CSIL program — and what happened after that program appeared. They start before CSIL existed as a named program, then look at its early years and later changes.
+The chapters below follow a possible order of events from hospital and agency care toward a named CSIL program — and what later sources say happened after that program appeared. They start before CSIL existed as a named program, then look at its early years and later changes.
 
 The evidence does not show that Creekview formally became ECPM, or that ECPM formally became CSIL. The order below is a way to read the story, **not** a claim that each step officially became the next.
 
@@ -13,11 +13,11 @@ The evidence does not show that Creekview formally became ECPM, or that ECPM for
 
 **[Creekview](creekview.qmd) (c. 1984–89)** was a Vancouver co-op where six men with high-level, mostly ventilator-dependent quadriplegia moved out of hospital. Records from the time describe a resident-and-CPA project that needed government agreement. Public sources from 1987–89 confirm that an evaluation existed. The report itself has not been read, and Patricia Ryan / Ryan & Wiggins authorship is unconfirmed.
 
-Creekview did not create CSIL. It showed that people with very high support needs could live outside an institution and take a greater role in directing their support. The next part of the story moves from shared support in a housing project toward funding and employer responsibilities that followed the individual.
+Creekview did not create CSIL. It showed that people with very high support needs could live outside an institution. Haw later described some self-direction in the house; the evidence does not show a CSIL-style individual employer contract. The next part of the story moves from shared support in a housing project toward funding and employer responsibilities that followed the individual.
 
 **[ECPM](ecpm.qmd) (c. 1990)** is a name that appears on a 1990 training manual meant to train consumers to act as employers. A later bibliography confirms that the manual existed. We have not found a copy to read. Later organizations also use the name for an individual-funding project they say came before CSIL. Those two uses may or may not be the same effort. Whether a 1994 ECPM training manual is a distinct document is still unresolved. *Keys on Freedom* is still unconfirmed.
 
-**[CSIL design and pilot](csil-pilot.qmd) (c. 1993–95)** is the period when a Ministry of Health program publicly named Choice in Supports for Independent Living appears in the sources. Later official records say CSIL was piloted or introduced in 1994 and made available province-wide in 1995. A later recollection uses 1993, and it conflicts with other later wording. A 1995 union newspaper still called CSIL new or a pilot. The chapter does not choose a single founding year.
+**[CSIL design and pilot](csil-pilot.qmd).** By late 1995 a Ministry of Health program publicly named Choice in Supports for Independent Living existed. Later official records say CSIL was piloted or introduced in 1994 and made available province-wide in 1995. A later recollection uses 1993, and it conflicts with other later wording. A 1995 union newspaper still called CSIL new or a pilot. The chapter does not choose a single founding year.
 
 **[Later evolution](evolution.qmd) (2008–2012 and after)** describes a scaled program, a 2008 program review, 2011 rate changes, and later definitions of a client support group and a CSIL representative. Those later rules are present-day descriptions, not recovered 1990s documents.
 
