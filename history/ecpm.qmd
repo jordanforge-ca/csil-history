@@ -3,16 +3,11 @@ title: "Enhanced Consumer Participation Model (ECPM)"
 subtitle: "A 1990 training manual; later accounts also use the name for a step before CSIL"
 ---
 
-::: {.callout-note}
-## What this page covers
-The Enhanced Consumer Participation Model (ECPM) is a name that appears on a 1990 skill-development manual. A later bibliography confirms that the manual existed. We have not found a copy to read.
+Creekview showed that people with very high support needs could live outside an institution. Haw later described some self-direction there; the evidence does not show a CSIL-style individual employer contract. Later sources describe a different emphasis: funding and employer responsibilities that followed the individual.
 
-Later organizations also use the name for an individual-funding project they say came before CSIL. Those two uses may or may not be the same effort. This page does **not** treat ECPM as a proven official predecessor of CSIL.
-:::
+They give that later emphasis a name: the Enhanced Consumer Participation Model (ECPM). A 1990 skill-development manual uses the same name. A later bibliography confirms that the manual existed. We have not found a copy to read.
 
-## How we use evidence
-
-A bibliography can confirm that a manual existed. It cannot tell us what the unread pages said. Later organizational stories are not treated as 1990s ministry rules. Full catalogue notes live on the [wanted ECPM record](../sources/wanted-ecpm-manuals.qmd).
+Later organizations also use “ECPM” for an individual-funding project they say came before CSIL. Those two uses may or may not be the same effort. The evidence does not show that Creekview formally became ECPM, or that ECPM formally became CSIL.
 
 ## What the 1990 manual shows
 
@@ -20,9 +15,9 @@ The strongest public description is a bibliography entry, not a recovered book.
 
 The [Roeher Institute / Brian Salisbury bibliography](../sources/1990s-roeher-if-bibliography.qmd) lists a 1990 *Skill Development Manual for Consumers of Home Support Services*. The listed authors are BC Rehab and Greater Vancouver Home Support Society. The annotation says the manual had five modules and was meant to train consumers to act as employers.
 
-That citation does not name personal authors. It does not give a place, ISBN, or link to CSIL. This archive has not read the manual. We must not guess the module contents. Search-engine copies of the same Roeher line are not a second confirmation.
+That citation does not name personal authors. It does not give a place, ISBN, or link to CSIL. The manual itself has not been read. We must not guess the module contents. Search-engine copies of the same Roeher line are not a second confirmation.
 
-The copy is still [sought](../sources/wanted-ecpm-manuals.qmd).
+A bibliography can confirm that a manual existed. It cannot tell us what the unread pages said. The copy is still [sought](../sources/wanted-ecpm-manuals.qmd).
 
 ## What later accounts add
 
@@ -58,9 +53,11 @@ No public source we have read names Vancouver Health Department on an ECPM docum
 
 Later IFRC and Gauthier wording treat ECPM as a step before CSIL. No 1990s document we have read says Creekview became ECPM, or that ECPM became CSIL. The [Creekview chapter](creekview.qmd) does not establish that link.
 
-The two uses of the name — a 1990 manual, and a later “individual-funding project” story — may describe the same effort, related efforts, or a later label. This archive does **not** treat that overlap as a proven official succession.
+The two uses of the name — a 1990 manual, and a later “individual-funding project” story — may describe the same effort, related efforts, or a later label. The evidence does **not** show that overlap as a proven official succession.
 
 [*Keys on Freedom*](../sources/wanted-keys-on-freedom.qmd) is still unconfirmed. No independent public source has yet confirmed the title, author, or year. Roeher does not list it. No link to the 1990 ECPM manual is established.
+
+What the sources do support is a change of emphasis. Creekview was a shared housing-and-support project. The 1990 manual, as the bibliography describes it, trained consumers to act as employers. Later accounts then treat ECPM as individual funding that preceded CSIL. The next chapter turns to CSIL as a named ministry program in the mid-1990s.
 
 ## What we still do not know
 

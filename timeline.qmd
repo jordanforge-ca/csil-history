@@ -20,7 +20,7 @@ toc: false
 
 The same dates appear in the [History](history/index.qmd) chapters.
 
-Dates here are **working dates** unless a linked source record says a copy was read. Approximate and contested dates are labelled in the Date column. The 1993 and 1994 CSIL rows are both kept. The 1995 row keeps later official “province-wide” wording beside 1995 newspaper “new/pilot” wording. The archive does not pick a starting year.
+Dates here are **working dates** unless a linked source record says a copy was read. Approximate and contested dates are labelled in the Date column. The 1993 and 1994 CSIL rows are both kept. The 1995 row keeps later official “province-wide” wording beside 1995 newspaper “new/pilot” wording. Later sources disagree about the start year; the available records do not settle it.
 
 The status column says how much public evidence currently supports the row.
 

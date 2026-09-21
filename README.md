@@ -58,7 +58,7 @@ More detail: [docs/local-build.qmd](docs/local-build.qmd).
 4. Preserve disagreement; do not silently reconcile conflicting dates.
 5. No advocacy framing in the historical record.
 6. Accessible by default.
-7. Respect living participants; do not publish private or health information.
+7. Respect people named in this archive; do not publish private or health information.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
 

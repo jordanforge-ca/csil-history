@@ -1,28 +1,19 @@
 ---
-title: "Origins"
-subtitle: "Why this context lives on the Creekview page"
+title: "Earlier housing-and-support context"
+subtitle: "A background note — this material is written on the Creekview page"
+sidebar: false
+page-navigation: false
 ---
 
-::: {.callout-note}
-## Why there is no separate origins chapter
-This archive does **not** maintain a separate origins narrative. The pre-CSIL community-living context that can be sourced today is already written on the [Creekview](creekview.qmd) page, mainly from [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) and the 1984–86 Hansard sittings. A free-standing “independent living in British Columbia” chapter would invent breadth the sources do not support.
-:::
-
-## Why the context lives on Creekview
-
-The earlier housing-and-support story is already on the [Creekview](creekview.qmd) page. That is where the sources we have sit.
+The earlier housing-and-support story is already on the [Creekview](creekview.qmd) page. That is where the public sources sit.
 
 The earliest public record we have read is [Hansard, 24 February 1984](../sources/1984-hansard-mowat-creekview.qmd). It already describes the planned Creekview move. [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) is a later overview of 1970s–early-1980s housing and Long Term Care. The Creekview chapter already summarizes that sequence. It labels Haw as a later overview, not a 1970s file from the time.
 
-No public primary source from before February 1984 has been catalogued here that would support a separate origins chapter without repeating Creekview or guessing a national independent-living history.
+No public primary source from before February 1984 has been catalogued here that would support a separate origins chapter without repeating Creekview or guessing a national independent-living history. A free-standing “independent living in British Columbia” chapter would invent breadth the sources do not support.
 
-## What this page is not
+Creekview still does **not** treat the 1980s project as a proven predecessor of ECPM or CSIL. The evidence does not show that Creekview formally became ECPM, or that ECPM formally became CSIL. That relationship remains an open question on the Creekview and ECPM pages.
 
-- A placeholder waiting for a future general history
-- A claim that Creekview *is* the origin of CSIL
-- A substitute for the [ECPM](ecpm.qmd) or [CSIL design and pilot](csil-pilot.qmd) chapters
-
-Creekview still does **not** treat the 1980s project as a proven predecessor of ECPM or CSIL. That relationship remains an open question on the Creekview and ECPM pages.
+This page is not a claim that Creekview *is* the origin of CSIL, and it is not a substitute for the [ECPM](ecpm.qmd) or [CSIL design and pilot](csil-pilot.qmd) chapters.
 
 ## See also
 

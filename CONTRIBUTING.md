@@ -64,7 +64,7 @@ The [accessibility baseline](docs/accessibility.qmd) is a merge blocker. In shor
 
 **Blocker and High accessibility gaps must be fixed before merge.** See [docs/accessibility.qmd](docs/accessibility.qmd) and the overrides in `styles.scss`.
 
-### 7. Respect living participants
+### 7. Respect people named in this archive
 
 Names in `people/` are cited role records, not biographies. Do not add a role until a **cited** public source supports it.
 

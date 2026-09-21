@@ -25,7 +25,7 @@ Each source has its own page with structured front matter. The schema is documen
 This catalogue now includes:
 
 - one clearly labelled **[example / template record](example-template-source-record.qmd)** (not a completed research item)
-- four remaining **[wanted sources](../research/wanted-sources.qmd)** named when this archive was first planned (Creekview evaluation, *Keys on Freedom*, ECPM manual(s), ministry CSIL pilot/design records)
+- four remaining **[wanted sources](../research/wanted-sources.qmd)** (Creekview evaluation, *Keys on Freedom*, ECPM manual(s), ministry CSIL pilot/design records)
 - the November 2008 **[CSIL Program Review Synthesis Report](2008-program-review-synthesis.qmd)**, read as an Internet Archive Microlog fiche (no longer copy-sought)
 - records from the time that we have read (Hansard 1984 and 1986; Haw 1989; HEU *Guardian* Nov/Dec 1995 CSIL passage)
 - bibliographic records we have read (Mattinson & Rompf 1987 PubMed abstract; Roeher / Salisbury bibliography)
@@ -33,4 +33,4 @@ This catalogue now includes:
 
 Narrative chapters that use these records: [Creekview](../history/creekview.qmd), [ECPM](../history/ecpm.qmd), [CSIL design and pilot](../history/csil-pilot.qmd), and [later evolution](../history/evolution.qmd). A [summary of what the evidence does and does not show](../history/index.qmd#state-of-the-evidence) lives on the History page.
 
-Do not treat a catalogue row as proof that this archive has read the original 1980s–90s manuals or ministry files. Check the verification and availability labels. Check the annotation before treating a later webpage as confirmation of a 1980s–90s fact.
+Do not treat a catalogue row as proof that the original 1980s–90s manuals or ministry files have been read. Check the verification and availability labels. Check the annotation before treating a later webpage as confirmation of a 1980s–90s fact.

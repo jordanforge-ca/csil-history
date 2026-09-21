@@ -8,14 +8,13 @@ listing:
     sort: "title"
     sort-ui: false
     filter-ui: false
-    fields: [title, page_status]
+    fields: [title]
     field-display-names:
       title: Name
-      page_status: Page status
 toc: false
 ---
 
-These pages attach public evidence to names. **They are not biographies.** A page marked `draft` means the four-section role record is in place. It does not mean a life history is finished.
+These pages attach public evidence to names. **They are not biographies.**
 
 Role statements appear only when a cited public source supports them:
 
@@ -26,4 +25,4 @@ Role statements appear only when a cited public source supports them:
 
 Design-group membership is never inferred from later founder language or from Creekview participation.
 
-Do not contact living participants unless a separately agreed research protocol exists. See [CONTRIBUTING.md](https://github.com/jordanforge-ca/csil-history/blob/main/CONTRIBUTING.md).
+Please do not contact people named in this archive, or their families or colleagues, without a separately agreed research protocol. See [CONTRIBUTING.md](https://github.com/jordanforge-ca/csil-history/blob/main/CONTRIBUTING.md).

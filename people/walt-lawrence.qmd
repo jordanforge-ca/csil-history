@@ -9,9 +9,9 @@ toc: false
 
 ## Documented role
 
-No 1980s source from the time that this archive has read names Walt Lawrence. [Hansard, 24 February 1984](../sources/1984-hansard-mowat-creekview.qmd) and [Hansard, 10 April 1986](../sources/1986-hansard-nielsen-creekview.qmd) describe six Creekview residents without naming them. [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) likewise does not name residents.
+No 1980s source from the time that we have read names Walt Lawrence. [Hansard, 24 February 1984](../sources/1984-hansard-mowat-creekview.qmd) and [Hansard, 10 April 1986](../sources/1986-hansard-nielsen-creekview.qmd) describe six Creekview residents without naming them. [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) likewise does not name residents.
 
-This archive does **not** treat Lawrence as a CSIL or ECPM design-group member.
+Lawrence is **not** treated here as a CSIL or ECPM design-group member.
 
 ## Later accounts
 
@@ -23,7 +23,7 @@ Those are later accounts of Creekview / independent living. They do not, by them
 
 ## Unresolved
 
-These questions remain open. This page does not invite unsolicited contact.
+These questions remain open. Please do not contact people named in this archive, or their families or colleagues, without a separately agreed research protocol.
 
 1. Whether he is one of the six men described in the 1984 and 1986 Hansard sittings.
 2. In 1985–87, who hired, paid, and could dismiss attendants at Creekview.
