@@ -9,9 +9,9 @@ toc: false
 
 ## Documented role
 
-None recorded from a 1990s source from the time that this archive has read. The 1990 ECPM manual has not been read; Roeher’s bibliographic entry names corporate authors only ([BC Rehab and Greater Vancouver Home Support Society](../sources/1990s-roeher-if-bibliography.qmd)).
+None recorded from a 1990s source from the time that we have read. The 1990 ECPM manual has not been read; Roeher’s bibliographic entry names corporate authors only ([BC Rehab and Greater Vancouver Home Support Society](../sources/1990s-roeher-if-bibliography.qmd)).
 
-This archive does **not** infer ECPM authorship or CSIL design-group membership.
+ECPM authorship and CSIL design-group membership are **not** inferred here.
 
 ## Later accounts
 

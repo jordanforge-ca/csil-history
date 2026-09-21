@@ -21,7 +21,7 @@ listing:
 toc: true
 ---
 
-These items were named when this archive was first planned ([jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10)). A September 2026 public-source pass looked for independent bibliographic evidence. Where a catalogue record, a citation from the time, or a later official page was actually seen, the individual wanted record cites **that** evidence. Where nothing was found, the record says so.
+These items were first listed as wanted documents for the public catalogue ([jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10)). A September 2026 public-source pass looked for independent bibliographic evidence. Where a catalogue record, a citation from the time, or a later official page was actually seen, the individual wanted record cites **that** evidence. Where nothing was found, the record says so.
 
 **Four copies are still sought** (Creekview evaluation, *Keys on Freedom*, ECPM manual(s), and original ministry CSIL pilot/design records). The November 2008 program-review synthesis is no longer copy-sought: a Microlog fiche is inspectable on Internet Archive (see below). Do not treat a remaining wanted row as an inspected text.
 

@@ -15,7 +15,7 @@ listing:
 toc: false
 ---
 
-These pages attach public evidence to names. **They are not biographies.** A page marked `draft` means the four-section role record is in place. It does not mean a life history is finished.
+These pages attach public evidence to names. **They are not biographies.** A page marked `draft` means the cited role sections are in place. It does not mean a life history is finished.
 
 Role statements appear only when a cited public source supports them:
 

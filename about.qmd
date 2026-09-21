@@ -18,7 +18,7 @@ The site is intentionally small and durable: Markdown files, structured front ma
 
 ## How to read the history
 
-When this archive was first planned, a possible order of events and a set of working dates were suggested so later evidence would have a place to land. The [Creekview chapter](history/creekview.qmd) reconstructs the mid-1980s project from 1984–89 sources we have read, and it also holds the earlier housing-and-support context (the [Origins](history/origins.qmd) page explains that choice). It still does not treat Creekview as a proven predecessor of ECPM or CSIL. ECPM, CSIL design/pilot, and later evolution now have cited chapters; the overall Creekview → ECPM → CSIL sequence stays a **possible reading order, not a proven official sequence**, on [History](history/index.qmd) and the [Timeline](timeline.qmd).
+The [History](history/index.qmd) chapters follow a possible order of events: earlier housing and support arrangements, then Creekview, ECPM, CSIL’s early years, and later changes. The [Creekview chapter](history/creekview.qmd) reconstructs the mid-1980s project from 1984–89 sources we have read, and it also holds the earlier housing-and-support context. The evidence does not show that Creekview formally became ECPM, or that ECPM formally became CSIL. That sequence remains a possible reading order on [History](history/index.qmd) and the [Timeline](timeline.qmd).
 
 ## Editorial principles
 
