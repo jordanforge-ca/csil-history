@@ -17,7 +17,7 @@ From the repository root:
 quarto preview
 ```
 
-Quarto prints a local URL. The site uses relative links plus `site-url: https://jordanforge-ca.github.io/csil-history` for the published location.
+Quarto prints a local URL. The site uses relative links plus `site-url: https://csil-history.jordanforge.ca` for the published location. Canonical and sitemap URLs use that hostname at the subdomain root, with no `/csil-history/` prefix.
 
 ## Render
 
@@ -48,9 +48,11 @@ The script exits non-zero when a baseline (Blocker/High) HTML problem is found. 
 
 A repository administrator should set **Settings → Pages → Source** to **GitHub Actions**. Until that is done, the workflow can build on pull requests but production deploy will not have a Pages environment.
 
-Expected public URL:
+Canonical public URL:
 
-<https://jordanforge-ca.github.io/csil-history/>
+<https://csil-history.jordanforge.ca>
+
+The earlier project URL, <https://jordanforge-ca.github.io/csil-history/>, redirects to the custom domain while that hostname is the Pages custom domain. The observed response is a 301. It points at `http://` until the Pages certificate exists and HTTPS is enforced.
 
 ## Adding content
 

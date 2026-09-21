@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">jordanforge.ca favicon</title>
+  <desc id="desc">A compact cream forged corner with a brass Robertson screw on forge purple.</desc>
+  <rect width="64" height="64" rx="12" fill="#1F1626"/>
+  <g transform="translate(4 4) scale(.56)">
+    <path fill="#F8F3EA" d="M16 4h66c8 0 14 6 14 14 0 6-5 10-11 10h-7c-9 0-12 7-14 16-3 10-10 17-20 20-9 2-16 5-16 14v6c0 8-6 12-12 12C9 96 4 91 4 84V16C4 9 9 4 16 4Z"/>
+    <circle cx="29" cy="29" r="13" fill="#B08D57"/>
+    <rect width="12" height="12" x="23" y="23" rx="1" fill="#1F1626"/>
+  </g>
+</svg>

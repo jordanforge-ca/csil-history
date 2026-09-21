@@ -16,6 +16,7 @@ runs after every `quarto render` and:
 10. Removes role="menu" from the navbar disclosure button
 11. Keeps a single banner landmark (title block is not a second <header>)
 12. Wraps wide data tables in a keyboard-focusable scroll region
+13. Places the production jordanforge corner mark in the navbar title link
 
 Standard library only. Safe to run more than once.
 """
@@ -90,9 +91,15 @@ PAGE_TABLE_CAPTION = {
 }
 
 INTERNAL_HOSTS = (
+    "csil-history.jordanforge.ca",
     "jordanforge-ca.github.io",
     "127.0.0.1",
     "localhost",
+)
+
+MAKER_MARK_RE = re.compile(
+    r'(<a class="navbar-brand"(?![^>]*\bnavbar-brand-logo\b)[^>]*>)\s*(<span class="navbar-title">)',
+    flags=re.IGNORECASE,
 )
 
 
@@ -146,6 +153,30 @@ def inject_skip_and_main(html: str) -> str:
         return tag
 
     return MAIN_RE.sub(_main, html, count=1)
+
+
+def inject_maker_mark(html: str, rel: str) -> str:
+    """Decorative jordanforge mark inside the existing product-title link.
+
+    The product name remains the link's accessible name. Maker attribution
+    is the footer text link, not this image. The path is relative so the
+    mark works at the subdomain root and at a project-pages subpath.
+    """
+
+    if "navbar-maker-mark" in html and "assets/fonts/fonts.css" in html:
+        return html
+    prefix = "../" * rel.count("/")
+    if "assets/fonts/fonts.css" not in html:
+        link = f'<link href="{prefix}assets/fonts/fonts.css" rel="stylesheet">\n'
+        html = html.replace("</head>", link + "</head>", 1)
+    if "navbar-maker-mark" in html:
+        return html
+    img = (
+        '<img class="navbar-maker-mark" '
+        f'src="{prefix}assets/brand/jordanforge-corner-mark-dark.svg" '
+        'alt="" width="32" height="32">'
+    )
+    return MAKER_MARK_RE.sub(rf"\1{img}\2", html, count=1)
 
 
 def label_landmarks(html: str) -> str:
@@ -380,6 +411,7 @@ def patch(path: Path, site_root: Path) -> bool:
     rel = page_key(path, site_root)
     html = path.read_text(encoding="utf-8")
     html = inject_skip_and_main(html)
+    html = inject_maker_mark(html, rel)
     html = label_landmarks(html)
     html = mark_current_page(html, rel)
     html = caption_tables(html, rel)

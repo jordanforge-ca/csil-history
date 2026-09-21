@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - assets/brand/jordanforge-corner-mark-dark.svg
+    - assets/fonts/source-serif-4-latin-600-normal.woff2
+    - assets/fonts/source-serif-4-latin-700-normal.woff2
+    - assets/fonts/fonts.css
   render:
     - "*.qmd"
     - "*/*.qmd"
@@ -11,7 +16,8 @@ project:
 
 website:
   title: "CSIL History Archive"
-  site-url: https://jordanforge-ca.github.io/csil-history
+  site-url: https://csil-history.jordanforge.ca
+  favicon: assets/brand/jordanforge-corner-favicon.svg
   repo-url: https://github.com/jordanforge-ca/csil-history
   repo-actions: [edit, source, issue]
   description: >-
@@ -19,8 +25,8 @@ website:
     (CSIL) in British Columbia. Evidence archive first; website second.
   search: false
   navbar:
-    background: "#083048"
-    foreground: "#ffffff"
+    background: "#1F1626"
+    foreground: "#F8F3EA"
     pinned: false
     title: "CSIL History Archive"
     left:
@@ -70,9 +76,10 @@ website:
   back-to-top-navigation: false
   reader-mode: false
   page-footer:
-    background: "#f4f1ea"
-    foreground: "#1a1a1a"
+    background: "#F8F3EA"
+    foreground: "#3E3A3A"
     left: >-
+      [A jordanforge.ca project](https://jordanforge.ca).
       Original site content
       [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
       Historical source documents do not inherit this license.
@@ -88,6 +95,7 @@ bibliography: references.bib
 
 format:
   html:
+    canonical-url: true
     theme:
       - default
       - styles.scss

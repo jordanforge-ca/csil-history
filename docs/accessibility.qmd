@@ -43,7 +43,7 @@ The current page is indicated by **`aria-current="page"` plus underline/weight p
 
 ### 4. Visible `:focus-visible` rings
 
-Do not remove outlines. `styles.scss` sets a 3px orange (`#c45c00`) outline plus a white/orange double `box-shadow` so the ring stays ≥3:1 on both the light page and the dark navbar.
+Do not remove outlines. `styles.scss` sets a 3px ember (`#C8653A`) outline plus a white/ember double `box-shadow`. Ember on cream is about 3.5:1 and ember on forge purple is about 4.5:1, so the ring stays ≥3:1 on both the light page and the dark navbar. Ember is not used for body text.
 
 **Blocker if a control we added has `outline: none` without a visible replacement.**
 
@@ -69,10 +69,10 @@ Forbidden sole labels: “click here”, “here”, “read more”, “more”
 
 | Surface | Tokens | Target |
 | --- | --- | --- |
-| Body text | `#1a1a1a` on `#ffffff` | ≥4.5:1 |
-| Links | `#083d73` on `#ffffff` | ≥4.5:1 |
-| Navbar | `#ffffff` on `#083048` | ≥4.5:1 |
-| UI / focus | orange ring + white halo | ≥3:1 |
+| Body text | `#3E3A3A` on `#F8F3EA` | ≥4.5:1 (about 10.2:1) |
+| Links and headings | `#1F1626` on `#F8F3EA` | ≥4.5:1 (about 15.8:1) |
+| Navbar | `#F8F3EA` on `#1F1626` | ≥4.5:1 (about 15.8:1) |
+| UI / focus | ember `#C8653A` ring + white halo | ≥3:1 |
 
 Source and timeline statuses are **visible text** inside a bordered `.status-label`. Do not encode status by colour alone.
 
@@ -94,7 +94,7 @@ Any future control must have a programmatic label, text errors, and ~44px target
 
 ### 11. Images and diagrams
 
-Meaningful images need descriptive `alt`. Decorative images use `alt=""`. Do not put critical history only in an image. This bootstrap has no content images.
+Meaningful images need descriptive `alt`. Decorative images use `alt=""`. Do not put critical history only in an image. The navbar carries a decorative jordanforge corner mark (`alt=""`). The maker relationship is the footer link “A jordanforge.ca project”, not the image.
 
 **Blocker if an `<img>` is missing an `alt` attribute.**
 
