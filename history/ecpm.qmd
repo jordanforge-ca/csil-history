@@ -5,109 +5,71 @@ subtitle: "A 1990 training manual; later accounts also use the name for a step b
 
 ::: {.callout-note}
 ## What this page covers
-The Enhanced Consumer Participation Model (ECPM) is a name that appears on a 1990 skill-development manual. A later bibliography confirms that the manual existed, but we have not found a copy to read. Later organizations also use the name for an individual-funding project they say came before CSIL. Those two uses may or may not be the same effort.
+The Enhanced Consumer Participation Model (ECPM) is a name that appears on a 1990 skill-development manual. A later bibliography confirms that the manual existed. We have not found a copy to read.
 
-This page uses that bibliography for the 1990 manual, later organizational and training accounts for the project name, and a 1994 Van der Klift publication that is **not** an ECPM manual. It does **not** treat ECPM as a proven official predecessor of CSIL. A distinct 1994 ECPM training manual remains an open identity question.
+Later organizations also use the name for an individual-funding project they say came before CSIL. Those two uses may or may not be the same effort. This page does **not** treat ECPM as a proven official predecessor of CSIL.
 :::
 
-## How to read this page
+## How we use evidence
 
-Statements below are labelled in ordinary language:
+A bibliography can confirm that a manual existed. It cannot tell us what the unread pages said. Later organizational stories are not treated as 1990s ministry rules. Full catalogue notes live on the [wanted ECPM record](../sources/wanted-ecpm-manuals.qmd).
 
-- **Listed in a bibliography** — a finding aid we have read confirms title, creators, date, or physical description; this archive has not seen the work itself
-- **Documented from a later source** — taken from a later page or slide deck that was read
-- **Later recollection** — a later named account; this archive is not independently asserting it
-- **Interpretation** — inferred from those sources, and said to be so
-- **Open question** — not settled by the sources we have read
+## What the 1990 manual shows
 
-When accounts from the time, or bibliographic listings, differ from later accounts, the earlier evidence is preferred. Later IFRC and Gauthier wording is not treated as a 1990s ministry regulation or contract.
+The strongest public description is a bibliography entry, not a recovered book.
 
-## What ECPM can be documented as
+The [Roeher Institute / Brian Salisbury bibliography](../sources/1990s-roeher-if-bibliography.qmd) lists a 1990 *Skill Development Manual for Consumers of Home Support Services*. The listed authors are BC Rehab and Greater Vancouver Home Support Society. The annotation says the manual had five modules and was meant to train consumers to act as employers.
 
-The strongest independently verifiable public description is a bibliography entry, not a recovered manual.
+That citation does not name personal authors. It does not give a place, ISBN, or link to CSIL. This archive has not read the manual. We must not guess the module contents. Search-engine copies of the same Roeher line are not a second confirmation.
 
-The [Roeher Institute / Brian Salisbury annotated bibliography](../sources/1990s-roeher-if-bibliography.qmd) (a late-1990s finding aid we have read as a PDF) lists:
+The copy is still [sought](../sources/wanted-ecpm-manuals.qmd).
 
-> BC Rehab & Greater Vancouver Home Support Society  
-> “Enhanced Consumer Participation Model: Skill Development Manual for Consumers of Home Support Services”, BC Rehab & Greater Vancouver Home Support Society, 1990  
-> A training manual that includes 5 modules intended to empower consumers to act as effective employers (52 pages plus appendices)
+## What later accounts add
 
-**Listed in a bibliography:** a 1990 skill-development manual existed under the ECPM name; it was issued by BC Rehab and Greater Vancouver Home Support Society; it had five modules and was described as training consumers to act as employers.
+Later sources use “ECPM” as a project name, not only as a manual title.
 
-**What that citation does not show.** The bibliography does not name personal authors, a place of publication, an ISBN, a revision history, or a relationship to CSIL. This archive has not read the manual and must not paraphrase module contents we have not seen.
+[IFRC “Our Team”](../sources/ifrc-our-team.qmd) calls ECPM “the individual funding project” that preceded CSIL. [Gauthier 2014](../sources/2014-gauthier-sci-csil-presentation.qmd) lists ECPM under “Pre CSIL?” with “The Agency” and “People paid themselves.”
 
-Later sources use “ECPM” as a **named project**, not only as a manual title:
+Those are later accounts. They do not supply a 1990s regulation or contract.
 
-- [IFRC “Our Team”](../sources/ifrc-our-team.qmd) (a later organizational page we have read) calls ECPM “the individual funding project” that preceded CSIL.
-- [Gauthier 2014](../sources/2014-gauthier-sci-csil-presentation.qmd) (a later training deck we have read) lists “ECPM Enhanced Consumer Participation Model” under “Pre CSIL?” with “The Agency” and “People paid themselves.”
+Current [Vancouver Coastal Health CSIL pages](../sources/vch-csil-service-page.qmd) do **not** use the ECPM name.
 
-Those are **later reconstructions**. They support treating ECPM as a name later writers attach to a pre-CSIL individualized-funding arrangement. They do not supply a program regulation, contract, or ministry document from the 1990s.
+## People and organizations
 
-Current [Vancouver Coastal Health CSIL service pages](../sources/vch-csil-service-page.qmd) do **not** use the ECPM name. Survival of the acronym at Vancouver Coastal Health is not documented.
+Roeher names only the two corporate authors. It does not name editors.
 
-## Organizations and people supported by evidence
+Later IFRC wording places [Joseph Theriault](../people/joseph-theriault.qmd) and [Paul Gauthier](../people/paul-gauthier.qmd) in a pre-CSIL story that *names* ECPM. That is not a title-page credit we have seen. It is not a job title from the time.
 
-| Person or body | What the sources we have read support | What they do not support |
-| --- | --- | --- |
-| BC Rehab / BC Rehabilitation Society | Corporate author of the 1990 manual in Roeher | Personal editors; legal continuity into later health authorities |
-| Greater Vancouver Home Support Society | Co-author of the 1990 manual in Roeher | A recovered society file; later Vancouver Coastal Health succession as an ECPM office |
-| [Joseph Theriault](../people/joseph-theriault.qmd) | IFRC later wording: worked with Paul Gauthier and others on the individual-funding project “then known as” ECPM | Any name on the unread 1990 title page; a job title from the time |
-| [Paul Gauthier](../people/paul-gauthier.qmd) | Later IFRC/Gauthier materials place him in a pre-CSIL / CSIL founding story that *names* ECPM | An ECPM appointment from the time; authorship of the 1990 manual |
-| [Emma Van der Klift](../people/emma-van-der-klift.qmd) | Author, with Norman Kunc, of a **different** 1994 chapter ([*Hell-Bent on Helping*](../sources/1994-van-der-klift-hell-bent.qmd)) | Authorship of a 1994 ECPM training manual; any ECPM credit we have seen |
-| Vancouver Health Department | Named only in early project notes as a possible 1994-manual affiliate | Any 1990s document we have read using that affiliation for ECPM |
+[Emma Van der Klift](../people/emma-van-der-klift.qmd) wrote a **different** 1994 chapter, [*Hell-Bent on Helping*](../sources/1994-van-der-klift-hell-bent.qmd), with Norman Kunc. That chapter does not name ECPM or CSIL.
 
-: Documented and excluded ECPM roles, from sources this archive has read
-
-No source we have read names a design committee or proves that any of these people sat on a later CSIL design group **because of** ECPM. Design-group membership is not inferred here.
-
-## The 1990 skill-development manual
-
-| Claim | Status | Source |
-| --- | --- | --- |
-| Title *Enhanced Consumer Participation Model: Skill Development Manual for Consumers of Home Support Services* | Listed in a bibliography | [Roeher / Salisbury](../sources/1990s-roeher-if-bibliography.qmd) |
-| Creators: BC Rehab & Greater Vancouver Home Support Society | Listed in a bibliography | Same |
-| Date: 1990 | Listed in a bibliography | Same |
-| Five modules; 52 pages plus appendices; intended to empower consumers as employers | Listed in a bibliography annotation | Same |
-| Full text, ISBN, personal authors, edition statement | Open question | Copy [still sought](../sources/wanted-ecpm-manuals.qmd) |
-| Independent library or archive holding record | Open question | Not retrieved in the public-catalogue search recorded on the wanted record |
-
-: Evidence for the 1990 ECPM manual
-
-Search-engine restatements of the Roeher entry are **not** counted as independent confirmation. A later bibliography confirms that the manual existed, but we have not found a copy to read.
+No source we have read names a design committee. Design-group membership is not inferred here.
 
 ## The unresolved 1994-manual question
 
-A possible 1994 ECPM training revision appears in early project notes. It is **not** listed in the Roeher bibliography we have read. No public full text, catalogue holding, or second independent citation was recovered.
+No public source has yet confirmed a reported 1994 ECPM training revision. It is not in the Roeher bibliography we have read. No full text or second independent citation was found.
 
-[Van der Klift and Kunc, “Hell-Bent on Helping” (1994)](../sources/1994-van-der-klift-hell-bent.qmd) is a published chapter on help and inclusive education. The Broadreach republication we have read does **not** name ECPM, CSIL, BC Rehab, Greater Vancouver Home Support Society, or Vancouver Health Department. It is a **near-miss**: a real 1994 Van der Klift publication from the same year as the hypothesized manual, not bibliographic evidence that she wrote or revised an ECPM text.
+Van der Klift’s 1994 chapter is a real publication from the same year. It is not evidence that she wrote an ECPM manual. The Broadreach copy we have read does not name ECPM, CSIL, BC Rehab, Greater Vancouver Home Support Society, or Vancouver Health Department.
 
-We do not have enough evidence to decide whether the reported 1994 item is a distinct work, a revision of the 1990 manual, a conflicting citation of the same 1990 work, or a confusion with *Hell-Bent on Helping*.
+We do not have enough evidence to decide what the reported 1994 item is. It might be a distinct work, a revision of the 1990 manual, a conflicting citation of the same 1990 work, or a mix-up with *Hell-Bent on Helping*.
 
-This is not yet a contradiction between two bibliographic records we have read. It is one 1990 citation we have read versus later uncited project notes.
+No public source we have read names Vancouver Health Department on an ECPM document.
 
 ## Relationship to later CSIL
 
-| Claim | Status | Source |
-| --- | --- | --- |
-| Later IFRC wording treats ECPM as the individual-funding project that preceded CSIL | Later recollection | [IFRC Our Team](../sources/ifrc-our-team.qmd) |
-| Later Gauthier slides list ECPM as a “Pre CSIL?” step | Later recollection | [Gauthier 2014](../sources/2014-gauthier-sci-csil-presentation.qmd) |
-| Creekview became ECPM, or ECPM became CSIL, by a formal document | Open question | No 1990s document we have read says so. The [Creekview chapter](creekview.qmd) does not establish that link. |
-| Current Vancouver Coastal Health pages continue the ECPM name | Not supported | [VCH CSIL page](../sources/vch-csil-service-page.qmd) |
+Later IFRC and Gauthier wording treat ECPM as a step before CSIL. No 1990s document we have read says Creekview became ECPM, or that ECPM became CSIL. The [Creekview chapter](creekview.qmd) does not establish that link.
 
-: What later sources say about ECPM and CSIL — not a proven succession
+The two uses of the name — a 1990 manual, and a later “individual-funding project” story — may describe the same effort, related efforts, or a later label. This archive does **not** treat that overlap as a proven official succession.
 
-**Interpretation, and no further:** ECPM is a named 1990 training and manual project (from a bibliography) and a named pre-CSIL individualized-funding idea in later participant and organizational accounts. Those two uses may describe the same effort, related efforts, or a later label applied to earlier work. This archive does **not** convert that overlap into a proven official succession.
-
-[*Keys on Freedom*](../sources/wanted-keys-on-freedom.qmd) remains unconfirmed (title, author, and year still come only from early project notes). Roeher does not list it. No relationship to the 1990 ECPM manual is established.
+[*Keys on Freedom*](../sources/wanted-keys-on-freedom.qmd) is still unconfirmed. No independent public source has yet confirmed the title, author, or year. Roeher does not list it. No link to the 1990 ECPM manual is established.
 
 ## What we still do not know
 
-1. Full text, title-page authors, place, ISBN, and module titles of the 1990 manual.
-2. Whether a 1994 ECPM training manual exists as a distinct document.
-3. Whether Van der Klift, Theriault, Gauthier, Greater Vancouver Home Support Society staff, or Vancouver Health Department appear on any ECPM title page.
-4. What program, contract, or agency arrangement from the time “ECPM” named besides the manual.
-5. Whether *Keys on Freedom* is related, identical in purpose, or unrelated.
-6. Whether any 1990s Ministry of Health file uses the ECPM name in connection with CSIL design.
+- The 1990 manual’s full text, authors, and module titles.
+- Whether a 1994 ECPM training manual exists as a distinct document.
+- Whether Van der Klift, Theriault, Gauthier, or Vancouver Health Department appear on any ECPM title page.
+- What program or contract “ECPM” named besides the manual.
+- Whether *Keys on Freedom* is related.
+- Whether any 1990s Ministry of Health file uses the ECPM name in CSIL design.
 
 Leads are listed on the [wanted ECPM manuals record](../sources/wanted-ecpm-manuals.qmd).
 

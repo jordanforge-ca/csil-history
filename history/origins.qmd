@@ -10,7 +10,9 @@ This archive does **not** maintain a separate origins narrative. The pre-CSIL co
 
 ## Why the context lives on Creekview
 
-When this archive was first planned, this page was reserved for disability-led independent-living and community-living advocacy before Creekview, ECPM, and CSIL. The earliest public record in the catalogue that we have actually read is [Hansard, 24 February 1984](../sources/1984-hansard-mowat-creekview.qmd), which already describes the planned Creekview move. [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) is a Canadian Paraplegic Association official’s later overview of 1970s–early-1980s housing and Long Term Care. The Creekview chapter already summarizes that sequence and labels it as a later overview, not a 1970s file from the time.
+The earlier housing-and-support story is already on the [Creekview](creekview.qmd) page. That is where the sources we have sit.
+
+The earliest public record we have read is [Hansard, 24 February 1984](../sources/1984-hansard-mowat-creekview.qmd). It already describes the planned Creekview move. [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) is a later overview of 1970s–early-1980s housing and Long Term Care. The Creekview chapter already summarizes that sequence. It labels Haw as a later overview, not a 1970s file from the time.
 
 No public primary source from before February 1984 has been catalogued here that would support a separate origins chapter without repeating Creekview or guessing a national independent-living history.
 

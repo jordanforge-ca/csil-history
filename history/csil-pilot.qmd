@@ -5,125 +5,82 @@ subtitle: "What public sources say about CSIL’s early years — without pickin
 
 ::: {.callout-note}
 ## What this page covers
-The exact start date of CSIL is not completely clear. Later official records describe a pilot in 1994 and province-wide availability in 1995, while another later source uses 1993 as the year CSIL was established. A 1995 newspaper still described CSIL as a new pilot program.
+The exact start date of CSIL is not completely clear. Later official records describe a pilot in 1994 and province-wide availability in 1995. Another later source uses 1993. A 1995 newspaper still described CSIL as a new pilot program.
 
-This page uses that 1995 newspaper, a 2012 official chronology, later participant and organizational decks, and a 2008 ministry-commissioned review that does **not** pick a start year. Original 1993–95 Ministry of Health records remain [wanted](../sources/wanted-ministry-csil-pilot-records.qmd). This chapter does **not** choose a single founding year.
+Original 1993–95 Ministry of Health records remain [wanted](../sources/wanted-ministry-csil-pilot-records.qmd). This chapter does **not** choose a single founding year.
 :::
 
-## How to read this page
+## How we use evidence
 
-Statements below are labelled in ordinary language:
-
-- **Documented from the time** — taken from a 1993–95 source that was read
-- **Later official account** — a later government or statutory-officer account
-- **Later recollection** — a later named participant or organizational account
-- **Interpretation** — inferred from those sources, and said to be so
-- **Open question** — not settled by the sources we have read
-
-Later “established” wording is not treated as an authorization from the 1990s. Different verbs (established, pilot, introduced, province-wide, new) are kept as the sources wrote them.
+A 1995 newspaper is not the same kind of source as a 2012 official report or a later training deck. Different verbs — established, pilot, introduced, province-wide, new — are kept as the sources wrote them. Later “established” wording is not treated as a 1990s authorization.
 
 ## Why the start year is still unsettled
 
-In substance:
+Later official wording gives **1994** and **1995** different meanings: pilot or introduced, then province-wide. A late-1995 source from the time still calls CSIL **new/pilot**. It does not confirm that a province-wide rollout was finished.
 
-- Later official wording assigns **different meanings** to 1994 (pilot / introduced) and 1995 (province-wide).
-- A late-1995 source from the time still calls CSIL **new/pilot** and does not independently confirm that a province-wide rollout was finished.
-- **1993** appears only as a later “established” label that conflicts with the same speaker’s later “1994.”
-- The 2008 program-review synthesis dates CSIL only to “the 1990's.”
+**1993** appears only as a later “established” label. It conflicts with the same speaker’s later “1994.” The 2008 program review dates CSIL only to “the 1990's.”
 
-This is not a settled three-stage founding story. It is the strongest pattern the public catalogue currently supports.
+This is not a settled three-stage founding story. It is the strongest pattern the public sources now support.
 
-## What CSIL was said to be in late 1995
+## What a 1995 newspaper said
 
-The only public description from the time in this catalogue that we have read is the [HEU *Guardian*, November/December 1995](../sources/1995-heu-guardian-novdec.qmd) (Hospital Employees’ Union newspaper scan; CSIL passage on page 9).
+The only description from the time in this catalogue is the [HEU *Guardian*, November/December 1995](../sources/1995-heu-guardian-novdec.qmd). HEU is the Hospital Employees’ Union. The CSIL passage is on page 9.
 
-That feature, in a sidebar about a family using ministry home-support money, calls CSIL:
+It calls CSIL “a new program of the Community Support Branch of the Continuing Care Division” and “a pilot program.” It says non-profit societies could receive direct funding to hire caregivers. It names Sally Hamilton as the person who “manages the program for the ministry.” It says 130 people accessed CSIL funds among 65,000 continuing-care clients.
 
-> a new program of the Community Support Branch of the Continuing Care Division called “Choice in Supports for Independent Living” or CSIL. Designed as a pilot program for people with disabilities who want to take more responsibility for managing their own care, the scheme allows non-profit societies to receive direct funding to hire caregivers for community-based care.
+That source does not date the start to 1993, 1994, or 1995. It does not name ECPM, Creekview, Paul Gauthier, or a design committee. “Designed as a pilot” in late 1995 can mean still piloting, recently piloted, or loosely “new.” HEU had an interest in unionized home-support wages. Treat its “pilot” wording as HEU’s report, not as a ministry file.
 
-Further statements on that page, as recorded in the catalogue:
+## What a later official report said
 
-- Sally Hamilton “manages the program for the ministry.”
-- Of “65,000 continuing care clients in the province, only 130 access CSIL funds.”
-- The ministry expected CSIL employers “to pay within the unionized range, provide statutory benefits and keep a small cushion in the event of emergency.”
+[Ombudsperson, *The Best of Care* Part 2 (2012)](../sources/2012-ombudsperson-best-of-care.qmd) is a later official account. It is not a 1990s file.
 
-**Documented from the time:** by late 1995 a program publicly named Choice in Supports for Independent Living existed; HEU described it as new/pilot; HEU placed it in **Community Support Branch of the Continuing Care Division**, Ministry of Health; HEU described direct funding to non-profit societies to hire caregivers.
+It says CSIL was “established as a pilot in 1994 and implemented province-wide in 1995.” It also says the new policy required regional health boards to fund self-managed home support for people who could direct their care **or** who had a **client support group**. Elsewhere the same volume says CSIL was “introduced in 1994.”
 
-**What that source does not show.** It does not date the start to 1993, 1994, or 1995. It does not name ECPM, Creekview, Paul Gauthier, or a design committee. “Designed as a pilot” in a November/December 1995 newspaper can mean still piloting, recently piloted, or loosely “new.” HEU is a union newspaper with an interest in unionized home-support wages; treat cost and “pilot” wording as HEU’s report from the time, not as a ministry document.
+That report does not quote the 1994 or 1995 documents. It does not name Gauthier, ECPM, Creekview, or Community Support Branch.
 
-## Later official chronology: 1994 pilot / 1995 province-wide
-
-[Ombudsperson, *The Best of Care* Part 2 (2012)](../sources/2012-ombudsperson-best-of-care.qmd) is a later official account, not a 1990s file. Volume 1 states:
-
-> Seniors and their families can obtain funding from the government to hire and manage their own home support services, through the Choice in Supports for Independent Living Program, established as a pilot in 1994 and implemented province-wide in 1995.
-
-The narrative paragraph repeats the pairing and adds that the new policy required regional health boards to fund self-managed home support “for people who had the ability to direct all aspects of their care or who had a client support group to do so on their behalf.”
-
-Elsewhere the same volume says CSIL was “introduced in 1994” without repeating “pilot” in that sentence.
-
-**Later official account:** 1994 = pilot / created / introduced; 1995 = province-wide implementation; the 1995-era policy (as later summarized) already contemplated either self-direction or a **client support group**.
-
-**What that source does not show.** It does not quote the 1994 or 1995 documents. It does not name Gauthier, ECPM, Creekview, Continuing Care Division, or Community Support Branch.
-
-The 1995 HEU “new/pilot” wording and the 2012 “province-wide in 1995” wording are **both kept**. They are not automatically the same event. Province-wide 1995 is **not** upgraded to a founding fact verified from 1990s files we have read.
+The 1995 “new/pilot” wording and the 2012 “province-wide in 1995” wording are **both kept**. They are not automatically the same event.
 
 ## Later “established” labels: 1993 and 1994
 
-| Source | Type | Wording recorded in the catalogue |
-| --- | --- | --- |
-| [Gauthier 2014 SCI presentation](../sources/2014-gauthier-sci-csil-presentation.qmd) | Later recollection | “Established by the Ministry of Health in British Columbia in **1993**, with people with disabilities in the forefront of the program design.” Also: “The Pilot — 50 people tried it out.” Collaboration among home-support agencies, ministry senior staff, and consumers. |
-| [Gauthier 2015 Module 1](../sources/2015-gauthier-csil-module-1.qmd) | Later recollection | Nearly the same sentence with **1994** instead of 1993. |
-| [IFRC Our Team](../sources/ifrc-our-team.qmd) | Later recollection | Gauthier “started on the CSIL program in **1994**.” |
+[Gauthier 2014](../sources/2014-gauthier-sci-csil-presentation.qmd) says CSIL was “established” in **1993**. The same deck says “The Pilot — 50 people tried it out.” [Gauthier 2015](../sources/2015-gauthier-csil-module-1.qmd) uses almost the same sentence with **1994**. [IFRC Our Team](../sources/ifrc-our-team.qmd) says Gauthier “started on the CSIL program in **1994**.”
 
-: Later start-year labels — not reconciled into one founding year
-
-**1993** is not used in the 1995 HEU piece we have read or in the 2012 Ombudsperson chronology. It is a later “established” label from one 2014 deck, and it conflicts with the same speaker’s 2015 “1994.” This archive does **not** treat 1993 as a verified distinct stage (design approval versus pilot intake versus personal involvement).
+Those are later recollections. **1993** is not in the 1995 HEU piece or the 2012 official chronology. This archive does **not** treat 1993 as a verified separate stage.
 
 **1994** is used both as later official “pilot / introduced” and as later recollection “established” / “started.” Those verbs are not synonyms here.
 
-The [2008 CSIL Program Review Synthesis Report](../sources/2008-program-review-synthesis.qmd) (Internet Archive Microlog fiche we have read) dates participation “since its establishment in the 1990's” and does **not** choose 1993 versus 1994. It must not be used to pick a start year.
+The [2008 CSIL Program Review](../sources/2008-program-review-synthesis.qmd) dates CSIL to “the 1990's.” It must not be used to pick a start year.
 
-A secondary digest of *Hutchinson* ([2005 CanLIIDocs 513](../sources/2005-human-rights-digest-hutchinson.qmd)) says a client was accepted on CSIL in **1998**. That shows CSIL existed by 1998. It is not a founding date.
+A digest of *Hutchinson* ([2005 CanLIIDocs 513](../sources/2005-human-rights-digest-hutchinson.qmd)) says a client was accepted on CSIL in **1998**. That shows CSIL existed by 1998. It is not a founding date.
 
-## Ministry records that remain missing
+## What is still missing
 
-No original 1993–95 Ministry of Health design file, Treasury Board submission, Order in Council, pilot circular, or regional-board direction has been read. The [wanted class record](../sources/wanted-ministry-csil-pilot-records.qmd) remains copy-sought.
+No original 1993–95 Ministry of Health design file has been read. See the [wanted ministry record](../sources/wanted-ministry-csil-pilot-records.qmd).
 
-Still unknown without those files:
+Without those files we do not know which 1994 document the Ombudsperson treated as the “pilot.” We do not know what 1995 act counted as “province-wide.” We do not know whether “50 people tried it out” is from the time or later memory.
 
-- which 1994 document (if any) the Ombudsperson treated as the “pilot”
-- which 1995 act counted as “province-wide,” and how that relates to HEU’s late-1995 pilot wording and ~130-client snapshot
-- what “established … in 1993” versus “1994” meant in later decks
-- Sally Hamilton’s exact title and the document that created Community Support Branch CSIL
-- whether “50 people tried it out” (Gauthier 2014) is from the time or later recollection
+A 1995 Ministry of **Social Services** brokerage pilot (Kelly MacKinnon) can be confused with CSIL. It is a different program.
 
-A Roeher-cited October 1995 Ministry of **Social Services** individualized-funding / brokerage pilot (Kelly MacKinnon) is a **near-miss**. It is a different program that can be confused with CSIL. It is not treated as a Ministry of Health CSIL document.
+## Who appears in the design and pilot period
 
-## Who did what in the design / pilot period
+HEU 1995 names Community Support Branch / Continuing Care Division, and Sally Hamilton as program manager. The 2012 report later says regional health boards had to fund self-managed home support.
 
-| Person or body | What the sources we have read support | What they do not support |
-| --- | --- | --- |
-| Ministry of Health, Community Support Branch / Continuing Care Division | HEU 1995 names this administrative home for a new/pilot CSIL program | The missing creating document |
-| Sally Hamilton | HEU 1995: “manages the program for the ministry” | A recovered job description or signature on a 1990s file |
-| Regional health boards | Ombudsperson 2012 later summary: required to fund self-managed home support after the province-wide policy | 1995 board minutes from the time |
-| [Paul Gauthier](../people/paul-gauthier.qmd) | Later official honour: “Initiator” of CSIL ([Order of Canada citation](../sources/2023-order-of-canada-paul-gauthier.qmd)). Later IFRC/Gauthier decks: founder language; 1993 or 1994 “established”; 50-person pilot | A 1993–95 ministry appointment from the time; inferred sole founder credit |
-| [Joseph Theriault](../people/joseph-theriault.qmd) | Later IFRC wording: travelled with Gauthier to “create and promote” CSIL after ECPM | Any 1990s ministry title |
-| Home-support agencies, ministry senior staff, and “consumers” | Gauthier 2014 later list of who was “initially involved” | Named committee membership |
-| Creekview residents / [Walt Lawrence](../people/walt-lawrence.qmd) / [Doug Mowat](../people/doug-mowat.qmd) | No 1993–95 source in this catalogue names them in CSIL design | Design-group membership (not inferred) |
+A later honour calls [Paul Gauthier](../people/paul-gauthier.qmd) “Initiator” of CSIL ([Order of Canada citation](../sources/2023-order-of-canada-paul-gauthier.qmd)). Later decks use founder language and a 50-person pilot. That is not a 1990s ministry appointment. It is not sole-founder proof.
 
-: Documented and excluded roles for CSIL design and pilot
+Later IFRC wording says [Joseph Theriault](../people/joseph-theriault.qmd) travelled with Gauthier to “create and promote” CSIL. No 1990s ministry title has been found.
 
-Formal design-group membership is **not** inferred for anyone from later founder language or from Creekview participation.
+Gauthier 2014 later lists home-support agencies, ministry senior staff, and “consumers” as initially involved. It does not name a committee.
 
-Relationship to ECPM is reserved to the [ECPM chapter](ecpm.qmd): later accounts name ECPM as a pre-CSIL step; no document from the time that we have read here proves official succession.
+No 1993–95 source in this catalogue names Creekview residents, [Walt Lawrence](../people/walt-lawrence.qmd), or [Doug Mowat](../people/doug-mowat.qmd) in CSIL design. Design-group membership is **not** inferred.
+
+Later accounts name ECPM as a pre-CSIL step. See the [ECPM chapter](ecpm.qmd). No document from the time that we have read proves official succession.
 
 ## What we still do not know
 
-1. What each of 1993, 1994, and 1995 authorized, if they authorized different things.
-2. How HEU’s late-1995 “non-profit societies” description relates to later individual-employer and client-support-group language (taken up on [Later evolution](evolution.qmd)).
-3. Whether 1993–95 Hansard names CSIL (not retrieved for this chapter).
-4. Whether a 50-person pilot is documented outside later Gauthier slides.
-5. Who sat on any design, advisory, or working group, in what capacity, and in which year.
+- What each of 1993, 1994, and 1995 authorized, if they authorized different things.
+- How HEU’s “non-profit societies” relate to later client-support-group language (see [Later evolution](evolution.qmd)).
+- Whether 1993–95 Hansard names CSIL.
+- Whether a 50-person pilot is documented outside later Gauthier slides.
+- Who sat on any design or advisory group, and in which year.
 
 Those questions are not resolved by picking a start year.
 
