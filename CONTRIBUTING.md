@@ -43,7 +43,7 @@ Do not collapse these into definitive prose.
 
 ### 4. Preserve disagreement
 
-If sources conflict, show the conflict. A known example the site must accommodate is **1993 versus 1994** as a CSIL starting year. Do not pick a winner in narrative text until the evidence is inspected and the disagreement is still described.
+If sources conflict, show the conflict. A known example the site must accommodate is **1993 versus 1994** as a CSIL “established” year, together with later official **pilot 1994 / province-wide 1995** wording and contemporaneous late-1995 “new/pilot” language. Do not pick a single founding year in narrative text.
 
 ### 5. No advocacy framing in the historical record
 
@@ -66,7 +66,7 @@ The [accessibility baseline](docs/accessibility.qmd) is a merge blocker. In shor
 
 ### 7. Respect living participants
 
-Names in `people/` are stubs until a **cited** public source supports a statement.
+Names in `people/` are cited role records, not biographies. Do not add a role until a **cited** public source supports it.
 
 Oral-history or personal contributions need:
 
@@ -105,12 +105,12 @@ Do not add a JavaScript timeline library.
 
 ## How to add a person or organization page
 
-Create a stub first. Use the four person sections:
+Create a cited role record first. Use the four person sections:
 
 1. Documented role
-2. Attributed recollection
-3. Sources mentioning this person
-4. Questions we would like to verify
+2. Attributed recollection / later organizational wording
+3. Unresolved
+4. Sources mentioning the person
 
 Leave sections empty rather than guessing. Do not write a biography from memory.
 

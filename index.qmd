@@ -8,12 +8,12 @@ Choice in Supports for Independent Living (CSIL) is the name of a British Columb
 
 This archive exists to collect, cite, and annotate the sources from which a history of CSIL can be reconstructed. It is meant for CSIL employers, disability advocates, researchers, journalists, policy staff, and people who took part in that history. The project is a digital-history and annotated-bibliography effort, not a campaign.
 
-The reconstruction is incomplete on purpose. Pages distinguish documented fact, attributed recollection, interpretation, conflicting evidence, and open questions. Where dates or lineages are still unsettled — including whether later writers treat **1993 or 1994** as a CSIL starting year — the archive should show the disagreement rather than hide it.
+The reconstruction is incomplete on purpose. Pages distinguish documented fact, attributed recollection, interpretation, conflicting evidence, and open questions. Where dates or lineages are still unsettled — including whether later writers treat **1993 or 1994** as a CSIL starting year, and how that relates to a later official **1994 pilot / 1995 province-wide** pairing — the archive shows the disagreement rather than hiding it.
 
 A working research proposition used only to organise this site, and **not** offered here as a settled history, is:
 
 **institutional or agency care → disability-led independent-living experiments → Creekview → Enhanced Consumer Participation Model (ECPM) → direct individualized funding → CSIL design and pilot → a province-wide program.**
 
-The [Creekview chapter](history/creekview.qmd) now reconstructs the mid-1980s project from inspected 1984–89 sources. It does not treat Creekview as a proven predecessor of ECPM or CSIL. Working dates for ECPM and for CSIL design, pilot, and province-wide availability remain propositions, including the unsettled **1993 versus 1994** start. See [History](history/index.qmd), the [timeline](timeline.qmd), and [wanted sources](research/wanted-sources.qmd).
+Cited chapters now reconstruct Creekview (and the folded origins/context), ECPM, CSIL design/pilot, and later evolution from public sources. None of those chapters treats Creekview → ECPM → CSIL as a proven formal succession. A short [state of the evidence](history/index.qmd#state-of-the-evidence) summary lives on the History index.
 
 If you can help, the most useful contributions are citations, catalogue records, permitted scans, and corrections. Please read [About / Contribute](about.qmd#how-to-contribute) and do not send private or health-related records.

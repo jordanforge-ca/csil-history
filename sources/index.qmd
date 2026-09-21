@@ -31,4 +31,6 @@ This catalogue now includes:
 - inspected bibliographic records (Mattinson & Rompf 1987 PubMed abstract; Roeher / Salisbury bibliography)
 - later official and organizational records (Ombudsperson *Best of Care* 2012; IFRC and SCI BC pages; current ministry and VCH CSIL pages; Order of Canada citation)
 
+Narrative chapters that use these records: [Creekview](../history/creekview.qmd), [ECPM](../history/ecpm.qmd), [CSIL design and pilot](../history/csil-pilot.qmd), and [later evolution](../history/evolution.qmd). A [state of the evidence](../history/index.qmd#state-of-the-evidence) summary lives on the History index.
+
 Do not treat a catalogue row as proof that this archive has inspected the original 1980s–90s manuals or ministry files. Check `verification_status` and `availability`. Check the annotation before treating a later webpage as confirmation of a 1980s–90s fact.

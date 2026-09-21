@@ -20,7 +20,7 @@ toc: false
 
 This view is generated from [`data/timeline.yml`](https://github.com/jordanforge-ca/csil-history/blob/main/data/timeline.yml). Edit that file to add or correct events. There is no JavaScript timeline library.
 
-Dates here are **working research propositions** unless a linked source record says a copy was inspected. Approximate and contested dates are labelled in the Date column. The 1993 and 1994 CSIL rows are both kept so the archive does not pick a starting year in advance of the evidence.
+Dates here are **working research propositions** unless a linked source record says a copy was inspected. Approximate and contested dates are labelled in the Date column. The 1993 and 1994 CSIL rows are both kept, and the 1995 row keeps later official “province-wide” wording beside contemporaneous HEU “new/pilot” wording, so the archive does not pick a starting year.
 
 Status values use the [evidence and verification vocabulary](docs/evidence-status.qmd).
 

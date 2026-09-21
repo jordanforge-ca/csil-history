@@ -73,7 +73,7 @@
     - src-wanted-ecpm-manuals
     - src-roeher-if-bibliography
     - src-wanted-keys-on-freedom
-  notes: "Roeher independently cites a 1990 five-module ECPM manual. Keys on Freedom title/author/year remain commissioning-issue only. Relationship between the two is not established."
+  notes: "Roeher independently cites a 1990 five-module ECPM manual (bibliographically attested; unread). Keys on Freedom title/author/year remain commissioning-issue only. A distinct 1994 ECPM training manual remains INSUFFICIENT EVIDENCE. Van der Klift 1994 Hell-Bent is a separate work. Relationship of ECPM to CSIL is later reconstruction, not a proven formal succession."
 
 - id: tl-1993-csil-design
   title: "CSIL 'established' 1993 (later attribution; contested)"
@@ -88,7 +88,7 @@
   source_ids:
     - src-gauthier-2014-sci-slides
     - src-wanted-ministry-csil-pilot-records
-  notes: "Gauthier 2014 says established in 1993. Do not silently reconcile with 1994 rows. No 1993 ministry file inspected."
+  notes: "Gauthier 2014 says established in 1993. Treat as a conflicting later start-year label, not a verified distinct 1993 stage. Do not silently reconcile with 1994 rows. No 1993 ministry file inspected. See the CSIL design and pilot chapter (PARTIAL STAGED CHRONOLOGY)."
 
 - id: tl-1994-csil-pilot
   title: "CSIL pilot / 'established' 1994 (contested starting year)"
@@ -105,8 +105,7 @@
     - src-gauthier-2015-module1
     - src-ifrc-our-team
     - src-wanted-ministry-csil-pilot-records
-    - src-wanted-ecpm-manuals
-  notes: "Ombudsperson 2012: created as a pilot in 1994. Gauthier 2015 and IFRC Our Team also use 1994. A 1994 ECPM training revision remains unfound. Preserve disagreement with the 1993 row."
+  notes: "Ombudsperson 2012 assigns pilot/created/introduced to 1994 (later official). Gauthier 2015 and IFRC also use 1994 as established/start. Candidate pilot-stage year; not reconciled with the 1993 recollection or with missing ministry instruments. A 1994 ECPM training revision is a separate, still-unresolved identity question (see the ECPM chapter)."
 
 - id: tl-1995-province-wide
   title: "Province-wide CSIL availability (later official chronology)"
@@ -116,12 +115,12 @@
   date_precision: approximate
   confidence: bibliographically-confirmed
   period: province-wide
-  href: sources/2012-ombudsperson-best-of-care.qmd
+  href: history/csil-pilot.qmd
   sources_display: "Ombudsperson, Best of Care Part 2 (2012); HEU Guardian Nov/Dec 1995"
   source_ids:
     - src-ombudsperson-2012-best-of-care
     - src-heu-guardian-1995-novdec
-  notes: "2012 Ombudsperson report states CSIL was implemented province-wide in 1995 (later official chronology). The Nov/Dec 1995 HEU Guardian still calls CSIL a new/pilot Community Support Branch program and reports about 130 clients. Those two 1995 pictures are not automatically the same event."
+  notes: "2012 Ombudsperson: province-wide in 1995 (later official stage). Nov/Dec 1995 HEU still calls CSIL a new/pilot Community Support Branch / Continuing Care Division program (~130 clients). Do not treat province-wide 1995 as contemporaneously verified; keep both pictures visible."
 
 - id: tl-2008-program-review
   title: "CSIL Program Review Synthesis Report (November 2008)"
@@ -136,4 +135,19 @@
   source_ids:
     - src-2008-program-review-synthesis
     - src-ombudsperson-2012-best-of-care
-  notes: "Cover dated November 2008; prepared-by page dated November, 2008. James Murtagh Consulting named as preparer. Best of Care also refers to a provincial review in 2007; this archive does not treat that 2007 mention as proven identical to this synthesis. The report dates CSIL to the 1990's and does not choose 1993 versus 1994."
+  notes: "Cover dated November 2008; prepared-by page dated November, 2008. James Murtagh Consulting named as preparer. Best of Care also refers to a provincial review in 2007; this archive does not treat that 2007 mention as proven identical to this synthesis. The report dates CSIL to the 1990's and does not choose 1993 versus 1994. See the later-evolution chapter."
+
+- id: tl-2011-csil-rates
+  title: "Ministry announces CSIL hourly-rate increases (program already provincial)"
+  date: 2011-03-28
+  date_iso: "2011-03-28"
+  date_display: "28 March 2011"
+  date_precision: exact
+  confidence: verified-inspected
+  period: later-review
+  href: history/evolution.qmd
+  sources_display: "BC Ministry of Health news release 2011HLTH0018-000298; HCC Policy 4.C"
+  source_ids:
+    - src-bcnews-2011-csil-rates
+    - src-hcc-policy-4c
+  notes: "Later official evidence of a scaled provincial program (more than 800 clients in the release). Effective date of the first announced increase is 1 April 2011. Does not settle 1993 versus 1994. HCC Policy 4.C later grandfathers clients on CSIL as of 31 March 2011."

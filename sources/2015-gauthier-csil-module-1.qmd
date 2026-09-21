@@ -55,4 +55,4 @@ The rest of the deck is a how-to introduction (phases, supported lifestyle plan)
 
 - [Wanted Ministry CSIL records](wanted-ministry-csil-pilot-records.qmd)
 - [Gauthier 2014 SCI presentation](2014-gauthier-sci-csil-presentation.qmd)
-- [CSIL design and pilot placeholder](../history/csil-pilot.qmd)
+- [CSIL design and pilot chapter](../history/csil-pilot.qmd)

@@ -59,4 +59,4 @@ The bibliography does **not** list *Keys on Freedom*, a Creekview evaluation, or
 ## Associated claims
 
 - [ECPM manual(s) wanted record](wanted-ecpm-manuals.qmd)
-- [ECPM placeholder](../history/ecpm.qmd)
+- [ECPM chapter](../history/ecpm.qmd)

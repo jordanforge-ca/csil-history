@@ -1,7 +1,7 @@
 ---
 title: "Joseph Theriault"
 person_id: joseph-theriault
-page_status: stub
+page_status: draft
 toc: false
 ---
 
@@ -9,17 +9,25 @@ toc: false
 
 ## Documented role
 
-None recorded from a contemporaneous 1990s source inspected in this archive.
+None recorded from a contemporaneous 1990s source inspected in this archive. The 1990 ECPM manual has not been read; Roeher’s bibliographic entry names corporate authors only ([BC Rehab and Greater Vancouver Home Support Society](../sources/1990s-roeher-if-bibliography.qmd)).
 
-## Attributed recollection
+This archive does **not** infer ECPM authorship or CSIL design-group membership.
 
-The [IFRC “Our Team” page](../sources/ifrc-our-team.qmd) states that Theriault “worked alongside Paul and others as pioneers of the individual funding project; then known as Enhanced Consumer Participation Model [ECPM]” and later travelled the province with Paul Gauthier to “create and promote the CSIL Program.” That is IFRC’s later wording, not an inspected ECPM manual or ministry file.
+## Attributed recollection / later organizational wording
+
+The [IFRC “Our Team” page](../sources/ifrc-our-team.qmd) states that Theriault “worked alongside Paul and others as pioneers of the individual funding project; then known as Enhanced Consumer Participation Model [ECPM]” and later travelled the province with Paul Gauthier to “create and promote the CSIL Program.” The same page dates his IFRC presidency from May 2014.
+
+That is IFRC’s later wording, not an inspected ECPM manual or ministry file. See the [ECPM chapter](../history/ecpm.qmd) and [CSIL design and pilot](../history/csil-pilot.qmd).
+
+## Unresolved
+
+- What contemporaneous title or employment, if any, attached him to ECPM or CSIL creation.
+- Whether he appears on the unread 1990 ECPM manual title page.
+- What “create and promote” refers to (design, training, travel, later IFRC work).
 
 ## Sources mentioning this person
 
 - [IFRC Our Team](../sources/ifrc-our-team.qmd)
-
-## Questions we would like to verify
-
-- What contemporaneous title or employment, if any, attached him to ECPM or CSIL creation.
-- Whether he appears on the unread 1990 ECPM manual title page.
+- [Wanted ECPM manuals](../sources/wanted-ecpm-manuals.qmd)
+- [ECPM](../history/ecpm.qmd)
+- [Paul Gauthier](paul-gauthier.qmd)

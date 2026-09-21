@@ -43,12 +43,18 @@ Chapter 4 of the Home and Community Care Policy Manual (PDF) was read on 20 Sept
 
 ## Annotation
 
-Policy 4.C.1 describes CSIL as “a self-directed home support service” that health authorities “are responsible to fund” as “an alternative to receiving home support services.” It defines CSIL employer, client support group, CSIL representative, CSIL agreement, and CSIL funds. It states that clients receiving CSIL funding as of 31 March 2011 remain eligible after 1 April 2011 regardless of later eligibility criteria.
+Policy 4.C.1 describes CSIL as “a self-directed home support service” that health authorities “are responsible to fund” as “an alternative to receiving home support services.” It states that clients who cannot always direct their own care “may still be able to participate in CSIL through a client support group or a CSIL representative.” Definitions in the inspected PDF (15 October 2012 effective date) include:
 
-The inspected PDF does not give a 1993 or 1994 founding date and does not cite the 2008 Murtagh synthesis.
+- **client support group:** “incorporated as a non-profit society under the B.C. Registrar of Companies, comprised of family and/or friends of a CSIL client, to manage the provision of home support services to the client.”
+- **CSIL representative:** “an individual designated as a representative for a CSIL client through a valid representation agreement and is acting as the CSIL employer.”
+- **CSIL employer:** “the client, client support group or CSIL representative receiving CSIL funding who is a party to the CSIL agreement.”
+
+It also states that clients receiving CSIL funding as of 31 March 2011 remain eligible after 1 April 2011 regardless of later eligibility criteria.
+
+The inspected PDF does not give a 1993 or 1994 founding date and does not cite the 2008 Murtagh synthesis. These definitions are **current administrative language**, not recovered 1990s instruments. See the [later-evolution chapter](../history/evolution.qmd).
 
 ## Associated claims
 
 - [gov.bc.ca CSIL program page](gov-bc-csil-program-page.qmd)
 - [2011 rate-increase news release](2011-bc-csil-rate-increase.qmd)
-- [Later evolution placeholder](../history/evolution.qmd)
+- [Later evolution chapter](../history/evolution.qmd)

@@ -81,4 +81,4 @@ This is contemporaneous 1995 public description of CSIL as a **new / pilot** Min
 
 - [Wanted Ministry CSIL records](wanted-ministry-csil-pilot-records.qmd)
 - [Ombudsperson 2012 (later 1994/1995 chronology)](2012-ombudsperson-best-of-care.qmd)
-- [CSIL design and pilot placeholder](../history/csil-pilot.qmd)
+- [CSIL design and pilot chapter](../history/csil-pilot.qmd)

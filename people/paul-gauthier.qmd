@@ -1,7 +1,7 @@
 ---
 title: "Paul Gauthier"
 person_id: paul-gauthier
-page_status: stub
+page_status: draft
 toc: false
 ---
 
@@ -9,11 +9,27 @@ toc: false
 
 ## Documented role
 
-The [Governor General Order of Canada citation](../sources/2023-order-of-canada-paul-gauthier.qmd) (awarded 11 May 2023) calls him “Initiator of British Columbia’s Choice in Supports for Independent Living” and co-founder of the Individualized Funding Resource Centre Society. That is an official honour citation, not a ministry design file, and it does not date CSIL.
+The [Governor General Order of Canada citation](../sources/2023-order-of-canada-paul-gauthier.qmd) (awarded 11 May 2023; invested 12 December 2024) calls him “Initiator of British Columbia’s Choice in Supports for Independent Living” and co-founder of the Individualized Funding Resource Centre Society. That is an official honour citation. It is **not** a ministry design file, and it does not date CSIL.
 
-## Attributed recollection
+No inspected 1993–95 Ministry of Health instrument in this catalogue names him.
 
-Later IFRC materials attributed to Gauthier, or describing him, disagree on the start year: [2014 slides](../sources/2014-gauthier-sci-csil-presentation.qmd) say CSIL was “established” in 1993 and mention a 50-person pilot; [2015 Module 1](../sources/2015-gauthier-csil-module-1.qmd) uses 1994 in an otherwise similar sentence; [IFRC Our Team](../sources/ifrc-our-team.qmd) says he “started on the CSIL program in 1994.” Those are later attributions, not inspected 1990s records.
+This archive does **not** infer formal CSIL design-group membership from the honour citation or from later founder language.
+
+## Attributed recollection / later organizational wording
+
+Later IFRC materials attributed to Gauthier, or describing him, disagree on the start year and use founder language:
+
+- [2014 SCI slides](../sources/2014-gauthier-sci-csil-presentation.qmd): CSIL “established” in **1993**; “The Pilot — 50 people tried it out”; Gauthier labelled “Founder of CSIL”; “Pre CSIL?” list includes ECPM.
+- [2015 Module 1](../sources/2015-gauthier-csil-module-1.qmd): the same “established” sentence with **1994**; labelled “the founder of the CSIL program.”
+- [IFRC Our Team](../sources/ifrc-our-team.qmd): “one of the founders”; “started on the CSIL program in 1994.”
+
+Those are later attributions, not inspected 1990s records. The 1993/1994 conflict is preserved on the [CSIL design and pilot chapter](../history/csil-pilot.qmd). ECPM naming in the 2014 deck is later reconstruction, not a formal succession instrument ([ECPM chapter](../history/ecpm.qmd)).
+
+## Unresolved
+
+- What “initiator” / “founder” refers to in contemporaneous 1993–95 files (design, advocacy, pilot participation, or later summary).
+- How his role relates to [Joseph Theriault](joseph-theriault.qmd) and ECPM as described on the IFRC page.
+- Whether he appears on the unread 1990 ECPM manual title page (not inferred).
 
 ## Sources mentioning this person
 
@@ -21,8 +37,5 @@ Later IFRC materials attributed to Gauthier, or describing him, disagree on the 
 - [IFRC Our Team](../sources/ifrc-our-team.qmd)
 - [Gauthier 2014 SCI presentation](../sources/2014-gauthier-sci-csil-presentation.qmd)
 - [Gauthier 2015 Module 1](../sources/2015-gauthier-csil-module-1.qmd)
-
-## Questions we would like to verify
-
-- What “initiator” / “founder” refers to in contemporaneous 1993–95 files (design, advocacy, pilot participation, or later summary).
-- How his role relates to Joseph Theriault and ECPM as described on the IFRC page.
+- [CSIL design and pilot](../history/csil-pilot.qmd)
+- [ECPM](../history/ecpm.qmd)

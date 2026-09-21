@@ -1,6 +1,6 @@
 ---
 title: "People"
-subtitle: "Stubs with cited roles only — not biographies"
+subtitle: "Cited role records — not biographies"
 listing:
   - id: people-catalogue
     contents: "*.qmd"
@@ -15,11 +15,15 @@ listing:
 toc: false
 ---
 
-These pages reserve names the archive can attach evidence to. **They are not biographies.** Role statements appear only when a cited public source supports them, and they stay in the four stub sections:
+These pages attach public evidence to names. **They are not biographies.** `page_status: draft` means the four-section role record is in place for Gate A; it does not mean a life history is finished.
+
+Role statements appear only when a cited public source supports them:
 
 1. Documented role (cited)
-2. Attributed recollection
-3. Sources mentioning the person
-4. Questions we would like to verify
+2. Attributed recollection / later organizational wording
+3. Unresolved
+4. Sources mentioning the person
+
+Design-group membership is never inferred from later founder language or from Creekview participation.
 
 Do not contact living participants unless a separately agreed research protocol exists. See [CONTRIBUTING.md](https://github.com/jordanforge-ca/csil-history/blob/main/CONTRIBUTING.md).

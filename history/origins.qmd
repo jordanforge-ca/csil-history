@@ -1,25 +1,29 @@
 ---
 title: "Origins"
-subtitle: "Placeholder — not a finished chapter"
+subtitle: "Intentionally folded into the Creekview chapter"
 ---
 
 ::: {.callout-note}
-## Working research proposition
-This page reserves space for evidence about disability-led independent-living and community-living advocacy in British Columbia before Creekview, ECPM, and CSIL. No origins narrative has been written for this bootstrap.
+## Editorial choice for Gate A
+This archive does **not** maintain a separate origins narrative. The inspected pre-CSIL community-living context that can be sourced today is already written on the [Creekview chapter](creekview.qmd), mainly from [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) and the 1984–86 Hansard sittings. A free-standing “independent living in British Columbia” chapter would manufacture breadth the catalogue does not support.
 :::
 
-## What this chapter is for
+## Why the context lives on Creekview
 
-Later work can gather cited accounts of institutional or agency home support, independent-living organising, and any documented experiments that preceded Creekview. Until those sources are catalogued, treat any lineage that starts this chapter as a hypothesis.
+The commissioning brief reserved this page for disability-led independent-living and community-living advocacy before Creekview, ECPM, and CSIL. The earliest inspected public record in the catalogue is [Hansard, 24 February 1984](../sources/1984-hansard-mowat-creekview.qmd), which already describes the planned Creekview move. [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) is a CPA official’s later overview of 1970s–early-1980s housing and Long Term Care; Creekview already summarizes that sequence and labels it as later overview, not a 1970s primary file.
 
-## Evidence status
+No inspected contemporaneous public primary source from before February 1984 has been catalogued that would support an independent origins chapter without repeating Creekview or guessing a national independent-living history.
 
-- **Documented facts:** none written as an origins narrative. The earliest inspected public record now catalogued is [Hansard, 24 February 1984](../sources/1984-hansard-mowat-creekview.qmd), which already describes the planned Creekview move. [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) gives a CPA official’s later overview of 1970s–early-1980s housing and Long Term Care; that sequence is summarized on the [Creekview chapter](creekview.qmd), not rewritten here as a finished origins history.
-- **Open questions:** what *contemporaneous* public primary sources (before February 1984) describe independent-living advocacy in British Columbia, and how (if at all) they connect to Creekview or CSIL.
-- **Related wanted sources:** none specifically titled for this chapter in the commissioning issue.
+## What this page is not
+
+- A placeholder waiting for a future general history
+- A claim that Creekview *is* the origin of CSIL
+- A substitute for the [ECPM](ecpm.qmd) or [CSIL design and pilot](csil-pilot.qmd) chapters
+
+Creekview still does **not** treat the 1980s project as a proven predecessor of ECPM or CSIL. That relationship remains an open question on the Creekview and ECPM pages.
 
 ## See also
 
+- [Creekview](creekview.qmd)
 - [History overview](index.qmd)
 - [Timeline](../timeline.qmd)
-- [Wanted sources](../research/wanted-sources.qmd)
