@@ -64,7 +64,7 @@ This is independent, contemporaneous, PubMed-indexed public evidence that:
 3. that evaluation was attributed here to “the B.C. provincial government and CPA,” not to Patricia Ryan / Ryan & Wiggins;
 4. the evaluation’s topics (operating costs; health status at relocation and one year later; attendant staff; standards of care; general services) overlap the topics [Haw 1989](1989-haw-special-housing-needs.qmd) later paraphrased.
 
-It does **not** confirm the commissioning-issue title “Creekview 202 Project Evaluation Report,” nor Ryan / Ryan & Wiggins authorship. Those remain unconfirmed. The article and the evaluation may be the same work, related works, or different documents. Mattinson’s Pearson affiliation is consistent with Haw’s statement that Pearson continued to support Creekview; it is not proof that Pearson authored the evaluation.
+It does **not** confirm the title “Creekview 202 Project Evaluation Report” as first listed for this archive, nor Ryan / Ryan & Wiggins authorship. Those remain unconfirmed. The article and the evaluation may be the same work, related works, or different documents. Mattinson’s Pearson affiliation is consistent with Haw’s statement that Pearson continued to support Creekview; it is not proof that Pearson authored the evaluation.
 
 `source_type` is `near-primary`: a 1987 professional article about a just-completed evaluation, not the evaluation report itself.
 
@@ -72,7 +72,7 @@ It does **not** confirm the commissioning-issue title “Creekview 202 Project E
 
 - Full-text location (*Dimensions in Health Service* holdings; UBC/SFU/Legislative Library).
 - Whether Mattinson and Rompf wrote the evaluation, summarized it, or both.
-- How this article relates to the Ryan / Ryan & Wiggins report named in the commissioning issue.
+- How this article relates to the Ryan / Ryan & Wiggins report named in early project notes.
 - Whether “will determine” in the abstract means the evaluation was complete but not yet used for policy, or that analysis was still in progress.
 
 ## Associated claims

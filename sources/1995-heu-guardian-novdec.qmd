@@ -61,7 +61,7 @@ Further statements on that page, as read from the scan:
 - The family formed a society and secured “$3,540 a month.”
 - Hamilton is quoted that the ministry expects CSIL employers “to pay within the unionized range, provide statutory benefits and keep a small cushion in the event of emergency.”
 
-This is contemporaneous 1995 public description of CSIL as a **new / pilot** Ministry of Health program housed in **Community Support Branch / Continuing Care Division**. That independently attests the administrative home named in the commissioning issue. It does **not** date the pilot’s start to 1993, 1994, or 1995, and it does not name ECPM, Gauthier, or Creekview.
+This is 1995 public description from the time of CSIL as a **new / pilot** Ministry of Health program housed in **Community Support Branch / Continuing Care Division**. That independently attests the administrative home first named when this archive was planned. It does **not** date the pilot’s start to 1993, 1994, or 1995, and it does not name ECPM, Gauthier, or Creekview.
 
 `source_type` is `primary`. HEU is a union newspaper with an interest in unionized home-support wages; treat cost and “pilot” wording as HEU’s contemporaneous report, not as a ministry instrument.
 

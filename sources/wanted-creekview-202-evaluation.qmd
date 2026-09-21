@@ -8,7 +8,7 @@ record_status: catalogue-record
 source_authors:
   - "Patricia Ryan"
   - "Ryan & Wiggins"
-author: "Patricia Ryan / Ryan & Wiggins (as named in the commissioning issue; not independently confirmed)"
+author: "Patricia Ryan / Ryan & Wiggins (as first named for this archive; not independently confirmed)"
 source_type: primary
 availability: known-to-exist-copy-sought
 verification_status: bibliographically-confirmed
@@ -39,9 +39,9 @@ Two independent 1987–89 public sources inspected in this catalogue attest that
 
 | Element | What is attested, and from where |
 | --- | --- |
-| Title as named in the commissioning issue | Creekview 202 Project Evaluation Report |
-| Creator as named in the commissioning issue | Patricia Ryan / Ryan & Wiggins |
-| Date as named in the commissioning issue | c. 1987 |
+| Title as first named for this archive | Creekview 202 Project Evaluation Report |
+| Creator as first named for this archive | Patricia Ryan / Ryan & Wiggins |
+| Date as first named for this archive | c. 1987 |
 | Independent 1987 attestation that an evaluation existed | [Mattinson and Rompf, *Dimensions in Health Service* 64(8), Nov. 1987](1987-mattinson-rompf-creekview.qmd), PubMed PMID 3691990 abstract: “A formal evaluation of the Creekview project has been completed by the B.C. provincial government and CPA.” Topics listed: operating costs; health status at relocation and one year later; quality of attendant staff; standards of care; general services. |
 | Independent 1989 attestation of a published 1987 evaluation | [Haw 1989](1989-haw-special-housing-needs.qmd): “In 1987 an independent evaluation of Creekview 202 was published.” Haw paraphrases cost, health-status, and accreditation findings. |
 | Contemporaneous legislative setting | [Hansard, 24 Feb. 1984](1984-hansard-mowat-creekview.qmd) (planned Creekview Co-op move); [Hansard, 10 Apr. 1986](1986-hansard-nielsen-creekview.qmd) (ministerial statement that six residents had moved). |
@@ -62,7 +62,7 @@ Haw’s three findings and Mattinson/Rompf’s topic list are **their summaries*
 
 ## Authorship contradiction (do not reconcile)
 
-- Commissioning issue: Patricia Ryan / Ryan & Wiggins.
+- Early project notes: Patricia Ryan / Ryan & Wiggins.
 - Mattinson & Rompf 1987 abstract: “B.C. provincial government and CPA.”
 - Haw 1989: “an independent evaluation,” no author named.
 
