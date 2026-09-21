@@ -52,7 +52,7 @@ Canonical public URL:
 
 <https://csil-history.jordanforge.ca>
 
-The earlier project URL, <https://jordanforge-ca.github.io/csil-history/>, redirects to that hostname after the Pages custom domain is set.
+The earlier project URL, <https://jordanforge-ca.github.io/csil-history/>, redirects to the custom domain while that hostname is the Pages custom domain. The observed response is a 301. It points at `http://` until the Pages certificate exists and HTTPS is enforced.
 
 ## Adding content
 
