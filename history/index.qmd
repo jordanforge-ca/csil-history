@@ -3,7 +3,7 @@ title: "History"
 subtitle: "What public sources show so far — and what they do not"
 ---
 
-CSIL did not appear from nowhere. Disabled people, families, and allied organizations spent years trying to move support out of institutions and agencies, and toward arrangements people could direct themselves.
+The chapters below start before CSIL existed as a named program. They look at earlier housing and support arrangements, then at CSIL’s early years and later changes.
 
 This site uses one possible order of events so later evidence has a place to land. It is a reading aid, **not** a claim that each step officially became the next:
 
@@ -15,10 +15,10 @@ No page treats Creekview → ECPM → CSIL as a proven official sequence. The ch
 | --- | --- | --- |
 | Early 1980s | Independent-living and community-living advocacy in British Columbia | Written into the [Creekview](creekview.qmd) chapter, not as a separate origins story. The [Origins](origins.qmd) page explains that choice. The context comes from Haw's 1989 later overview plus 1984–86 Hansard. |
 | c. 1984–89 | [Creekview](creekview.qmd) | A cited chapter from Hansard 1984 and 1986, Haw 1989, a 1987 abstract, and later SCI BC and Fayerman accounts. |
-| c. 1987 | Creekview evaluation | Sources from the time confirm that an evaluation existed. This archive does not hold the report. Patricia Ryan / Ryan & Wiggins authorship is unconfirmed. |
+| c. 1987 | Creekview evaluation | Public sources from 1987–89 confirm that an evaluation existed. This archive does not hold the report. Patricia Ryan / Ryan & Wiggins authorship is unconfirmed. |
 | c. 1990 | [ECPM](ecpm.qmd) and *Keys on Freedom* | A 1990 training manual is listed in a later bibliography, but we have not found a copy to read. *Keys on Freedom* is still unconfirmed. |
 | c. 1993 | CSIL “established” (later label) | A later recollection only, and it conflicts with other later wording. See [CSIL design and pilot](csil-pilot.qmd). |
-| c. 1994 | CSIL pilot / later “established” | Later official records say CSIL was piloted or introduced in 1994. Later recollection also uses 1994. Whether a separate 1994 ECPM training manual existed is still unresolved. |
+| c. 1994 | CSIL pilot / later “established” | Later official records say CSIL was piloted or introduced in 1994. Later recollection also uses 1994. Whether a 1994 ECPM training manual is a distinct document is still unresolved. |
 | c. 1995 | Wider / province-wide availability | Later official chronology (Ombudsperson 2012). A 1995 union newspaper still called CSIL new or a pilot. |
 | 2008–2012 | [Later evolution](evolution.qmd) | A cited sketch: a 2008 program review; 2011 rate changes; current definitions of a client support group and a CSIL representative. |
 
@@ -40,7 +40,7 @@ Use the [timeline](../timeline.qmd) for the same dates in order, and [sources](.
 
 - SCI BC and journalistic accounts of Creekview residents, of people “championing” the project, and of the spelling “Creekside.”
 - IFRC and Gauthier materials that name ECPM as a step before CSIL and that call CSIL “established” in 1993 or 1994.
-- The 2012 Ombudsperson report’s pairing of **pilot 1994** and **province-wide 1995**, including later wording that mid-1990s policy already allowed a client support group.
+- The 2012 Ombudsperson report’s pairing of **pilot 1994** and **province-wide 1995**, including later wording that mid-1990s policy already contemplated a client support group.
 - Order of Canada “Initiator” language for Paul Gauthier (an official honour, not a 1990s file).
 
 ### Unresolved / missing

@@ -1,11 +1,11 @@
 ---
 title: "Enhanced Consumer Participation Model (ECPM)"
-subtitle: "A 1990 training project later described as a step toward CSIL"
+subtitle: "A 1990 training manual; later accounts also use the name for a step before CSIL"
 ---
 
 ::: {.callout-note}
 ## What this page covers
-The Enhanced Consumer Participation Model (ECPM) is the name of a training project from around 1990. A later bibliography confirms that a skill-development manual existed, but we have not found a copy to read.
+The Enhanced Consumer Participation Model (ECPM) is a name that appears on a 1990 skill-development manual. A later bibliography confirms that the manual existed, but we have not found a copy to read. Later organizations also use the name for an individual-funding project they say came before CSIL. Those two uses may or may not be the same effort.
 
 This page uses that bibliography for the 1990 manual, later organizational and training accounts for the project name, and a 1994 Van der Klift publication that is **not** an ECPM manual. It does **not** treat ECPM as a proven official predecessor of CSIL. A distinct 1994 ECPM training manual remains an open identity question.
 :::

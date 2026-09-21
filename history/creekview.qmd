@@ -5,7 +5,7 @@ subtitle: "A mid-1980s co-op where men with high-level quadriplegia moved out of
 
 ::: {.callout-note}
 ## What this page covers
-Creekview was a Vancouver housing project in the mid-1980s. A small group of men with high-level quadriplegia, most of them using ventilators, moved from hospital into a co-op apartment and directed more of their own support.
+Creekview was a Vancouver housing project in the mid-1980s. A small group of men with high-level quadriplegia, most of them using ventilators, moved from hospital into a co-op apartment. Sources from the time describe a degree of self-direction; they do not show that each resident was an employer in the later CSIL sense.
 
 This page covers the institutional and community-living background into the mid-1980s, the Creekview move, and evidence from 1987–89 that an evaluation existed. That background is also this archive’s origins context: the separate [Origins](origins.qmd) page explains why there is no second origins story. This page does **not** begin the Enhanced Consumer Participation Model (ECPM) or the 1990s CSIL story. A 1987 evaluation is known to have existed; the report itself is still [wanted](../sources/wanted-creekview-202-evaluation.qmd).
 :::
@@ -44,7 +44,7 @@ No 1985 opening document has been seen. The dating that can be supported is:
 | Claim | Status | Source |
 | --- | --- | --- |
 | By 24 February 1984 the move was already planned (“will soon be leaving”) | Documented | [Hansard, 24 February 1984](../sources/1984-hansard-mowat-creekview.qmd) |
-| Opening in September 1985 | Later statement close to the events | [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) |
+| Opening in September 1985 | Later statement (1989) | [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) |
 | Opening in 1985 | Later organizational / journalistic | [SCI BC history](../sources/sci-bc-history.qmd); [Fayerman 2018](../sources/2018-vancouversun-walt-lawrence.qmd) |
 | By April 1986 residents were in place; the minister said the endeavour “began last year” | Documented | [Hansard, 10 April 1986](../sources/1986-hansard-nielsen-creekview.qmd) |
 | An “early 1980s” Canadian Paraplegic Association (CPA) cost analysis preceded the move | Later recollection | [Fayerman 2018](../sources/2018-vancouversun-walt-lawrence.qmd) |
@@ -93,9 +93,9 @@ Sources we have read agree that Creekview residents came from Pearson, and that 
 | Claim | Status | Source |
 | --- | --- | --- |
 | Six people “will soon be leaving Pearson Hospital” for Creekview | Documented (before opening) | [Hansard, 24 February 1984](../sources/1984-hansard-mowat-creekview.qmd) |
-| Residents were “at least 6 former residents of Pearson Hospital” | Close to the events | [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) |
+| Residents were “at least 6 former residents of Pearson Hospital” | Later statement (1989) | [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) |
 | “Pearson Hospital continues to play a role in the support of the Creekview project” | Abstract only | [Mattinson and Rompf 1987](../sources/1987-mattinson-rompf-creekview.qmd) |
-| Attendants were trained by Pearson staff | Close to the events | [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) |
+| Attendants were trained by Pearson staff | Later statement (1989) | [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) |
 | A Pearson respiratory therapist came to Creekview at first | Later recollection | [Fayerman 2018](../sources/2018-vancouversun-walt-lawrence.qmd) |
 | Lawrence spent 16 years at George Pearson Hospital before the move | Later recollection | [Fayerman 2018](../sources/2018-vancouversun-walt-lawrence.qmd) |
 

@@ -4,9 +4,9 @@ subtitle: "A public history of Choice in Supports for Independent Living in Brit
 toc: false
 ---
 
-**Choice in Supports for Independent Living (CSIL)** is a British Columbia home-support program. Eligible people can receive public funding and use it to hire their own workers, instead of receiving care only through an agency.
+**Choice in Supports for Independent Living (CSIL)** is the name of a British Columbia home-support program. Public program materials describe it as a way for eligible people to manage funding and hire their own workers, instead of receiving care only through an agency. This site does not treat those program descriptions as a substitute for historical evidence about how CSIL was designed, first tried, or later changed.
 
-This site is a public history of how that idea developed. It is written from sources we can cite — newspapers, Hansard, later government reports, training materials, and accounts from people and organizations involved. Today's program web pages describe how CSIL works now. They are not, by themselves, a history of how CSIL was designed, first tried, or later changed.
+This site collects, cites, and explains the sources from which a public history of CSIL can be written. It uses newspapers, Hansard, later government reports, training materials, and accounts from people and organizations involved.
 
 The history is incomplete on purpose. Pages distinguish what a source documents, what someone later remembered, what we infer, where sources disagree, and what is still an open question. We do not yet know a single start year. Later writers treat **1993 or 1994** as the year CSIL was established. Later official records describe a **1994 pilot** and **province-wide availability in 1995**. A **1995** newspaper still described CSIL as a new pilot program. This site shows that disagreement rather than hiding it.
 
@@ -18,4 +18,4 @@ The chapters reconstruct Creekview, ECPM, CSIL's early years, and later changes 
 
 This archive is meant for CSIL employers, disability advocates, researchers, journalists, policy staff, and people who took part in that history. It is not a campaign, and it is not a guide to applying for CSIL.
 
-If you can help, the most useful contributions are citations, catalogue records, copies of public documents we are still looking for, and corrections. Please read [About / Contribute](about.qmd#how-to-contribute) and do not send private or health-related records.
+If you can help, the most useful contributions are citations, catalogue records, permitted scans, and corrections. Please read [About / Contribute](about.qmd#how-to-contribute) and do not send private or health-related records.
