@@ -47,7 +47,7 @@ EXTERNAL_RE = re.compile(
 )
 PDF_RE = re.compile(r'\s*<span class="visually-hidden"> \(PDF\)</span>')
 EMPTY_SIDEBAR_A_RE = re.compile(
-    r'<a class="flex-grow-1" role="navigation"[^>]*>\s*</a>',
+    r'<a class="flex-grow-1"(?:\s+role="navigation")?[^>]*>\s*</a>',
     flags=re.IGNORECASE,
 )
 MAIN_RE = re.compile(
