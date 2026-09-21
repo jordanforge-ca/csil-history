@@ -9,24 +9,24 @@ toc: false
 
 ## Documented role
 
-On [24 February 1984](../sources/1984-hansard-mowat-creekview.qmd), Hansard records Mr. Mowat, speaking as an MLA in budget debate, describing six high-lesion respiratory quadriplegics about to leave Pearson Hospital for the Creekview Co-op on False Creek, with support services “plugged in,” and giving pre-opening per-diem estimates. That sitting does not say he designed Creekview, and it does not name CSIL or ECPM.
+On [24 February 1984](../sources/1984-hansard-mowat-creekview.qmd), Hansard records Mr. Mowat, speaking as a Member of the Legislative Assembly (MLA) in budget debate, describing six high-lesion respiratory quadriplegics about to leave Pearson Hospital for the Creekview Co-op on False Creek, with support services “plugged in,” and giving per-diem estimates before opening. That sitting does not say he designed Creekview, and it does not name CSIL or ECPM.
 
 This archive does **not** infer CSIL or ECPM design-group membership from that speech or from later organizational histories.
 
-## Attributed recollection / later organizational wording
+## Later accounts
 
-The [SCI BC history page](../sources/sci-bc-history.qmd) states that in 1960 “Doug Mowat accepts the role of Executive Director” of BCPA, that the organization “flourished under his innovative, strong leadership extending over three decades,” and that he chaired the provincial International Year of the Disabled effort in 1981. [SCI Canada’s timeline](../sources/sci-can-timeline-mowat.qmd) attributes an Order of Canada (1982 entry), thirty years as CPA BC executive director, and service as MLA from 1983 to 1991. Those are later organizational attributions, not contemporaneous appointment records.
+The [SCI BC history page](../sources/sci-bc-history.qmd) states that in 1960 “Doug Mowat accepts the role of Executive Director” of the British Columbia Paraplegic Association (BCPA), that the organization “flourished under his innovative, strong leadership extending over three decades,” and that he chaired the provincial International Year of the Disabled effort in 1981. [SCI Canada’s timeline](../sources/sci-can-timeline-mowat.qmd) attributes an Order of Canada (1982 entry), thirty years as CPA BC executive director, and service as MLA from 1983 to 1991. Those are later organizational attributions, not appointment records from the time.
 
 [Fayerman 2018](../sources/2018-vancouversun-walt-lawrence.qmd) reports Walt Lawrence giving Mowat, “then MLA,” credit in connection with a CPA cost analysis and the Creekview move. [SCI BC, “Walt’s Time” (2019)](../sources/2019-sci-bc-walts-time.qmd) calls the housing cooperative “championed by SCI BC’s Doug Mowat.” Those are later wordings. See the [Creekview chapter](../history/creekview.qmd).
 
 ## Unresolved
 
-These questions are for a later participant-verification protocol ([Issue #7](https://github.com/jordanforge-ca/csil-history/issues/7)). This page does not invite unsolicited contact. Mowat is deceased; the questions are for surviving colleagues or for documentary checks.
+These questions remain open. This page does not invite unsolicited contact. Mowat is deceased; the questions are for surviving colleagues or for documentary checks.
 
 1. In 1984–85, was Mowat acting as MLA, as BCPA executive director, or both, in Creekview work?
 2. Does he appear by name in the unread 1987 evaluation or in the April 1986 Paraplegic Association correspondence Nielsen mentioned?
 3. What written CPA cost analysis, if any, did he commission or receive before opening?
-4. Is there a contemporaneous document that puts him on a later ECPM or CSIL design group? (None is inferred here.)
+4. Is there a document from the time that puts him on a later ECPM or CSIL design group? (None is inferred here.)
 
 ## Sources mentioning this person
 

@@ -5,34 +5,34 @@ subtitle: "Purpose, editorial rules, and how to add evidence"
 
 ## What this site is
 
-The CSIL History Archive is a public Quarto website and GitHub repository for a source-driven history of Choice in Supports for Independent Living (CSIL) in British Columbia. It privileges an annotated bibliography and source-location records over a closed narrative. Core history chapters are cited reconstructions; missing documents and conflicting dates stay visible.
+The CSIL History Archive is a public website for a source-based history of Choice in Supports for Independent Living (CSIL) in British Columbia. It privileges an annotated bibliography and source-location records over a closed story. Core history chapters reconstruct what public sources support; missing documents and conflicting dates stay visible.
 
-The site is intentionally small and durable: Markdown files, structured front matter, a BibTeX file, and static HTML. There is no database, CMS, or application backend.
+The site is intentionally small and durable: Markdown files, structured front matter, a bibliography file, and static HTML. There is no database or application backend.
 
 ## What this site is not
 
-- A complete history of CSIL or independent living in British Columbia (core chapters are cited reconstructions; many documents remain wanted)
+- A complete history of CSIL or independent living in British Columbia (core chapters are reconstructions from cited sources; many documents remain wanted)
 - A current-program handbook or benefits explainer
 - An advocacy or campaign landing page
 - A place to store private employer, health, or correspondence files
 
-## Working historical frame
+## How to read the history
 
-The commissioning brief for this archive suggested a lineage and a set of working dates so the information architecture would have somewhere to hang later evidence. The [Creekview chapter](history/creekview.qmd) is a cited reconstruction from inspected 1984–89 sources and is also this archive’s origins/context page (the [Origins](history/origins.qmd) page records that fold). It still does not treat Creekview as a proven predecessor of ECPM or CSIL. ECPM, CSIL design/pilot, and later evolution now have cited chapters; the overall Creekview → ECPM → CSIL lineage stays a **research proposition** on [History](history/index.qmd) and the [Timeline](timeline.qmd).
+When this archive was first planned, a possible order of events and a set of working dates were suggested so later evidence would have a place to land. The [Creekview chapter](history/creekview.qmd) reconstructs the mid-1980s project from 1984–89 sources we have read, and it also holds the earlier housing-and-support context (the [Origins](history/origins.qmd) page explains that choice). It still does not treat Creekview as a proven predecessor of ECPM or CSIL. ECPM, CSIL design/pilot, and later evolution now have cited chapters; the overall Creekview → ECPM → CSIL sequence stays a **possible reading order, not a proven official sequence**, on [History](history/index.qmd) and the [Timeline](timeline.qmd).
 
 ## Editorial principles
 
 The full contributor guide is [CONTRIBUTING.md](https://github.com/jordanforge-ca/csil-history/blob/main/CONTRIBUTING.md). In short:
 
 1. Evidence before narrative.
-2. Prefer primary and near-primary sources.
+2. Prefer sources from the time, or close to the events.
 3. Separate fact, attribution, and interpretation.
-4. Preserve disagreement (including 1993 versus 1994 as a CSIL “established” year, and later official 1994-pilot / 1995-province-wide wording versus contemporaneous late-1995 “new/pilot” language).
+4. Preserve disagreement (including 1993 versus 1994 as a CSIL “established” year, and later official 1994-pilot / 1995-province-wide wording versus 1995 newspaper “new/pilot” language).
 5. Keep advocacy out of the historical record.
 6. Design for accessibility first.
 7. Respect living participants; publish personal material only with permission.
 
-A short [state of the evidence](history/index.qmd#state-of-the-evidence) summary — well established, later reconstruction, and unresolved — is on the History index.
+A short [summary of what the evidence does and does not show](history/index.qmd#state-of-the-evidence) is on the History page.
 
 ## How to contribute {#how-to-contribute}
 
@@ -61,12 +61,12 @@ Please do not contact living participants unless a separately agreed research pr
 | [Evidence and verification statuses](docs/evidence-status.qmd) | How uncertainty is labelled |
 | [Copyright and source-file policy](docs/copyright-policy.qmd) | What may be hosted in `documents/` |
 | [Accessibility](docs/accessibility.qmd) | Requirements, CI checks, and known limits |
-| [Local build instructions](docs/local-build.qmd) | Quarto preview, render, and CI |
+| [Local build instructions](docs/local-build.qmd) | How to preview and build the site locally |
 
 ## License
 
 Original writing and configuration in this repository are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Historical source documents, including any future files in `documents/`, **do not inherit** that license.
 
-## Commissioning note
+## Project note
 
-This public repository was bootstrapped from [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). Use that issue as product context only. Do not copy private infrastructure or private CSIL records into this archive.
+This public repository was started from [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). Use that issue as product context only. Do not copy private infrastructure or private CSIL records into this archive.

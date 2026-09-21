@@ -25,12 +25,12 @@ Each source has its own page with structured front matter. The schema is documen
 This catalogue now includes:
 
 - one clearly labelled **[example / template record](example-template-source-record.qmd)** (not a completed research item)
-- four remaining **[wanted sources](../research/wanted-sources.qmd)** named in the commissioning issue (Creekview evaluation, *Keys on Freedom*, ECPM manual(s), ministry CSIL pilot/design records)
-- the November 2008 **[CSIL Program Review Synthesis Report](2008-program-review-synthesis.qmd)**, inspected as an Internet Archive Microlog fiche (no longer copy-sought)
-- inspected contemporaneous records (Hansard 1984 and 1986; Haw 1989; HEU *Guardian* Nov/Dec 1995 CSIL passage)
-- inspected bibliographic records (Mattinson & Rompf 1987 PubMed abstract; Roeher / Salisbury bibliography)
+- four remaining **[wanted sources](../research/wanted-sources.qmd)** named when this archive was first planned (Creekview evaluation, *Keys on Freedom*, ECPM manual(s), ministry CSIL pilot/design records)
+- the November 2008 **[CSIL Program Review Synthesis Report](2008-program-review-synthesis.qmd)**, read as an Internet Archive Microlog fiche (no longer copy-sought)
+- records from the time that we have read (Hansard 1984 and 1986; Haw 1989; HEU *Guardian* Nov/Dec 1995 CSIL passage)
+- bibliographic records we have read (Mattinson & Rompf 1987 PubMed abstract; Roeher / Salisbury bibliography)
 - later official and organizational records (Ombudsperson *Best of Care* 2012; IFRC and SCI BC pages; current ministry and VCH CSIL pages; Order of Canada citation)
 
-Narrative chapters that use these records: [Creekview](../history/creekview.qmd), [ECPM](../history/ecpm.qmd), [CSIL design and pilot](../history/csil-pilot.qmd), and [later evolution](../history/evolution.qmd). A [state of the evidence](../history/index.qmd#state-of-the-evidence) summary lives on the History index.
+Narrative chapters that use these records: [Creekview](../history/creekview.qmd), [ECPM](../history/ecpm.qmd), [CSIL design and pilot](../history/csil-pilot.qmd), and [later evolution](../history/evolution.qmd). A [summary of what the evidence does and does not show](../history/index.qmd#state-of-the-evidence) lives on the History page.
 
-Do not treat a catalogue row as proof that this archive has inspected the original 1980s–90s manuals or ministry files. Check `verification_status` and `availability`. Check the annotation before treating a later webpage as confirmation of a 1980s–90s fact.
+Do not treat a catalogue row as proof that this archive has read the original 1980s–90s manuals or ministry files. Check the verification and availability labels. Check the annotation before treating a later webpage as confirmation of a 1980s–90s fact.

@@ -108,7 +108,7 @@ Do not add a JavaScript timeline library.
 Create a cited role record first. Use the four person sections:
 
 1. Documented role
-2. Attributed recollection / later organizational wording
+2. Later accounts
 3. Unresolved
 4. Sources mentioning the person
 
