@@ -44,11 +44,11 @@ website:
       style: docked
       contents:
         - history/index.qmd
-        - history/origins.qmd
         - history/creekview.qmd
         - history/ecpm.qmd
         - history/csil-pilot.qmd
         - history/evolution.qmd
+        - history/origins.qmd
     - id: research
       title: Research
       style: docked

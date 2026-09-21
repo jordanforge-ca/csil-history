@@ -3,22 +3,25 @@ title: "Creekview"
 subtitle: "A mid-1980s co-op where men with high-level quadriplegia moved out of hospital"
 ---
 
-::: {.callout-note}
-## What this page covers
 Creekview was a Vancouver housing project in the mid-1980s. A small group of men with high-level quadriplegia moved from hospital into a co-op apartment. Most of them used ventilators.
 
-This page does **not** start the Enhanced Consumer Participation Model (ECPM) or the 1990s CSIL story. A 1987 evaluation is known to have existed. The report itself is still [wanted](../sources/wanted-creekview-202-evaluation.qmd).
-:::
+Creekview did not create CSIL. It showed that people with very high support needs could live outside an institution and take a greater role in directing their support.
 
-## How we use evidence
+## What housing and support looked like before Creekview
 
-Records from the 1980s are preferred when later stories disagree. Later memories are labelled as later accounts. Cost figures from different years are not mixed into one “savings” number. Full quotations live on the [source pages](../sources/index.qmd).
+[Haw 1989](../sources/1989-haw-special-housing-needs.qmd) is a later Canadian Paraplegic Association (CPA) overview. It is not a 1970s file from the time.
+
+Haw described few options before 1973 besides modified homes or extended care. He then listed the 1972 Lions / CPA Paraplegic Lodge, a 1974 government-funded group home, 1978 Long Term Care hours, and 1979 Kelly Court. He said those hours were still not enough for people paralyzed from the neck down. He presented Creekview as an attempt to expand options for ventilator-dependent quadriplegics.
+
+In [February 1984](../sources/1984-hansard-mowat-creekview.qmd), Doug Mowat told the legislature that Pearson Hospital was an extended-care setting for physically disabled people. He gave their average age as 42. He named “a new type of disabled person called a high-lesion respiratory quadriplegic.”
+
+[SCI BC history](../sources/sci-bc-history.qmd) separately records earlier British Columbia Paraplegic Association (BCPA) work, including the 1972 lodge and Doug Mowat as executive director from 1960. That page is later organizational narrative.
 
 ## What Creekview was
 
 Creekview was a community residence near False Creek / Granville Island in Vancouver. It housed a small group of men with high-level, mostly ventilator-dependent quadriplegia.
 
-In [February 1984](../sources/1984-hansard-mowat-creekview.qmd), Doug Mowat told the legislature that six “high-lesion respiratory quadriplegic” residents would soon leave Pearson Hospital for “the Creekview Co-op on False Creek.” He described a six-bedroom co-op apartment “with all the support services plugged in.”
+Mowat told the legislature that six “high-lesion respiratory quadriplegic” residents would soon leave Pearson Hospital for “the Creekview Co-op on False Creek.” He described a six-bedroom co-op apartment “with all the support services plugged in.”
 
 In [April 1986](../sources/1986-hansard-nielsen-creekview.qmd), Health Minister Jim Nielsen said six “young men,” “most of them depending on respiratory machines,” were living there in “an independent group setting.”
 
@@ -26,7 +29,7 @@ In [April 1986](../sources/1986-hansard-nielsen-creekview.qmd), Health Minister 
 
 No source we have read explains what “202” means. [SCI BC’s later history](../sources/sci-bc-history.qmd) calls Creekview “the world’s first” project of this kind. That claim is SCI BC’s later wording. It has not been independently verified.
 
-[SCI BC (2019)](../sources/2019-sci-bc-walts-time.qmd) uses the spelling **Creekside**. Hansard, Haw, and [Fayerman 2018](../sources/2018-vancouversun-walt-lawrence.qmd) say **Creekview**. This archive does not treat “Creekside” as a second project.
+[SCI BC (2019)](../sources/2019-sci-bc-walts-time.qmd) uses the spelling **Creekside**. Hansard, Haw, and [Fayerman 2018](../sources/2018-vancouversun-walt-lawrence.qmd) say **Creekview**. The evidence does not show that those names refer to two different projects.
 
 ## When it was planned and opened
 
@@ -34,7 +37,7 @@ By 24 February 1984 the move was already planned ([Hansard](../sources/1984-hans
 
 No 1985 opening document has been seen. Why Mowat’s “soon” became a 1985 opening is still unexplained.
 
-Fayerman later reports an “early 1980s” Canadian Paraplegic Association (CPA) cost analysis. That is a later recollection, not a 1980s file we have read.
+Fayerman later reports an “early 1980s” CPA cost analysis. That is a later recollection, not a 1980s file we have read.
 
 ## Who started it and who lived there
 
@@ -48,23 +51,13 @@ Later accounts add names. [Fayerman 2018](../sources/2018-vancouversun-walt-lawr
 
 Text from the time supports a resident-and-CPA project that needed government agreement. The “championed” wording is later recollection. Formal CSIL design-group membership is **not** documented for Lawrence or Mowat.
 
-## What housing and support looked like before Creekview
-
-[Haw 1989](../sources/1989-haw-special-housing-needs.qmd) is a later CPA overview. It is not a 1970s file from the time.
-
-Haw described few options before 1973 besides modified homes or extended care. He then listed the 1972 Lions / CPA Paraplegic Lodge, a 1974 government-funded group home, 1978 Long Term Care hours, and 1979 Kelly Court. He said those hours were still not enough for people paralyzed from the neck down. He presented Creekview as an attempt to expand options for ventilator-dependent quadriplegics.
-
-Mowat’s 1984 speech described Pearson Hospital as an extended-care setting for physically disabled people. He gave their average age as 42. He named “a new type of disabled person called a high-lesion respiratory quadriplegic.”
-
-[SCI BC history](../sources/sci-bc-history.qmd) separately records earlier British Columbia Paraplegic Association (BCPA) work, including the 1972 lodge and Doug Mowat as executive director from 1960. That page is later organizational narrative.
-
 ## Relationship to Pearson Hospital
 
 Creekview residents came from Pearson. Pearson did not simply disappear from their support.
 
 Mowat said six people “will soon be leaving Pearson Hospital.” Haw later called them former Pearson residents. The [1987 abstract](../sources/1987-mattinson-rompf-creekview.qmd) says Pearson “continues to play a role.” Haw said Pearson staff trained attendants.
 
-Fayerman later reports a Pearson respiratory therapist at first, and that Lawrence had spent 16 years at George Pearson Hospital. Those are 2018 accounts. Sources use **Pearson Hospital** and, later, **George Pearson Hospital**. This archive does not treat those as different institutions.
+Fayerman later reports a Pearson respiratory therapist at first, and that Lawrence had spent 16 years at George Pearson Hospital. Those are 2018 accounts. Sources use **Pearson Hospital** and, later, **George Pearson Hospital**. The evidence does not show that those names refer to different institutions.
 
 ## How support and funding worked
 
@@ -90,13 +83,15 @@ Other cost figures are **not** the same claim. Mowat’s 1984 estimate was about
 
 Nielsen’s 1986 phrase “complete success” was the minister’s characterization. It was not an evaluation finding.
 
-## Did Creekview lead to ECPM or CSIL?
+Records from the 1980s are preferred when later stories disagree. Later memories are labelled as later accounts. Cost figures from different years are not mixed into one “savings” number. Full quotations live on the [source pages](../sources/index.qmd).
+
+## Why Creekview matters — and what came next
 
 No source we have read says Creekview became ECPM or “led to CSIL.” None says Creekview residents sat on a CSIL design group.
 
 [Gauthier 2014](../sources/2014-gauthier-sci-csil-presentation.qmd) lists pre-CSIL arrangements. It names “The Agency,” ECPM, and “People paid themselves.” It does not name Creekview.
 
-Creekview showed that community living and some self-direction were possible for people with very high physical support needs. Whether that directly influenced ECPM or CSIL remains an **open question**.
+Creekview showed that community living and some self-direction were possible for people with very high physical support needs. Whether that directly influenced ECPM or CSIL remains an **open question**. The next chapter turns to ECPM: later sources describe a move from shared support in a housing project toward funding and employer responsibilities that followed the individual. The evidence does not show that Creekview formally became ECPM.
 
 ## What we still do not know
 
@@ -108,12 +103,13 @@ Creekview showed that community living and some self-direction were possible for
 - Any document from the time that connects Creekview to ECPM or 1990s CSIL design.
 - Whether residents saw Creekview as a finished arrangement or a step toward more individualized funding.
 
-This page does not invite unsolicited contact with living participants.
+Please do not contact living participants unsolicited.
 
 ## See also
 
 - [History overview](index.qmd)
 - [Origins (why this context lives here)](origins.qmd)
+- [Enhanced Consumer Participation Model (ECPM)](ecpm.qmd)
 - [Timeline](../timeline.qmd)
 - [Walt Lawrence](../people/walt-lawrence.qmd)
 - [Doug Mowat](../people/doug-mowat.qmd)

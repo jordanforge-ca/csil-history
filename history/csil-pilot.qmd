@@ -3,24 +3,13 @@ title: "CSIL design and pilot"
 subtitle: "What public sources say about CSIL’s early years — without picking one start year"
 ---
 
-::: {.callout-note}
-## What this page covers
-The exact start date of CSIL is not completely clear. Later official records describe a pilot in 1994 and province-wide availability in 1995. Another later source uses 1993. A 1995 newspaper still described CSIL as a new pilot program.
+By the mid-1990s, British Columbia had a Ministry of Health program publicly named Choice in Supports for Independent Living. A [1995 union newspaper](../sources/1995-heu-guardian-novdec.qmd) described it as a way for non-profit societies to receive direct funding and hire caregivers, instead of receiving care only through an agency. Later official wording describes the same named program as a 1994 pilot that then became available more widely.
 
-Original 1993–95 Ministry of Health records remain [wanted](../sources/wanted-ministry-csil-pilot-records.qmd). This chapter does **not** choose a single founding year.
-:::
+What remains unsettled is **when** CSIL began, and what each year authorized. Later official records describe a pilot in **1994** and province-wide availability in **1995**. Another later source uses **1993**. The 1995 newspaper still described CSIL as a new pilot program. Original 1993–95 Ministry of Health records remain [wanted](../sources/wanted-ministry-csil-pilot-records.qmd). Later sources disagree; the available records do not settle a single founding year.
 
-## How we use evidence
+Later accounts treat ECPM as a step before CSIL. No 1990s document we have read says ECPM formally became CSIL.
 
 A 1995 newspaper is not the same kind of source as a 2012 official report or a later training deck. Different verbs — established, pilot, introduced, province-wide, new — are kept as the sources wrote them. Later “established” wording is not treated as a 1990s authorization.
-
-## Why the start year is still unsettled
-
-Later official wording gives **1994** and **1995** different meanings: pilot or introduced, then province-wide. A late-1995 source from the time still calls CSIL **new/pilot**. It does not confirm that a province-wide rollout was finished.
-
-**1993** appears only as a later “established” label. It conflicts with the same speaker’s later “1994.” The 2008 program review dates CSIL only to “the 1990's.”
-
-This is not a settled three-stage founding story. It is the strongest pattern the public sources now support.
 
 ## What a 1995 newspaper said
 
@@ -44,13 +33,15 @@ The 1995 “new/pilot” wording and the 2012 “province-wide in 1995” wordin
 
 [Gauthier 2014](../sources/2014-gauthier-sci-csil-presentation.qmd) says CSIL was “established” in **1993**. The same deck says “The Pilot — 50 people tried it out.” [Gauthier 2015](../sources/2015-gauthier-csil-module-1.qmd) uses almost the same sentence with **1994**. [IFRC Our Team](../sources/ifrc-our-team.qmd) says Gauthier “started on the CSIL program in **1994**.”
 
-Those are later recollections. **1993** is not in the 1995 HEU piece or the 2012 official chronology. This archive does **not** treat 1993 as a verified separate stage.
+Those are later recollections. **1993** is not in the 1995 HEU piece or the 2012 official chronology. The evidence does **not** show 1993 as a verified separate stage.
 
 **1994** is used both as later official “pilot / introduced” and as later recollection “established” / “started.” Those verbs are not synonyms here.
 
 The [2008 CSIL Program Review](../sources/2008-program-review-synthesis.qmd) dates CSIL to “the 1990's.” It must not be used to pick a start year.
 
 A digest of *Hutchinson* ([2005 CanLIIDocs 513](../sources/2005-human-rights-digest-hutchinson.qmd)) says a client was accepted on CSIL in **1998**. That shows CSIL existed by 1998. It is not a founding date.
+
+Later official wording gives **1994** and **1995** different meanings: pilot or introduced, then province-wide. A late-1995 source from the time still calls CSIL **new/pilot**. It does not confirm that a province-wide rollout was finished. That is not a settled three-stage founding story. It is the strongest pattern the public sources now support.
 
 ## What is still missing
 
@@ -74,6 +65,12 @@ No 1993–95 source in this catalogue names Creekview residents, [Walt Lawrence]
 
 Later accounts name ECPM as a pre-CSIL step. See the [ECPM chapter](ecpm.qmd). No document from the time that we have read proves official succession.
 
+## Why the early years matter — and what came next
+
+By late 1995, CSIL existed as a named ministry program that let some people manage funding and hire caregivers. Later official history then describes a wider, province-wide program. Those two pictures both remain in view. The next chapter follows what later sources say happened after those early years: a larger caseload, program reviews, rate-setting, and ways for people to take part even when they cannot always direct every part of care themselves.
+
+Picking a start year does not settle the remaining questions.
+
 ## What we still do not know
 
 - What each of 1993, 1994, and 1995 authorized, if they authorized different things.
@@ -81,8 +78,6 @@ Later accounts name ECPM as a pre-CSIL step. See the [ECPM chapter](ecpm.qmd). N
 - Whether 1993–95 Hansard names CSIL.
 - Whether a 50-person pilot is documented outside later Gauthier slides.
 - Who sat on any design or advisory group, and in which year.
-
-Those questions are not resolved by picking a start year.
 
 ## See also
 
