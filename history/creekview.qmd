@@ -108,7 +108,7 @@ Please do not contact living participants unsolicited.
 ## See also
 
 - [History overview](index.qmd)
-- [Origins (why this context lives here)](origins.qmd)
+- [Earlier housing-and-support context](origins.qmd)
 - [Enhanced Consumer Participation Model (ECPM)](ecpm.qmd)
 - [Timeline](../timeline.qmd)
 - [Walt Lawrence](../people/walt-lawrence.qmd)

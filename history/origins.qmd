@@ -1,6 +1,8 @@
 ---
-title: "Origins"
-subtitle: "Earlier housing and support context lives on the Creekview page"
+title: "Earlier housing-and-support context"
+subtitle: "A background note — this material is written on the Creekview page"
+sidebar: false
+page-navigation: false
 ---
 
 The earlier housing-and-support story is already on the [Creekview](creekview.qmd) page. That is where the public sources sit.

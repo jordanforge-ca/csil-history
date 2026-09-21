@@ -48,7 +48,6 @@ website:
         - history/ecpm.qmd
         - history/csil-pilot.qmd
         - history/evolution.qmd
-        - history/origins.qmd
     - id: research
       title: Research
       style: docked

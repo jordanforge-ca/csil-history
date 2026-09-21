@@ -56,4 +56,5 @@ The [timeline](../timeline.qmd) lists the same dates in order. The [sources](../
 - [Enhanced Consumer Participation Model (ECPM)](ecpm.qmd)
 - [CSIL design and pilot](csil-pilot.qmd)
 - [Later evolution](evolution.qmd)
-- [Origins](origins.qmd) (why the earlier housing-and-support context lives on the Creekview page)
+
+Background note: [earlier housing-and-support context](origins.qmd)
