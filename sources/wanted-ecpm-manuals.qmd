@@ -32,8 +32,8 @@ rights_note: "Copy not held. Do not upload a scan unless redistribution is clear
 ---
 
 ::: {.callout-note}
-## 1990 manual bibliographically confirmed — copy sought; 1994 revision still unfound
-A 1990 ECPM skill-development manual with five modules is independently cited in a public 1990s bibliography inspected for this catalogue. No copy of that manual was recovered. A possible 1994 training revision, named in [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10) and in the later research brief as associated with Emma Van der Klift, was **not** found. Van der Klift’s inspected 1994 publication is a different work ([Hell-Bent on Helping](1994-van-der-klift-hell-bent.qmd)).
+## 1990 manual bibliographically confirmed — copy sought; 1994 identity remains INSUFFICIENT EVIDENCE
+A 1990 ECPM skill-development manual with five modules is independently cited in a public 1990s bibliography inspected for this catalogue. No copy of that manual was recovered. A possible 1994 training revision, named in [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10) and in the later research brief as associated with Emma Van der Klift, was **not** found. Van der Klift’s inspected 1994 publication is a different work ([Hell-Bent on Helping](1994-van-der-klift-hell-bent.qmd)). Experiment 001’s bounded search classified the 1990-versus-1994 identity question as **INSUFFICIENT EVIDENCE** — not a contradiction between two inspected bibliographic records.
 :::
 
 ## Identification
@@ -60,7 +60,7 @@ Not inspected: the 1990 manual; any 1994 revision; a library catalogue holding r
 
 ## Annotation
 
-Public bibliographic evidence supports treating a 1990 *Skill Development Manual* (five modules; 52 pages plus appendices; BC Rehab & GVHSS) as a real, cited publication. The archive has not seen the text. Later IFRC pages treat ECPM as a named precursor project; that is later institutional history, not a formal predecessor declaration in a 1990s instrument. The 1990 versus 1994 date question remains open. ECPM as a formal predecessor to CSIL remains an **interpretation** until a contemporaneous instrument says so.
+Public bibliographic evidence supports treating a 1990 *Skill Development Manual* (five modules; 52 pages plus appendices; BC Rehab & GVHSS) as a real, cited publication. The archive has not seen the text. Later IFRC pages treat ECPM as a named precursor project; that is later institutional history, not a formal predecessor declaration in a 1990s instrument. The 1990 versus 1994 date question remains **INSUFFICIENT EVIDENCE** (Experiment 001 conclusion used as research input). ECPM as a formal predecessor to CSIL remains an **interpretation** until a contemporaneous instrument says so. See the [ECPM chapter](../history/ecpm.qmd).
 
 ## Open questions
 
