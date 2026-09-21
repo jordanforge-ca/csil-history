@@ -40,7 +40,7 @@ More detail: [docs/local-build.qmd](docs/local-build.qmd).
 | Path | Role |
 | --- | --- |
 | `index.qmd` | Home: purpose, scope, how to help |
-| `history/` | Placeholder lineage pages (not finished narrative) |
+| `history/` | Cited chapters for Creekview, ECPM, CSIL design/pilot, and later evolution; origins/context is folded into Creekview |
 | `timeline.qmd` + `data/timeline.yml` | Working timeline driven from structured data |
 | `sources/` | Annotated source records, including one labelled example |
 | `people/` | Name stubs only until cited evidence exists |

@@ -18,7 +18,7 @@ The site is intentionally small and durable: Markdown files, structured front ma
 
 ## Working historical frame
 
-The commissioning brief for this archive suggested a lineage and a set of working dates so the information architecture would have somewhere to hang later evidence. The [Creekview chapter](history/creekview.qmd) is now a cited reconstruction from inspected 1984–89 sources; it still does not treat Creekview as a proven predecessor of ECPM or CSIL. Remaining dates and the overall lineage stay **research propositions** on [History](history/index.qmd) and the [Timeline](timeline.qmd).
+The commissioning brief for this archive suggested a lineage and a set of working dates so the information architecture would have somewhere to hang later evidence. The [Creekview chapter](history/creekview.qmd) is a cited reconstruction from inspected 1984–89 sources and is also this archive’s origins/context page (the [Origins](history/origins.qmd) page records that fold). It still does not treat Creekview as a proven predecessor of ECPM or CSIL. ECPM, CSIL design/pilot, and later evolution now have cited chapters; the overall Creekview → ECPM → CSIL lineage stays a **research proposition** on [History](history/index.qmd) and the [Timeline](timeline.qmd).
 
 ## Editorial principles
 

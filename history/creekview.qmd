@@ -5,7 +5,7 @@ subtitle: "A cited reconstruction from inspected 1984–89 evidence, plus later 
 
 ::: {.callout-note}
 ## Scope of this chapter
-This page reconstructs Creekview from inspected catalogue records. It covers institutional and community-living context into the mid-1980s, the Creekview move, and 1987–89 evaluation evidence. It does **not** begin the Enhanced Consumer Participation Model (ECPM) or 1993–95 CSIL narrative. A 1987 evaluation is attested; the report itself is still [wanted](../sources/wanted-creekview-202-evaluation.qmd).
+This page reconstructs Creekview from inspected catalogue records. It covers institutional and community-living context into the mid-1980s, the Creekview move, and 1987–89 evaluation evidence. That pre-Creekview sequence is also this archive’s **origins/context** chapter: the separate [Origins](origins.qmd) page records that fold and does not rewrite the history. This page does **not** begin the Enhanced Consumer Participation Model (ECPM) or 1993–95 CSIL narrative. A 1987 evaluation is attested; the report itself is still [wanted](../sources/wanted-creekview-202-evaluation.qmd).
 :::
 
 ## How this chapter uses evidence
@@ -204,6 +204,7 @@ These questions are for a later verification protocol ([Issue #7](https://github
 ## See also
 
 - [History overview](index.qmd)
+- [Origins (folded here)](origins.qmd)
 - [Timeline](../timeline.qmd)
 - [Walt Lawrence](../people/walt-lawrence.qmd)
 - [Doug Mowat](../people/doug-mowat.qmd)

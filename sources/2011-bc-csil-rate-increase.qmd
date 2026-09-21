@@ -54,4 +54,4 @@ The release does not state a 1993 or 1994 founding year. It is catalogued as lat
 ## Associated claims
 
 - [HCC Policy Manual, Policy 4.C](hcc-policy-manual-4c.qmd)
-- [Later evolution placeholder](../history/evolution.qmd)
+- [Later evolution chapter](../history/evolution.qmd)
