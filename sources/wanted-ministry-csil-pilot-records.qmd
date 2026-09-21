@@ -32,6 +32,8 @@ rights_note: "Government records. Copy not held. Crown copyright or access rules
 ::: {.callout-note}
 ## Known to exist as a class — copies sought; dates conflict
 No original 1993–95 Ministry of Health design file, Treasury Board submission, or pilot instrument was recovered. Later public sources **disagree** on 1993 versus 1994 as an “established” year, and a 2012 official report gives **pilot 1994 / province-wide 1995**. Continuing Care Division / Community Support Branch as the 1995 administrative home is now attested in the inspected [HEU *Guardian* Nov/Dec 1995](1995-heu-guardian-novdec.qmd) feature (union newspaper, not a ministry file). Original 1993–95 design instruments remain unfound.
+
+Bounded Experiment 002 ([research memo](../research/experiments/002-csil-founding-chronology.md)) classifies the public chronology as **PARTIAL STAGED CHRONOLOGY**: later official wording assigns different meanings to 1994 (pilot) and 1995 (province-wide), while 1993 remains a conflicting later “established” label; contemporaneous late-1995 HEU wording still says new/pilot and does not independently confirm province-wide completion.
 :::
 
 ## Identification
@@ -70,11 +72,12 @@ Public sources now document, in print, three different start-stories: establishe
 - Which files exist and are public.
 - What each dated item authorises.
 - Whether “50 people tried it out” (Gauthier 2014) is contemporaneous or later recollection.
-- Whether Hansard for 1993–95 names CSIL (not retrieved in this pass).
+- Whether Hansard for 1993–95 names CSIL (not retrieved in Experiment 002).
 - What ministry instrument created Community Support Branch CSIL, and whether Sally Hamilton’s role is documented elsewhere.
 
 ## See also
 
+- [Experiment 002 chronology memo](../research/experiments/002-csil-founding-chronology.md)
 - [Ombudsperson 2012](2012-ombudsperson-best-of-care.qmd)
 - [HEU Guardian Nov/Dec 1995](1995-heu-guardian-novdec.qmd)
 - [Gauthier 2014 (1993)](2014-gauthier-sci-csil-presentation.qmd)
