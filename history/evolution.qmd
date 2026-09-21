@@ -1,62 +1,64 @@
 ---
 title: "Later evolution"
-subtitle: "From early public program to later review and supported participation — a cited sketch, not a policy handbook"
+subtitle: "How CSIL is described after the early years — including support for people who do not always direct care alone"
 ---
 
 ::: {.callout-note}
-## Scope of this chapter
-This page explains, from inspected public sources, how CSIL is described after the design/pilot period: movement toward wider availability, later review and rate-setting, and documented mechanisms (client support group; CSIL representative) that let people participate when they do not always direct care alone. It is **not** current eligibility advice and does not recommend policy.
+## What this page covers
+After CSIL appeared as a named program, later sources describe it spreading, being reviewed, and including ways for people to take part even when they cannot always direct every part of care themselves.
+
+This page is **not** current eligibility advice and does not recommend policy.
 :::
 
-## How this chapter uses evidence
+## How to read this page
 
-- **Documented (contemporaneous)** — 1995 HEU wording already used on the [design/pilot chapter](csil-pilot.qmd)
-- **Later official reconstruction** — Ombudsperson 2012; 2008 synthesis; 2011 news release
-- **Current administrative description** — HCC Policy 4.C and the provincial program page (present rules, not 1990s instruments)
+- **Documented from the time** — 1995 HEU wording already used on the [design and pilot chapter](csil-pilot.qmd)
+- **Later official account** — Ombudsperson 2012; 2008 synthesis; 2011 news release
+- **Current program description** — Home and Community Care (HCC) Policy 4.C and the provincial program page (present rules, not 1990s documents)
 - **Open question** — gaps between those layers
 
 Do not read current policy back as proof of 1994–95 design.
 
-## From pilot / new program toward wider availability
+## From a new or pilot program toward wider availability
 
-The [design/pilot chapter](csil-pilot.qmd) keeps two 1995 pictures visible:
+The [design and pilot chapter](csil-pilot.qmd) keeps two 1995 pictures visible:
 
 - [Ombudsperson 2012](../sources/2012-ombudsperson-best-of-care.qmd) later official wording: created as a pilot in 1994 and **implemented province-wide in 1995**, with regional health boards required to fund self-managed home support.
-- [HEU *Guardian* Nov/Dec 1995](../sources/1995-heu-guardian-novdec.qmd) contemporaneous wording: still a **new/pilot** Community Support Branch program, with about 130 CSIL clients among about 65,000 continuing-care clients.
+- [HEU *Guardian* Nov/Dec 1995](../sources/1995-heu-guardian-novdec.qmd) wording from the time: still a **new/pilot** Community Support Branch program, with about 130 CSIL clients among about 65,000 continuing-care clients.
 
-**Interpretation, and no further:** public sources agree that CSIL existed as a named ministry program by late 1995 and that later official history treats 1995 as the year of province-wide availability. They do not agree, in contemporaneous wording, that the rollout was complete by the November/December 1995 HEU snapshot. This page does not pick a completion month.
+**Interpretation, and no further:** public sources agree that CSIL existed as a named ministry program by late 1995 and that later official history treats 1995 as the year of province-wide availability. They do not agree, in wording from the time, that the rollout was complete by the November/December 1995 HEU snapshot. This page does not pick a completion month.
 
-A secondary digest of *Hutchinson* ([2005 CanLIIDocs 513](../sources/2005-human-rights-digest-hutchinson.qmd)) says a client was accepted on CSIL in **1998**. That is useful only as a later terminus ante quem from a digest, not as a founding or completion date.
+A secondary digest of *Hutchinson* ([2005 CanLIIDocs 513](../sources/2005-human-rights-digest-hutchinson.qmd)) says a client was accepted on CSIL in **1998**. That shows CSIL existed by 1998. It is not a founding or completion date.
 
 The [2011 ministry news release](../sources/2011-bc-csil-rate-increase.qmd) describes a provincial self-managed program with “more than 800 CSIL clients” (about two per cent of home-support clients and 20 per cent of home-care support service hours). That is later official evidence of a scaled program, not a 1990s census.
 
-## Later stabilization and review
+## Later review and rate-setting
 
 | Claim | Status | Source |
 | --- | --- | --- |
-| A November 2008 *CSIL Program Review: Synthesis Report* exists and is inspectable | Documented (inspected fiche) | [2008 synthesis](../sources/2008-program-review-synthesis.qmd) (James Murtagh Consulting for Home and Community Care Branch, Ministry of Health Services) |
+| A November 2008 *CSIL Program Review: Synthesis Report* exists and can be read | Documented (fiche we have read) | [2008 synthesis](../sources/2008-program-review-synthesis.qmd) (James Murtagh Consulting for Home and Community Care Branch, Ministry of Health Services) |
 | The synthesis dates CSIL to “the 1990's” | Documented | Same; does **not** choose 1993 versus 1994 |
 | The synthesis presents itself as combining recent review efforts, including a 2006 ministry review that produced papers but “no final report” | Documented (as the 2008 authors state it) | Same |
 | Ombudsperson 2012 says CSIL “underwent a provincial review in 2007” and cites a November 2008 Program Review | Later official / bibliographic | [Best of Care](../sources/2012-ombudsperson-best-of-care.qmd) footnote 207 |
 | The 2007 sentence and the 2008 synthesis are the same product | Open question | Not treated as proven identical |
 | Hourly CSIL rates were increased effective 1 April 2011; a CSIL funding working group with the Association of CSIL Employers had been established in December 2009 | Later official | [2011 news release](../sources/2011-bc-csil-rate-increase.qmd) |
-| Clients already on CSIL as of 31 March 2011 remained eligible after 1 April 2011 despite later criteria | Current policy text | [HCC Policy 4.C](../sources/hcc-policy-manual-4c.qmd) (effective 15 October 2012 in the inspected PDF) |
+| Clients already on CSIL as of 31 March 2011 remained eligible after 1 April 2011 despite later criteria | Current policy text | [HCC Policy 4.C](../sources/hcc-policy-manual-4c.qmd) (effective 15 October 2012 in the PDF we have read) |
 
 : Later review and rate-setting evidence, not a complete administrative history
 
 Administrative homes after the mid-1990s are only partly visible: HEU 1995 names Community Support Branch / Continuing Care Division; the 2008 synthesis is prepared for Home and Community Care Branch, Health Authorities Division, Ministry of Health Services; current pages sit with the Ministry of Health and regional health authorities. Continuity of those units is **not** reconstructed here.
 
-Current [gov.bc.ca](../sources/gov-bc-csil-program-page.qmd) and [VCH](../sources/vch-csil-service-page.qmd) pages describe CSIL as a self-directed home-support option. They do not state a founding year. They are citable as **present** program descriptions only. [SCI BC CSIL workbooks](../sources/sci-bc-csil-workbook.qmd) are current how-to materials, not 1990s design records.
+Current [gov.bc.ca](../sources/gov-bc-csil-program-page.qmd) and [Vancouver Coastal Health](../sources/vch-csil-service-page.qmd) pages describe CSIL as a self-directed home-support option. They do not state a founding year. They are citable as **present** program descriptions only. [SCI BC CSIL workbooks](../sources/sci-bc-csil-workbook.qmd) are current how-to materials, not 1990s design records.
 
 ## Client support group and supported participation
 
 Inspected sources describe more than one way to hold CSIL employer responsibility. That matters historically because CSIL’s public purpose, as later official and current policy texts state it, is not limited to people who can always direct every aspect of care alone.
 
-**Later official (2012 reconstruction of the mid-1990s policy).** Ombudsperson 2012 says the new policy required funding for people “who had the ability to direct all aspects of their care **or who had a client support group** to do so on their behalf.”
+**Later official (2012 summary of the mid-1990s policy).** Ombudsperson 2012 says the new policy required funding for people “who had the ability to direct all aspects of their care **or who had a client support group** to do so on their behalf.”
 
-**Contemporaneous 1995 wording (different vocabulary).** HEU describes non-profit societies receiving direct funding to hire caregivers. This archive does **not** treat that sentence as proof that HEU was already using the later “client support group” legal form. It is a contemporaneous description of society-based funding that later policy language may or may not continue.
+**1995 wording from the time (different vocabulary).** HEU describes non-profit societies receiving direct funding to hire caregivers. This archive does **not** treat that sentence as proof that HEU was already using the later “client support group” legal form. It is a description from the time of society-based funding that later policy language may or may not continue.
 
-**Current administrative definitions** (HCC Policy 4.C.1, effective 15 October 2012 in the inspected PDF; current policy, not a 1990s instrument):
+**Current program definitions** (HCC Policy 4.C.1, effective 15 October 2012 in the PDF we have read; current policy, not a 1990s document):
 
 - A **client support group** “is incorporated as a non-profit society under the B.C. Registrar of Companies, comprised of family and/or friends of a CSIL client, to manage the provision of home support services to the client.”
 - A **CSIL representative** “is an individual designated as a representative for a CSIL client through a valid representation agreement and is acting as the CSIL employer.”
@@ -71,17 +73,17 @@ This chapter does not explain how to form a society, draft a representation agre
 
 ## What this page does not do
 
-- Settle 1993 versus 1994 versus 1995 (see [design/pilot](csil-pilot.qmd))
+- Settle 1993 versus 1994 versus 1995 (see [design and pilot](csil-pilot.qmd))
 - Trace every eligibility or rate change through the present
-- Treat ECPM as a surviving VCH program name ([VCH page](../sources/vch-csil-service-page.qmd) does not use it)
+- Treat ECPM as a surviving Vancouver Coastal Health program name ([VCH page](../sources/vch-csil-service-page.qmd) does not use it)
 - Advocate for a current funding outcome
 
-## Unresolved questions
+## What we still do not know
 
 1. When society-based or client-support-group employer forms were first written into ministry policy, and how they relate to HEU’s 1995 wording.
 2. When the CSIL representative / *Representation Agreement Act* pathway entered CSIL rules.
 3. Whether *Best of Care*’s “provincial review in 2007” is the 2008 synthesis, the 2006 ministry process, or another product.
-4. Administrative succession from Continuing Care Division / Community Support Branch to later Home and Community Care / health-authority delivery.
+4. How administration moved from Continuing Care Division / Community Support Branch to later Home and Community Care / health-authority delivery.
 
 ## See also
 
