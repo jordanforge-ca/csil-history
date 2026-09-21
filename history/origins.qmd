@@ -1,18 +1,20 @@
 ---
 title: "Origins"
-subtitle: "Intentionally folded into the Creekview chapter"
+subtitle: "Why this context lives on the Creekview page"
 ---
 
 ::: {.callout-note}
-## Editorial choice for Gate A
-This archive does **not** maintain a separate origins narrative. The inspected pre-CSIL community-living context that can be sourced today is already written on the [Creekview chapter](creekview.qmd), mainly from [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) and the 1984–86 Hansard sittings. A free-standing “independent living in British Columbia” chapter would manufacture breadth the catalogue does not support.
+## Why there is no separate origins chapter
+This archive does **not** maintain a separate origins narrative. The pre-CSIL community-living context that can be sourced today is already written on the [Creekview](creekview.qmd) page, mainly from [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) and the 1984–86 Hansard sittings. A free-standing “independent living in British Columbia” chapter would invent breadth the sources do not support.
 :::
 
 ## Why the context lives on Creekview
 
-The commissioning brief reserved this page for disability-led independent-living and community-living advocacy before Creekview, ECPM, and CSIL. The earliest inspected public record in the catalogue is [Hansard, 24 February 1984](../sources/1984-hansard-mowat-creekview.qmd), which already describes the planned Creekview move. [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) is a CPA official’s later overview of 1970s–early-1980s housing and Long Term Care; Creekview already summarizes that sequence and labels it as later overview, not a 1970s primary file.
+The earlier housing-and-support story is already on the [Creekview](creekview.qmd) page. That is where the sources we have sit.
 
-No inspected contemporaneous public primary source from before February 1984 has been catalogued that would support an independent origins chapter without repeating Creekview or guessing a national independent-living history.
+The earliest public record we have read is [Hansard, 24 February 1984](../sources/1984-hansard-mowat-creekview.qmd). It already describes the planned Creekview move. [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) is a later overview of 1970s–early-1980s housing and Long Term Care. The Creekview chapter already summarizes that sequence. It labels Haw as a later overview, not a 1970s file from the time.
+
+No public primary source from before February 1984 has been catalogued here that would support a separate origins chapter without repeating Creekview or guessing a national independent-living history.
 
 ## What this page is not
 

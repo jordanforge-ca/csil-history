@@ -10,7 +10,7 @@ Every material claim and every source record should carry a status from this lis
 | Token | Label | Use when |
 | --- | --- | --- |
 | `verified-inspected` | Verified / source inspected | A contributor has seen the item (or a reliable complete copy) and the annotation is based on that inspection |
-| `bibliographically-confirmed` | Bibliographically confirmed | Title, creator, or date is attested (for example by the commissioning issue or a catalogue) but this archive has not inspected the full source |
+| `bibliographically-confirmed` | Bibliographically confirmed | Title, creator, or date is attested (for example by early project notes or a catalogue) but this archive has not inspected the full source |
 | `attributed-recollection` | Attributed recollection | A named person remembers or is reported to remember something; the archive is not independently asserting it |
 | `interpretation` | Interpretation | A relationship, cause, or meaning is being inferred from other evidence |
 | `conflicting-evidence` | Conflicting evidence | Reliable or at least citable accounts disagree (for example 1993 versus 1994 as a CSIL start) |

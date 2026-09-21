@@ -64,7 +64,7 @@ Former catalogue id: `src-wanted-2008-program-review` (file `sources/wanted-2008
 | James Murtagh Consulting | Commissioning issue; previously unconfirmed in this archive | **Present** on the prepared-by page as the preparing body. No individual named James Murtagh appears on the pages opened. |
 | Ministry of Health / Ministry of Health Services | *Best of Care* footnote | Cover and prepared-by page use **BC Ministry of Health Services**. The client line is Home and Community Care Branch, Health Authorities Division. |
 
-: Compared title and authorship wordings for the 2008 CSIL Program Review from the commissioning issue, Best of Care, and the inspected fiche.
+: Compared title and authorship wordings for the 2008 CSIL Program Review from early project notes, Best of Care, and the fiche we have read.
 
 Front-matter `title` joins the cover title and subtitle with a colon. That colon is a catalogue convention; the cover sets “Synthesis Report” on its own line.
 

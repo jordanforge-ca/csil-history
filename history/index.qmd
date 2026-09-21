@@ -1,60 +1,62 @@
 ---
 title: "History"
-subtitle: "Source-based reconstruction — cited chapters, open questions kept visible"
+subtitle: "What public sources show so far — and what they do not"
 ---
 
-The commissioning brief suggested this working lineage so later evidence has a place to land:
+The chapters below start before CSIL existed as a named program. They look at earlier housing and support arrangements, then at CSIL’s early years and later changes.
 
-**institutional or agency care → disability-led independent-living experiments → Creekview → Enhanced Consumer Participation Model (ECPM) → direct individualized funding → CSIL design and pilot → a province-wide program.**
+This site uses one possible order of events so later evidence has a place to land. It is a reading aid, **not** a claim that each step officially became the next:
 
-That sentence remains a **research proposition**. No page on this site treats Creekview → ECPM → CSIL as a proven formal succession. The chapters below reconstruct what public sources now support and label what they do not.
+**care in institutions or through agencies → independent-living experiments led by disabled people → Creekview → the Enhanced Consumer Participation Model (ECPM) → funding that followed the person → CSIL designed and piloted → a province-wide program.**
 
-| Working date | Chapter | Status on this site |
+No page treats Creekview → ECPM → CSIL as a proven official sequence. The chapters below reconstruct what public sources now support and label what they do not.
+
+| Working date | Chapter | What this site can say |
 | --- | --- | --- |
-| Early 1980s | Independent-living / community-living advocacy in British Columbia | **Folded into Creekview.** [Origins](origins.qmd) records that choice. Context is Haw 1989’s later overview plus 1984–86 Hansard, not a separate origins narrative. |
-| c. 1984–89 | [Creekview](creekview.qmd) | Cited chapter (Hansard 1984 and 1986; Haw 1989; 1987 abstract; later SCI BC / Fayerman accounts) |
-| c. 1987 | Creekview evaluation | Evaluation attested; report copy not held; Ryan authorship unconfirmed |
-| c. 1990 | [ECPM](ecpm.qmd) and *Keys on Freedom* | Cited ECPM reconstruction: 1990 manual bibliographically attested (unread); *Keys on Freedom* still unconfirmed |
-| c. 1993 | CSIL “established” (later label) | Contested later recollection only; see [design/pilot](csil-pilot.qmd) |
-| c. 1994 | CSIL pilot / later “established” | Later official: pilot / introduced. Later recollection also uses 1994. 1994 ECPM manual identity remains insufficient evidence. |
-| c. 1995 | Wider / province-wide availability | Later official chronology (Ombudsperson 2012); contemporaneous HEU still says “new/pilot” |
-| 2008–2012 | [Later evolution](evolution.qmd) | Cited sketch: 2008 review synthesis; 2011 rates; current CSG / representative definitions |
+| Early 1980s | Independent-living and community-living advocacy in British Columbia | Written into the [Creekview](creekview.qmd) chapter, not as a separate origins story. The [Origins](origins.qmd) page explains that choice. The context comes from Haw's 1989 later overview plus 1984–86 Hansard. |
+| c. 1984–89 | [Creekview](creekview.qmd) | A cited chapter from Hansard 1984 and 1986, Haw 1989, a 1987 abstract, and later SCI BC and Fayerman accounts. |
+| c. 1987 | Creekview evaluation | Public sources from 1987–89 confirm that an evaluation existed. This archive does not hold the report. Patricia Ryan / Ryan & Wiggins authorship is unconfirmed. |
+| c. 1990 | [ECPM](ecpm.qmd) and *Keys on Freedom* | A 1990 training manual is listed in a later bibliography, but we have not found a copy to read. *Keys on Freedom* is still unconfirmed. |
+| c. 1993 | CSIL “established” (later label) | A later recollection only, and it conflicts with other later wording. See [CSIL design and pilot](csil-pilot.qmd). |
+| c. 1994 | CSIL pilot / later “established” | Later official records say CSIL was piloted or introduced in 1994. Later recollection also uses 1994. Whether a 1994 ECPM training manual is a distinct document is still unresolved. |
+| c. 1995 | Wider / province-wide availability | Later official chronology (Ombudsperson 2012). A 1995 union newspaper still called CSIL new or a pilot. |
+| 2008–2012 | [Later evolution](evolution.qmd) | A cited sketch: a 2008 program review; 2011 rate changes; current definitions of a client support group and a CSIL representative. |
 
-: Working dates and reconstruction status for history chapters
+: Working dates and what each history chapter can currently support
 
-Use the [timeline](../timeline.qmd) for the same dates in order, and [sources](../sources/index.qmd) for catalogue records.
+Use the [timeline](../timeline.qmd) for the same dates in order, and [sources](../sources/index.qmd) for the catalogue of individual records.
 
-## State of the evidence
+## State of the evidence {#state-of-the-evidence}
 
-### Well established (from inspected or bibliographic public sources)
+### Well established (from public sources this archive has read, or from a bibliography that lists them)
 
-- Creekview existed as a mid-1980s community residence for a small group of men with high-level, mostly ventilator-dependent quadriplegia, planned by February 1984 and in place by April 1986 ([Creekview](creekview.qmd)).
-- A 1990 ECPM *Skill Development Manual* (BC Rehab & Greater Vancouver Home Support Society; five modules) is independently cited in the Roeher / Salisbury bibliography. The manual itself has not been read ([ECPM](ecpm.qmd)).
-- By late 1995 a Ministry of Health program publicly named Choice in Supports for Independent Living existed and was described as new/pilot, housed in Community Support Branch / Continuing Care Division ([HEU *Guardian* Nov/Dec 1995](../sources/1995-heu-guardian-novdec.qmd)).
-- A November 2008 CSIL Program Review Synthesis Report exists and has been inspected as an Internet Archive Microlog fiche. It dates CSIL only to “the 1990's.”
-- Current ministry policy defines CSIL employer, client support group, and CSIL representative ([HCC Policy 4.C](../sources/hcc-policy-manual-4c.qmd)). Those are present rules, not recovered 1990s instruments.
+- Creekview existed as a mid-1980s community residence for a small group of men with high-level, mostly ventilator-dependent quadriplegia. It was planned by February 1984 and in place by April 1986 ([Creekview](creekview.qmd)).
+- A 1990 ECPM *Skill Development Manual* (BC Rehab and Greater Vancouver Home Support Society; five modules) is independently listed in the Roeher / Salisbury bibliography. The manual itself has not been read ([ECPM](ecpm.qmd)).
+- By late 1995 a Ministry of Health program publicly named Choice in Supports for Independent Living existed. A union newspaper described it as new or a pilot, housed in Community Support Branch / Continuing Care Division ([HEU *Guardian* Nov/Dec 1995](../sources/1995-heu-guardian-novdec.qmd)).
+- A November 2008 CSIL Program Review Synthesis Report exists and has been read as an Internet Archive Microlog fiche. It dates CSIL only to “the 1990's.”
+- Current ministry policy defines CSIL employer, client support group, and CSIL representative ([HCC Policy 4.C](../sources/hcc-policy-manual-4c.qmd)). Those are present rules, not recovered 1990s documents.
 
-### Later reconstruction / attributed
+### Later accounts (not records from the 1980s or 1990s)
 
-- SCI BC and journalistic accounts of Creekview residents, championship language, and the “Creekside” spelling.
-- IFRC and Gauthier decks that name ECPM as a pre-CSIL step and that call CSIL “established” in 1993 or 1994.
-- Ombudsperson 2012’s pairing of **pilot 1994** and **province-wide 1995**, including later wording that the mid-1990s policy already contemplated a client support group.
-- Order of Canada “Initiator” language for Paul Gauthier (official honour, not a 1990s file).
+- SCI BC and journalistic accounts of Creekview residents, of people “championing” the project, and of the spelling “Creekside.”
+- IFRC and Gauthier materials that name ECPM as a step before CSIL and that call CSIL “established” in 1993 or 1994.
+- The 2012 Ombudsperson report’s pairing of **pilot 1994** and **province-wide 1995**, including later wording that mid-1990s policy already contemplated a client support group.
+- Order of Canada “Initiator” language for Paul Gauthier (an official honour, not a 1990s file).
 
 ### Unresolved / missing
 
 - Formal succession from Creekview to ECPM to CSIL.
-- Full text of the 1990 ECPM manual; identity of any 1994 ECPM training manual (**INSUFFICIENT EVIDENCE**).
-- *Keys on Freedom* (title/author/year still commissioning-issue only).
-- Original 1993–95 Ministry of Health design/pilot instruments.
-- A single founding year. This archive uses **PARTIAL STAGED CHRONOLOGY**: later official meanings for 1994 and 1995, a conflicting later 1993 label, and contemporaneous late-1995 pilot language that does not confirm province-wide completion.
-- 1987 Creekview evaluation report (attested; copy sought).
-- Whether *Best of Care*’s “provincial review in 2007” is the 2008 synthesis.
+- The full text of the 1990 ECPM manual, and whether any 1994 ECPM training manual is a distinct document. The evidence is not clear enough to decide.
+- *Keys on Freedom* (title, author, and year still come only from early project notes).
+- Original 1993–95 Ministry of Health design and pilot records.
+- A single founding year. Later official records give 1994 and 1995 different meanings (pilot, then province-wide). A later source uses 1993. A 1995 newspaper still said new/pilot and does not confirm that a province-wide rollout was finished.
+- The 1987 Creekview evaluation report (known to have existed; copy still sought).
+- Whether the Ombudsperson’s “provincial review in 2007” is the 2008 synthesis.
 
 ## Chapters
 
-- [Origins](origins.qmd) (folded into Creekview)
-- [Creekview](creekview.qmd) (cited reconstruction; also origins/context)
-- [Enhanced Consumer Participation Model (ECPM)](ecpm.qmd) (cited reconstruction)
-- [CSIL design and pilot](csil-pilot.qmd) (cited reconstruction; no single founding year)
-- [Later evolution](evolution.qmd) (cited sketch)
+- [Origins](origins.qmd) (why this context lives on the Creekview page)
+- [Creekview](creekview.qmd)
+- [Enhanced Consumer Participation Model (ECPM)](ecpm.qmd)
+- [CSIL design and pilot](csil-pilot.qmd) (no single founding year)
+- [Later evolution](evolution.qmd)

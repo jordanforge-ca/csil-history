@@ -1,19 +1,21 @@
 ---
 title: "CSIL History Archive"
-subtitle: "A public evidence archive for Choice in Supports for Independent Living in British Columbia"
+subtitle: "A public history of Choice in Supports for Independent Living in British Columbia"
 toc: false
 ---
 
-Choice in Supports for Independent Living (CSIL) is the name of a British Columbia home-support program. Public program materials describe it as a way for eligible people to manage funding and employ their own workers. This site does not treat those program descriptions as a substitute for historical evidence about how CSIL was designed, piloted, or changed.
+**Choice in Supports for Independent Living (CSIL)** is the name of a British Columbia home-support program. Public program materials describe it as a way for eligible people to manage funding and hire their own workers, instead of receiving care only through an agency. This site does not treat those program descriptions as a substitute for historical evidence about how CSIL was designed, first tried, or later changed.
 
-This archive exists to collect, cite, and annotate the sources from which a history of CSIL can be reconstructed. It is meant for CSIL employers, disability advocates, researchers, journalists, policy staff, and people who took part in that history. The project is a digital-history and annotated-bibliography effort, not a campaign.
+This site collects, cites, and explains the sources from which a public history of CSIL can be written. It uses newspapers, Hansard, later government reports, training materials, and accounts from people and organizations involved.
 
-The reconstruction is incomplete on purpose. Pages distinguish documented fact, attributed recollection, interpretation, conflicting evidence, and open questions. Where dates or lineages are still unsettled — including whether later writers treat **1993 or 1994** as a CSIL starting year, and how that relates to a later official **1994 pilot / 1995 province-wide** pairing — the archive shows the disagreement rather than hiding it.
+The history is incomplete on purpose. Pages distinguish what a source documents, what someone later remembered, what we infer, where sources disagree, and what is still an open question. We do not yet know a single start year. Later writers treat **1993 or 1994** as the year CSIL was established. Later official records describe a **1994 pilot** and **province-wide availability in 1995**. A **1995** newspaper still described CSIL as a new pilot program. This site shows that disagreement rather than hiding it.
 
-A working research proposition used only to organise this site, and **not** offered here as a settled history, is:
+One useful way to read the chapters — as a possible order of events, **not** a settled history — is:
 
-**institutional or agency care → disability-led independent-living experiments → Creekview → Enhanced Consumer Participation Model (ECPM) → direct individualized funding → CSIL design and pilot → a province-wide program.**
+**care in institutions or through agencies → independent-living experiments led by disabled people → Creekview → the Enhanced Consumer Participation Model (ECPM) → funding that followed the person → CSIL designed and piloted → a province-wide program.**
 
-Cited chapters now reconstruct Creekview (and the folded origins/context), ECPM, CSIL design/pilot, and later evolution from public sources. None of those chapters treats Creekview → ECPM → CSIL as a proven formal succession. A short [state of the evidence](history/index.qmd#state-of-the-evidence) summary lives on the History index.
+The chapters reconstruct Creekview, ECPM, CSIL's early years, and later changes from public sources. None of them treats Creekview → ECPM → CSIL as a proven official sequence. A short [summary of what the evidence does and does not show](history/index.qmd#state-of-the-evidence) lives on the History page.
+
+This archive is meant for CSIL employers, disability advocates, researchers, journalists, policy staff, and people who took part in that history. It is not a campaign, and it is not a guide to applying for CSIL.
 
 If you can help, the most useful contributions are citations, catalogue records, permitted scans, and corrections. Please read [About / Contribute](about.qmd#how-to-contribute) and do not send private or health-related records.

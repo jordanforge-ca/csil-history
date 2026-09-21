@@ -7,7 +7,7 @@ id: src-wanted-keys-on-freedom
 record_status: catalogue-record
 source_authors:
   - "BC Rehabilitation Society"
-author: "BC Rehabilitation Society (as named in the commissioning issue; not independently confirmed)"
+author: "BC Rehabilitation Society (as first named for this archive; not independently confirmed)"
 source_type: primary
 availability: known-to-exist-copy-sought
 verification_status: open-question
@@ -27,19 +27,19 @@ rights_note: "Copy not held. Do not upload a scan unless redistribution is clear
 ---
 
 ::: {.callout-note}
-## Still attested only by the commissioning issue
-The full title, corporate author, and approximate date on this page were first named in [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). A second public-source pass on 20 September 2026, including targeted CMHC / publications.gc.ca and bibliographic searches, did **not** recover a catalogue record, digitized copy, or independent secondary citation that repeats that title. `verification_status` is therefore `open-question` for the bibliographic details themselves: we have a named wanted item, not independent confirmation.
+## Still attested only by early project notes
+The full title, corporate author, and approximate date on this page were first named in [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). A second public-source pass on 20 September 2026, including targeted CMHC / publications.gc.ca and bibliographic searches, did **not** recover a catalogue record, digitized copy, or independent secondary citation that repeats that title. The verification label is therefore `open-question` for the bibliographic details themselves: we have a named wanted item, not independent confirmation.
 :::
 
 ## Identification
 
-| Element | As stated in the commissioning issue | Independent public evidence seen in this pass |
+| Element | As first named for this archive | Independent public evidence seen in this pass |
 | --- | --- | --- |
 | Title | Keys on Freedom: Resource manual for the development of self-managed community living alternatives for quadriplegic persons | Not found |
 | Creator | BC Rehabilitation Society | BC Rehab is independently attested as a 1990 ECPM manual issuer ([Roeher bibliography](1990s-roeher-if-bibliography.qmd)); that bibliography does **not** list *Keys on Freedom* |
 | Date | c. 1990 | Not independently confirmed |
 
-The research brief asked specifically for 1990s CMHC material citing both the Creekview 202 evaluation **and** *Keys on Freedom*. No such CMHC report was located.
+Early project notes asked specifically for 1990s CMHC material citing both the Creekview 202 evaluation **and** *Keys on Freedom*. No such CMHC report was located.
 
 ## Search leads documented (20 September 2026)
 

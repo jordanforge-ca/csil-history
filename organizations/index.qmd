@@ -7,9 +7,9 @@ This section will hold one page per organization once a cited public source supp
 
 Listing a name only means the archive can attach evidence to it. It is not a claim about legal status, continuity, or a role in CSIL.
 
-## Names from the commissioning issue
+## Names from early project notes
 
-| Name as given in the commissioning issue | Why the name appears here |
+| Name as first listed for this archive | Why the name appears here |
 | --- | --- |
 | BC Rehabilitation Society (also “BC Rehab”) | Named as creator of *Keys on Freedom* and, with Greater Vancouver Home Support Society, of ECPM manual(s) |
 | Greater Vancouver Home Support Society | Named with BC Rehab on ECPM manual(s) |
@@ -18,7 +18,7 @@ Listing a name only means the archive can attach evidence to it. It is not a cla
 | British Columbia Ministry of Health Services | Named on the cover and prepared-by page of the November 2008 synthesis report |
 | James Murtagh Consulting | Named as preparer on the November 2008 synthesis report’s prepared-by page |
 
-: Organization names taken from the commissioning issue’s wanted-source descriptions
+: Organization names taken from the wanted-source descriptions used when this archive was first planned
 
 Names now also appear in inspected public sources (for example BC Rehab and Greater Vancouver Home Support Society in the [Roeher bibliography](../sources/1990s-roeher-if-bibliography.qmd); Ministry of Health Services, Home and Community Care Branch, Health Authorities Division, and James Murtagh Consulting on the [2008 Program Review Synthesis Report](../sources/2008-program-review-synthesis.qmd)). Listing a name is still not an organizational history.
 

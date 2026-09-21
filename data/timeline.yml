@@ -57,7 +57,7 @@
     - src-wanted-creekview-202-eval
     - src-mattinson-1987-creekview
     - src-haw-1989-housing
-  notes: "1987 PubMed abstract says a formal evaluation was completed by the B.C. government and CPA and names topics, not findings. Haw 1989 paraphrases cost, health-status, and accreditation findings; those paraphrases are Haw's. Ryan / Ryan & Wiggins authorship remains commissioning-issue only. Copy of the report not held."
+  notes: "1987 PubMed abstract says a formal evaluation was completed by the B.C. government and CPA and names topics, not findings. Haw 1989 paraphrases cost, health-status, and accreditation findings; those paraphrases are Haw's. Ryan / Ryan & Wiggins authorship remains early-project-notes only. Copy of the report not held."
 
 - id: tl-1990-keys-ecpm
   title: "ECPM Skill Development Manual (1990) and Keys on Freedom (unconfirmed)"
@@ -73,7 +73,7 @@
     - src-wanted-ecpm-manuals
     - src-roeher-if-bibliography
     - src-wanted-keys-on-freedom
-  notes: "Roeher independently cites a 1990 five-module ECPM manual (bibliographically attested; unread). Keys on Freedom title/author/year remain commissioning-issue only. A distinct 1994 ECPM training manual remains INSUFFICIENT EVIDENCE. Van der Klift 1994 Hell-Bent is a separate work. Relationship of ECPM to CSIL is later reconstruction, not a proven formal succession."
+  notes: "Roeher independently cites a 1990 five-module ECPM manual (listed in a bibliography; unread). Keys on Freedom title/author/year remain early-project-notes only. The evidence is not clear enough to decide whether a distinct 1994 ECPM training manual exists. Van der Klift 1994 Hell-Bent is a separate work. Relationship of ECPM to CSIL is a later account, not a proven official succession."
 
 - id: tl-1993-csil-design
   title: "CSIL 'established' 1993 (later attribution; contested)"
@@ -88,7 +88,7 @@
   source_ids:
     - src-gauthier-2014-sci-slides
     - src-wanted-ministry-csil-pilot-records
-  notes: "Gauthier 2014 says established in 1993. Treat as a conflicting later start-year label, not a verified distinct 1993 stage. Do not silently reconcile with 1994 rows. No 1993 ministry file inspected. See the CSIL design and pilot chapter (PARTIAL STAGED CHRONOLOGY)."
+  notes: "Gauthier 2014 says established in 1993. Treat as a conflicting later start-year label, not a verified distinct 1993 stage. Do not silently reconcile with 1994 rows. No 1993 ministry file has been read. See the CSIL design and pilot chapter."
 
 - id: tl-1994-csil-pilot
   title: "CSIL pilot / 'established' 1994 (contested starting year)"
@@ -105,7 +105,7 @@
     - src-gauthier-2015-module1
     - src-ifrc-our-team
     - src-wanted-ministry-csil-pilot-records
-  notes: "Ombudsperson 2012 assigns pilot/created/introduced to 1994 (later official). Gauthier 2015 and IFRC also use 1994 as established/start. Candidate pilot-stage year; not reconciled with the 1993 recollection or with missing ministry instruments. A 1994 ECPM training revision is a separate, still-unresolved identity question (see the ECPM chapter)."
+  notes: "Ombudsperson 2012 assigns pilot/created/introduced to 1994 (later official). Gauthier 2015 and IFRC also use 1994 as established/start. Candidate pilot-stage year; not reconciled with the 1993 recollection or with missing ministry records. A 1994 ECPM training revision is a separate, still-unresolved identity question (see the ECPM chapter)."
 
 - id: tl-1995-province-wide
   title: "Province-wide CSIL availability (later official chronology)"
@@ -120,7 +120,7 @@
   source_ids:
     - src-ombudsperson-2012-best-of-care
     - src-heu-guardian-1995-novdec
-  notes: "2012 Ombudsperson: province-wide in 1995 (later official stage). Nov/Dec 1995 HEU still calls CSIL a new/pilot Community Support Branch / Continuing Care Division program (~130 clients). Do not treat province-wide 1995 as contemporaneously verified; keep both pictures visible."
+  notes: "2012 Ombudsperson: province-wide in 1995 (later official stage). Nov/Dec 1995 HEU still calls CSIL a new/pilot Community Support Branch / Continuing Care Division program (~130 clients). Do not treat province-wide 1995 as verified from 1990s files; keep both pictures visible."
 
 - id: tl-2008-program-review
   title: "CSIL Program Review Synthesis Report (November 2008)"

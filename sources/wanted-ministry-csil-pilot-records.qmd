@@ -31,18 +31,18 @@ rights_note: "Government records. Copy not held. Crown copyright or access rules
 
 ::: {.callout-note}
 ## Known to exist as a class — copies sought; dates conflict
-No original 1993–95 Ministry of Health design file, Treasury Board submission, or pilot instrument was recovered. Later public sources **disagree** on 1993 versus 1994 as an “established” year, and a 2012 official report gives **pilot 1994 / province-wide 1995**. Continuing Care Division / Community Support Branch as the 1995 administrative home is now attested in the inspected [HEU *Guardian* Nov/Dec 1995](1995-heu-guardian-novdec.qmd) feature (union newspaper, not a ministry file). Original 1993–95 design instruments remain unfound.
+No original 1993–95 Ministry of Health design file, Treasury Board submission, or pilot record was recovered. Later public sources **disagree** on 1993 versus 1994 as an “established” year, and a 2012 official report gives **pilot 1994 / province-wide 1995**. Continuing Care Division / Community Support Branch as the 1995 administrative home is now attested in the [HEU *Guardian* Nov/Dec 1995](1995-heu-guardian-novdec.qmd) feature we have read (union newspaper, not a ministry file). Original 1993–95 design records remain unfound.
 :::
 
 ## Identification
 
-This is a **class of records**, not a single titled publication. The sortable date `1994-01-01` is a midpoint, not a claim that a specific instrument is dated 1994.
+This is a **class of records**, not a single titled publication. The sortable date `1994-01-01` is a midpoint, not a claim that a specific document is dated 1994.
 
 | Element | Evidence |
 | --- | --- |
-| Description | Original Ministry of Health CSIL pilot/design records (commissioning issue) |
-| Date range as named | Approximately 1993–95 (commissioning issue) |
-| Administrative home as named in the commissioning issue | Continuing Care Division / Community Support Branch |
+| Description | Original Ministry of Health CSIL pilot/design records (as first listed for this archive) |
+| Date range as named | Approximately 1993–95 (as first listed for this archive) |
+| Administrative home as first named for this archive | Continuing Care Division / Community Support Branch |
 | Administrative home as seen in a 1995 public source | [HEU *Guardian* Nov/Dec 1995](1995-heu-guardian-novdec.qmd): “new program of the Community Support Branch of the Continuing Care Division called ‘Choice in Supports for Independent Living’ or CSIL,” “designed as a pilot program.” |
 | 1993 “established” claim | [Gauthier 2014](2014-gauthier-sci-csil-presentation.qmd): “Established by the Ministry of Health in British Columbia in 1993…” Same deck: “The Pilot — 50 people tried it out.” |
 | 1994 “established” claim | [Gauthier 2015](2015-gauthier-csil-module-1.qmd): “…in 1994…” |
@@ -59,19 +59,19 @@ Not inspected: any 1993–95 ministry file; a Legislative Library or BC Archives
 
 ## Near-miss (do not conflate)
 
-The Roeher bibliography cites Kelly MacKinnon, “Individualized Funding Service Brokerage Pilot,” Ministry of Social Services, October 1995 — a **Social Services** IF/brokerage pilot (1991–96), not a demonstrated Ministry of Health CSIL instrument.
+The Roeher bibliography cites Kelly MacKinnon, “Individualized Funding Service Brokerage Pilot,” Ministry of Social Services, October 1995 — a **Social Services** individualized-funding / brokerage pilot (1991–96), not a demonstrated Ministry of Health CSIL record.
 
 ## Annotation
 
-Public sources now document, in print, three different start-stories: established 1993; established 1994; piloted 1994 and province-wide 1995. Experiment 002 classified that pattern as **PARTIAL STAGED CHRONOLOGY**: later official wording assigns different meanings to 1994 (pilot) and 1995 (province-wide), while 1993 remains a conflicting later label and late-1995 HEU still says new/pilot. Those sources do not replace the missing ministry instruments, and they do not say what each year authorized (design, Treasury Board approval, pilot intake, or broader availability). ECPM as a formal predecessor is still reconstructed from later accounts ([IFRC Our Team](ifrc-our-team.qmd); [Gauthier 2014](2014-gauthier-sci-csil-presentation.qmd)), not from an inspected 1990s ministry file. See the [CSIL design and pilot chapter](../history/csil-pilot.qmd).
+Public sources now document, in print, three different start-stories: established 1993; established 1994; piloted 1994 and province-wide 1995. The exact start date is not completely clear: later official wording assigns different meanings to 1994 (pilot) and 1995 (province-wide), while 1993 remains a conflicting later label and late-1995 HEU still says new/pilot. Those sources do not replace the missing ministry records, and they do not say what each year authorized (design, Treasury Board approval, pilot intake, or broader availability). ECPM as a formal predecessor is still reconstructed from later accounts ([IFRC Our Team](ifrc-our-team.qmd); [Gauthier 2014](2014-gauthier-sci-csil-presentation.qmd)), not from a 1990s ministry file we have read. See the [CSIL design and pilot chapter](../history/csil-pilot.qmd).
 
 ## Open questions
 
 - Which files exist and are public.
 - What each dated item authorises.
-- Whether “50 people tried it out” (Gauthier 2014) is contemporaneous or later recollection.
+- Whether “50 people tried it out” (Gauthier 2014) is from the time or later recollection.
 - Whether Hansard for 1993–95 names CSIL (not retrieved in this pass).
-- What ministry instrument created Community Support Branch CSIL, and whether Sally Hamilton’s role is documented elsewhere.
+- What ministry document created Community Support Branch CSIL, and whether Sally Hamilton’s role is documented elsewhere.
 
 ## See also
 

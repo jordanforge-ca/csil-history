@@ -1,6 +1,6 @@
 ---
 title: "Timeline"
-subtitle: "Working dates, confidence labels, and associated sources"
+subtitle: "Working dates, how sure we are, and associated sources"
 listing:
   - id: timeline-events
     contents: data/timeline.yml
@@ -18,10 +18,10 @@ listing:
 toc: false
 ---
 
-This view is generated from [`data/timeline.yml`](https://github.com/jordanforge-ca/csil-history/blob/main/data/timeline.yml). Edit that file to add or correct events. There is no JavaScript timeline library.
+The same dates appear in the [History](history/index.qmd) chapters.
 
-Dates here are **working research propositions** unless a linked source record says a copy was inspected. Approximate and contested dates are labelled in the Date column. The 1993 and 1994 CSIL rows are both kept, and the 1995 row keeps later official “province-wide” wording beside contemporaneous HEU “new/pilot” wording, so the archive does not pick a starting year.
+Dates here are **working dates** unless a linked source record says a copy was read. Approximate and contested dates are labelled in the Date column. The 1993 and 1994 CSIL rows are both kept. The 1995 row keeps later official “province-wide” wording beside 1995 newspaper “new/pilot” wording. The archive does not pick a starting year.
 
-Status values use the [evidence and verification vocabulary](docs/evidence-status.qmd).
+The status column says how much public evidence currently supports the row.
 
 On small screens the timeline table scrolls sideways inside its own region. Tab to that region to scroll it with the keyboard. The rest of the page should not require horizontal scrolling.
