@@ -1,30 +1,43 @@
 /*-- scss:defaults --*/
 // Accessibility baseline overrides on Quarto's default Bootstrap theme.
-// This file is the in-repo a11y layer. Prefer these tokens over decorative
-// theme colours. Document changes in docs/accessibility.qmd.
+// Publication skin uses the jordanforge palette. Purple, cream, and charcoal
+// carry the design. Ember is the focus accent only. Document changes in
+// docs/accessibility.qmd.
 
-$primary: #083d73;
-$link-color: #083d73;
-$link-hover-color: #05284d;
-$body-color: #1a1a1a;
-$body-bg: #ffffff;
-$navbar-bg: #083048;
-$navbar-fg: #ffffff;
-$navbar-hl: #ffffff;
-$footer-bg: #f4f1ea;
-$footer-fg: #1a1a1a;
+$forge-purple: #1F1626;
+$cream: #F8F3EA;
+$charcoal: #3E3A3A;
+$ember: #C8653A;
+
+$primary: $forge-purple;
+$link-color: $forge-purple;
+$link-hover-color: $forge-purple;
+$body-color: $charcoal;
+$body-bg: $cream;
+$light: $cream;
+$navbar-bg: $forge-purple;
+$navbar-fg: $cream;
+$navbar-hl: $cream;
+$footer-bg: $cream;
+$footer-fg: $charcoal;
+$footer-font-size: 1rem;
+$toc-font-size: 1rem;
+$code-color: $forge-purple;
+$code-bg: #ffffff;
 $font-size-root: 18px; // baseline 13: never under 16px; 18–20px preferred
 $font-size-base: 1rem;
 $line-height-base: 1.6;
-$font-family-sans-serif: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-$headings-font-family: $font-family-sans-serif;
-$headings-color: #10233a;
-$headings-font-weight: 700;
-$border-color: #5c6570;
-$input-border-color: #5c6570;
-$focus-ring-color: #c45c00;
+$font-family-sans-serif: system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$headings-font-family: "Source Serif 4", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+$headings-color: $forge-purple;
+$headings-font-weight: 600;
+$border-color: $charcoal;
+$input-border-color: $charcoal;
+$focus-ring-color: $ember;
 
 /*-- scss:rules --*/
+// Source Serif 4 is loaded from assets/fonts/fonts.css so the font files
+// stay beside that stylesheet. Paths inside the Bootstrap bundle would not.
 
 // ---------------------------------------------------------------------------
 // 1. Skip link — visible on focus, above chrome
@@ -36,11 +49,11 @@ $focus-ring-color: #c45c00;
   top: 0.5rem;
   z-index: 12000;
   padding: 0.6rem 0.9rem;
-  background: #083048;
-  color: #ffffff;
+  background: #1F1626;
+  color: #F8F3EA;
   font-weight: 700;
   text-decoration: underline;
-  border: 2px solid #ffffff;
+  border: 2px solid #F8F3EA;
   overflow: hidden;
   clip: rect(0, 0, 0, 0);
   clip-path: inset(50%);
@@ -58,7 +71,7 @@ $focus-ring-color: #c45c00;
   height: auto;
   overflow: visible;
   white-space: normal;
-  color: #ffffff;
+  color: #F8F3EA;
 }
 
 // ---------------------------------------------------------------------------
@@ -67,7 +80,7 @@ $focus-ring-color: #c45c00;
 // ---------------------------------------------------------------------------
 
 :focus {
-  outline: 3px solid #c45c00;
+  outline: 3px solid #C8653A;
   outline-offset: 3px;
 }
 
@@ -76,9 +89,9 @@ $focus-ring-color: #c45c00;
 }
 
 :focus-visible {
-  outline: 3px solid #c45c00;
+  outline: 3px solid #C8653A;
   outline-offset: 3px;
-  box-shadow: 0 0 0 3px #ffffff, 0 0 0 6px #c45c00;
+  box-shadow: 0 0 0 3px #ffffff, 0 0 0 6px #C8653A;
 }
 
 a.nav-link:focus-visible,
@@ -89,9 +102,9 @@ a.nav-link:focus-visible,
 .toc-action:focus-visible,
 .pagination-link:focus-visible,
 .skip-link:focus-visible {
-  outline: 3px solid #c45c00;
+  outline: 3px solid #C8653A;
   outline-offset: 3px;
-  box-shadow: 0 0 0 3px #ffffff, 0 0 0 6px #c45c00;
+  box-shadow: 0 0 0 3px #ffffff, 0 0 0 6px #C8653A;
 }
 
 // ---------------------------------------------------------------------------
@@ -168,7 +181,7 @@ figure,
   max-width: 100%;
   margin: 0 0 1rem;
   padding: 0.15rem;
-  border: 1px solid #5c6570;
+  border: 1px solid #3E3A3A;
   background: #ffffff;
   overflow-x: auto;
   overscroll-behavior-x: contain;
@@ -176,9 +189,9 @@ figure,
 
 .table-scroll:focus,
 .table-scroll:focus-visible {
-  outline: 3px solid #c45c00;
+  outline: 3px solid #C8653A;
   outline-offset: 3px;
-  box-shadow: 0 0 0 3px #ffffff, 0 0 0 6px #c45c00;
+  box-shadow: 0 0 0 3px #ffffff, 0 0 0 6px #C8653A;
 }
 
 .table-scroll > table {
@@ -284,9 +297,28 @@ nav.navbar a:focus-visible,
 }
 
 .navbar-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
   font-weight: 700;
   white-space: normal;
   max-width: min(22rem, calc(100vw - 5.5rem));
+}
+
+.navbar-maker-mark {
+  width: 32px;
+  height: 32px;
+  flex: 0 0 32px;
+}
+
+.navbar-dark .navbar-nav .nav-link,
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link:focus-visible,
+.navbar-dark .navbar-brand,
+.navbar-dark .navbar-brand:hover,
+.navbar-dark .navbar-brand:focus-visible,
+.navbar-title {
+  color: #F8F3EA;
 }
 
 .navbar-expand-lg .navbar-nav {
@@ -305,11 +337,11 @@ nav.navbar a:focus-visible,
 
 .status-label {
   display: inline-block;
-  border: 1px solid #1a1a1a;
+  border: 1px solid #3E3A3A;
   padding: 0.1rem 0.4rem;
   font-size: 0.9em;
-  background: #f4f1ea;
-  color: #1a1a1a;
+  background: #F8F3EA;
+  color: #3E3A3A;
 }
 
 // ---------------------------------------------------------------------------
@@ -324,7 +356,7 @@ table caption {
   text-align: left;
   font-weight: 600;
   margin-bottom: 0.5rem;
-  color: #1a1a1a;
+  color: #3E3A3A;
 }
 
 .timeline-table th,
@@ -361,6 +393,31 @@ button.btn {
   line-height: 1.25;
 }
 
+#quarto-document-content :is(h1, h2, h3, h4) {
+  letter-spacing: -0.015em;
+}
+
+.nav-footer {
+  border-top: 2px solid #1F1626;
+  font-size: 1rem;
+}
+
+.nav-footer a[href="https://jordanforge.ca"],
+.nav-footer a[href="https://jordanforge.ca/"] {
+  font-weight: 700;
+  text-decoration: underline;
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+}
+
+.text-muted,
+.blockquote-footer,
+.breadcrumb-item,
+.breadcrumb-item.active {
+  color: #3E3A3A;
+}
+
 // TOC label is a <p>, not a heading — keep visual weight without outline theft
 #toc-title,
 #TOC .toc-title {
@@ -368,9 +425,20 @@ button.btn {
   font-size: 1rem;
   line-height: 1.4;
   margin: 0 0 0.5rem;
-  color: #10233a;
+  color: #1F1626;
 }
 
 #title-block-header.quarto-title-block {
   margin-bottom: 1rem;
+}
+
+.quarto-title-meta-heading {
+  font-size: 1rem;
+  opacity: 1;
+  color: #3E3A3A;
+}
+
+p.subtitle {
+  color: #3E3A3A;
+  font-size: 1.25rem;
 }

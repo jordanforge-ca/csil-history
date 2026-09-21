@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title desc">
+  <title id="title">jordanforge.ca forged corner mark for dark backgrounds</title>
+  <desc id="desc">A cream upper-left corner bracket with an aged-brass Robertson square-drive screw.</desc>
+  <path fill="#F8F3EA" d="M16 4h66c8 0 14 6 14 14 0 6-5 10-11 10h-7c-9 0-12 7-14 16-3 10-10 17-20 20-9 2-16 5-16 14v6c0 8-6 12-12 12C9 96 4 91 4 84V16C4 9 9 4 16 4Z"/>
+  <path fill="none" stroke="#C8BEB2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M16 8h65c6 0 10 4 10 9M8 16v66c0 6 3 9 8 9"/>
+  <circle cx="29" cy="29" r="12" fill="#B08D57" stroke="#D3B67E" stroke-width="2"/>
+  <rect width="8" height="8" x="25" y="25" rx=".7" fill="#1F1626"/>
+</svg>

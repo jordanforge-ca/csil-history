@@ -6,9 +6,11 @@ This repository is an **evidence archive first** and a website second: concise o
 
 **Repository:** <https://github.com/jordanforge-ca/csil-history>
 
-**Expected Pages URL:** <https://jordanforge-ca.github.io/csil-history/>
+**Canonical site:** <https://csil-history.jordanforge.ca>
 
-Pages will go live after a maintainer enables GitHub Pages with **Source: GitHub Actions** (Settings → Pages). The workflow is [`.github/workflows/pages.yml`](.github/workflows/pages.yml).
+Pages is published with **Source: GitHub Actions** ([`.github/workflows/pages.yml`](.github/workflows/pages.yml)). The site is served from the subdomain root. There is no repository `CNAME` file; the custom domain is a GitHub Pages setting.
+
+The previous project URL, <https://jordanforge-ca.github.io/csil-history/>, is the GitHub Pages project address. Once `csil-history.jordanforge.ca` is the Pages custom domain, GitHub redirects that `github.io` URL to the canonical hostname so it does not remain a second, unmaintained copy.
 
 ## What this project is
 
