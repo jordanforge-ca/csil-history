@@ -88,7 +88,7 @@
   source_ids:
     - src-gauthier-2014-sci-slides
     - src-wanted-ministry-csil-pilot-records
-  notes: "Gauthier 2014 says established in 1993. Do not silently reconcile with 1994 rows. No 1993 ministry file inspected."
+  notes: "Gauthier 2014 says established in 1993. Treat as a conflicting later start-year label, not a verified distinct 1993 stage. Do not silently reconcile with 1994 rows. No 1993 ministry file inspected. See the CSIL design and pilot chapter (PARTIAL STAGED CHRONOLOGY)."
 
 - id: tl-1994-csil-pilot
   title: "CSIL pilot / 'established' 1994 (contested starting year)"
@@ -105,8 +105,7 @@
     - src-gauthier-2015-module1
     - src-ifrc-our-team
     - src-wanted-ministry-csil-pilot-records
-    - src-wanted-ecpm-manuals
-  notes: "Ombudsperson 2012: created as a pilot in 1994. Gauthier 2015 and IFRC Our Team also use 1994. A 1994 ECPM training revision remains unfound. Preserve disagreement with the 1993 row."
+  notes: "Ombudsperson 2012 assigns pilot/created/introduced to 1994 (later official). Gauthier 2015 and IFRC also use 1994 as established/start. Candidate pilot-stage year; not reconciled with the 1993 recollection or with missing ministry instruments. A 1994 ECPM training revision is a separate, still-unresolved identity question (see the ECPM chapter)."
 
 - id: tl-1995-province-wide
   title: "Province-wide CSIL availability (later official chronology)"
@@ -116,12 +115,12 @@
   date_precision: approximate
   confidence: bibliographically-confirmed
   period: province-wide
-  href: sources/2012-ombudsperson-best-of-care.qmd
+  href: history/csil-pilot.qmd
   sources_display: "Ombudsperson, Best of Care Part 2 (2012); HEU Guardian Nov/Dec 1995"
   source_ids:
     - src-ombudsperson-2012-best-of-care
     - src-heu-guardian-1995-novdec
-  notes: "2012 Ombudsperson report states CSIL was implemented province-wide in 1995 (later official chronology). The Nov/Dec 1995 HEU Guardian still calls CSIL a new/pilot Community Support Branch program and reports about 130 clients. Those two 1995 pictures are not automatically the same event."
+  notes: "2012 Ombudsperson: province-wide in 1995 (later official stage). Nov/Dec 1995 HEU still calls CSIL a new/pilot Community Support Branch / Continuing Care Division program (~130 clients). Do not treat province-wide 1995 as contemporaneously verified; keep both pictures visible."
 
 - id: tl-2008-program-review
   title: "CSIL Program Review Synthesis Report (November 2008)"

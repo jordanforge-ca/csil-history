@@ -58,5 +58,5 @@ A later IFRC deck by the same speaker ([2015 Module 1](2015-gauthier-csil-module
 ## Associated claims
 
 - [Wanted Ministry CSIL records](wanted-ministry-csil-pilot-records.qmd)
-- [CSIL design and pilot placeholder](../history/csil-pilot.qmd)
+- [CSIL design and pilot chapter](../history/csil-pilot.qmd)
 - [Paul Gauthier](../people/paul-gauthier.qmd)

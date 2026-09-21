@@ -85,5 +85,5 @@ This archive treats those passages as **later official chronology and a bibliogr
 
 - [Wanted Ministry CSIL records](wanted-ministry-csil-pilot-records.qmd)
 - [2008 Program Review Synthesis Report](2008-program-review-synthesis.qmd)
-- [CSIL design and pilot placeholder](../history/csil-pilot.qmd)
+- [CSIL design and pilot chapter](../history/csil-pilot.qmd)
 - Timeline rows for 1994, 1995, and 2008

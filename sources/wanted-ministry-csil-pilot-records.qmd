@@ -63,7 +63,7 @@ The Roeher bibliography cites Kelly MacKinnon, “Individualized Funding Service
 
 ## Annotation
 
-Public sources now document, in print, three different start-stories: established 1993; established 1994; piloted 1994 and province-wide 1995. They do not replace the missing ministry instruments, and they do not say what each year authorized (design, Treasury Board approval, pilot intake, or broader availability). ECPM as a formal predecessor is still reconstructed from later accounts ([IFRC Our Team](ifrc-our-team.qmd); [Gauthier 2014](2014-gauthier-sci-csil-presentation.qmd)), not from an inspected 1990s ministry file.
+Public sources now document, in print, three different start-stories: established 1993; established 1994; piloted 1994 and province-wide 1995. Experiment 002 classified that pattern as **PARTIAL STAGED CHRONOLOGY**: later official wording assigns different meanings to 1994 (pilot) and 1995 (province-wide), while 1993 remains a conflicting later label and late-1995 HEU still says new/pilot. Those sources do not replace the missing ministry instruments, and they do not say what each year authorized (design, Treasury Board approval, pilot intake, or broader availability). ECPM as a formal predecessor is still reconstructed from later accounts ([IFRC Our Team](ifrc-our-team.qmd); [Gauthier 2014](2014-gauthier-sci-csil-presentation.qmd)), not from an inspected 1990s ministry file. See the [CSIL design and pilot chapter](../history/csil-pilot.qmd).
 
 ## Open questions
 
