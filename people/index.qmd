@@ -25,4 +25,4 @@ Role statements appear only when a cited public source supports them:
 
 Design-group membership is never inferred from later founder language or from Creekview participation.
 
-Do not contact living participants unless a separately agreed research protocol exists. See [CONTRIBUTING.md](https://github.com/jordanforge-ca/csil-history/blob/main/CONTRIBUTING.md).
+Please do not contact people named in this archive, or their families or colleagues, without a separately agreed research protocol. See [CONTRIBUTING.md](https://github.com/jordanforge-ca/csil-history/blob/main/CONTRIBUTING.md).

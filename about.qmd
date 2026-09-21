@@ -30,7 +30,7 @@ The full contributor guide is [CONTRIBUTING.md](https://github.com/jordanforge-c
 4. Preserve disagreement (including 1993 versus 1994 as a CSIL “established” year, and later official 1994-pilot / 1995-province-wide wording versus 1995 newspaper “new/pilot” language).
 5. Keep advocacy out of the historical record.
 6. Design for accessibility first.
-7. Respect living participants; publish personal material only with permission.
+7. Respect people named in this archive, and their families and colleagues; publish personal material only with permission.
 
 A short [summary of what the evidence does and does not show](history/index.qmd#state-of-the-evidence) is on the History page.
 
@@ -50,7 +50,7 @@ How to do it:
 3. Use the [source metadata schema](docs/source-metadata.qmd) and [controlled vocabularies](docs/vocabularies.qmd).
 4. Open a pull request or a GitHub issue. Describe the item; do not attach files of uncertain rights.
 
-Please do not contact living participants unless a separately agreed research protocol exists. That work is out of scope for casual website contributions.
+Please do not contact people named in this archive, or their families or colleagues, without a separately agreed research protocol. That work is out of scope for casual website contributions.
 
 ## Project documentation
 
