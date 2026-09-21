@@ -1,7 +1,7 @@
 ---
 title: "Emma Van der Klift"
 person_id: emma-van-der-klift
-page_status: stub
+page_status: draft
 toc: false
 ---
 
@@ -9,18 +9,26 @@ toc: false
 
 ## Documented role
 
-[Van der Klift and Norman Kunc, “Hell-Bent on Helping” (1994)](../sources/1994-van-der-klift-hell-bent.qmd) is a published chapter on help and inclusive education. It does not name ECPM, CSIL, BC Rehab, Greater Vancouver Home Support Society, or Vancouver Health Department. No inspected public source in this pass identifies her as author of a 1994 ECPM training manual.
+[Van der Klift and Norman Kunc, “Hell-Bent on Helping” (1994)](../sources/1994-van-der-klift-hell-bent.qmd) is a published chapter on help and inclusive education. The inspected Broadreach republication does **not** name ECPM, CSIL, BC Rehab, Greater Vancouver Home Support Society, or Vancouver Health Department.
 
-## Attributed recollection
+No inspected public source in this catalogue identifies her as author of a 1994 ECPM training manual. The 1990 ECPM manual’s Roeher entry names corporate authors only.
 
-None recorded.
+This archive does **not** infer ECPM or CSIL design-group membership.
+
+## Attributed recollection / later organizational wording
+
+None recorded from an inspected public source. The commissioning issue and later research brief *name* her in connection with a possible 1994 ECPM training revision. That is a wanted-source hypothesis, not a cited recollection. See the [wanted ECPM manuals record](../sources/wanted-ecpm-manuals.qmd) and the [ECPM chapter](../history/ecpm.qmd).
+
+## Unresolved
+
+- Whether a 1994 ECPM training manual exists and, if so, whether she is named on it.
+- Whether “1994 ECPM manual” in later notes is a conflicting citation of the 1990 Roeher-cited manual, a distinct edition, or a confusion with this 1994 chapter.
+- Experiment 001 classified that identity question as **INSUFFICIENT EVIDENCE**.
+
+This page does not invite unsolicited contact. Any later verification belongs with [Issue #7](https://github.com/jordanforge-ca/csil-history/issues/7).
 
 ## Sources mentioning this person
 
 - [Hell-Bent on Helping (1994)](../sources/1994-van-der-klift-hell-bent.qmd)
-- [ECPM manuals wanted record](../sources/wanted-ecpm-manuals.qmd) (named in the commissioning issue / research brief only)
-
-## Questions we would like to verify
-
-- Whether a 1994 ECPM training manual exists and, if so, whether she is named on it.
-- Whether “1994 ECPM manual” in later notes is a conflicting citation of the 1990 Roeher-cited manual, a distinct edition, or a confusion with this 1994 chapter.
+- [ECPM manuals wanted record](../sources/wanted-ecpm-manuals.qmd)
+- [ECPM chapter](../history/ecpm.qmd)

@@ -1,7 +1,7 @@
 ---
 title: "Walt Lawrence"
 person_id: walt-lawrence
-page_status: stub
+page_status: draft
 toc: false
 ---
 
@@ -13,27 +13,28 @@ No contemporaneous 1980s source inspected in this archive names Walt Lawrence. [
 
 This archive does **not** treat Lawrence as a CSIL or ECPM design-group member.
 
-## Attributed recollection
+## Attributed recollection / later organizational wording
 
 [Fayerman, *Vancouver Sun*, 20 September 2018](../sources/2018-vancouversun-walt-lawrence.qmd) reports Lawrence describing a 16-year stay at George Pearson Hospital, a group of “five or six” who wanted to direct their own care, a 1985 move into “the Creekview Co-operative Apartment near Granville Island,” an early-1980s Canadian Paraplegic Association cost analysis, and credit to MLA Doug Mowat.
 
 [SCI BC, “Walt’s Time,” 2019](../sources/2019-sci-bc-walts-time.qmd) retells a 1985 move into semi-independent living at a newly constructed **Creekside** development “championed by SCI BC’s Doug Mowat,” and says he lived there until marriage. Contemporaneous sources say **Creekview**. The spelling conflict is recorded, not resolved.
 
-Those are later accounts of Creekview / independent living. They do not, by themselves, define a role in CSIL.
+Those are later accounts of Creekview / independent living. They do not, by themselves, define a role in CSIL. See the [Creekview chapter](../history/creekview.qmd).
+
+## Unresolved
+
+These questions are for a later participant-verification protocol ([Issue #7](https://github.com/jordanforge-ca/csil-history/issues/7)). This page does not invite unsolicited contact.
+
+1. Whether he is one of the six men described in the 1984 and 1986 Hansard sittings.
+2. In 1985–87, who hired, paid, and could dismiss attendants at Creekview.
+3. Whether a written CPA cost analysis before opening is distinct from the 1987 evaluation.
+4. What “Creekview 202” meant to residents.
+5. Whether he, or anyone from Creekview that he knows, later sat on an ECPM or CSIL design or advisory group — and in what documented capacity.
+6. How the 2019 “Creekside” spelling should be treated.
 
 ## Sources mentioning this person
 
 - [Fayerman 2018](../sources/2018-vancouversun-walt-lawrence.qmd)
 - [SCI BC, Walt’s Time (2019)](../sources/2019-sci-bc-walts-time.qmd)
 - [Creekview chapter](../history/creekview.qmd)
-
-## Questions we would like to verify
-
-These questions are for a later participant-verification protocol ([Issue #7](https://github.com/jordanforge-ca/csil-history/issues/7)). This stub does not invite unsolicited contact.
-
-1. Are you one of the six men described in the 1984 and 1986 Hansard sittings?
-2. In 1985–87, who hired, paid, and could dismiss attendants at Creekview?
-3. Was there a written CPA cost analysis before opening that is distinct from the 1987 evaluation?
-4. What did “Creekview 202” mean to residents?
-5. Did you, or anyone from Creekview that you know, later sit on an ECPM or CSIL design or advisory group? If so, in what documented capacity?
-6. How should the 2019 “Creekside” spelling be treated?
+- [Doug Mowat](doug-mowat.qmd)
