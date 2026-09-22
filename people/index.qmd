@@ -14,15 +14,15 @@ listing:
 toc: false
 ---
 
-These pages attach public evidence to names. **They are not biographies.**
+These pages collect public evidence about people who appear in the CSIL history. They are **role records, not biographies**.
 
-Role statements appear only when a cited public source supports them:
+Each page separates:
 
-1. Documented role (cited)
-2. Later accounts
-3. Unresolved
-4. Sources mentioning the person
+1. documented roles supported by cited sources
+2. later accounts and retrospective descriptions
+3. unresolved claims or gaps
+4. sources that mention the person
 
-Design-group membership is never inferred from later founder language or from Creekview participation.
+The archive does not infer design-group membership, formal authority, or a founder role simply because someone appears in Creekview or is described that way in a later source.
 
-Please do not contact people named in this archive, or their families or colleagues, without a separately agreed research protocol. See [CONTRIBUTING.md](https://github.com/jordanforge-ca/csil-history/blob/main/CONTRIBUTING.md).
+Please do not contact people named here, or their families or colleagues, without a separately agreed research protocol. See [CONTRIBUTING.md](https://github.com/jordanforge-ca/csil-history/blob/main/CONTRIBUTING.md).
