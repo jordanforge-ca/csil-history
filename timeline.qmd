@@ -1,6 +1,6 @@
 ---
 title: "Timeline"
-subtitle: "Working dates, how sure we are, and associated sources"
+subtitle: "Working dates, confidence, and associated sources"
 listing:
   - id: timeline-events
     contents: data/timeline.yml
@@ -18,10 +18,10 @@ listing:
 toc: false
 ---
 
-The same dates appear in the [History](history/index.qmd) chapters.
+This timeline is a research aid for the [History](history/index.qmd) chapters. It places events and claims in chronological order while keeping uncertainty visible.
 
-Dates here are **working dates** unless a linked source record says a copy was read. Approximate and contested dates are labelled in the Date column. The 1993 and 1994 CSIL rows are both kept. The 1995 row keeps later official “province-wide” wording beside 1995 newspaper “new/pilot” wording. Later sources disagree about the start year; the available records do not settle it.
+Dates are **working dates** unless a linked source record shows otherwise. Approximate or contested dates are labelled. The 1993 and 1994 CSIL entries are both retained because later sources disagree about the program's starting year; the 1995 entry preserves both later official “province-wide” wording and contemporary “new/pilot” wording.
 
-The status column says how much public evidence currently supports the row.
+The **Confidence / status** column indicates how strongly the available public evidence supports each entry. Follow the associated source links before treating a date or description as settled.
 
-On small screens the timeline table scrolls sideways inside its own region. Tab to that region to scroll it with the keyboard. The rest of the page should not require horizontal scrolling.
+On small screens, the timeline table scrolls horizontally within its own region. Keyboard users can tab to that region and scroll it independently.

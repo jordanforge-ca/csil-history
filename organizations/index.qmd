@@ -1,30 +1,28 @@
 ---
 title: "Organizations"
-subtitle: "Names appearing in public source descriptions — not organizational histories"
+subtitle: "Documented names and roles — not organizational histories"
 ---
 
-This section will hold one page per organization once a cited public source supports more than a name. This archive does **not** write organizational histories on this page.
+This page tracks organizations named in the evidence. A listing means only that the archive can connect a name to a public source or an identified research lead; it does **not** establish legal continuity, institutional responsibility, or a role in creating CSIL.
 
-Listing a name only means the archive can attach evidence to it. It is not a claim about legal status, continuity, or a role in CSIL.
+Where inspected sources describe a function, that function is stated narrowly. Where a name comes only from early project notes, it remains labelled that way.
 
-## Names from early project notes
+## Names first identified in project notes
 
 | Name as first listed for this archive | Why the name appears here |
 | --- | --- |
 | BC Rehabilitation Society (also “BC Rehab”) | Named as creator of *Keys on Freedom* and, with Greater Vancouver Home Support Society, of ECPM manual(s) |
 | Greater Vancouver Home Support Society | Named with BC Rehab on ECPM manual(s) |
 | Ryan & Wiggins | Named with Patricia Ryan on the Creekview 202 evaluation; not independently confirmed on an inspected title page |
-| British Columbia Ministry of Health, Continuing Care Division / Community Support Branch | Named as the likely administrative home of 1993–95 CSIL pilot/design records; HEU *Guardian* Nov/Dec 1995 independently attests that home for a new/pilot CSIL program |
+| British Columbia Ministry of Health, Continuing Care Division / Community Support Branch | Named as the likely administrative home of 1993–95 CSIL pilot/design records; the HEU *Guardian* Nov/Dec 1995 independently places a new/pilot CSIL program there |
 | British Columbia Ministry of Health Services | Named on the cover and prepared-by page of the November 2008 synthesis report |
-| James Murtagh Consulting | Named as preparer on the November 2008 synthesis report’s prepared-by page |
+| James Murtagh Consulting | Named as preparer on the November 2008 synthesis report's prepared-by page |
 
-: Organization names taken from the wanted-source descriptions used when this archive was first planned
+Some of these names also appear in inspected public sources. For example, BC Rehab and Greater Vancouver Home Support Society appear in the [Roeher bibliography](../sources/1990s-roeher-if-bibliography.qmd), while the Ministry of Health Services and James Murtagh Consulting appear on the [2008 Program Review Synthesis Report](../sources/2008-program-review-synthesis.qmd).
 
-Names now also appear in inspected public sources (for example BC Rehab and Greater Vancouver Home Support Society in the [Roeher bibliography](../sources/1990s-roeher-if-bibliography.qmd); Ministry of Health Services, Home and Community Care Branch, Health Authorities Division, and James Murtagh Consulting on the [2008 Program Review Synthesis Report](../sources/2008-program-review-synthesis.qmd)). Listing a name is still not an organizational history.
+## Organizations in inspected Creekview-period sources
 
-## Names in inspected Creekview-period sources
-
-Documented functions only. See the [Creekview chapter](../history/creekview.qmd).
+The table below records only functions described in sources that have been inspected. See the [Creekview chapter](../history/creekview.qmd) for the narrative context.
 
 | Name as it appears in inspected sources | Documented function in those sources | Sources |
 | --- | --- | --- |
@@ -35,8 +33,6 @@ Documented functions only. See the [Creekview chapter](../history/creekview.qmd)
 | Workers Compensation Board | Haw: funding to tenants through CPA, with the ministry | Haw 1989 |
 | Canada Mortgage and Housing Corporation (CMHC) | Haw: funded the 100-unit cooperative building | Haw 1989 |
 
-: Organization names and functions attested in inspected Creekview sources
+Creekview remains a [history chapter](../history/creekview.qmd), rather than an organization record, because the inspected sources describe a co-op apartment or project and do not establish a separate corporate form.
 
-Creekview remains a [history chapter](../history/creekview.qmd), not an organization stub, because inspected sources describe a co-op apartment / project and do not state a separate corporate form.
-
-When you add an organization page, separate documented functions (cited) from later attributions, and link every claim to a [source record](../sources/index.qmd).
+Future organization records should keep documented functions separate from later attributions and link each claim to a [source record](../sources/index.qmd).
