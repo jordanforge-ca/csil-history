@@ -1,6 +1,6 @@
 ---
 title: "Wanted Sources"
-subtitle: "Known to exist — copy sought"
+subtitle: "Known or reported records still being sought"
 listing:
   - id: wanted-source-records
     contents:
@@ -21,61 +21,64 @@ listing:
 toc: true
 ---
 
-These items were first listed as wanted documents for the public catalogue ([jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10)). A September 2026 public-source pass looked for independent bibliographic evidence. Where a catalogue record, a citation from the time, or a later official page was actually seen, the individual wanted record cites **that** evidence. Where nothing was found, the record says so.
+This page tracks the most important missing records in the CSIL history. A September 2026 public-source review looked for independent evidence that each item existed and recorded what was found.
 
-**Four copies are still sought** (Creekview evaluation, *Keys on Freedom*, ECPM manual(s), and original ministry CSIL pilot/design records). The November 2008 program-review synthesis is no longer copy-sought: a Microlog fiche is inspectable on Internet Archive (see below). Do not treat a remaining wanted row as an inspected text.
+**Four source groups remain open.** A wanted record is not an inspected text: follow the catalogue link for the evidence supporting its existence, the searches already attempted, and the unresolved questions.
 
 ## 1. Creekview 202 Project Evaluation Report
 
-- **Creator as first named for this archive:** Patricia Ryan / Ryan & Wiggins
-- **Date as named:** c. 1987
-- **Independent public evidence now cited:** [Mattinson and Rompf 1987](../sources/1987-mattinson-rompf-creekview.qmd) (PubMed abstract: formal evaluation completed by the B.C. provincial government and CPA); [Haw 1989](../sources/1989-haw-special-housing-needs.qmd) (“an independent evaluation of Creekview 202 was published” in 1987). Contemporaneous Creekview setting: [Hansard 1984](../sources/1984-hansard-mowat-creekview.qmd) and [1986](../sources/1986-hansard-nielsen-creekview.qmd).
-- **Still missing:** the evaluation itself; any catalogue record naming Ryan / Ryan & Wiggins; any CMHC bibliography citing this title.
-- **Leads noted during the Creekview chapter:** full *Dimensions in Health Service* article; library records for Ryan / Ryan & Wiggins; April 1986 ministry correspondence Nielsen mentioned; CPA project files. See the [wanted evaluation record](../sources/wanted-creekview-202-evaluation.qmd).
-- **Authorship conflict preserved:** government-and-CPA (1987 abstract) versus Ryan / Ryan & Wiggins (early project notes) versus unnamed “independent” (Haw).
-- **Catalogue record:** [Creekview 202 Project Evaluation Report](../sources/wanted-creekview-202-evaluation.qmd)
+A formal Creekview evaluation is independently supported by a 1987 PubMed abstract and Haw's 1989 overview. The report itself has not been recovered.
 
-## 2. Keys on Freedom
+- **Date:** about 1987
+- **Authorship:** unresolved. Early project notes name Patricia Ryan / Ryan & Wiggins; inspected sources instead refer to a government-and-CPA or independent evaluation.
+- **Useful leads:** the full *Dimensions in Health Service* article, library records, ministry correspondence, and Canadian Paraplegic Association project files
+- **Record:** [Creekview 202 Project Evaluation Report](../sources/wanted-creekview-202-evaluation.qmd)
 
-- **Full title as named:** Keys on Freedom: Resource manual for the development of self-managed community living alternatives for quadriplegic persons
-- **Creator as named:** BC Rehabilitation Society
-- **Date as named:** c. 1990
-- **Public evidence now cited:** none found. Targeted CMHC / publications.gc.ca and bibliographic searches in this pass did not confirm title, author, or year. The Roeher bibliography does not list the title.
-- **Catalogue record:** [Keys on Freedom](../sources/wanted-keys-on-freedom.qmd)
+## 2. *Keys on Freedom*
+
+Early project notes describe a resource manual called *Keys on Freedom: Resource manual for the development of self-managed community living alternatives for quadriplegic persons*, attributed to BC Rehabilitation Society around 1990.
+
+No independent public record confirming the title, author, or year has yet been found.
+
+- **Record:** [*Keys on Freedom*](../sources/wanted-keys-on-freedom.qmd)
 
 ## 3. Enhanced Consumer Participation Model (ECPM) manual(s)
 
-- **Creator as named:** BC Rehab / Greater Vancouver Home Support Society
-- **Date as named:** c. 1990 and possibly a 1994 training revision
-- **Public evidence now cited:** Roeher / Salisbury bibliography independently cites *Enhanced Consumer Participation Model: Skill Development Manual for Consumers of Home Support Services* (BC Rehab & Greater Vancouver Home Support Society, 1990; five modules; 52 pages plus appendices). See [that finding aid](../sources/1990s-roeher-if-bibliography.qmd).
-- **Still missing:** the manual itself; any 1994 revision; title-page authorship (including any role for Emma Van der Klift). Van der Klift’s 1994 chapter that we have read is [a different work](../sources/1994-van-der-klift-hell-bent.qmd). Current [Vancouver Coastal Health CSIL pages](../sources/vch-csil-service-page.qmd) do not use the ECPM name. The evidence is not clear enough to say whether a 1994 ECPM manual is a distinct work. Narrative: [ECPM chapter](../history/ecpm.qmd).
-- **Catalogue record:** [ECPM manual(s)](../sources/wanted-ecpm-manuals.qmd)
+A Roeher / Salisbury bibliography independently lists a 1990 *Enhanced Consumer Participation Model: Skill Development Manual for Consumers of Home Support Services*, produced by BC Rehab and Greater Vancouver Home Support Society. The manual itself has not been recovered.
+
+A possible 1994 revision remains unconfirmed, as does any title-page role for Emma Van der Klift.
+
+- **Finding aid:** [Roeher / Salisbury bibliography](../sources/1990s-roeher-if-bibliography.qmd)
+- **Narrative:** [ECPM chapter](../history/ecpm.qmd)
+- **Record:** [ECPM manual(s)](../sources/wanted-ecpm-manuals.qmd)
 
 ## 4. Original Ministry of Health CSIL pilot/design records
 
-- **Date as named:** approximately 1993–95
-- **Likely administrative home as named:** Continuing Care Division / Community Support Branch
-- **Public evidence now cited:** later accounts disagree — [Gauthier 2014](../sources/2014-gauthier-sci-csil-presentation.qmd) says established 1993; [Gauthier 2015](../sources/2015-gauthier-csil-module-1.qmd) and [IFRC Our Team](../sources/ifrc-our-team.qmd) say 1994; [Ombudsperson 2012](../sources/2012-ombudsperson-best-of-care.qmd) says **pilot 1994, province-wide 1995**. [HEU *Guardian* Nov/Dec 1995](../sources/1995-heu-guardian-novdec.qmd) calls CSIL a new/pilot program of the Community Support Branch, Continuing Care Division. The exact start date is not completely clear; later official records give 1994 and 1995 different meanings, while a 1995 newspaper still said new/pilot. Narrative: [CSIL design and pilot](../history/csil-pilot.qmd).
-- **Catalogue record:** [Ministry CSIL pilot/design records](../sources/wanted-ministry-csil-pilot-records.qmd)
+These are the most important missing records for establishing how CSIL was designed and introduced in the early 1990s.
 
-## Recovered (no longer copy-sought): 2008 CSIL Program Review Synthesis Report
+Later sources disagree about timing: Paul Gauthier materials use 1993 or 1994; the 2012 Ombudsperson report describes a **1994 pilot** and **1995 province-wide availability**; the late-1995 HEU *Guardian* still described CSIL as new or a pilot within the Community Support Branch / Continuing Care Division.
 
-- **Cover title as inspected:** Choice in Supports for Independent Living (CSIL) Program Review
-- **Cover subtitle as inspected:** Synthesis Report
-- **Prepared by (title page):** James Murtagh Consulting for Home and Community Care Branch, Health Authorities Division, BC Ministry of Health Services
-- **Date on cover / prepared-by page:** November 2008 / November, 2008
-- **Public copy:** Internet Archive Microlog fiche [`micro_IA40244204_0972`](https://archive.org/details/micro_IA40244204_0972)
+The archive needs original ministry records from approximately 1993–95 to clarify what each date represented, who participated in the design, and how the pilot moved into a broader program.
+
+- **Narrative:** [CSIL design and pilot](../history/csil-pilot.qmd)
+- **Record:** [Ministry CSIL pilot/design records](../sources/wanted-ministry-csil-pilot-records.qmd)
+
+## Recovered: 2008 CSIL Program Review Synthesis Report
+
+The November 2008 *Choice in Supports for Independent Living (CSIL) Program Review: Synthesis Report* is no longer a wanted source. A Microlog fiche is publicly inspectable on Internet Archive.
+
+- **Prepared by:** James Murtagh Consulting for Home and Community Care Branch, Health Authorities Division, BC Ministry of Health Services
+- **Public copy:** [Internet Archive Microlog fiche](https://archive.org/details/micro_IA40244204_0972)
 - **Catalogue record:** [2008 Program Review Synthesis Report](../sources/2008-program-review-synthesis.qmd)
-- **Still not treated as settled:** *Best of Care*’s “provincial review in 2007” versus this November 2008 synthesis; 1993 versus 1994 (the report says only “the 1990's”).
 
-## Searches documented in this pass
+The report says only that CSIL dates to “the 1990's”; it does not settle the 1993-versus-1994 question. The Ombudsperson's reference to a “provincial review in 2007” also remains to be reconciled with this November 2008 synthesis.
 
-Public web; PubMed (PMID 3691990); BC Hansard HTML (1984, 1986; later Creekview sittings not found); HEU Guardian archive (Nov/Dec 1995 PDF retrieved); bcombudsperson.ca *Best of Care* PDFs; Internet Archive advanced search (zero hits for the Creekview evaluation title, “Enhanced Consumer Participation Model,” and “Keys on Freedom” + quadriplegic); WorldCat-style and CMHC / publications.gc.ca web searches (no *Keys on Freedom* hit); gov.bc.ca, vch.ca, and openinfo.gov.bc.ca PDFs; SCI BC and IFRC pages; Polio Place conference OCR; CanLII commentary PDF; Governor General honours page for Paul Gauthier; Broadreach Van der Klift pages.
+## Search status
 
-UBC, SFU, Legislative Library of British Columbia, and CMHC Housing Knowledge Centre native catalogue interfaces were not successfully queried. They remain useful next checks.
+Public web, PubMed, BC Hansard, the HEU *Guardian* archive, the B.C. Ombudsperson site, Internet Archive, government sites, SCI BC, IFRC, Governor General honours material, and several bibliographic searches have been checked. Native catalogues at UBC, SFU, the Legislative Library of British Columbia, and the CMHC Housing Knowledge Centre remain useful next steps.
 
-A later 20 September 2026 follow-up opened the Internet Archive Microlog item `micro_IA40244204_0972` (*Choice in Supports for Independent Living (CSIL) program review synthesis report*). The earlier advanced-search note that IA “did not return either title” for the 2008 review was a miss; the fiche is public. Creekview, *Keys on Freedom*, ECPM, and ministry pilot/design copies were not recovered in that follow-up.
+Detailed search notes belong in the individual wanted-source records rather than being repeated here.
 
 ## If you have a lead
 
-Open a GitHub issue describing the item and where a public copy might live. Do **not** email or attach files of uncertain copyright, and do not send private or health-related records. See [copyright policy](../docs/copyright-policy.qmd).
+Open a GitHub issue describing the item and where a public copy might be found. Do **not** email or attach files of uncertain copyright, and do not send private or health-related records. See the [copyright policy](../docs/copyright-policy.qmd).
