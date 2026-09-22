@@ -5,59 +5,63 @@ subtitle: "Purpose, editorial rules, and how to add evidence"
 
 ## What this site is
 
-The CSIL History Archive is a public website for a source-based history of Choice in Supports for Independent Living (CSIL) in British Columbia. It privileges an annotated bibliography and source-location records over a closed story. Core history chapters reconstruct what public sources support; missing documents and conflicting dates stay visible.
+The CSIL History Archive is a public, source-driven history of Choice in Supports for Independent Living (CSIL) in British Columbia.
 
-The site is intentionally small and durable: Markdown files, structured front matter, a bibliography file, and static HTML. There is no database or application backend.
+The site is designed as both a readable history and a research tool. Narrative chapters explain what the current evidence supports; the source catalogue shows the records behind those statements. Missing documents, conflicting dates, and unresolved claims remain visible rather than being silently reconciled.
+
+The project is intentionally small and durable: Markdown, structured metadata, a bibliography, and static HTML.
 
 ## What this site is not
 
-- A complete history of CSIL or independent living in British Columbia (core chapters are reconstructions from cited sources; many documents remain wanted)
-- A current-program handbook or benefits explainer
-- An advocacy or campaign landing page
-- A place to store private employer, health, or correspondence files
+- a complete history of CSIL or independent living in British Columbia
+- a current-program handbook or benefits explainer
+- an advocacy or campaign site
+- a repository for private employer, health, or correspondence records
 
 ## How to read the history
 
-The [History](history/index.qmd) chapters follow a possible order of events: earlier housing and support arrangements, then Creekview, ECPM, CSIL’s early years, and later changes. The [Creekview chapter](history/creekview.qmd) reconstructs the mid-1980s project from 1984–89 sources we have read, and it also holds the earlier housing-and-support context. The evidence does not show that Creekview formally became ECPM, or that ECPM formally became CSIL. That sequence remains a possible reading order on [History](history/index.qmd) and the [Timeline](timeline.qmd).
+Start with the [History overview](history/index.qmd). It follows a useful reading sequence from earlier housing and support arrangements through Creekview, ECPM, CSIL's early years, and later changes.
+
+That sequence is not presented as a proven institutional chain. The surviving evidence does not show that Creekview formally became ECPM or that ECPM formally became CSIL. The [Timeline](timeline.qmd) keeps disputed dates visible, while the [Sources](sources/index.qmd) catalogue shows the evidence behind individual claims.
 
 ## Editorial principles
 
-The full contributor guide is [CONTRIBUTING.md](https://github.com/jordanforge-ca/csil-history/blob/main/CONTRIBUTING.md). In short:
+The full contributor guide is [CONTRIBUTING.md](https://github.com/jordanforge-ca/csil-history/blob/main/CONTRIBUTING.md). The core rules are:
 
-1. Evidence before narrative.
+1. **Evidence before narrative.**
 2. Prefer sources from the time, or close to the events.
-3. Separate fact, attribution, and interpretation.
-4. Preserve disagreement (including 1993 versus 1994 as a CSIL “established” year, and later official 1994-pilot / 1995-province-wide wording versus 1995 newspaper “new/pilot” language).
+3. Separate documented fact, attribution, and interpretation.
+4. Preserve disagreement and uncertainty rather than forcing a single answer.
 5. Keep advocacy out of the historical record.
 6. Design for accessibility first.
-7. Respect people named in this archive, and their families and colleagues; publish personal material only with permission.
+7. Respect people named in the archive, including their families and colleagues.
 
-A short [summary of what the evidence does and does not show](history/index.qmd#state-of-the-evidence) is on the History page.
+The [History overview](history/index.qmd#state-of-the-evidence) summarizes what is well established, what comes from later accounts, and what remains unresolved.
 
 ## How to contribute {#how-to-contribute}
 
 Useful contributions include:
 
-- a catalogue record for a public document, with a stable link
-- a correction to a citation, date precision, or status label
+- a public document or catalogue record with a stable link
+- a correction to a citation, date, or evidence-status label
 - a scan or transcript **only** when redistribution is clearly permitted
 - an oral-history note that already has publication permission
 
-How to do it:
+To contribute:
 
 1. Read [CONTRIBUTING.md](https://github.com/jordanforge-ca/csil-history/blob/main/CONTRIBUTING.md).
-2. Copy the [example source record](sources/example-template-source-record.qmd).
-3. Use the [source metadata schema](docs/source-metadata.qmd) and [controlled vocabularies](docs/vocabularies.qmd).
-4. Open a pull request or a GitHub issue. Describe the item; do not attach files of uncertain rights.
+2. Use the [example source record](sources/example-template-source-record.qmd) for a new source.
+3. Follow the [source metadata schema](docs/source-metadata.qmd) and [controlled vocabularies](docs/vocabularies.qmd).
+4. Open a pull request or GitHub issue. Describe the item; do not attach files of uncertain rights.
 
-Please do not contact people named in this archive, or their families or colleagues, without a separately agreed research protocol. That work is out of scope for casual website contributions.
+Please do not contact people named in this archive, or their families or colleagues, without a separately agreed research protocol.
 
 ## Project documentation
 
 | Page | Contents |
 | --- | --- |
 | [Source metadata schema](docs/source-metadata.qmd) | Front matter fields for source records |
-| [Controlled vocabularies](docs/vocabularies.qmd) | Allowed values for type, availability, period, topics |
+| [Controlled vocabularies](docs/vocabularies.qmd) | Allowed values for type, availability, period, and topics |
 | [Evidence and verification statuses](docs/evidence-status.qmd) | How uncertainty is labelled |
 | [Copyright and source-file policy](docs/copyright-policy.qmd) | What may be hosted in `documents/` |
 | [Accessibility](docs/accessibility.qmd) | Requirements, CI checks, and known limits |
@@ -65,8 +69,8 @@ Please do not contact people named in this archive, or their families or colleag
 
 ## License
 
-Original writing and configuration in this repository are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Historical source documents, including any future files in `documents/`, **do not inherit** that license.
+Original writing and configuration in this repository are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Historical source documents, including any future files in `documents/`, **do not inherit** that licence.
 
 ## Project note
 
-This public repository was started from [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). Use that issue as product context only. Do not copy private infrastructure or private CSIL records into this archive.
+This public repository was started from [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). Use that issue as product context only; do not copy private infrastructure or private CSIL records into this archive.
