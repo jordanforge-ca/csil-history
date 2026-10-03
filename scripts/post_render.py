@@ -17,6 +17,8 @@ runs after every `quarto render` and:
 11. Keeps a single banner landmark (title block is not a second <header>)
 12. Wraps wide data tables in a keyboard-focusable scroll region
 13. Places the production jordanforge corner mark in the navbar title link
+14. Adds one "Published by jordanforge.ca" link under that title
+15. Gives the navbar and section disclosure buttons visible text labels
 
 Standard library only. Safe to run more than once.
 """
@@ -101,6 +103,24 @@ MAKER_MARK_RE = re.compile(
     r'(<a class="navbar-brand"(?![^>]*\bnavbar-brand-logo\b)[^>]*>)\s*(<span class="navbar-title">)',
     flags=re.IGNORECASE,
 )
+BRAND_BLOCK_RE = re.compile(
+    r'(<div class="navbar-brand-container[^"]*"[^>]*>\s*)'
+    r'(<a class="navbar-brand"(?![^>]*\bnavbar-brand-logo\b)[^>]*>.*?</a>)',
+    flags=re.IGNORECASE | re.DOTALL,
+)
+PUBLISHER = (
+    '<a class="navbar-publisher" href="https://jordanforge.ca">'
+    '<span class="navbar-publisher-prefix">Published by</span> '
+    '<span class="navbar-publisher-name">jordanforge.ca</span></a>'
+)
+MENU_BUTTON_RE = re.compile(
+    r'<button class="navbar-toggler"[^>]*>.*?</button>',
+    flags=re.IGNORECASE | re.DOTALL,
+)
+SECTION_BUTTON_RE = re.compile(
+    r'<button type="button" class="quarto-btn-toggle btn"[^>]*>.*?</button>',
+    flags=re.IGNORECASE | re.DOTALL,
+)
 
 
 def page_key(path: Path, site_root: Path) -> str:
@@ -156,27 +176,66 @@ def inject_skip_and_main(html: str) -> str:
 
 
 def inject_maker_mark(html: str, rel: str) -> str:
-    """Decorative jordanforge mark inside the existing product-title link.
+    """Decorative jordanforge mark plus one publisher link.
 
-    The product name remains the link's accessible name. Maker attribution
-    is the footer text link, not this image. The path is relative so the
-    mark works at the subdomain root and at a project-pages subpath.
+    The product name remains the title link's accessible name. The mark is
+    decorative (alt=""). Maker attribution is the separate
+    "Published by jordanforge.ca" link, not a second copy in the footer.
+    The path is relative so the mark works at the subdomain root and at a
+    project-pages subpath.
     """
 
-    if "navbar-maker-mark" in html and "assets/fonts/fonts.css" in html:
-        return html
     prefix = "../" * rel.count("/")
     if "assets/fonts/fonts.css" not in html:
         link = f'<link href="{prefix}assets/fonts/fonts.css" rel="stylesheet">\n'
         html = html.replace("</head>", link + "</head>", 1)
-    if "navbar-maker-mark" in html:
-        return html
     img = (
         '<img class="navbar-maker-mark" '
         f'src="{prefix}assets/brand/jordanforge-corner-mark-dark.svg" '
-        'alt="" width="32" height="32">'
+        'alt="" width="40" height="40">'
     )
-    return MAKER_MARK_RE.sub(rf"\1{img}\2", html, count=1)
+    if "navbar-maker-mark" not in html:
+        html = MAKER_MARK_RE.sub(rf"\1{img}\2", html, count=1)
+    if "navbar-publisher" not in html:
+        html = BRAND_BLOCK_RE.sub(rf"\1\2{PUBLISHER}", html, count=1)
+    return html
+
+
+def label_disclosure_buttons(html: str) -> str:
+    """Visible labels that match the accessible names of icon disclosures."""
+
+    def menu(m: re.Match[str]) -> str:
+        tag = m.group(0)
+        if "navbar-toggler-label" in tag:
+            return tag
+        tag = re.sub(r'aria-label="[^"]*"', 'aria-label="Menu"', tag, count=1)
+        tag = tag.replace(
+            '<span class="navbar-toggler-icon"></span>',
+            '<span class="navbar-toggler-icon" aria-hidden="true"></span>'
+            '<span class="navbar-toggler-label">Menu</span>',
+            1,
+        )
+        return tag
+
+    def sections(m: re.Match[str]) -> str:
+        tag = m.group(0)
+        if "sidebar-toggle-label" in tag:
+            return tag
+        tag = re.sub(r'aria-label="[^"]*"', 'aria-label="Sections"', tag, count=1)
+        tag = tag.replace(
+            '<i class="bi bi-layout-text-sidebar-reverse"></i>',
+            '<i class="bi bi-layout-text-sidebar-reverse" aria-hidden="true"></i>',
+            1,
+        )
+        tag = tag.replace(
+            "</button>",
+            '<span class="sidebar-toggle-label">Sections</span></button>',
+            1,
+        )
+        return tag
+
+    html = MENU_BUTTON_RE.sub(menu, html, count=1)
+    return SECTION_BUTTON_RE.sub(sections, html)
 
 
 def label_landmarks(html: str) -> str:
@@ -322,11 +381,13 @@ def mark_external_links(html: str) -> str:
         )
         if "skip-link" in start:
             return m.group(0)
+        url_match = re.search(r'href="([^"]*)"', href, flags=re.IGNORECASE)
+        url = url_match.group(1) if url_match else href
         extra = ""
-        if href.lower().endswith(".pdf"):
+        if url.lower().split("?", 1)[0].endswith(".pdf"):
             extra += PDF
-        if href.startswith(("http://", "https://")):
-            if not any(host in href for host in INTERNAL_HOSTS):
+        if url.startswith(("http://", "https://")):
+            if not any(host in url for host in INTERNAL_HOSTS):
                 extra += EXTERNAL
         if extra and extra not in inner:
             inner = inner + extra
@@ -412,6 +473,7 @@ def patch(path: Path, site_root: Path) -> bool:
     html = path.read_text(encoding="utf-8")
     html = inject_skip_and_main(html)
     html = inject_maker_mark(html, rel)
+    html = label_disclosure_buttons(html)
     html = label_landmarks(html)
     html = mark_current_page(html, rel)
     html = caption_tables(html, rel)

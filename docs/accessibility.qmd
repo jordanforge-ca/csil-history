@@ -43,7 +43,7 @@ The current page is indicated by **`aria-current="page"` plus underline/weight p
 
 ### 4. Visible `:focus-visible` rings
 
-Do not remove outlines. `styles.scss` sets a 3px ember (`#C8653A`) outline plus a white/ember double `box-shadow`. Ember on cream is about 3.5:1 and ember on forge purple is about 4.5:1, so the ring stays ≥3:1 on both the light page and the dark navbar. Ember is not used for body text.
+Do not remove outlines. `styles.scss` sets a 3px signal-blue (`#3C63C7`) outline plus a warm-paper halo and a second signal-blue ring. Signal blue on warm paper is about 5.2:1. Signal blue on aubergine is only about 3.1:1, so the halo is what keeps the ring clearly separated on the dark navbar. Signal blue is the focus and link colour. It is not used as the only indicator of the current page.
 
 **Blocker if a control we added has `outline: none` without a visible replacement.**
 
@@ -55,7 +55,7 @@ Do not remove outlines. `styles.scss` sets a 3px ember (`#C8653A`) outline plus 
 
 ### 6. Reflow at 200% zoom / ~320px width
 
-The header is **static, not sticky**, so chrome cannot cover wrapped text. Body text uses `overflow-wrap`. Wide tables may scroll **inside** a `.table-scroll` region (`role="region"`, `tabindex="0"`, named as a horizontally scrollable table); the page’s prose must not require horizontal scrolling. The Timeline page also has a short note that the grid scrolls sideways on small screens. Navbar items collapse to a hamburger below large breakpoints. Toggle controls are at least 44×44 px.
+The header is **static, not sticky**, so chrome cannot cover wrapped text. Body text uses `overflow-wrap`. Wide tables may scroll **inside** a `.table-scroll` region (`role="region"`, `tabindex="0"`, named as a horizontally scrollable table); the page’s prose must not require horizontal scrolling. The Timeline page also has a short note that the grid scrolls sideways on small screens. Navbar items collapse to a visible **Menu** button below 1200px, including iPad landscape, so the seven labels do not wrap into the publisher line. Toggle controls are at least 44×44 px and show their names (“Menu”, “Sections”).
 
 **Blocker if text requires horizontal scrolling or sticky chrome eats content at ~320px or 200% zoom.**
 
@@ -69,12 +69,16 @@ Forbidden sole labels: “click here”, “here”, “read more”, “more”
 
 | Surface | Tokens | Target |
 | --- | --- | --- |
-| Body text | `#3E3A3A` on `#F8F3EA` | ≥4.5:1 (about 10.2:1) |
-| Links and headings | `#1F1626` on `#F8F3EA` | ≥4.5:1 (about 15.8:1) |
-| Navbar | `#F8F3EA` on `#1F1626` | ≥4.5:1 (about 15.8:1) |
-| UI / focus | ember `#C8653A` ring + white halo | ≥3:1 |
+| Body text | carbon `#252529` on warm paper `#FFF7F0` | ≥4.5:1 (about 14.4:1) |
+| Headings | aubergine `#251333` on `#FFF7F0` | ≥4.5:1 (about 16.2:1) |
+| Links | signal-600 `#3153AA` on `#FFF7F0` | ≥4.5:1 (about 6.7:1) |
+| Navbar | `#FFF7F0` on aubergine `#251333` | ≥4.5:1 (about 16.2:1) |
+| UI / focus | signal `#3C63C7` ring + warm-paper halo | ≥3:1 |
+| Essential rules | neutral-600 `#776D67` or brass-600 `#927642` on `#FFF7F0` | ≥3:1 (about 4.8:1 and 4.1:1) |
 
-Source and timeline statuses are **visible text** inside a bordered `.status-label`. Do not encode status by colour alone.
+Named brass `#B39557` is about 2.7:1 on warm paper, and the proposed border tokens `#E5DAD1` / `#C9BBB0` are about 1.3:1 and 1.8:1. They are not used for text or for a boundary a reader must see. The production corner mark is unchanged, including its own brass screw.
+
+Source and timeline statuses are **visible text** inside a bordered `.status-label`. Do not encode status by colour alone. Catalogue tokens use IBM Plex Mono; the words stay the meaning.
 
 **Blocker if status is colour-only or body text fails 4.5:1.**
 
@@ -94,7 +98,7 @@ Any future control must have a programmatic label, text errors, and ~44px target
 
 ### 11. Images and diagrams
 
-Meaningful images need descriptive `alt`. Decorative images use `alt=""`. Do not put critical history only in an image. The navbar carries a decorative jordanforge corner mark (`alt=""`). The maker relationship is the footer link “A jordanforge.ca project”, not the image.
+Meaningful images need descriptive `alt`. Decorative images use `alt=""`. Do not put critical history only in an image. The navbar carries a decorative jordanforge corner mark (`alt=""`). The maker relationship is the separate header link “Published by jordanforge.ca”, not the image and not a second identical footer control. The disclosure buttons show “Menu” and “Sections”, matching their accessible names.
 
 **Blocker if an `<img>` is missing an `alt` attribute.**
 

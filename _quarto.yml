@@ -5,6 +5,13 @@ project:
     - assets/brand/jordanforge-corner-mark-dark.svg
     - assets/fonts/source-serif-4-latin-600-normal.woff2
     - assets/fonts/source-serif-4-latin-700-normal.woff2
+    - assets/fonts/fraunces-latin-600-normal.woff2
+    - assets/fonts/ibm-plex-sans-latin-400-normal.woff2
+    - assets/fonts/ibm-plex-sans-latin-400-italic.woff2
+    - assets/fonts/ibm-plex-sans-latin-500-normal.woff2
+    - assets/fonts/ibm-plex-sans-latin-600-normal.woff2
+    - assets/fonts/ibm-plex-sans-latin-700-normal.woff2
+    - assets/fonts/ibm-plex-mono-latin-400-normal.woff2
     - assets/fonts/fonts.css
   render:
     - "*.qmd"
@@ -25,8 +32,8 @@ website:
     (CSIL) in British Columbia. Evidence archive first; website second.
   search: false
   navbar:
-    background: "#1F1626"
-    foreground: "#F8F3EA"
+    background: "#251333"
+    foreground: "#FFF7F0"
     pinned: false
     title: "CSIL History Archive"
     left:
@@ -76,10 +83,9 @@ website:
   back-to-top-navigation: false
   reader-mode: false
   page-footer:
-    background: "#F8F3EA"
-    foreground: "#3E3A3A"
+    background: "#FFF7F0"
+    foreground: "#252529"
     left: >-
-      [A jordanforge.ca project](https://jordanforge.ca).
       Original site content
       [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
       Historical source documents do not inherit this license.
