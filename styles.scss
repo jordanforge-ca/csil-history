@@ -1,43 +1,56 @@
 /*-- scss:defaults --*/
-// Accessibility baseline overrides on Quarto's default Bootstrap theme.
-// Publication skin uses the jordanforge palette. Purple, cream, and charcoal
-// carry the design. Ember is the focus accent only. Document changes in
-// docs/accessibility.qmd.
+// Digital Forge v2 editorial pilot on the existing Quarto default theme.
+// CSIL History Archive stays the primary identity. Tokens come from the
+// proposed system (aubergine, warm paper, carbon, coral, signal blue, brass).
+// Named brass (#B39557) and the proposed border tokens fail 3:1 on warm
+// paper, so essential rules use darker steps from those same ramps.
+// Documented in docs/accessibility.qmd. Do not remove focus outlines.
 
-$forge-purple: #1F1626;
-$cream: #F8F3EA;
-$charcoal: #3E3A3A;
-$ember: #C8653A;
+$aubergine: #251333;
+$paper: #FFF7F0;
+$carbon: #252529;
+$coral: #BA4029;
+$signal: #3C63C7;
+$signal-link: #3153AA;
+$signal-link-hover: #29458A;
+$signal-on-dark: #94B1F5;
+$brass-rule: #927642; // brass-600: 4.05:1 on warm paper; named brass is 2.69:1
+$muted: #59514D;
+$border-ui: #776D67; // neutral-600: proposed border tokens are under 3:1
+$surface: #FFFDFB;
+$surface-muted: #F5EDE6;
 
-$primary: $forge-purple;
-$link-color: $forge-purple;
-$link-hover-color: $forge-purple;
-$body-color: $charcoal;
-$body-bg: $cream;
-$light: $cream;
-$navbar-bg: $forge-purple;
-$navbar-fg: $cream;
-$navbar-hl: $cream;
-$footer-bg: $cream;
-$footer-fg: $charcoal;
+$primary: $aubergine;
+$link-color: $signal-link;
+$link-hover-color: $signal-link-hover;
+$body-color: $carbon;
+$body-bg: $paper;
+$light: $paper;
+$navbar-bg: $aubergine;
+$navbar-fg: $paper;
+$navbar-hl: $paper;
+$footer-bg: $paper;
+$footer-fg: $carbon;
 $footer-font-size: 1rem;
 $toc-font-size: 1rem;
-$code-color: $forge-purple;
-$code-bg: #ffffff;
-$font-size-root: 18px; // baseline 13: never under 16px; 18–20px preferred
+$code-color: $aubergine;
+$code-bg: $surface-muted;
+$font-size-root: 18px; // baseline 13: never under 16px; 18px kept for this archive
 $font-size-base: 1rem;
 $line-height-base: 1.6;
-$font-family-sans-serif: system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-$headings-font-family: "Source Serif 4", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
-$headings-color: $forge-purple;
+$font-family-sans-serif: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+$font-family-monospace: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
+$headings-font-family: "Fraunces", "Source Serif 4", Georgia, serif;
+$headings-color: $aubergine;
 $headings-font-weight: 600;
-$border-color: $charcoal;
-$input-border-color: $charcoal;
-$focus-ring-color: $ember;
+$border-color: $border-ui;
+$input-border-color: $border-ui;
+$focus-ring-color: $signal;
 
 /*-- scss:rules --*/
-// Source Serif 4 is loaded from assets/fonts/fonts.css so the font files
-// stay beside that stylesheet. Paths inside the Bootstrap bundle would not.
+// Faces load from assets/fonts/fonts.css (injected after render) so paths
+// stay beside the font files. Fraunces is page headings only. Source Serif 4
+// is the jordanforge.ca wordmark, not a heading face.
 
 // ---------------------------------------------------------------------------
 // 1. Skip link — visible on focus, above chrome
@@ -49,11 +62,12 @@ $focus-ring-color: $ember;
   top: 0.5rem;
   z-index: 12000;
   padding: 0.6rem 0.9rem;
-  background: #1F1626;
-  color: #F8F3EA;
-  font-weight: 700;
+  background: $aubergine;
+  color: $paper;
+  font-family: $font-family-sans-serif;
+  font-weight: 600;
   text-decoration: underline;
-  border: 2px solid #F8F3EA;
+  border: 2px solid $paper;
   overflow: hidden;
   clip: rect(0, 0, 0, 0);
   clip-path: inset(50%);
@@ -71,16 +85,18 @@ $focus-ring-color: $ember;
   height: auto;
   overflow: visible;
   white-space: normal;
-  color: #F8F3EA;
+  color: $paper;
 }
 
 // ---------------------------------------------------------------------------
 // 4. Visible :focus-visible rings — do not remove outlines
-//    Double ring (white + orange) so the ring stays ≥3:1 on light and dark UI
+//    Signal blue on warm paper is about 5.2:1. On aubergine it is only
+//    about 3.1:1, so the warm-paper halo keeps the ring clearly separated
+//    on the dark navbar as well as on the page.
 // ---------------------------------------------------------------------------
 
 :focus {
-  outline: 3px solid #C8653A;
+  outline: 3px solid $signal;
   outline-offset: 3px;
 }
 
@@ -89,22 +105,29 @@ $focus-ring-color: $ember;
 }
 
 :focus-visible {
-  outline: 3px solid #C8653A;
+  outline: 3px solid $signal;
   outline-offset: 3px;
-  box-shadow: 0 0 0 3px #ffffff, 0 0 0 6px #C8653A;
+  box-shadow: 0 0 0 3px $paper, 0 0 0 6px $signal;
 }
 
 a.nav-link:focus-visible,
 .navbar-brand:focus-visible,
+.navbar-publisher:focus-visible,
 .navbar-toggler:focus-visible,
 .sidebar a:focus-visible,
 .nav-footer a:focus-visible,
 .toc-action:focus-visible,
 .pagination-link:focus-visible,
+.quarto-btn-toggle:focus-visible,
 .skip-link:focus-visible {
-  outline: 3px solid #C8653A;
+  outline: 3px solid $signal;
   outline-offset: 3px;
-  box-shadow: 0 0 0 3px #ffffff, 0 0 0 6px #C8653A;
+  box-shadow: 0 0 0 3px $paper, 0 0 0 6px $signal;
+}
+
+::selection {
+  background: #DDE7FF;
+  color: #17171A;
 }
 
 // ---------------------------------------------------------------------------
@@ -146,6 +169,7 @@ body.nav-fixed {
   top: auto !important;
   transform: none !important;
   will-change: auto !important;
+  overflow: visible;
 }
 
 .headroom {
@@ -179,9 +203,9 @@ figure,
 .table-scroll {
   display: block;
   max-width: 100%;
-  margin: 0 0 1rem;
-  padding: 0.15rem;
-  border: 1px solid #3E3A3A;
+  margin: 0 0 1.25rem;
+  padding: 0;
+  border: 1px solid $border-ui;
   background: #ffffff;
   overflow-x: auto;
   overscroll-behavior-x: contain;
@@ -189,9 +213,9 @@ figure,
 
 .table-scroll:focus,
 .table-scroll:focus-visible {
-  outline: 3px solid #C8653A;
+  outline: 3px solid $signal;
   outline-offset: 3px;
-  box-shadow: 0 0 0 3px #ffffff, 0 0 0 6px #C8653A;
+  box-shadow: 0 0 0 3px $paper, 0 0 0 6px $signal;
 }
 
 .table-scroll > table {
@@ -225,18 +249,40 @@ video {
 // ---------------------------------------------------------------------------
 
 .navbar .nav-link.active,
-.navbar .nav-link[aria-current="page"],
-.navbar-brand[aria-current="page"] {
+.navbar .nav-link[aria-current="page"] {
   font-weight: 700;
   text-decoration: underline;
-  text-underline-offset: 0.25em;
+  text-decoration-color: $signal-on-dark;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.28em;
+  background-color: transparent;
+}
+
+.navbar .navbar-nav .active {
+  background-color: transparent;
+}
+
+.navbar-brand[aria-current="page"] {
+  font-weight: 700;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.navbar-brand[aria-current="page"] .navbar-title {
+  text-decoration: underline;
+  text-decoration-color: $signal-on-dark;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.22em;
 }
 
 .sidebar .sidebar-link.active,
 .sidebar .sidebar-link[aria-current="page"] {
   font-weight: 700;
   text-decoration: underline;
+  text-decoration-color: $signal-link;
   text-underline-offset: 0.2em;
+  box-shadow: inset 3px 0 0 $signal;
+  background: #EEF3FF;
 }
 
 // ---------------------------------------------------------------------------
@@ -247,10 +293,14 @@ video {
 html,
 body {
   font-size: 18px;
+  background: $paper;
+  color: $carbon;
 }
 
 body {
+  font-family: $font-family-sans-serif;
   font-size: 1rem;
+  font-weight: 400;
   line-height: 1.6;
 }
 
@@ -264,16 +314,18 @@ body {
 }
 
 // ---------------------------------------------------------------------------
-// 7. Links — underline in body text; chrome underlines on hover/focus
+// 7. Links — signal blue, underlined in body text
 // ---------------------------------------------------------------------------
 
 a {
+  color: $signal-link;
   text-decoration: underline;
   text-underline-offset: 0.15em;
 }
 
 a:hover {
-  text-decoration-thickness: 0.15em;
+  color: $signal-link-hover;
+  text-decoration-thickness: 0.12em;
 }
 
 nav.navbar a,
@@ -296,38 +348,181 @@ nav.navbar a:focus-visible,
   text-decoration: underline;
 }
 
-.navbar-brand {
+#quarto-header .navbar-brand-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0.15rem;
+  max-width: calc(100% - 9.5rem);
+  min-width: 0;
+}
+
+#quarto-header .navbar-brand {
   display: inline-flex;
   align-items: center;
-  gap: 0.55rem;
-  font-weight: 700;
+  gap: 0.7rem;
+  min-height: 44px;
+  overflow: visible;
+  font-family: $font-family-sans-serif;
+  font-weight: 600;
+  font-size: 1.05rem;
+  line-height: 1.25;
+  letter-spacing: 0;
   white-space: normal;
-  max-width: min(22rem, calc(100vw - 5.5rem));
+  max-width: 100%;
+  text-overflow: clip;
 }
 
 .navbar-maker-mark {
-  width: 32px;
-  height: 32px;
-  flex: 0 0 32px;
+  width: 40px;
+  height: 40px;
+  flex: 0 0 40px;
 }
 
-.navbar-dark .navbar-nav .nav-link,
-.navbar-dark .navbar-nav .nav-link:hover,
-.navbar-dark .navbar-nav .nav-link:focus-visible,
-.navbar-dark .navbar-brand,
-.navbar-dark .navbar-brand:hover,
-.navbar-dark .navbar-brand:focus-visible,
-.navbar-title {
-  color: #F8F3EA;
+.navbar-publisher {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  min-height: 44px;
+  margin: 0 0 0 calc(40px + 0.7rem);
+  padding: 0.1rem 0.15rem;
+  color: $paper;
+  font-family: $font-family-sans-serif;
+  font-size: 0.889rem;
+  font-weight: 400;
+  line-height: 1.35;
+  text-decoration: none;
+}
+
+.navbar-publisher-prefix {
+  font-family: $font-family-sans-serif;
+  font-weight: 400;
+}
+
+.navbar-publisher-name {
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  font-weight: 600;
+  font-size: 1.05em;
+  text-decoration: underline;
+  text-underline-offset: 0.14em;
+}
+
+.navbar .navbar-publisher,
+.navbar .navbar-publisher:hover,
+.navbar .navbar-publisher:focus-visible {
+  color: $paper;
+}
+
+.navbar .navbar-publisher:hover .navbar-publisher-name,
+.navbar .navbar-publisher:focus-visible .navbar-publisher-name {
+  text-decoration-thickness: 0.12em;
+}
+
+#quarto-header .navbar {
+  background-color: $aubergine;
+  color: $paper;
+  border-bottom: 3px solid $brass-rule;
+  padding-top: 0.35rem;
+  padding-bottom: 0.35rem;
+}
+
+.navbar .nav-link,
+.navbar .navbar-brand,
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus-visible,
+.navbar-title,
+.navbar-toggler,
+.navbar-toggler-label {
+  color: $paper;
+  font-family: $font-family-sans-serif;
+}
+
+.navbar .nav-link {
+  font-weight: 500;
+  font-size: 0.889rem;
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
 }
 
 .navbar-expand-lg .navbar-nav {
   flex-wrap: wrap;
 }
 
-@media (max-width: 36rem) {
-  .navbar-brand {
+.navbar-toggler {
+  border: 1px solid #E5DAD1;
+  border-radius: 0;
+  gap: 0.4rem;
+  padding: 0.4rem 0.7rem;
+}
+
+.navbar-toggler-label,
+.sidebar-toggle-label {
+  font-family: $font-family-sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1;
+}
+
+// Seven labelled items plus the publisher line collide around 1024px.
+// Keep one labelled Menu for the whole iPad-landscape band, and the full
+// nav from 1200px up. Bootstrap's expand-lg rule is 992px.
+@media (max-width: 1199.98px) {
+  #quarto-header .navbar-expand-lg .navbar-collapse:not(.show) {
+    display: none !important;
+  }
+
+  #quarto-header .navbar-container {
+    flex-wrap: wrap;
+  }
+
+  #quarto-header .navbar-expand-lg .navbar-collapse.show {
+    display: flex !important;
+    flex-basis: 100%;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  #quarto-header .navbar-expand-lg .navbar-nav {
+    flex-direction: column !important;
+    align-items: stretch;
+    width: 100%;
+  }
+
+  #quarto-header .navbar-expand-lg .navbar-toggler {
+    display: inline-flex !important;
+    align-items: center;
+  }
+
+  #quarto-header .navbar-collapse.show .nav-link {
+    width: 100%;
+    justify-content: flex-start;
+  }
+}
+
+.quarto-btn-toggle {
+  gap: 0.4rem;
+  color: $aubergine;
+  border: 1px solid $border-ui;
+  border-radius: 0;
+  background: $surface;
+}
+
+@media (max-width: 40rem) {
+  #quarto-header .navbar-brand {
     font-size: 1rem;
+  }
+
+  .navbar-publisher {
+    margin-left: 0;
+  }
+
+  .navbar-maker-mark {
+    width: 36px;
+    height: 36px;
+    flex-basis: 36px;
   }
 }
 
@@ -337,11 +532,28 @@ nav.navbar a:focus-visible,
 
 .status-label {
   display: inline-block;
-  border: 1px solid #3E3A3A;
-  padding: 0.1rem 0.4rem;
-  font-size: 0.9em;
-  background: #F8F3EA;
-  color: #3E3A3A;
+  margin-top: 0.25rem;
+  border: 1px solid $border-ui;
+  padding: 0.12rem 0.4rem;
+  font-family: $font-family-monospace;
+  font-size: 0.889rem;
+  line-height: 1.4;
+  background: $surface;
+  color: $carbon;
+}
+
+.listing-source_type,
+.listing-availability,
+.listing-verification_status,
+.quarto-title-meta .date,
+time {
+  font-family: $font-family-monospace;
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+
+.listing-date_display {
+  font-variant-numeric: tabular-nums;
 }
 
 // ---------------------------------------------------------------------------
@@ -350,20 +562,46 @@ nav.navbar a:focus-visible,
 
 table {
   caption-side: top;
+  font-variant-numeric: tabular-nums;
+  --bs-table-bg: #ffffff;
+  --bs-table-color: #{$carbon};
+  --bs-table-border-color: #{$border-ui};
+  --bs-table-striped-bg: #{$surface};
+  --bs-table-hover-bg: #{$surface-muted};
+  --bs-table-hover-color: #{$carbon};
 }
 
 table caption {
   text-align: left;
+  font-family: $font-family-sans-serif;
   font-weight: 600;
   margin-bottom: 0.5rem;
-  color: #3E3A3A;
+  color: $aubergine;
 }
 
 .timeline-table th,
 .timeline-table td,
 .quarto-listing-table th,
-.quarto-listing-table td {
+.quarto-listing-table td,
+#quarto-document-content th,
+#quarto-document-content td {
   vertical-align: top;
+  border-color: $border-ui;
+}
+
+.timeline-table thead th,
+.quarto-listing-table thead th,
+#quarto-document-content thead th {
+  font-family: $font-family-sans-serif;
+  font-weight: 600;
+  color: $aubergine;
+  background: $surface-muted;
+  border-bottom: 2px solid $aubergine;
+}
+
+#quarto-document-content tbody tr:hover {
+  // Hover is a scanning aid only. Row meaning stays in the cell text.
+  background: transparent;
 }
 
 // ---------------------------------------------------------------------------
@@ -379,66 +617,248 @@ button.btn {
 
 .nav-footer .nav-link,
 .toc-action,
-.pagination-link {
+.pagination-link,
+.sidebar .sidebar-link {
   min-height: 44px;
   display: inline-flex;
   align-items: center;
+}
+
+.sidebar .sidebar-link {
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+  padding-left: 0.75rem;
 }
 
 .callout {
-  border-left-width: 0.35rem;
+  border: 1px solid $border-ui;
+  border-left-width: 4px;
+  border-radius: 2px;
+  background: $surface;
+  box-shadow: none;
+  color: $carbon;
 }
 
-#quarto-document-content h1 {
-  line-height: 1.25;
+// Quarto's note callout sets a two-class border and a blue header fill
+// later in the bundle. Match that specificity and use signal / coral.
+div.callout.callout-note {
+  border-left-color: $signal-link;
+}
+
+div.callout.callout-important,
+div.callout.callout-warning,
+div.callout.callout-caution {
+  border-left-color: $coral;
+}
+
+div.callout-note.callout-style-default > .callout-header {
+  background-color: #EEF3FF;
+  color: $aubergine;
+}
+
+div.callout-important.callout-style-default > .callout-header,
+div.callout-warning.callout-style-default > .callout-header,
+div.callout-caution.callout-style-default > .callout-header {
+  background-color: #FFF1EC;
+  color: $aubergine;
+}
+
+.callout-title-container,
+.callout-header {
+  font-family: $font-family-sans-serif;
+  font-weight: 600;
+  color: $aubergine;
+}
+
+#quarto-document-content h1,
+h1.title {
+  font-family: "Fraunces", "Source Serif 4", Georgia, serif;
+  font-weight: 600;
+  font-optical-sizing: auto;
+  font-size: 2.25rem;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: $aubergine;
+}
+
+#quarto-document-content h1.title::after {
+  content: "";
+  display: block;
+  width: 4.5rem;
+  height: 3px;
+  margin-top: 0.7rem;
+  background: $coral;
+}
+
+#quarto-document-content h2 {
+  font-family: "Fraunces", "Source Serif 4", Georgia, serif;
+  font-weight: 600;
+  font-size: 1.7rem;
+  line-height: 1.2;
+  letter-spacing: -0.015em;
+  color: $aubergine;
+}
+
+#quarto-document-content :is(h3, h4, h5, h6) {
+  font-family: $font-family-sans-serif;
+  font-weight: 600;
+  letter-spacing: 0;
+  color: $aubergine;
+}
+
+#quarto-document-content h3 {
+  font-size: 1.28rem;
+  line-height: 1.3;
+}
+
+@media (max-width: 40rem) {
+  #quarto-document-content h1,
+  h1.title {
+    font-size: 1.85rem;
+  }
+
+  #quarto-document-content h2 {
+    font-size: 1.45rem;
+  }
 }
 
 #quarto-document-content :is(h1, h2, h3, h4) {
-  letter-spacing: -0.015em;
+  overflow-wrap: break-word;
+}
+
+p.subtitle,
+.subtitle.lead {
+  color: $muted;
+  font-family: $font-family-sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.15rem;
+  line-height: 1.45;
 }
 
 .nav-footer {
-  border-top: 2px solid #1F1626;
+  border-top: 3px solid $aubergine;
+  background: $paper;
+  color: $carbon;
+  font-family: $font-family-sans-serif;
   font-size: 1rem;
 }
 
-.nav-footer a[href="https://jordanforge.ca"],
-.nav-footer a[href="https://jordanforge.ca/"] {
-  font-weight: 700;
-  text-decoration: underline;
-  min-height: 44px;
-  display: inline-flex;
-  align-items: center;
+@media (max-width: 40rem) {
+  .nav-footer {
+    flex-direction: column;
+    align-items: stretch;
+    text-align: left;
+    gap: 0.75rem;
+  }
+
+  .nav-footer-left,
+  .nav-footer-center,
+  .nav-footer-right,
+  .toc-actions,
+  .toc-actions ul,
+  .footer-items {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .toc-actions ul,
+  .footer-items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 1rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    justify-content: flex-start;
+  }
 }
 
 .text-muted,
 .blockquote-footer,
 .breadcrumb-item,
-.breadcrumb-item.active {
-  color: #3E3A3A;
+.breadcrumb-item.active,
+.quarto-secondary-nav,
+.quarto-page-breadcrumbs {
+  color: $muted;
 }
 
-// TOC label is a <p>, not a heading — keep visual weight without outline theft
+.breadcrumb-item a {
+  color: $signal-link;
+}
+
+#quarto-sidebar {
+  border-right: 1px solid $border-ui;
+}
+
 #toc-title,
-#TOC .toc-title {
-  font-weight: 700;
-  font-size: 1rem;
+#TOC .toc-title,
+.sidebar-title {
+  font-family: $font-family-sans-serif;
+  font-weight: 600;
+  font-size: 0.889rem;
   line-height: 1.4;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
   margin: 0 0 0.5rem;
-  color: #1F1626;
+  color: $aubergine;
+}
+
+#TOC,
+.sidebar,
+.nav-footer,
+.quarto-secondary-nav {
+  font-family: $font-family-sans-serif;
 }
 
 #title-block-header.quarto-title-block {
-  margin-bottom: 1rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.25rem;
+}
+
+.quarto-title-meta {
+  margin-top: 0.85rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid $border-ui;
+  font-family: $font-family-sans-serif;
 }
 
 .quarto-title-meta-heading {
-  font-size: 1rem;
+  font-family: $font-family-sans-serif;
+  font-size: 0.889rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
   opacity: 1;
-  color: #3E3A3A;
+  color: $muted;
 }
 
-p.subtitle {
-  color: #3E3A3A;
-  font-size: 1.25rem;
+code,
+kbd,
+samp,
+pre,
+.sourceCode {
+  font-family: $font-family-monospace;
+}
+
+code {
+  color: $aubergine;
+  background: $surface-muted;
+  font-size: 0.92em;
+}
+
+blockquote {
+  border-left: 3px solid $aubergine;
+  padding-left: 1rem;
+  color: $carbon;
+  margin-left: 0;
+}
+
+#TOC a {
+  color: $carbon;
+}
+
+#TOC a:hover,
+#TOC a:focus-visible {
+  color: $signal-link-hover;
 }
