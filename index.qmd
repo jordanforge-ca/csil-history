@@ -19,87 +19,77 @@ format:
 ::: {.story-section-inner}
 
 ::: {.section-intro}
-::: {.eyebrow}
-The central idea
+## The story in four chapters
 :::
 
-## A progression toward greater choice and direction in daily support
-
-The surviving evidence does not show that one project formally became the next. It does show a progression of ideas toward greater choice and direction in how daily support could be organized.
-:::
-
-::: {.story-arc}
-::: {.story-step}
-::: {.story-step-no aria-hidden="true"}
+::: {.chapter-grid}
+::: {.chapter-card}
+::: {.chapter-card-head}
+::: {.chapter-no aria-hidden="true"}
 01
 :::
-
-::: {.story-step-era}
-Before the 1980s
 :::
 
-### Institution
+### Community becomes possible
 
-For many people with very high physical support needs, institutional care shaped where and how daily life happened.
+#### Creekview · mid-1980s
+
+People with very high physical support needs moved from institutional care into community living, demonstrating that extensive support needs did not necessarily require institutional residence.
+
+[Explore the Creekview evidence →](history/creekview.qmd){.chapter-link}
 :::
 
-::: {.story-arrow aria-hidden="true"}
-→
-:::
-
-::: {.story-step}
-::: {.story-step-no aria-hidden="true"}
+::: {.chapter-card}
+::: {.chapter-card-head}
+::: {.chapter-no aria-hidden="true"}
 02
 :::
-
-::: {.story-step-era}
-Mid-1980s
 :::
 
-### Community
+### Greater choice over support
 
-Creekview helped demonstrate that people requiring extensive assistance could live outside hospital.
+#### Enhanced Consumer Participation Model · around 1990
+
+The surviving record begins to show people receiving home support being trained to act as employers and exercise greater day-to-day choice over support.
+
+[Explore the ECPM evidence →](history/ecpm.qmd){.chapter-link}
 :::
 
-::: {.story-arrow aria-hidden="true"}
-→
-:::
-
-::: {.story-step}
-::: {.story-step-no aria-hidden="true"}
+::: {.chapter-card}
+::: {.chapter-card-head}
+::: {.chapter-no aria-hidden="true"}
 03
 :::
-
-::: {.story-step-era}
-Around 1990
 :::
 
-### Self-direction
+### Direct funding becomes public policy
 
-The documentary trail begins to show an explicit focus on people receiving home support acting as employers.
+#### CSIL · 1994–95
+
+Public funding is provided within a defined program while the person gains greater choice and direction over how day-to-day support is organized. Later official records describe a 1994 pilot and province-wide availability in 1995, while the archive preserves disagreement about the exact 1993, 1994, and 1995 chronology.
+
+[Explore the CSIL pilot evidence →](history/csil-pilot.qmd){.chapter-link}
 :::
 
-::: {.story-arrow aria-hidden="true"}
-→
-:::
-
-::: {.story-step .story-step-final}
-::: {.story-step-no aria-hidden="true"}
+::: {.chapter-card}
+::: {.chapter-card-head}
+::: {.chapter-no aria-hidden="true"}
 04
 :::
-
-::: {.story-step-era}
-1994–95 onward
 :::
 
-### CSIL
+### An established and adaptable program
 
-Public funding supports home care, while greater day-to-day choice sits with the person or their support structure within program rules and accountability requirements.
+#### Later evolution · 2000s → today
+
+CSIL becomes an established program, with later policy also documenting client support groups and CSIL representatives as ways of exercising employer responsibility.
+
+[Explore later evolution →](history/evolution.qmd){.chapter-link}
 :::
 :::
 
 ::: {.story-caution}
-**Important:** this is a progression of ideas, not a claim that Creekview formally became ECPM or that ECPM formally became CSIL.
+**This is a progression of ideas and arrangements, not evidence that one project formally became the next.**
 :::
 
 :::
@@ -151,102 +141,6 @@ Current rules name three employer forms: the person, a CSIL representative, or a
 :::
 :::
 
-::: {.story-section}
-::: {.story-section-inner}
-
-::: {.section-intro}
-::: {.eyebrow}
-The history in four chapters
-:::
-
-## The path to a different model of home support
-:::
-
-::: {.chapter-grid}
-::: {.chapter-card}
-::: {.chapter-card-head}
-::: {.chapter-no aria-hidden="true"}
-01
-:::
-
-::: {.chapter-era}
-c\. 1984–89
-:::
-:::
-
-### Leaving the institution
-
-#### Creekview
-
-Six men with high-level quadriplegia, most dependent on ventilators, moved from hospital into a community residence near False Creek.
-
-[Explore the Creekview evidence →](history/creekview.qmd){.chapter-link}
-:::
-
-::: {.chapter-card}
-::: {.chapter-card-head}
-::: {.chapter-no aria-hidden="true"}
-02
-:::
-
-::: {.chapter-era}
-c\. 1990
-:::
-:::
-
-### Becoming the employer
-
-#### Enhanced Consumer Participation Model
-
-A surviving bibliography records a training manual intended to help consumers of home-support services act as employers.
-
-[Explore the ECPM evidence →](history/ecpm.qmd){.chapter-link}
-:::
-
-::: {.chapter-card}
-::: {.chapter-card-head}
-::: {.chapter-no aria-hidden="true"}
-03
-:::
-
-::: {.chapter-era}
-1994–95
-:::
-:::
-
-### Direct funding becomes public policy
-
-#### CSIL design and pilot
-
-Later official records describe a 1994 pilot and province-wide availability in 1995, while the archive preserves disagreement about the exact founding chronology.
-
-[Explore the CSIL pilot evidence →](history/csil-pilot.qmd){.chapter-link}
-:::
-
-::: {.chapter-card}
-::: {.chapter-card-head}
-::: {.chapter-no aria-hidden="true"}
-04
-:::
-
-::: {.chapter-era}
-2008 → today
-:::
-:::
-
-### An established BC program
-
-#### Later evolution
-
-CSIL develops into an established mechanism for eligible people to receive public funding and direct their own home support. Later records also document client support groups and CSIL representatives.
-
-[Explore later evolution →](history/evolution.qmd){.chapter-link}
-:::
-:::
-
-:::
-:::
-
 ::: {.story-relevance}
 ::: {.story-section-inner}
 
@@ -264,29 +158,21 @@ That experience is worth understanding as British Columbia considers how more pe
 :::
 :::
 
-::: {.story-evidence}
+::: {.story-record}
 ::: {.story-section-inner}
-::: {.story-evidence-copy}
-::: {.eyebrow}
-Verify the story
+
+## Explore the record
+
+The archive keeps contemporary sources, later accounts, conflicting dates and missing records visible.
+
+::: {.story-record-links}
+- [History overview](history/index.qmd)
+- [Timeline](timeline.qmd)
+- [Source catalogue](sources/index.qmd)
+- [Wanted Sources](research/wanted-sources.qmd)
+- [About / Contribute](about.qmd)
 :::
 
-## An evidence archive first
-
-Contemporary records are preferred. Later recollections are identified. Conflicting dates remain visible, and missing documents remain explicit.
-
-Public leads belong in the open. See [How to contribute](about.qmd#how-to-contribute).
-:::
-
-::: {.story-evidence-links}
-[History overview →](history/index.qmd){.story-evidence-link}
-
-[Timeline →](timeline.qmd){.story-evidence-link}
-
-[Source catalogue →](sources/index.qmd){.story-evidence-link}
-
-[Wanted Sources →](research/wanted-sources.qmd){.story-evidence-link}
-:::
 :::
 :::
 
