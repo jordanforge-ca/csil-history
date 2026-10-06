@@ -23,7 +23,7 @@ toc: true
 
 This page tracks the most important missing records in the CSIL history. A September 2026 public-source review looked for independent evidence that each item existed and recorded what was found.
 
-**Four source groups remain open.** A wanted record is not an inspected text: follow the catalogue link for the evidence supporting its existence, the searches already attempted, and the unresolved questions.
+**Five source groups remain open.** A wanted record is not an inspected text: follow the catalogue link for the evidence supporting its existence, the searches already attempted, and the unresolved questions.
 
 ## 1. Creekview 202 Project Evaluation Report
 
@@ -62,6 +62,15 @@ The archive needs original ministry records from approximately 1993–95 to clar
 
 - **Narrative:** [CSIL design and pilot](../history/csil-pilot.qmd)
 - **Record:** [Ministry CSIL pilot/design records](../sources/wanted-ministry-csil-pilot-records.qmd)
+
+## 5. CSIL rate-setting records, 2019–2022
+
+The inspected public sources establish a $31.16 rate effective 1 February 2019, a $31.47 rate stated as current by the Seniors Advocate in June 2019, and a $34.73 rate effective 1 April 2022.
+
+The archive has not yet recovered the complete Ministry records that establish the exact effective date of the $31.47 rate or whether additional changes occurred before April 2022. The gap is kept visible rather than interpolated.
+
+- **Useful leads:** archived Home and Community Care Policy Manual versions, Ministry rate notices or health-authority correspondence, and public organizational records reproducing the Ministry instruments
+- **Record:** [CSIL rate-setting records for 2019–2022](../sources/wanted-csil-rate-records-2019-2022.qmd)
 
 ## Recovered: 2008 CSIL Program Review Synthesis Report
 

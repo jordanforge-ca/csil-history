@@ -1,0 +1,54 @@
+---
+title: "Home Support: We Can Do Better"
+date: 2019-06-19
+date_display: "19 June 2019"
+date_precision: exact
+id: src-seniors-advocate-2019-home-support
+record_status: catalogue-record
+source_authors:
+  - "Office of the Seniors Advocate of British Columbia"
+author: "Office of the Seniors Advocate of British Columbia"
+source_type: near-primary
+availability: full-text-public
+verification_status: verified-inspected
+period: later-review
+organizations:
+  - "Office of the Seniors Advocate of British Columbia"
+topics:
+  - home-support
+  - individualized-funding
+  - evaluation
+external_url: "https://www.seniorsadvocatebc.ca/app/uploads/sites/4/2019/06/Report-Home-Support-Review_web.pdf"
+archived_url: ""
+bibtex_key: seniorsadvocate2019homesupport
+document_path: ""
+rights_note: "Public report. Link only."
+---
+
+::: {.callout-note}
+## Source inspected
+The public Office of the Seniors Advocate report, released 19 June 2019, was read on 6 October 2026.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Title | Home Support: We Can Do Better |
+| Issuer | Office of the Seniors Advocate of British Columbia |
+| Release date | 19 June 2019 |
+| Relevant discussion | Self-directed care and CSIL in the economics of home support section |
+
+## Annotation
+
+The report describes CSIL as the version of self-directed home support then implemented in B.C. and estimates its client base at approximately 1,000 people. It states a CSIL funding rate of $31.47 per authorized hour.
+
+The report also repeats the earlier finding that caregivers supporting CSIL clients with highly complex needs had approximately 50 per cent lower distress rates than caregivers supporting clients receiving health-authority-directed home support. It discusses both reported benefits and limitations of CSIL, including a narrow scope, access difficulties and policy constraints in relation to the older population examined by the report.
+
+The $31.47 figure is a rate stated in a June 2019 report. The archive has not, through this source, established the instrument or exact effective date that changed the February 2019 rate of $31.16 announced in the 2015 Ministry release. That difference is therefore left visible rather than silently reconciled.
+
+## Associated claims
+
+- [2017 Seniors Advocate caregiver report](2017-seniors-advocate-caregivers-distress.qmd)
+- [Later evolution chapter](../history/evolution.qmd)
+- [Timeline](../timeline.qmd)

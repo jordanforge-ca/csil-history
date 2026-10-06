@@ -1,0 +1,54 @@
+---
+title: "New year, more choices in home supports"
+date: 2015-12-29
+date_display: "29 December 2015"
+date_precision: exact
+id: src-bcnews-2015-csil-rates
+record_status: catalogue-record
+source_authors:
+  - "British Columbia Ministry of Health"
+author: "British Columbia Ministry of Health"
+source_type: primary
+availability: full-text-public
+verification_status: verified-inspected
+period: later-review
+organizations:
+  - "British Columbia Ministry of Health"
+topics:
+  - home-support
+  - individualized-funding
+  - current-program
+external_url: "https://news.gov.bc.ca/releases/2015HLTH0106-002155"
+archived_url: "https://archive.news.gov.bc.ca/releases/news_releases_2013-2017/2015HLTH0106-002155.htm"
+bibtex_key: bcnews2015csil
+document_path: ""
+rights_note: "Crown news release. Link only."
+---
+
+::: {.callout-note}
+## Source inspected
+The archived B.C. Ministry of Health news release was read on 6 October 2026.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Headline | New year, more choices in home supports |
+| Date | 29 December 2015 |
+| Release | 2015HLTH0106-002155 |
+| Issuer | British Columbia Ministry of Health |
+| Archived URL | <https://archive.news.gov.bc.ca/releases/news_releases_2013-2017/2015HLTH0106-002155.htm> |
+
+## Annotation
+
+The release announced a five-year sequence of minimum CSIL hourly rates: $29.80 on 1 January 2016, retroactive to 1 April 2015; $29.94 on 1 April 2016; $30.39 on 1 April 2017; $30.85 on 1 April 2018; and $31.16 on 1 February 2019.
+
+It also reported 976 people receiving home support through CSIL. The release said they represented approximately two per cent of all home-support clients and approximately 23 per cent of total home-care support service hours.
+
+The release attributes statements about attracting and retaining support staff and wage parity to the minister and a CSIL Funding Working Group co-chair. This archive records those as attributed statements, not as independent findings about the adequacy of the announced rates.
+
+## Associated claims
+
+- [Later evolution chapter](../history/evolution.qmd)
+- [Timeline](../timeline.qmd)

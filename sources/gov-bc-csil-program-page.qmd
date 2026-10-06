@@ -41,9 +41,11 @@ The public gov.bc.ca page was read on 20 September 2026. It is current program g
 
 ## Annotation
 
-The page defines CSIL as “a self-directed option for eligible home support clients” who “receive funds directly from their local health authority to purchase their own home support services” and “become employers.” It lists eligibility criteria (including high physical care needs, physical disability, medical stability) and points to the CSIL Online Workbook and the Continuing Care Fees Regulation.
+The page defines CSIL as “a self-directed option for eligible home support clients” who “receive funds directly from their local health authority to purchase their own home support services” and “become employers.” It lists eligibility criteria (including high physical care needs, physical disability and medical stability) and points to the CSIL Online Workbook and the Continuing Care Fees Regulation.
 
-This archive uses the page as a citable official description of the **current** program, not as evidence of 1993–95 design.
+The inspected page also lists minimum hourly rates of $34.73 effective 1 April 2022, $37.07 effective 1 April 2023 and $38.19 effective 1 April 2024. Those dates and amounts agree with the inspected Home and Community Care Policy Manual. The page does not provide a complete historical rate series before 2022.
+
+This archive uses the page as a citable official description of the **current** program and as corroboration for the 2022–24 rate sequence, not as evidence of 1993–95 design.
 
 ## Associated claims
 

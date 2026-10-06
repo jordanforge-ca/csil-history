@@ -151,3 +151,103 @@
     - src-bcnews-2011-csil-rates
     - src-hcc-policy-4c
   notes: "Later official evidence of a scaled provincial program (more than 800 clients in the release). Effective date of the first announced increase is 1 April 2011. Does not settle 1993 versus 1994. HCC Policy 4.C later grandfathers clients on CSIL as of 31 March 2011."
+
+
+- id: tl-2012-policy-4c
+  title: "Policy 4.C documents CSIL employer forms and supported participation"
+  date: 2012-10-15
+  date_iso: "2012-10-15"
+  date_display: "15 October 2012"
+  date_precision: exact
+  confidence: verified-inspected
+  period: later-review
+  href: sources/hcc-policy-manual-4c.qmd
+  sources_display: "BC Home and Community Care Policy Manual, Policy 4.C"
+  source_ids:
+    - src-hcc-policy-4c
+  notes: "The inspected policy defines client, client-support-group and representative employer arrangements and grandfathers clients receiving CSIL as of 31 March 2011. This is later administrative policy, not evidence that the same forms existed unchanged in 1994–95."
+
+- id: tl-2015-rate-schedule-scale
+  title: "Ministry announces five-year CSIL rate schedule and reports 976 clients"
+  date: 2015-12-29
+  date_iso: "2015-12-29"
+  date_display: "29 December 2015"
+  date_precision: exact
+  confidence: verified-inspected
+  period: later-review
+  href: sources/2015-bc-csil-rate-schedule.qmd
+  sources_display: "BC Ministry of Health news release 2015HLTH0106-002155"
+  source_ids:
+    - src-bcnews-2015-csil-rates
+  notes: "The release schedules rates from 2015 through February 2019 and reports 976 CSIL clients, about 2% of home-support clients and about 23% of home-care support service hours. Statements about recruitment, retention and wage parity are attributed to speakers in the release, not adopted as archive findings."
+
+- id: tl-2017-caregiver-distress
+  title: "Seniors Advocate reports lower caregiver-distress risk among CSIL clients"
+  date: 2017-08-30
+  date_iso: "2017-08-30"
+  date_display: "30 August 2017"
+  date_precision: exact
+  confidence: verified-inspected
+  period: later-review
+  href: sources/2017-seniors-advocate-caregivers-distress.qmd
+  sources_display: "Office of the Seniors Advocate, Caregivers in Distress"
+  source_ids:
+    - src-seniors-advocate-2017-caregivers
+  notes: "The report says caregivers of CSIL clients had a 50% lower risk of distress even though the people they supported had, on average, higher complex-care needs. This is a reported analytical finding, not a general evaluation of all CSIL outcomes."
+
+- id: tl-2019-home-support-review
+  title: "Seniors Advocate examines CSIL within provincial home support"
+  date: 2019-06-19
+  date_iso: "2019-06-19"
+  date_display: "19 June 2019"
+  date_precision: exact
+  confidence: verified-inspected
+  period: later-review
+  href: sources/2019-seniors-advocate-home-support.qmd
+  sources_display: "Office of the Seniors Advocate, Home Support: We Can Do Better"
+  source_ids:
+    - src-seniors-advocate-2019-home-support
+  notes: "The report describes approximately 1,000 CSIL clients, states a $31.47 hourly rate, repeats the earlier caregiver-distress finding, and discusses both benefits and access/policy limitations. The archive has not established the instrument or exact effective date between the $31.16 rate announced for February 2019 and this June 2019 $31.47 figure."
+
+- id: tl-2020-covid-exceptions
+  title: "Temporary CSIL policy exceptions introduced during COVID-19"
+  date: 2020-04-01
+  date_iso: "2020-04-01"
+  date_display: "1 April 2020; extensions documented through 1 July 2021"
+  date_precision: exact
+  confidence: verified-inspected
+  period: later-review
+  href: sources/2020-ministry-csil-covid-exceptions.qmd
+  sources_display: "BC Ministry of Health letter, 16 November 2020"
+  source_ids:
+    - src-moh-2020-csil-covid-exceptions
+  notes: "The inspected November 2020 Ministry letter states that temporary amendments began with an April 1 letter and records extensions. Exceptions concerned quarantine pay, emergency agency staffing, immediate-family employment and protective supplies. They were time-limited pandemic measures, not recorded here as permanent policy."
+
+- id: tl-2021-eligibility-clarification
+  title: "Ministry records a CSIL eligibility-criteria clarification"
+  date: 2021-02-01
+  date_iso: "2021-02-01"
+  date_display: "February 2021"
+  date_precision: approximate
+  confidence: verified-inspected
+  period: later-review
+  href: sources/hcc-policy-manual-4c.qmd
+  sources_display: "BC Home and Community Care Policy Manual revision history and Policy 4.C.2"
+  source_ids:
+    - src-hcc-policy-4c
+  notes: "The Ministry landing page says Policy 4 was updated in February 2021 to clarify CSIL eligibility criteria. Policy 4.C.2 is effective February 2021 and sets out functional and assessment criteria. No exact day is stated on the inspected material."
+
+- id: tl-2022-2024-csil-rates
+  title: "Policy documents minimum CSIL hourly rates for 2022–24"
+  date: 2022-04-01
+  date_iso: "2022-04-01"
+  date_display: "1 April 2022 – 1 April 2024"
+  date_precision: exact
+  confidence: verified-inspected
+  period: later-review
+  href: sources/hcc-policy-manual-4c.qmd
+  sources_display: "BC Home and Community Care Policy Manual, Policy 4.C.3; current provincial CSIL page"
+  source_ids:
+    - src-hcc-policy-4c
+    - src-govbc-csil-page
+  notes: "Policy 4.C.3 lists $34.73 effective 1 April 2022, $37.07 effective 1 April 2023 and $38.19 effective 1 April 2024. The Ministry revision history says the 2022–24 amounts were added to Policy 4.C on 25 July 2023, with the 2024 amount updated on 1 April 2024 for the confirmed 1% cost-of-living allowance. The archive does not infer unlocated intermediate rates before April 2022."
