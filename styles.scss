@@ -632,8 +632,8 @@ button.btn {
 
 .callout {
   border: 1px solid $border-ui;
-  border-left-width: 4px;
-  border-radius: 2px;
+  border-left-width: 5px;
+  border-radius: 0;
   background: $surface;
   box-shadow: none;
   color: $carbon;
@@ -675,8 +675,8 @@ h1.title {
   font-family: "Fraunces", "Source Serif 4", Georgia, serif;
   font-weight: 600;
   font-optical-sizing: auto;
-  font-size: 2.25rem;
-  line-height: 1.15;
+  font-size: 2.55rem;
+  line-height: 1.12;
   letter-spacing: -0.02em;
   color: $aubergine;
 }
@@ -686,17 +686,18 @@ h1.title {
   display: block;
   width: 4.5rem;
   height: 3px;
-  margin-top: 0.7rem;
+  margin-top: 0.85rem;
   background: $coral;
 }
 
 #quarto-document-content h2 {
   font-family: "Fraunces", "Source Serif 4", Georgia, serif;
   font-weight: 600;
-  font-size: 1.7rem;
-  line-height: 1.2;
-  letter-spacing: -0.015em;
+  font-size: 1.9rem;
+  line-height: 1.18;
+  letter-spacing: -0.02em;
   color: $aubergine;
+  margin-top: 2.6rem;
 }
 
 #quarto-document-content :is(h3, h4, h5, h6) {
@@ -714,11 +715,11 @@ h1.title {
 @media (max-width: 40rem) {
   #quarto-document-content h1,
   h1.title {
-    font-size: 1.85rem;
+    font-size: 2.05rem;
   }
 
   #quarto-document-content h2 {
-    font-size: 1.45rem;
+    font-size: 1.55rem;
   }
 }
 
@@ -812,7 +813,7 @@ p.subtitle,
 }
 
 #title-block-header.quarto-title-block {
-  margin-bottom: 1.25rem;
+  margin-bottom: 1.75rem;
   padding-bottom: 0.25rem;
 }
 
@@ -848,17 +849,626 @@ code {
 }
 
 blockquote {
-  border-left: 3px solid $aubergine;
-  padding-left: 1rem;
+  border-left: 4px solid $brass-rule;
+  padding: 0.15rem 0 0.15rem 1.1rem;
   color: $carbon;
   margin-left: 0;
+  background: transparent;
+}
+
+#TOC {
+  border-top: 3px solid $brass-rule;
+  padding-top: 0.85rem;
 }
 
 #TOC a {
   color: $carbon;
+  display: flex;
+  align-items: center;
+  min-height: 2.75rem;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+}
+
+.sidebar-title::after,
+#toc-title::after {
+  content: "";
+  display: block;
+  width: 2.5rem;
+  height: 3px;
+  margin-top: 0.45rem;
+  background: $coral;
+}
+
+#quarto-document-content :is(th, td) {
+  padding: 0.65rem 0.75rem;
 }
 
 #TOC a:hover,
 #TOC a:focus-visible {
   color: $signal-link-hover;
+}
+
+// ---------------------------------------------------------------------------
+// Homepage story layer. Interior pages stay on the calmer rules above.
+// Label text stays at least 16px (0.889rem at the 18px root). The prototype
+// uses smaller kickers; that size is below the archive baseline.
+// ---------------------------------------------------------------------------
+
+body:has(.home-hero) {
+  overflow-x: clip;
+}
+
+body:has(.home-hero) #quarto-header .navbar {
+  border-bottom-color: $aubergine;
+}
+
+body:has(.home-hero) #quarto-margin-sidebar {
+  display: none;
+}
+
+body:has(.home-hero) main.content {
+  max-width: none;
+  padding-top: 0;
+}
+
+.home-hero,
+.story-shift,
+.story-relevance,
+.story-evidence,
+.story-section {
+  width: 100vw;
+  max-width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+}
+
+#title-block-header.home-hero {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border: 0;
+}
+
+#quarto-document-content .home-hero h1.title::after {
+  content: none;
+  display: none;
+}
+
+.home-hero {
+  position: relative;
+  background: $aubergine;
+  color: $paper;
+}
+
+.home-hero::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 28%;
+  height: 6px;
+  background: $coral;
+}
+
+.home-hero-inner,
+.story-section-inner {
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
+.home-hero-inner {
+  padding: 4.25rem clamp(1.35rem, 7vw, 4.75rem) 4rem;
+}
+
+.home-kicker,
+.eyebrow {
+  margin: 0 0 0.85rem;
+  font-family: $font-family-sans-serif;
+  font-size: 0.889rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+
+.home-kicker {
+  color: #d7c7dc;
+  margin-bottom: 1.15rem;
+}
+
+#quarto-document-content .eyebrow {
+  color: $coral;
+}
+
+#quarto-document-content .eyebrow-light {
+  color: #e5b46b;
+}
+
+#quarto-document-content .home-hero h1.title {
+  max-width: 11em;
+  margin: 0 0 1.35rem;
+  color: $paper;
+  font-size: clamp(1.85rem, 4.2vw + 1rem, 4.6rem);
+  line-height: 0.98;
+  letter-spacing: -0.035em;
+}
+
+.home-title-line {
+  display: block;
+}
+
+#quarto-document-content .home-hero .subtitle {
+  max-width: 38rem;
+  margin: 0 0 1.6rem;
+  color: #eadfe8;
+  font-family: $font-family-sans-serif;
+  font-size: clamp(1.08rem, 1.4vw, 1.35rem);
+  font-weight: 400;
+  line-height: 1.45;
+}
+
+.home-thesis {
+  max-width: 36rem;
+  margin: 0 0 1.7rem;
+  padding: 0.35rem 0 0.35rem 1.05rem;
+  border-left: 4px solid $coral;
+  color: $paper;
+  font-size: 1.15rem;
+  line-height: 1.45;
+}
+
+.home-hero-action {
+  margin: 0;
+}
+
+.home-hero a.home-hero-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  color: $paper;
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-color: $signal-on-dark;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.28em;
+}
+
+.home-hero a.home-hero-link:hover,
+.home-hero a.home-hero-link:focus-visible {
+  color: $paper;
+  text-decoration-line: underline;
+  text-decoration-color: $signal-on-dark;
+  text-decoration-thickness: 3px;
+}
+
+.home-story {
+  margin: 0;
+}
+
+.story-section {
+  background: $paper;
+}
+
+.story-section-inner {
+  padding: 4rem clamp(1.35rem, 6vw, 4rem);
+}
+
+.section-intro {
+  max-width: 42rem;
+  margin-bottom: 2.4rem;
+}
+
+#quarto-document-content .home-story h2 {
+  max-width: 18em;
+  margin: 0 0 0.9rem;
+  font-size: clamp(2rem, 3vw + 0.6rem, 3rem);
+  line-height: 1.08;
+  letter-spacing: -0.025em;
+}
+
+#quarto-document-content .home-story .section-intro p,
+#quarto-document-content .story-evidence-copy p {
+  color: $muted;
+  margin-bottom: 0.8rem;
+}
+
+.story-arc {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr) auto minmax(0, 1fr) auto minmax(0, 1fr);
+  gap: 0.75rem;
+  align-items: stretch;
+}
+
+.story-step {
+  min-width: 0;
+  padding: 1.25rem 1rem 1.35rem;
+  border-top: 4px solid $brass-rule;
+  background: $surface;
+}
+
+.story-step-final {
+  border-top-color: $coral;
+  background: #f8ece8;
+}
+
+.story-step-no,
+.chapter-no {
+  margin: 0 0 1.15rem;
+  font-family: "Fraunces", "Source Serif 4", Georgia, serif;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1;
+  color: $aubergine;
+}
+
+.story-step-era,
+.chapter-era {
+  margin: 0 0 0.35rem;
+  font-size: 0.889rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  line-height: 1.35;
+  text-transform: uppercase;
+  color: $muted;
+}
+
+#quarto-document-content .story-step h3,
+#quarto-document-content .chapter-card h3 {
+  font-family: "Fraunces", "Source Serif 4", Georgia, serif;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: $aubergine;
+}
+
+#quarto-document-content .story-step h3 {
+  margin: 0 0 0.55rem;
+  font-size: 1.35rem;
+  line-height: 1.2;
+}
+
+#quarto-document-content .story-step p:not(.story-step-no):not(.story-step-era) {
+  margin: 0;
+  color: $muted;
+  font-size: 1rem;
+  line-height: 1.55;
+}
+
+#quarto-document-content .story-step .story-step-no {
+  margin: 0 0 1.15rem;
+  color: $aubergine;
+}
+
+#quarto-document-content .story-step .story-step-no p,
+#quarto-document-content .chapter-card .chapter-no,
+#quarto-document-content .chapter-card .chapter-no p {
+  margin: 0;
+  color: $aubergine;
+}
+
+#quarto-document-content .story-step .story-step-era {
+  margin: 0 0 0.35rem;
+  color: $muted;
+}
+
+.story-arrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: $coral;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.story-caution {
+  margin: 1.35rem 0 0;
+  padding-top: 0.9rem;
+  border-top: 1px solid #c6b7ae;
+  color: $muted;
+  font-size: 1rem;
+  line-height: 1.55;
+}
+
+.story-shift {
+  background: $aubergine;
+  color: $paper;
+}
+
+#quarto-document-content .story-shift h2 {
+  color: $paper;
+}
+
+.story-models {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 1.05rem;
+}
+
+.story-model {
+  min-width: 0;
+  padding: 1.35rem 1.25rem 1.45rem;
+  border: 1px solid rgba(255, 247, 240, 0.28);
+  background: rgba(255, 255, 255, 0.035);
+}
+
+.story-model-highlight {
+  border-top: 5px solid #e5b46b;
+}
+
+.story-model-label {
+  margin: 0 0 1.15rem;
+  color: #d7c7dc;
+  font-size: 0.889rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+
+.story-flow ol {
+  display: grid;
+  gap: 1.35rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.story-flow li {
+  position: relative;
+  margin: 0;
+  padding: 0.5rem 0.65rem;
+  background: rgba(255, 255, 255, 0.07);
+  color: $paper;
+  font-size: 1rem;
+  line-height: 1.45;
+}
+
+.story-flow li:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: -0.95rem;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-right: 3px solid #e5b46b;
+  border-bottom: 3px solid #e5b46b;
+  transform: translateX(-50%) rotate(45deg);
+}
+
+.story-model-highlight .story-flow li:nth-child(2),
+.story-model-highlight .story-flow li:nth-child(4) {
+  font-weight: 700;
+  background: rgba(229, 180, 107, 0.16);
+}
+
+.eyebrow p,
+.story-step-no p,
+.story-step-era p,
+.chapter-no p,
+.chapter-era p,
+.story-model-label p,
+.story-caution p,
+.story-shift-note p,
+.story-close p,
+.story-arrow p {
+  margin: 0;
+}
+
+.story-shift-note {
+  max-width: 42rem;
+  margin: 1.5rem 0 0;
+  color: #eadfe8;
+}
+
+#quarto-document-content .story-shift a {
+  color: $signal-on-dark;
+  font-weight: 700;
+}
+
+#quarto-document-content .story-shift a:hover,
+#quarto-document-content .story-shift a:focus-visible {
+  color: $paper;
+}
+
+.chapter-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 1.05rem;
+}
+
+.chapter-card {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  min-height: 18rem;
+  padding: 1.45rem 1.35rem 1.4rem;
+  border: 1px solid $border-ui;
+  border-top: 5px solid $aubergine;
+  background: $surface;
+}
+
+.chapter-grid .chapter-card:nth-child(2) {
+  border-top-color: $brass-rule;
+}
+
+.chapter-grid .chapter-card:nth-child(3) {
+  border-top-color: $coral;
+}
+
+.chapter-grid .chapter-card:nth-child(4) {
+  border-top-color: $signal-link;
+}
+
+.chapter-card-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.chapter-card-head .chapter-no,
+.chapter-card-head .chapter-era {
+  margin: 0;
+}
+
+#quarto-document-content .chapter-card h3 {
+  margin: 0 0 0.2rem;
+  font-size: clamp(1.45rem, 1.5vw, 1.7rem);
+  line-height: 1.15;
+}
+
+#quarto-document-content .chapter-card h4 {
+  margin: 0 0 0.9rem;
+  color: $coral;
+  font-family: $font-family-sans-serif;
+  font-size: 0.889rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  line-height: 1.35;
+  text-transform: uppercase;
+}
+
+#quarto-document-content .chapter-card p:not(.chapter-no):not(.chapter-era) {
+  margin: 0 0 1.15rem;
+  color: $muted;
+}
+
+#quarto-document-content .chapter-card .chapter-no {
+  color: $aubergine;
+}
+
+#quarto-document-content .chapter-card section {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+}
+
+#quarto-document-content .chapter-card a.chapter-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  margin-top: auto;
+  font-weight: 700;
+}
+
+.story-relevance {
+  background: $surface-muted;
+}
+
+.story-relevance .story-section-inner::before {
+  content: "";
+  display: block;
+  width: 3.75rem;
+  height: 5px;
+  margin-bottom: 1.35rem;
+  background: $coral;
+}
+
+#quarto-document-content .story-relevance h2,
+#quarto-document-content .story-relevance p,
+.story-close {
+  max-width: 42rem;
+}
+
+.story-evidence-links p {
+  margin: 0;
+}
+
+.story-close {
+  max-width: 42rem;
+  margin: 1.8rem 0 0;
+  padding-left: 1.15rem;
+  border-left: 4px solid $brass-rule;
+  color: $aubergine;
+  font-family: "Fraunces", "Source Serif 4", Georgia, serif;
+  font-size: clamp(1.35rem, 2vw, 1.9rem);
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.story-evidence {
+  background: $surface;
+  border-top: 1px solid $border-ui;
+}
+
+.story-evidence .story-section-inner {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
+  gap: 2.4rem;
+  align-items: start;
+}
+
+#quarto-document-content .story-evidence h2 {
+  font-size: clamp(1.85rem, 2vw, 2.2rem);
+}
+
+.story-evidence-links {
+  display: grid;
+  align-content: start;
+  gap: 0;
+}
+
+#quarto-document-content .story-evidence-links a {
+  display: flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0.35rem 0;
+  border-bottom: 1px solid $border-ui;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+#quarto-document-content .story-evidence-links a:hover,
+#quarto-document-content .story-evidence-links a:focus-visible {
+  text-decoration: underline;
+}
+
+@media (max-width: 1100px) {
+  .story-arc {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .story-arrow {
+    height: 1.5rem;
+    transform: rotate(90deg);
+  }
+}
+
+@media (max-width: 860px) {
+  .story-models,
+  .story-evidence .story-section-inner {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+@media (max-width: 680px) {
+  .chapter-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .home-hero-inner,
+  .story-section-inner {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+
+  .home-hero-inner {
+    padding-top: 2.9rem;
+    padding-bottom: 2.6rem;
+  }
+
+  #quarto-document-content .home-hero h1.title {
+    line-height: 1.05;
+  }
+
+  .chapter-card {
+    min-height: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .story-arrow {
+    transition: none;
+  }
 }

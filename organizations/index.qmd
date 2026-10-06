@@ -35,4 +35,12 @@ The table below records only functions described in sources that have been inspe
 
 Creekview remains a [history chapter](../history/creekview.qmd), rather than an organization record, because the inspected sources describe a co-op apartment or project and do not establish a separate corporate form.
 
+## Later organizational accounts
+
+Some names appear in later sources rather than in records from the 1980s or 1990s. They are listed so readers can find the account. A later account is not treated as a contemporaneous corporate author, and it is not evidence that one program formally became the next.
+
+| Name as it appears in the inspected source | What that source supports | Source |
+| --- | --- | --- |
+| Individualized Funding Resource Centre Society (IFRC) | The inspected “Our Team” page is IFRC’s own later biography. It describes an individual-funding project “then known as” the Enhanced Consumer Participation Model, and it attributes CSIL roles to people associated with IFRC. It does not show that IFRC created CSIL, or that ECPM formally became CSIL. | [IFRC Our Team](../sources/ifrc-our-team.qmd) |
+
 Future organization records should keep documented functions separate from later attributions and link each claim to a [source record](../sources/index.qmd).

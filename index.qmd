@@ -1,85 +1,293 @@
 ---
-title: "The history of CSIL"
-subtitle: "How direct funding changed who controls home support in British Columbia"
+title: "From institution to directed care"
+subtitle: "How British Columbians with significant disabilities helped establish a different way of organizing publicly funded home support."
+description: "How British Columbians with significant disabilities helped establish a different way of organizing publicly funded home support."
+page-layout: full
 toc: false
+page-navigation: false
+bread-crumbs: false
+format:
+  html:
+    anchor-sections: false
+    template-partials:
+      - partials/title-block.html
 ---
 
-*Today, eligible British Columbians using Choice in Supports for Independent Living can receive public funding directly and become the employers of the people who provide their home support. That transfer of control was a significant departure from the way support had traditionally been organized — and it took years to emerge.*
+::: {.home-story}
 
-For someone who depends on other people for daily physical assistance, **who controls the support matters**.
+::: {#story .story-section}
+::: {.story-section-inner}
 
-In the conventional home-support model, a health authority or agency employs the workers and organizes the service. Choice in Supports for Independent Living — usually called **CSIL** — works differently. Eligible participants receive funding from their local health authority to purchase their own home-support services. They become employers: recruiting, hiring and managing the people who assist them.
+::: {.section-intro}
+::: {.eyebrow}
+The central idea
+:::
 
-The support is still publicly funded. What changes is who manages it.
+## A progression in where support — and authority — sits
 
-That distinction is the central idea behind CSIL. It gives a disabled person substantially more control over the people providing intimate daily assistance and over how that support fits into the rest of life.
+The surviving evidence does not show that one project formally became the next. It does show a progression of ideas that changed what publicly funded home support could look like.
+:::
 
-[Current provincial program information](sources/gov-bc-csil-program-page.qmd) describes CSIL as a self-directed option in which eligible home-support clients receive funds directly and become employers.
+::: {.story-arc}
+::: {.story-step}
+::: {.story-step-no aria-hidden="true"}
+01
+:::
 
-But CSIL did not suddenly appear, fully formed, as a government program.
+::: {.story-step-era}
+Before the 1980s
+:::
 
-Before a program bearing that name appears in the public record, disabled British Columbians and community organizations had already been testing a more fundamental proposition: **could people with very high physical support needs live outside institutions and exercise more control over the assistance they relied on?**
+### Institution
 
-## Before CSIL had a name
+For many people with very high physical support needs, institutional care shaped where and how daily life happened.
+:::
 
-One of the clearest early experiments took place in Vancouver in the mid-1980s.
+::: {.story-arrow aria-hidden="true"}
+→
+:::
 
-Six men with high-level quadriplegia, most of them dependent on ventilators, were preparing to leave Pearson Hospital and live together in a co-operative apartment near False Creek. Contemporary accounts describe a residence with support services built around the needs of the people living there rather than an extended-care ward.
+::: {.story-step}
+::: {.story-step-no aria-hidden="true"}
+02
+:::
 
-The project was called **Creekview**.
+::: {.story-step-era}
+Mid-1980s
+:::
 
-By 1986, British Columbia's health minister was describing the six men as living in an independent group setting. Later accounts say the co-op opened in 1985. A 1989 overview described it as a self-managed independent-living project and said government funding for support services flowed to the tenants through the Canadian Paraplegic Association.
+### Community
 
-[Creekview](history/creekview.qmd) was not CSIL. The evidence does not show that each resident held the kind of individual employer arrangement associated with the later program, and no source yet recovered says Creekview formally became CSIL.
+Creekview helped demonstrate that people requiring extensive assistance could live outside hospital.
+:::
 
-Its importance is more basic.
+::: {.story-arrow aria-hidden="true"}
+→
+:::
 
-Creekview demonstrated that people with extremely high physical support needs did not necessarily have to remain in hospital simply because they required extensive assistance. It also raised a question that would become increasingly important: if people could direct more of their lives outside an institution, how much control could they have over the support itself?
+::: {.story-step}
+::: {.story-step-no aria-hidden="true"}
+03
+:::
 
-## From community living to becoming the employer
+::: {.story-step-era}
+Around 1990
+:::
 
-By 1990, the documentary trail points toward a more individualized idea.
+### Self-direction
 
-A later bibliography records a publication called the *Enhanced Consumer Participation Model: Skill Development Manual for Consumers of Home Support Services*. Produced by BC Rehab and the Greater Vancouver Home Support Society, the manual was described as training consumers to act as employers.
+The documentary trail begins to show an explicit focus on people receiving home support acting as employers.
+:::
 
-The archive has not yet located a copy of that manual, so its contents cannot be reconstructed beyond what the bibliography says.
+::: {.story-arrow aria-hidden="true"}
+→
+:::
 
-Later organizations also use the name **Enhanced Consumer Participation Model**, or ECPM, for an individual-funding project they say preceded CSIL. Whether those references describe exactly the same initiative remains unresolved.
+::: {.story-step .story-step-final}
+::: {.story-step-no aria-hidden="true"}
+04
+:::
 
-What can be said is that the emphasis was shifting. The question was no longer only whether someone with significant disabilities could live in the community. It was increasingly about whether funding and responsibility for support could follow the individual — and whether the person receiving support could become the employer.
+::: {.story-step-era}
+1994–95 onward
+:::
 
-[Read about ECPM](history/ecpm.qmd).
+### CSIL
 
-## Then CSIL appears
+Public funding supports home care while substantial direction sits with the person or their support structure.
+:::
+:::
 
-By the mid-1990s, a Ministry of Health program called **Choice in Supports for Independent Living** was part of the public record.
+::: {.story-caution}
+**Important:** this is a progression of ideas, not a claim that Creekview formally became ECPM or that ECPM formally became CSIL.
+:::
 
-A Hospital Employees' Union newspaper from late 1995 described CSIL as a new or pilot program that allowed non-profit societies to receive direct public funding and hire caregivers rather than obtain support only through an agency.
+:::
+:::
 
-A later report from the B.C. Ombudsperson gives a more specific chronology: it says CSIL was established as a pilot in **1994** and made available province-wide in **1995**.
+::: {.story-shift}
+::: {.story-section-inner}
 
-Other later accounts use **1993** or describe CSIL as established in **1994**.
+::: {.section-intro}
+::: {.eyebrow .eyebrow-light}
+What actually changed?
+:::
 
-The original ministry records that would explain precisely what happened in each of those years have not yet been recovered. This archive therefore does not choose a single founding date where the surviving evidence does not justify one.
+## Public responsibility remained. Direction moved closer to the person.
+:::
 
-Nor does the evidence establish a neat institutional chain in which Creekview became ECPM and ECPM became CSIL.
+::: {.story-models}
+::: {.story-model}
+::: {.story-model-label}
+Conventional delivery
+:::
 
-History is rarely that tidy.
+::: {.story-flow}
+1. Public funding
+2. Health authority or agency
+3. Workers scheduled and managed
+4. Person receives support
+:::
+:::
 
-What the surviving record does reveal is a progression of ideas. People with significant disabilities challenged assumptions about where they could live. Experiments in community living demonstrated alternatives to institutional care. Training and individualized-funding approaches explored a larger role for the person receiving support. By the mid-1990s, British Columbia had a named public program built around direct funding and self-managed home support.
+::: {.story-model .story-model-highlight}
+::: {.story-model-label}
+CSIL
+:::
 
-The remaining question — and the story this archive follows — is **how those ideas, experiments, people and government decisions came together.**
+::: {.story-flow}
+1. Public funding
+2. Person, representative, or client support group
+3. Workers scheduled and managed
+4. Support organized around the person
+:::
+:::
+:::
 
-## Following the evidence
+::: {.story-shift-note}
+Current rules name three employer forms: the person, a CSIL representative, or a client support group. Those forms are documented in [Later evolution](history/evolution.qmd).
+:::
 
-This is a source-driven history, not a campaign site and not a guide to applying for CSIL.
+:::
+:::
 
-Where contemporary documents exist, they are given priority. Later recollections are identified as later recollections. Where sources disagree — including about CSIL's starting date — the disagreement remains visible rather than being quietly resolved.
+::: {.story-section}
+::: {.story-section-inner}
 
-There are also important gaps. The original Creekview evaluation has not yet been recovered. The 1990 ECPM manual has not been found. Key Ministry of Health records from the CSIL design and pilot period remain missing. Those absences are part of the history too.
+::: {.section-intro}
+::: {.eyebrow}
+The history in four chapters
+:::
 
-**Continue with the [History overview](history/index.qmd)**, beginning with the Vancouver experiment that preceded the named CSIL program: [Creekview](history/creekview.qmd).
+## The path to a different model of home support
+:::
 
-For readers interested in the underlying evidence, the [source catalogue](sources/index.qmd) documents what has been found, how each source is being used and which records are still being sought.
+::: {.chapter-grid}
+::: {.chapter-card}
+::: {.chapter-card-head}
+::: {.chapter-no aria-hidden="true"}
+01
+:::
 
-If you have historical material that can help fill those gaps, see [About / Contribute](about.qmd#how-to-contribute). Please do not send private or health-related records.
+::: {.chapter-era}
+c\. 1984–89
+:::
+:::
+
+### Leaving the institution
+
+#### Creekview
+
+Six men with high-level quadriplegia, most dependent on ventilators, moved from hospital into a community residence near False Creek.
+
+[Explore the Creekview evidence →](history/creekview.qmd){.chapter-link}
+:::
+
+::: {.chapter-card}
+::: {.chapter-card-head}
+::: {.chapter-no aria-hidden="true"}
+02
+:::
+
+::: {.chapter-era}
+c\. 1990
+:::
+:::
+
+### Becoming the employer
+
+#### Enhanced Consumer Participation Model
+
+A surviving bibliography records a training manual intended to help consumers of home-support services act as employers.
+
+[Explore the ECPM evidence →](history/ecpm.qmd){.chapter-link}
+:::
+
+::: {.chapter-card}
+::: {.chapter-card-head}
+::: {.chapter-no aria-hidden="true"}
+03
+:::
+
+::: {.chapter-era}
+1994–95
+:::
+:::
+
+### Direct funding becomes public policy
+
+#### CSIL design and pilot
+
+Later official records describe a 1994 pilot and province-wide availability in 1995, while the archive preserves disagreement about the exact founding chronology.
+
+[Explore the CSIL pilot evidence →](history/csil-pilot.qmd){.chapter-link}
+:::
+
+::: {.chapter-card}
+::: {.chapter-card-head}
+::: {.chapter-no aria-hidden="true"}
+04
+:::
+
+::: {.chapter-era}
+2008 → today
+:::
+:::
+
+### An established BC program
+
+#### Later evolution
+
+CSIL develops into an established mechanism for eligible people to receive public funding and direct their own home support. Later records also document client support groups and CSIL representatives.
+
+[Explore later evolution →](history/evolution.qmd){.chapter-link}
+:::
+:::
+
+:::
+:::
+
+::: {.story-relevance}
+::: {.story-section-inner}
+
+::: {.eyebrow}
+A model with continuing relevance
+:::
+
+## More than three decades of experience with person-directed, publicly funded care
+
+CSIL demonstrates that publicly funded home support does not always have to be institutionally managed. It can give the person receiving support — and, where necessary, representatives or support groups — a much greater role in organizing that care.
+
+::: {.story-close}
+That experience is worth understanding as British Columbia considers how more people can be supported safely at home.
+:::
+:::
+:::
+
+::: {.story-evidence}
+::: {.story-section-inner}
+::: {.story-evidence-copy}
+::: {.eyebrow}
+Verify the story
+:::
+
+## An evidence archive first
+
+Contemporary records are preferred. Later recollections are identified. Conflicting dates remain visible, and missing documents remain explicit.
+
+Public leads belong in the open. See [How to contribute](about.qmd#how-to-contribute).
+:::
+
+::: {.story-evidence-links}
+[History overview →](history/index.qmd){.story-evidence-link}
+
+[Timeline →](timeline.qmd){.story-evidence-link}
+
+[Source catalogue →](sources/index.qmd){.story-evidence-link}
+
+[Wanted Sources →](research/wanted-sources.qmd){.story-evidence-link}
+:::
+:::
+:::
+
+:::

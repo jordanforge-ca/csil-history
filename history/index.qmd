@@ -13,7 +13,7 @@ The sequence is useful for reading the evidence, but it is **not** a claim that 
 
 **[Creekview](creekview.qmd) (c. 1984–89)** was a Vancouver co-op where six men with high-level, mostly ventilator-dependent quadriplegia moved out of hospital. Contemporary and near-contemporary sources describe a resident-and-Canadian Paraplegic Association project that depended on government agreement and public funding. Creekview did not create CSIL, and the evidence does not show a CSIL-style individual employer contract. It did demonstrate that people with very high support needs could live outside an institution and exercise some control over their daily support.
 
-**[Enhanced Consumer Participation Model (ECPM)](ecpm.qmd) (c. 1990)** appears in a bibliography as the title of a training manual intended to help consumers act as employers. The manual itself has not yet been found. Later organizations also use ECPM to describe an individual-funding project that preceded CSIL. Whether those references describe exactly the same initiative remains unresolved.
+**[Enhanced Consumer Participation Model (ECPM)](ecpm.qmd) (c. 1990)** appears in a bibliography as the title of a training manual intended to help consumers act as employers. The manual itself has not yet been found. Later organizations also use ECPM to describe an individual-funding project that preceded CSIL. The [Individualized Funding Resource Centre Society (IFRC) “Our Team” page](../sources/ifrc-our-team.qmd) is one of those later accounts. Whether those references describe exactly the same initiative remains unresolved. IFRC’s account is not proof that ECPM formally became CSIL.
 
 **[CSIL design and pilot](csil-pilot.qmd).** By late 1995, a Ministry of Health program publicly named Choice in Supports for Independent Living existed. Later official records describe a 1994 pilot and province-wide availability in 1995. Other later accounts use 1993 or 1994 as an establishment date, while a 1995 union newspaper still described CSIL as new or a pilot. The chapter therefore does not select a single founding year.
 
@@ -36,7 +36,7 @@ The [timeline](../timeline.qmd) places the working dates in sequence. The [sourc
 Later sources add important detail but are not records from the events themselves. They include:
 
 - SCI BC and journalistic accounts of Creekview and the people associated with it
-- IFRC and Paul Gauthier materials describing ECPM as a step before CSIL and using 1993 or 1994 establishment dates
+- The [Individualized Funding Resource Centre Society (IFRC) “Our Team” page](../sources/ifrc-our-team.qmd) is a later organizational account. It describes ECPM as a step before CSIL and uses a 1994 date. That is IFRC’s attribution, not a record from the time, and it does not show that ECPM formally became CSIL. Paul Gauthier materials similarly use 1993 or 1994 establishment dates.
 - the 2012 Ombudsperson report describing a **1994 pilot** and **1995 province-wide availability**
 - the Order of Canada citation describing Paul Gauthier as an “Initiator” of CSIL
 

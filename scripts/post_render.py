@@ -11,7 +11,7 @@ runs after every `quarto render` and:
 5. Adds visually hidden "(current page)" text
 6. Captions listing tables and adds scope="col" to header cells
 7. Calls out external / PDF links in accessible text
-8. Removes the empty sidebar-expand <a> (duplicate of the toggle button)
+8. Removes empty logo and sidebar-expand anchors Quarto emits when no logo is set
 9. Demotes the TOC "On this page" title so the page h1 is first in the outline
 10. Removes role="menu" from the navbar disclosure button
 11. Keeps a single banner landmark (title block is not a second <header>)
@@ -51,6 +51,12 @@ EXTERNAL_RE = re.compile(
 PDF_RE = re.compile(r'\s*<span class="visually-hidden"> \(PDF\)</span>')
 EMPTY_SIDEBAR_A_RE = re.compile(
     r'<a class="flex-grow-1"(?:\s+role="navigation")?[^>]*>\s*</a>',
+    flags=re.IGNORECASE,
+)
+# Quarto 1.8 writes these when website.navbar.logo / sidebar logo are unset.
+# They are real anchors with no accessible name. The titled brand link remains.
+EMPTY_LOGO_A_RE = re.compile(
+    r'<a\b[^>]*\bclass="[^"]*\b(?:navbar-brand-logo|sidebar-logo-link)\b[^"]*"[^>]*>\s*</a>',
     flags=re.IGNORECASE,
 )
 MAIN_RE = re.compile(
@@ -479,6 +485,7 @@ def patch(path: Path, site_root: Path) -> bool:
     html = caption_tables(html, rel)
     html = mark_external_links(html)
     html = EMPTY_SIDEBAR_A_RE.sub("", html)
+    html = EMPTY_LOGO_A_RE.sub("", html)
     html = demote_toc_title(html)
     html = strip_menu_role_from_buttons(html)
     html = consolidate_headers(html)
