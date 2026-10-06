@@ -1,0 +1,63 @@
+---
+title: "CSIL rate-setting records for 2019–2022"
+date: 2020-01-01
+date_display: "2019–2022"
+date_precision: approximate
+id: src-wanted-csil-rate-records-2019-2022
+record_status: catalogue-record
+source_authors:
+  - "British Columbia Ministry of Health"
+author: "British Columbia Ministry of Health"
+source_type: reference-finding-aid
+availability: known-to-exist-copy-sought
+verification_status: bibliographically-confirmed
+period: later-review
+organizations:
+  - "British Columbia Ministry of Health"
+topics:
+  - home-support
+  - individualized-funding
+  - documentation
+external_url: ""
+archived_url: ""
+bibtex_key: ""
+document_path: ""
+rights_note: "Wanted class of records. Do not attach unpublished correspondence or files of uncertain redistribution rights."
+---
+
+::: {.callout-warning}
+## Wanted source
+The archive has later public evidence for the rates at either end of this period, but has not recovered the complete set of authorizing records for the intervening changes.
+:::
+
+## Identification
+
+| Element | What is known |
+| --- | --- |
+| Record class | Ministry rate-setting notices, policy revisions, letters or equivalent records |
+| Period sought | February 2019 through April 2022 |
+| Known starting evidence | 2015 Ministry release announced $31.16 effective 1 February 2019 |
+| Later 2019 evidence | Seniors Advocate report released in June 2019 states a current CSIL rate of $31.47 |
+| Known later evidence | Current Policy 4.C.3 lists $34.73 effective 1 April 2022 |
+
+## Why this record is wanted
+
+The inspected sources do not yet establish the instrument or exact effective date that moved the documented rate from $31.16 in February 2019 to the $31.47 stated by the Seniors Advocate in June 2019.
+
+They also do not establish whether there were additional rate changes between the June 2019 evidence and the $34.73 rate effective 1 April 2022, or the dates and authorizing records for any such changes.
+
+This gap should not be read as evidence that no changes occurred. The archive leaves the interval open until the underlying records are recovered.
+
+## Sources already checked
+
+- [2015 Ministry rate schedule](2015-bc-csil-rate-schedule.qmd)
+- [2019 Seniors Advocate home-support report](2019-seniors-advocate-home-support.qmd)
+- [Home and Community Care Policy Manual, Policy 4.C](hcc-policy-manual-4c.qmd)
+- [Current provincial CSIL program page](gov-bc-csil-program-page.qmd)
+
+Useful next places to look include archived versions of the Home and Community Care Policy Manual, Ministry rate notices or correspondence intended for health authorities and CSIL employers, and publicly available organizational records that reproduce or identify the Ministry instruments.
+
+## Associated claims
+
+- [Later evolution chapter](../history/evolution.qmd)
+- [Wanted Sources](../research/wanted-sources.qmd)
