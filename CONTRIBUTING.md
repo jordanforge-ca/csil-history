@@ -83,7 +83,7 @@ This bootstrap does not authorise contacting historical participants.
 2. Choose a stable filename and `id` (`src-...`).
 3. Fill the front matter using only [controlled vocabulary](docs/vocabularies.qmd) values.
 4. Set `verification_status` honestly. If you have not inspected the item, do not mark it `verified-inspected`.
-5. Prefer a bibliographic citation and a stable public URL over uploading a file.
+5. Prefer a bibliographic citation and a stable public URL over uploading a file. If availability is `full-text-public` or `external-link-only`, include a usable `external_url`, `archived_url`, or lawful `document_path`. Do not invent a URL for a wanted or unrecovered source. The rendered page builds **Open this source** from those fields; do not paste that region into the body.
 6. Add a matching entry to `references.bib` when useful.
 7. Link the source from any history, person, organization, or timeline record that relies on it.
 8. Open a pull request that says what was added and what remains uncertain.
@@ -119,6 +119,7 @@ Leave sections empty rather than guessing. Do not write a biography from memory.
 - Keep changes reviewable: one source, one person, or one focused documentation change.
 - Quote or paraphrase only what you have seen.
 - State when a date is approximate or contested.
+- Run `python3 scripts/check_source_access.py` after editing source front matter.
 - Run `quarto render` locally if you can.
 - Run `python3 scripts/check_a11y.py _site` after rendering.
 

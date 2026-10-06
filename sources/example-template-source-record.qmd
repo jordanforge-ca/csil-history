@@ -48,6 +48,8 @@ Copy this file when adding a real source. Rename the file and the `id`. Remove t
 | `document_path` | Only if a file is lawfully hosted under `documents/` |
 | `rights_note` | Copyright or permission status |
 
+An **Open this source** region is generated from `external_url`, `archived_url`, and a lawful `document_path`. Leave those fields empty on a template or a wanted record. Do not paste the region into the page.
+
 `author` is a listing-friendly string. Quarto may also display it as page authorship; that is acceptable on source pages because it names the historical document’s creator.
 
 ## Annotation (replace this)

@@ -61,7 +61,9 @@ The header is **static, not sticky**, so chrome cannot cover wrapped text. Body 
 
 ### 7. Descriptive link names
 
-Forbidden sole labels: “click here”, “here”, “read more”, “more”, “link”, “this”. External destinations get visually hidden “(external site)”. PDFs get “(PDF)”. Do not use a bare URL as the only link name.
+Forbidden sole labels: “click here”, “here”, “read more”, “more”, “link”, “this”. External destinations get visually hidden “(external site)”. PDFs get “(PDF)” unless the visible name already says “(PDF)”, so the suffix is not spoken twice. Do not use a bare URL as the only link name.
+
+Source pages render an **Open this source** region from catalogue front matter. It is a real `h2` and a named region. The links name the resource (“Full report (PDF)”, “Government page”, “Read the source”, “Archived copy”, “Open the document”, “Catalogue record”). They are keyboard links with the same focus ring as the rest of the site.
 
 **Blocker if a generic or empty link name ships.**
 

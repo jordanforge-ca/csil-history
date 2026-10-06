@@ -14,6 +14,8 @@ import sys
 from html.parser import HTMLParser
 from pathlib import Path
 
+import source_access
+
 GENERIC_LINK_TEXT = {
     "click here",
     "here",
@@ -204,79 +206,58 @@ def _norm(text: str) -> str:
 
 
 
-def source_front_matter(rel: Path) -> dict[str, str]:
-    """Read simple scalar access metadata from the source QMD backing a page."""
+def check_source_access(raw: str, rel: Path, repo_root: Path | None = None) -> list[str]:
+    """The rendered page must expose the same links the catalogue is allowed to offer."""
 
-    rel_posix = rel.as_posix() if isinstance(rel, Path) else rel
+    rel_posix = rel.as_posix() if isinstance(rel, Path) else str(rel)
     if not rel_posix.startswith("sources/") or rel_posix == "sources/index.html":
-        return {}
-
-    source_path = Path(rel_posix).with_suffix(".qmd")
-    if not source_path.is_file():
-        return {}
-
-    lines = source_path.read_text(encoding="utf-8").splitlines()
-    if not lines or lines[0].strip() != "---":
-        return {}
-
-    try:
-        end_index = lines.index("---", 1)
-    except ValueError:
-        return {}
-
-    wanted = {"availability", "external_url", "archived_url", "document_path"}
-    values: dict[str, str] = {}
-    for line in lines[1:end_index]:
-        if ":" not in line:
-            continue
-        key, value = line.split(":", 1)
-        key = key.strip()
-        if key not in wanted:
-            continue
-        value = value.strip()
-        if len(value) >= 2 and value[0] == value[-1] and value[0] in {'"', "'"}:
-            value = value[1:-1]
-        values[key] = value.strip()
-
-    return values
-
-def check_source_access(raw: str, rel: Path) -> list[str]:
-    metadata = source_front_matter(rel)
-    if not metadata:
         return []
 
-    errors: list[str] = []
-    access_values = [
-        metadata.get("external_url", ""),
-        metadata.get("archived_url", ""),
-        metadata.get("document_path", ""),
-    ]
-    access_values = [value for value in access_values if value]
+    root = (repo_root or Path.cwd()).resolve()
+    qmd = root / Path(rel_posix).with_suffix(".qmd")
+    if not qmd.is_file():
+        return [f"{rel_posix}: rendered source page has no catalogue record at {qmd.as_posix()}"]
 
-    availability = metadata.get("availability", "")
-    if availability in {"full-text-public", "external-link-only"} and not access_values:
+    record = source_access.load_record(qmd, root)
+    if record is None:
+        return []
+
+    errors = list(source_access.validate_record(record, root))
+    links = source_access.plan_links(record, root)
+    panel = source_access.access_panel_html(raw)
+
+    if links and not panel:
         errors.append(
-            f"{rel}: availability is {availability} but no external_url, archived_url, or document_path is catalogued"
+            f"{rel_posix}: catalogued access links were not rendered in an Open this source region"
         )
+        return errors
+    if panel and not links:
+        errors.append(
+            f"{rel_posix}: an Open this source region was rendered without a catalogued public copy"
+        )
+        return errors
+    if not panel:
+        return errors
 
-    if access_values and 'class="source-access"' not in raw:
-        errors.append(f"{rel}: catalogued source access metadata is not rendered")
+    if 'role="region"' not in panel or 'aria-labelledby="source-access-title"' not in panel:
+        errors.append(f"{rel_posix}: Open this source region is missing its accessible name")
+    if "<h2" not in panel.lower():
+        errors.append(
+            f"{rel_posix}: Open this source must be a real heading, not bold text standing in for one"
+        )
+    if "source-access-link-primary" not in panel:
+        errors.append(f"{rel_posix}: Open this source is missing a primary link")
 
-    external_url = metadata.get("external_url", "")
-    if external_url:
-        escaped = html_lib.escape(external_url, quote=True)
-        if f'href="{escaped}"' not in raw:
-            errors.append(f"{rel}: external_url is not exposed as a followable link")
-
-    archived_url = metadata.get("archived_url", "")
-    if archived_url and archived_url != external_url:
-        escaped = html_lib.escape(archived_url, quote=True)
-        if f'href="{escaped}"' not in raw:
-            errors.append(f"{rel}: archived_url is not exposed as a followable link")
-
-    if metadata.get("document_path") and "Local archive copy" not in raw:
-        errors.append(f"{rel}: document_path is not exposed as a followable link")
-
+    for link in links:
+        escaped_href = html_lib.escape(link.href, quote=True)
+        if f'href="{escaped_href}"' not in panel:
+            errors.append(
+                f"{rel_posix}: {link.field} is not exposed as a followable link ({link.href})"
+            )
+        if link.label not in panel:
+            errors.append(
+                f"{rel_posix}: {link.field} link is missing its label {link.label!r}"
+            )
     return errors
 
 def nav_has_name(nav: dict[str, str | None]) -> bool:

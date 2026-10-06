@@ -5,7 +5,7 @@ title: "Local build instructions"
 ## Prerequisites
 
 - [Quarto](https://quarto.org/docs/get-started/) 1.5 or later (`quarto --version`)
-- Python 3.10+ only if you want to run the accessibility script (standard library; no pip packages)
+- Python 3.10+ to run the source-access and accessibility scripts (standard library; no pip packages)
 
 No R, Jupyter, database, or private jordanforge toolchain is required. Source pages are static Markdown.
 
@@ -27,6 +27,20 @@ quarto render
 
 HTML is written to `_site/`, which is gitignored. Open `_site/index.html` in a browser if you do not want the preview server.
 
+## Source access check
+
+`full-text-public` and `external-link-only` must name a usable public copy. From the repository root, before or instead of waiting for a full render:
+
+```bash
+python3 scripts/check_source_access.py
+```
+
+Quarto also runs that script as `pre-render`. A failure names the source file and the field (`external_url`, `archived_url`, or `document_path`). Tests for the same rules:
+
+```bash
+python3 scripts/test_check_source_access.py
+```
+
 ## Accessibility check
 
 ```bash
@@ -40,9 +54,10 @@ The script exits non-zero when a baseline (Blocker/High) HTML problem is found. 
 [`.github/workflows/pages.yml`](https://github.com/jordanforge-ca/csil-history/blob/main/.github/workflows/pages.yml) runs on pull requests and on pushes to `main`:
 
 1. Install Quarto (`quarto-dev/quarto-actions/setup@v2`)
-2. `quarto render`
-3. `python3 scripts/check_a11y.py _site`
-4. On `main` only: upload the Pages artifact and deploy
+2. `python3 scripts/check_source_access.py` and `python3 scripts/test_check_source_access.py`
+3. `quarto render` (which runs the source-access check again before rendering)
+4. `python3 scripts/check_a11y.py _site`
+5. On `main` only: upload the Pages artifact and deploy
 
 ## Enabling GitHub Pages
 

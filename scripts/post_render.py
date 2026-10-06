@@ -20,6 +20,8 @@ runs after every `quarto render` and:
 14. Gives the navbar and section disclosure buttons visible text labels
 15. Orders the footer so identity, primary links, then repository actions
     match the visual rows (repository actions stay in the footer)
+16. Renders an "Open this source" region from source front matter
+    (external_url, archived_url, and a lawful document_path)
 
 Standard library only. Safe to run more than once.
 """
@@ -27,9 +29,11 @@ Standard library only. Safe to run more than once.
 from __future__ import annotations
 
 import re
+import shutil
 import sys
-from html import escape
 from pathlib import Path
+
+import source_access
 
 SKIP = (
     '<a class="skip-link" href="#quarto-document-content">'
@@ -128,87 +132,67 @@ SECTION_BUTTON_RE = re.compile(
 def page_key(path: Path, site_root: Path) -> str:
     return path.relative_to(site_root).as_posix()
 
-def source_front_matter(rel: str) -> dict[str, str]:
-    """Read simple scalar access metadata from the source QMD backing a page."""
+def _publish_hosted_copy(href: str, site_root: Path, repo_root: Path) -> None:
+    """Copy a lawful documents/ file into the rendered site.
 
-    rel_posix = rel.as_posix() if isinstance(rel, Path) else rel
-    if not rel_posix.startswith("sources/") or rel_posix == "sources/index.html":
-        return {}
+    Quarto does not see links that this pass adds, so the file would otherwise
+    be missing from the published site.
+    """
 
-    source_path = Path(rel_posix).with_suffix(".qmd")
-    if not source_path.is_file():
-        return {}
-
-    lines = source_path.read_text(encoding="utf-8").splitlines()
-    if not lines or lines[0].strip() != "---":
-        return {}
-
+    rel = href[3:] if href.startswith("../") else href.lstrip("/")
+    src = (repo_root / rel).resolve()
+    docs_root = (repo_root / "documents").resolve()
+    site_root = site_root.resolve()
     try:
-        end_index = lines.index("---", 1)
+        src.relative_to(docs_root)
     except ValueError:
-        return {}
+        return
+    if not src.is_file():
+        return
+    dest = (site_root / rel).resolve()
+    try:
+        dest.relative_to(site_root)
+    except ValueError:
+        return
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    if src != dest:
+        shutil.copy2(src, dest)
 
-    wanted = {"availability", "external_url", "archived_url", "document_path"}
-    values: dict[str, str] = {}
-    for line in lines[1:end_index]:
-        if ":" not in line:
-            continue
-        key, value = line.split(":", 1)
-        key = key.strip()
-        if key not in wanted:
-            continue
-        value = value.strip()
-        if len(value) >= 2 and value[0] == value[-1] and value[0] in {'"', "'"}:
-            value = value[1:-1]
-        values[key] = value.strip()
 
-    return values
-
-def inject_source_access(html: str, rel: str) -> str:
+def inject_source_access(
+    html: str,
+    rel: str,
+    site_root: Path | None = None,
+    repo_root: Path | None = None,
+) -> str:
     """Expose catalogued source locations on every rendered source record."""
 
     if 'class="source-access"' in html:
         return html
 
-    metadata = source_front_matter(rel)
-    if not metadata:
+    rel_posix = rel.as_posix() if isinstance(rel, Path) else rel
+    if not rel_posix.startswith("sources/") or rel_posix == "sources/index.html":
         return html
 
-    links: list[tuple[str, str]] = []
-    external_url = metadata.get("external_url", "")
-    archived_url = metadata.get("archived_url", "")
-    document_path = metadata.get("document_path", "")
-
-    if external_url:
-        links.append(("Open source", external_url))
-    if archived_url and archived_url != external_url:
-        links.append(("Archived copy", archived_url))
-    if document_path:
-        local_href = document_path
-        if not local_href.startswith(("/", "http://", "https://")):
-            local_href = "../" + local_href.lstrip("./")
-        links.append(("Local archive copy", local_href))
-
-    if not links:
+    repo_root = (repo_root or Path.cwd()).resolve()
+    qmd = repo_root / Path(rel_posix).with_suffix(".qmd")
+    if not qmd.is_file():
+        return html
+    record = source_access.load_record(qmd, repo_root)
+    if record is None:
         return html
 
-    items = "".join(
-        f'<li><a href="{escape(href, quote=True)}">{escape(label)}</a></li>'
-        for label, href in links
-    )
-    panel = (
-        '<div class="source-access" role="region" aria-label="Source access">'
-        '<p class="source-access-title"><strong>Source access</strong></p>'
-        '<p class="source-access-note">Follow the catalogued evidence:</p>'
-        f'<ul class="source-access-links">{items}</ul>'
-        '</div>\\n'
-    )
-
-    marker = '<section id="identification"'
-    idx = html.find(marker)
-    if idx == -1:
+    links = source_access.plan_links(record, repo_root)
+    panel = source_access.render_access_panel(links)
+    if not panel:
         return html
-    return html[:idx] + panel + html[idx:]
+
+    if site_root is not None:
+        for link in links:
+            if link.field == "document_path":
+                _publish_hosted_copy(link.href, site_root, repo_root)
+
+    return source_access.insert_access_panel(html, panel)
 
 
 
@@ -466,12 +450,15 @@ def mark_external_links(html: str) -> str:
             return m.group(0)
         url_match = re.search(r'href="([^"]*)"', href, flags=re.IGNORECASE)
         url = url_match.group(1) if url_match else href
+        visible = re.sub(r"<[^>]+>", " ", inner)
+        visible_norm = re.sub(r"\s+", " ", visible).lower()
         extra = ""
-        if url.lower().split("?", 1)[0].endswith(".pdf"):
+        if url.lower().split("?", 1)[0].endswith(".pdf") and "(pdf)" not in visible_norm:
             extra += PDF
         if url.startswith(("http://", "https://")):
             if not any(host in url for host in INTERNAL_HOSTS):
-                extra += EXTERNAL
+                if "(external site)" not in visible_norm:
+                    extra += EXTERNAL
         if extra and extra not in inner:
             inner = inner + extra
         return start + href + mid + inner + end
@@ -642,7 +629,7 @@ def patch(path: Path, site_root: Path) -> bool:
     html = label_landmarks(html)
     html = mark_current_page(html, rel)
     html = caption_tables(html, rel)
-    html = inject_source_access(html, rel)
+    html = inject_source_access(html, rel, site_root=site_root)
     html = mark_external_links(html)
     html = EMPTY_SIDEBAR_A_RE.sub("", html)
     html = EMPTY_LOGO_A_RE.sub("", html)
