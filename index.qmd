@@ -1,7 +1,7 @@
 ---
 title: "From institution to directed care"
-subtitle: "How British Columbians with significant disabilities helped establish a different way of organizing publicly funded home support."
-description: "How British Columbians with significant disabilities helped establish a different way of organizing publicly funded home support."
+subtitle: "How British Columbians with significant disabilities helped shape a model of publicly funded home support that gives people greater choice and direction in daily support."
+description: "How British Columbians with significant disabilities helped shape a model of publicly funded home support that gives people greater choice and direction in daily support."
 page-layout: full
 toc: false
 page-navigation: false
@@ -23,9 +23,9 @@ format:
 The central idea
 :::
 
-## A progression in where support — and authority — sits
+## A progression toward greater choice and direction in daily support
 
-The surviving evidence does not show that one project formally became the next. It does show a progression of ideas that changed what publicly funded home support could look like.
+The surviving evidence does not show that one project formally became the next. It does show a progression of ideas toward greater choice and direction in how daily support could be organized.
 :::
 
 ::: {.story-arc}
@@ -94,7 +94,7 @@ The documentary trail begins to show an explicit focus on people receiving home 
 
 ### CSIL
 
-Public funding supports home care while substantial direction sits with the person or their support structure.
+Public funding supports home care, while greater day-to-day choice sits with the person or their support structure within program rules and accountability requirements.
 :::
 :::
 
@@ -113,7 +113,7 @@ Public funding supports home care while substantial direction sits with the pers
 What actually changed?
 :::
 
-## Public responsibility remained. Direction moved closer to the person.
+## Public responsibility remained. Day-to-day choice moved closer to the person.
 :::
 
 ::: {.story-models}
@@ -256,7 +256,7 @@ A model with continuing relevance
 
 ## More than three decades of experience with person-directed, publicly funded care
 
-CSIL demonstrates that publicly funded home support does not always have to be institutionally managed. It can give the person receiving support — and, where necessary, representatives or support groups — a much greater role in organizing that care.
+CSIL demonstrates that publicly funded home support can be person-directed rather than provider-managed. The person — and, where necessary, a representative or client support group — can take a greater role in organizing support.
 
 ::: {.story-close}
 That experience is worth understanding as British Columbia considers how more people can be supported safely at home.
