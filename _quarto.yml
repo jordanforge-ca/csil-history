@@ -85,10 +85,10 @@ website:
   page-footer:
     background: "#FFF7F0"
     foreground: "#252529"
-    left: >-
-      Original site content
-      [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-      Historical source documents do not inherit this license.
+    left: |
+      **CSIL History Archive**
+
+      Original site content [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Historical source documents do not inherit this licence.
     right:
       - text: Source repository
         href: https://github.com/jordanforge-ca/csil-history

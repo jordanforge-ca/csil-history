@@ -18,6 +18,8 @@ runs after every `quarto render` and:
 12. Wraps wide data tables in a keyboard-focusable scroll region
 13. Places the production jordanforge corner mark in the navbar title link
 14. Gives the navbar and section disclosure buttons visible text labels
+15. Orders the footer so identity, primary links, then repository actions
+    match the visual rows (repository actions stay in the footer)
 
 Standard library only. Safe to run more than once.
 """
@@ -465,6 +467,88 @@ def wrap_scroll_tables(html: str) -> str:
     return TABLE_RE.sub(_wrap, html)
 
 
+def _div_span(html: str, start: int) -> tuple[int, int] | None:
+    """Return the [start, end) span of the div element that begins at start."""
+
+    if not html.startswith("<div", start):
+        return None
+    open_end = html.find(">", start)
+    if open_end < 0:
+        return None
+    depth = 1
+    i = open_end + 1
+    lower = html.lower()
+    while depth and i < len(html):
+        next_open = lower.find("<div", i)
+        next_close = lower.find("</div>", i)
+        if next_close < 0:
+            return None
+        if next_open != -1 and next_open < next_close:
+            depth += 1
+            i = next_open + 4
+        else:
+            depth -= 1
+            i = next_close + len("</div>")
+    if depth:
+        return None
+    return start, i
+
+
+def group_footer(html: str) -> str:
+    """Put repository actions after the primary footer links.
+
+    Quarto emits nav-footer-left, nav-footer-center (repo actions), then
+    nav-footer-right. Reading and stacking order should be identity, primary
+    links, then the subordinate repository actions. Also drop the placeholder
+    nbsp Quarto leaves in an otherwise empty center cell.
+    """
+
+    marker = '<div class="nav-footer">'
+    idx = html.find(marker)
+    if idx < 0:
+        return html
+    pos = idx + len(marker)
+    children: list[str] = []
+    while pos < len(html):
+        while pos < len(html) and html[pos].isspace():
+            pos += 1
+        if html.startswith("</div>", pos):
+            break
+        if not html.startswith("<div", pos):
+            return html
+        span = _div_span(html, pos)
+        if span is None:
+            return html
+        children.append(html[span[0] : span[1]])
+        pos = span[1]
+    else:
+        return html
+
+    kinds: dict[str, str] = {}
+    for child in children:
+        match = re.match(r'<div class="([^"]+)"', child)
+        if not match:
+            return html
+        kinds[match.group(1)] = child
+    needed = ("nav-footer-left", "nav-footer-right", "nav-footer-center")
+    if any(name not in kinds for name in needed):
+        return html
+
+    center = re.sub(
+        r'(<div class="nav-footer-center">)\s*&nbsp;\s*',
+        r"\1",
+        kinds["nav-footer-center"],
+        count=1,
+    )
+    ordered = [
+        kinds["nav-footer-left"],
+        kinds["nav-footer-right"],
+        center,
+    ]
+    rebuilt = marker + "\n" + "\n".join(ordered) + "\n"
+    return html[:idx] + rebuilt + html[pos:]
+
+
 def patch(path: Path, site_root: Path) -> bool:
     rel = page_key(path, site_root)
     html = path.read_text(encoding="utf-8")
@@ -481,6 +565,7 @@ def patch(path: Path, site_root: Path) -> bool:
     html = strip_menu_role_from_buttons(html)
     html = consolidate_headers(html)
     html = wrap_scroll_tables(html)
+    html = group_footer(html)
     path.write_text(html, encoding="utf-8")
     return True
 
