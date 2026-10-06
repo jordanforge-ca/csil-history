@@ -17,8 +17,7 @@ runs after every `quarto render` and:
 11. Keeps a single banner landmark (title block is not a second <header>)
 12. Wraps wide data tables in a keyboard-focusable scroll region
 13. Places the production jordanforge corner mark in the navbar title link
-14. Adds one "Published by jordanforge.ca" link under that title
-15. Gives the navbar and section disclosure buttons visible text labels
+14. Gives the navbar and section disclosure buttons visible text labels
 
 Standard library only. Safe to run more than once.
 """
@@ -109,15 +108,9 @@ MAKER_MARK_RE = re.compile(
     r'(<a class="navbar-brand"(?![^>]*\bnavbar-brand-logo\b)[^>]*>)\s*(<span class="navbar-title">)',
     flags=re.IGNORECASE,
 )
-BRAND_BLOCK_RE = re.compile(
-    r'(<div class="navbar-brand-container[^"]*"[^>]*>\s*)'
-    r'(<a class="navbar-brand"(?![^>]*\bnavbar-brand-logo\b)[^>]*>.*?</a>)',
+PUBLISHER_RE = re.compile(
+    r'<a\b[^>]*\bclass="[^"]*\bnavbar-publisher\b[^"]*"[^>]*>.*?</a>',
     flags=re.IGNORECASE | re.DOTALL,
-)
-PUBLISHER = (
-    '<a class="navbar-publisher" href="https://jordanforge.ca">'
-    '<span class="navbar-publisher-prefix">Published by</span> '
-    '<span class="navbar-publisher-name">jordanforge.ca</span></a>'
 )
 MENU_BUTTON_RE = re.compile(
     r'<button class="navbar-toggler"[^>]*>.*?</button>',
@@ -182,13 +175,12 @@ def inject_skip_and_main(html: str) -> str:
 
 
 def inject_maker_mark(html: str, rel: str) -> str:
-    """Decorative jordanforge mark plus one publisher link.
+    """Decorative corner mark inside the site-title link.
 
     The product name remains the title link's accessible name. The mark is
-    decorative (alt=""). Maker attribution is the separate
-    "Published by jordanforge.ca" link, not a second copy in the footer.
-    The path is relative so the mark works at the subdomain root and at a
-    project-pages subpath.
+    decorative (alt=""). There is no separate publisher link. The path is
+    relative so the mark works at the subdomain root and at a project-pages
+    subpath.
     """
 
     prefix = "../" * rel.count("/")
@@ -202,8 +194,7 @@ def inject_maker_mark(html: str, rel: str) -> str:
     )
     if "navbar-maker-mark" not in html:
         html = MAKER_MARK_RE.sub(rf"\1{img}\2", html, count=1)
-    if "navbar-publisher" not in html:
-        html = BRAND_BLOCK_RE.sub(rf"\1\2{PUBLISHER}", html, count=1)
+    html = PUBLISHER_RE.sub("", html)
     return html
 
 

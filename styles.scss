@@ -49,8 +49,8 @@ $focus-ring-color: $signal;
 
 /*-- scss:rules --*/
 // Faces load from assets/fonts/fonts.css (injected after render) so paths
-// stay beside the font files. Fraunces is page headings only. Source Serif 4
-// is the jordanforge.ca wordmark, not a heading face.
+// stay beside the font files. Fraunces is page headings. Source Serif 4
+// stays in the heading fallback stack.
 
 // ---------------------------------------------------------------------------
 // 1. Skip link — visible on focus, above chrome
@@ -112,7 +112,6 @@ $focus-ring-color: $signal;
 
 a.nav-link:focus-visible,
 .navbar-brand:focus-visible,
-.navbar-publisher:focus-visible,
 .navbar-toggler:focus-visible,
 .sidebar a:focus-visible,
 .nav-footer a:focus-visible,
@@ -380,46 +379,6 @@ nav.navbar a:focus-visible,
   flex: 0 0 40px;
 }
 
-.navbar-publisher {
-  display: inline-flex;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 0.35rem;
-  min-height: 44px;
-  margin: 0 0 0 calc(40px + 0.7rem);
-  padding: 0.1rem 0.15rem;
-  color: $paper;
-  font-family: $font-family-sans-serif;
-  font-size: 0.889rem;
-  font-weight: 400;
-  line-height: 1.35;
-  text-decoration: none;
-}
-
-.navbar-publisher-prefix {
-  font-family: $font-family-sans-serif;
-  font-weight: 400;
-}
-
-.navbar-publisher-name {
-  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
-  font-weight: 600;
-  font-size: 1.05em;
-  text-decoration: underline;
-  text-underline-offset: 0.14em;
-}
-
-.navbar .navbar-publisher,
-.navbar .navbar-publisher:hover,
-.navbar .navbar-publisher:focus-visible {
-  color: $paper;
-}
-
-.navbar .navbar-publisher:hover .navbar-publisher-name,
-.navbar .navbar-publisher:focus-visible .navbar-publisher-name {
-  text-decoration-thickness: 0.12em;
-}
-
 #quarto-header .navbar {
   background-color: $aubergine;
   color: $paper;
@@ -513,10 +472,6 @@ nav.navbar a:focus-visible,
 @media (max-width: 40rem) {
   #quarto-header .navbar-brand {
     font-size: 1rem;
-  }
-
-  .navbar-publisher {
-    margin-left: 0;
   }
 
   .navbar-maker-mark {

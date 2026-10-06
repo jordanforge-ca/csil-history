@@ -98,7 +98,7 @@ Any future control must have a programmatic label, text errors, and ~44px target
 
 ### 11. Images and diagrams
 
-Meaningful images need descriptive `alt`. Decorative images use `alt=""`. Do not put critical history only in an image. The navbar carries a decorative jordanforge corner mark (`alt=""`). The maker relationship is the separate header link “Published by jordanforge.ca”, not the image and not a second identical footer control. The disclosure buttons show “Menu” and “Sections”, matching their accessible names.
+Meaningful images need descriptive `alt`. Decorative images use `alt=""`. Do not put critical history only in an image. The navbar carries a decorative corner mark (`alt=""`) inside the site-title link. The mark is not a separate control and does not point at another site. The disclosure buttons show “Menu” and “Sections”, matching their accessible names.
 
 **Blocker if an `<img>` is missing an `alt` attribute.**
 
