@@ -1,13 +1,13 @@
 ---
 title: "Later evolution"
-subtitle: "How CSIL is described after the early years — including support for people who do not always direct care alone"
+subtitle: "How CSIL is described after the early years — including policy, scale, later evidence and supported participation"
 ---
 
-After CSIL appeared as a named program, later sources describe it spreading and being reviewed. They also describe ways for people to take part even when they cannot always direct every part of care themselves.
+After CSIL appeared as a named program, later sources describe it spreading, being reviewed, and becoming an established part of provincial home support. They also describe ways for people to take part even when they cannot always direct every part of care themselves.
 
-That second development is why this chapter matters to the CSIL story. Later official and current texts do not limit CSIL to people who can always direct care alone. They describe employer arrangements that include a client support group or a representative. Those later rules are **not** treated as recovered 1990s design documents. A 1995 newspaper, a later official report, and today’s program pages are different layers. Current policy is not read back as proof of 1994–95 design.
+Later official and current texts do not limit CSIL to people who can always direct care alone. They describe employer arrangements that include a client support group or a representative. Those later rules are **not** treated as recovered 1990s design documents. A 1995 newspaper, a 2008 review, a 2012 policy and a current program page are different layers. Current policy is not read back as proof of 1994–95 design.
 
-This chapter is a history of later descriptions. It is not current eligibility advice, and it does not recommend policy.
+This chapter is a history of later descriptions and documented changes. It is not current eligibility advice, and it does not recommend a funding or policy outcome.
 
 ## From a new or pilot program toward wider availability
 
@@ -19,42 +19,101 @@ Public sources agree that CSIL existed as a named ministry program by late 1995.
 
 A digest of *Hutchinson* ([2005 CanLIIDocs 513](../sources/2005-human-rights-digest-hutchinson.qmd)) says a client was accepted on CSIL in **1998**. That shows CSIL existed by 1998. It is not a founding or completion date.
 
-A [2011 ministry news release](../sources/2011-bc-csil-rate-increase.qmd) describes more than 800 CSIL clients. That is later evidence of a scaled program. It is not a 1990s census.
+A [2011 Ministry news release](../sources/2011-bc-csil-rate-increase.qmd) describes more than 800 CSIL clients. That is later evidence of a scaled program. It is not a 1990s census.
 
 The [design and pilot chapter](csil-pilot.qmd) keeps the 1993 / 1994 / 1995 disagreement in view. This chapter does not reopen it in order to pick a start year.
 
-## Later review and rate-setting
+## Later review and the 2011 transition
 
 A November 2008 *CSIL Program Review: Synthesis Report* exists. We have read it as an Internet Archive fiche ([2008 synthesis](../sources/2008-program-review-synthesis.qmd)). James Murtagh Consulting prepared it for Home and Community Care Branch, Ministry of Health Services. It dates CSIL to “the 1990's.” It does **not** choose 1993 versus 1994.
 
 The 2008 authors say they combined recent review efforts. Those included a 2006 ministry review that produced papers but “no final report.” Ombudsperson 2012 says CSIL “underwent a provincial review in 2007” and cites a November 2008 Program Review. Whether that 2007 sentence and the 2008 synthesis are the same product is still an **open question**.
 
-Hourly CSIL rates rose on 1 April 2011 ([2011 news release](../sources/2011-bc-csil-rate-increase.qmd)). A funding working group with the Association of CSIL Employers had been set up in December 2009. Current [HCC Policy 4.C](../sources/hcc-policy-manual-4c.qmd) says clients already on CSIL as of 31 March 2011 stayed eligible after later criteria changed.
+Hourly CSIL rates rose on 1 April 2011 ([2011 news release](../sources/2011-bc-csil-rate-increase.qmd)). The release also announced rates for 2012 and 2013. A funding working group with the Association of CSIL Employers had been set up in December 2009.
 
-HEU 1995 names Community Support Branch / Continuing Care Division. The 2008 report was prepared for Home and Community Care Branch. Current pages sit with the Ministry of Health and regional health authorities. How those administrative homes relate to one another is not reconstructed here.
+[Home and Community Care Policy 4.C](../sources/hcc-policy-manual-4c.qmd), effective in part from 15 October 2012, documents the later administrative framework. It says clients already receiving CSIL as of 31 March 2011 remained eligible after later criteria changed, and it defines client, client-support-group and representative employer arrangements.
 
-Current [gov.bc.ca](../sources/gov-bc-csil-program-page.qmd) and [Vancouver Coastal Health](../sources/vch-csil-service-page.qmd) pages describe CSIL as it works now. They do not state a founding year. They also do not use ECPM as a surviving program name. [SCI BC CSIL workbooks](../sources/sci-bc-csil-workbook.qmd) are current how-to materials, not 1990s design records.
+## A scaled program and a later rate schedule
+
+A [29 December 2015 Ministry release](../sources/2015-bc-csil-rate-schedule.qmd) announced a sequence of rates covering 2015 through February 2019. It also reported **976 people** receiving home support through CSIL: approximately two per cent of all home-support clients and approximately 23 per cent of total home-care support service hours.
+
+Those figures are a Ministry snapshot from 2015. They show the program's scale and intensity at that point; they are not treated as a continuing census for later years.
+
+The release includes statements from the minister and CSIL representatives about recruitment, retention, competitive wages and wage parity. Those are recorded on the source page as **attributed statements**. This archive does not use the release by itself to decide whether any rate was adequate.
+
+## Independent reporting on CSIL
+
+The Office of the Seniors Advocate brought CSIL into broader provincial analysis of home support.
+
+In [*Caregivers in Distress: A Growing Problem* (2017)](../sources/2017-seniors-advocate-caregivers-distress.qmd), the office reported that caregivers of CSIL clients had a **50 per cent lower risk of caregiver distress**, even though the people they supported had, on average, higher complex-care needs than non-CSIL home-support clients. The report also stated a CSIL rate of $30.39 per hour at that time.
+
+In [*Home Support: We Can Do Better* (2019)](../sources/2019-seniors-advocate-home-support.qmd), the office described CSIL as the version of self-directed home support then implemented in B.C., with approximately 1,000 clients. It stated a rate of $31.47 per authorized hour, repeated the earlier caregiver-distress finding, and discussed both reported benefits and limitations in access and policy when considering self-directed care for older adults.
+
+These are findings and characterizations from the Seniors Advocate's reports. The archive records them as such rather than converting them into a general judgment about CSIL.
+
+## Temporary pandemic exceptions
+
+A [Ministry of Health letter dated 16 November 2020](../sources/2020-ministry-csil-covid-exceptions.qmd) says temporary CSIL policy amendments had first been introduced on 1 April 2020 in response to COVID-19. The letter records extensions and, at that point, extends the measures through 1 July 2021.
+
+The temporary exceptions addressed use of surplus funding for quarantine pay, case-by-case financial relief, emergency agency staffing, payment of immediate family members without prior approval in specified staffing circumstances, and additional spending or funding for protective supplies.
+
+The source describes these as time-limited pandemic measures. This archive does not treat them as permanent changes to CSIL.
+
+## Eligibility clarification and rates documented for 2022–24
+
+The Ministry's Home and Community Care policy revision history says Policy 4 was updated in **February 2021** to clarify CSIL eligibility criteria. The inspected [Policy 4.C.2](../sources/hcc-policy-manual-4c.qmd) is effective February 2021 and sets out functional and assessment criteria, including home-support need, assessment scores, high physical care needs, physical disability, medical stability, management arrangements and exception criteria.
+
+The same policy record later documents minimum hourly rates of **$34.73 effective 1 April 2022**, **$37.07 effective 1 April 2023**, and **$38.19 effective 1 April 2024**. The Ministry landing page says the 2022–24 amounts were added to Policy 4.C on 25 July 2023 and records a further 1 April 2024 update reflecting the confirmed one per cent cost-of-living allowance. The [current provincial CSIL page](../sources/gov-bc-csil-program-page.qmd) independently displays the same three rates and effective dates.
+
+## Rates documented in inspected sources
+
+This is **not asserted to be a complete rate history**. It lists rates and dates that the sources currently catalogued by this archive explicitly state. Missing transitions are left visible rather than inferred.
+
+| Date or source date | Rate | What the inspected source establishes |
+| --- | ---: | --- |
+| 1 Apr 2011 | $27.63 | Ministry release announced this effective rate |
+| Apr 2012 | $28.63 | 2011 Ministry release announced this next step |
+| Apr 2013 | $29.50 | 2011 Ministry release announced this next step |
+| 1 Apr 2015 | $29.80 | 2015 release says $29.80 from 1 Jan 2016, retroactive to 1 Apr 2015 |
+| 1 Apr 2016 | $29.94 | 2015 Ministry release |
+| 1 Apr 2017 | $30.39 | 2015 Ministry release |
+| 1 Apr 2018 | $30.85 | 2015 Ministry release |
+| 1 Feb 2019 | $31.16 | 2015 Ministry release |
+| June 2019 report | $31.47 | Seniors Advocate states this as the current CSIL rate; this archive has not established its exact effective date |
+| 1 Apr 2022 | $34.73 | Policy 4.C.3 |
+| 1 Apr 2023 | $37.07 | Policy 4.C.3 |
+| 1 Apr 2024 | $38.19 | Policy 4.C.3 |
+
+The currently inspected sources do not establish every rate change between the June 2019 report and 1 April 2022. They also do not yet establish the instrument or exact effective date for the change between the February 2019 Ministry-announced $31.16 rate and the $31.47 rate stated by the Seniors Advocate in June 2019. Those are research gaps, not values to be interpolated.
 
 ## Client support group and supported participation
 
-Sources describe more than one way to hold CSIL employer responsibility. CSIL’s public purpose, as later official and current texts state it, is not limited to people who can always direct every part of care alone.
+Sources describe more than one way to hold CSIL employer responsibility. CSIL's public purpose, as later official and current texts state it, is not limited to people who can always direct every part of care alone.
 
 Ombudsperson 2012, summarizing mid-1990s policy, says funding was required for people who could direct their care **or who had a client support group**. HEU 1995 describes non-profit societies receiving direct funding. That is **not** proof that HEU already used the later “client support group” legal form.
 
-Current Home and Community Care Policy 4.C (2012 text we have read) defines three employer forms. A **client support group** is a non-profit society of family and/or friends. A **CSIL representative** acts as employer under a representation agreement. A **CSIL employer** may be the client, a client support group, or a CSIL representative. Clients who cannot always direct their own care may still take part through one of those supports.
+Home and Community Care Policy 4.C defines three employer forms. A **client support group** is a non-profit society of family and/or friends. A **CSIL representative** acts as employer under a representation agreement. A **CSIL employer** may be the client, a client support group, or a CSIL representative. Clients who cannot always direct their own care may still take part through one of those supports.
 
-HEU’s 1995 “non-profit societies,” the 2012 “client support group,” and today’s society / representation-agreement forms are three wordings. The evidence does not show that they are one unchanged legal device.
+HEU's 1995 “non-profit societies,” the 2012 “client support group,” and today's society / representation-agreement forms are three wordings. The evidence does not show that they are one unchanged legal device.
 
 This chapter does not explain how to form a society or apply for CSIL.
 
+## Current descriptions
+
+Current [gov.bc.ca](../sources/gov-bc-csil-program-page.qmd) and [Vancouver Coastal Health](../sources/vch-csil-service-page.qmd) pages describe CSIL as it works now. They do not state a founding year. They also do not use ECPM as a surviving program name. [SCI BC CSIL workbooks](../sources/sci-bc-csil-workbook.qmd) are current how-to materials, not 1990s design records.
+
+HEU 1995 names Community Support Branch / Continuing Care Division. The 2008 report was prepared for Home and Community Care Branch. Current pages sit with the Ministry of Health and regional health authorities. How those administrative homes relate to one another is not reconstructed here.
+
 ## What we still do not know
 
-- When society-based or client-support-group employer forms were first written into policy, and how they relate to HEU’s 1995 wording.
+- When society-based or client-support-group employer forms were first written into policy, and how they relate to HEU's 1995 wording.
 - When the CSIL representative pathway entered CSIL rules.
 - Whether the “provincial review in 2007” is the 2008 synthesis, the 2006 process, or another product.
 - How administration moved from Continuing Care Division to later Home and Community Care / health-authority delivery.
+- The instrument and exact effective date that moved the documented rate from $31.16 in February 2019 to the $31.47 stated by the Seniors Advocate in June 2019.
+- Whether there were additional rate changes between the June 2019 evidence and the $34.73 rate effective 1 April 2022, and if so, their dates and authorizing records.
 
-The start-year disagreement stays on the [design and pilot](csil-pilot.qmd) page. This chapter does not trace every later eligibility or rate change, and it does not advocate for a current funding outcome.
+The start-year disagreement stays on the [design and pilot](csil-pilot.qmd) page. This chapter does not judge the adequacy of any historical or current funding rate.
 
 ## See also
 
@@ -63,4 +122,8 @@ The start-year disagreement stays on the [design and pilot](csil-pilot.qmd) page
 - [Ombudsperson 2012](../sources/2012-ombudsperson-best-of-care.qmd)
 - [HCC Policy 4.C](../sources/hcc-policy-manual-4c.qmd)
 - [2011 rate-increase news release](../sources/2011-bc-csil-rate-increase.qmd)
+- [2015 rate schedule](../sources/2015-bc-csil-rate-schedule.qmd)
+- [2017 Seniors Advocate caregiver report](../sources/2017-seniors-advocate-caregivers-distress.qmd)
+- [2019 Seniors Advocate home-support report](../sources/2019-seniors-advocate-home-support.qmd)
+- [2020 Ministry COVID exceptions letter](../sources/2020-ministry-csil-covid-exceptions.qmd)
 - [Current provincial CSIL page](../sources/gov-bc-csil-program-page.qmd)
