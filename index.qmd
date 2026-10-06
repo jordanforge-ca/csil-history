@@ -1,7 +1,7 @@
 ---
 title: "From institution to directed care"
-subtitle: "How British Columbians with significant disabilities helped establish a different way of organizing publicly funded home support."
-description: "How British Columbians with significant disabilities helped establish a different way of organizing publicly funded home support."
+subtitle: "How British Columbians with significant disabilities helped shape a model of publicly funded home support that gives people greater choice and direction in daily support."
+description: "How British Columbians with significant disabilities helped shape a model of publicly funded home support that gives people greater choice and direction in daily support."
 page-layout: full
 toc: false
 page-navigation: false
