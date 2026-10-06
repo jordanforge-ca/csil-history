@@ -1,0 +1,53 @@
+---
+title: "Caregivers in Distress: A Growing Problem"
+date: 2017-08-30
+date_display: "30 August 2017"
+date_precision: exact
+id: src-seniors-advocate-2017-caregivers
+record_status: catalogue-record
+source_authors:
+  - "Office of the Seniors Advocate of British Columbia"
+author: "Office of the Seniors Advocate of British Columbia"
+source_type: near-primary
+availability: full-text-public
+verification_status: verified-inspected
+period: later-review
+organizations:
+  - "Office of the Seniors Advocate of British Columbia"
+topics:
+  - home-support
+  - individualized-funding
+  - evaluation
+external_url: "https://www.seniorsadvocatebc.ca/app/uploads/sites/4/2017/08/Caregivers-in-Distress-A-Growing-Problem-Final.pdf"
+archived_url: ""
+bibtex_key: seniorsadvocate2017caregivers
+document_path: ""
+rights_note: "Public report. Link only."
+---
+
+::: {.callout-note}
+## Source inspected
+The public Office of the Seniors Advocate report and its 30 August 2017 presentation were read on 6 October 2026.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Title | Caregivers in Distress: A Growing Problem |
+| Issuer | Office of the Seniors Advocate of British Columbia |
+| Date | 30 August 2017 |
+| Scope | Caregiver distress among clients receiving publicly subsidized home support in B.C. |
+
+## Annotation
+
+The report discusses CSIL while examining factors associated with caregiver distress. It states that the data indicated caregivers of CSIL clients had a 50 per cent lower risk of caregiver distress even though, on average, they were caring for people with higher complex-care needs than non-CSIL home-support clients.
+
+The report also states a CSIL rate of $30.39 per hour at that time and compares it with an average $44 per hour for health-authority-delivered home support. Those figures are findings reported by the Seniors Advocate; this source record does not treat them as a complete cost comparison or as a determination of an appropriate CSIL funding level.
+
+The report describes access and assessment concerns and recommends improved access to CSIL. Those recommendations belong to the source. The archive uses the report as evidence that CSIL had become part of independent provincial analysis of home support and caregiver outcomes.
+
+## Associated claims
+
+- [Later evolution chapter](../history/evolution.qmd)
+- [Timeline](../timeline.qmd)
