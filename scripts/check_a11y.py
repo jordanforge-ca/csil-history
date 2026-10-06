@@ -203,6 +203,82 @@ def _norm(text: str) -> str:
     return re.sub(r"\s+", " ", html_lib.unescape(text)).strip()
 
 
+
+def source_front_matter(rel: Path) -> dict[str, str]:
+    """Read simple scalar access metadata from the source QMD backing a page."""
+
+    rel_posix = rel.as_posix() if isinstance(rel, Path) else rel
+    if not rel_posix.startswith("sources/") or rel_posix == "sources/index.html":
+        return {}
+
+    source_path = Path(rel_posix).with_suffix(".qmd")
+    if not source_path.is_file():
+        return {}
+
+    lines = source_path.read_text(encoding="utf-8").splitlines()
+    if not lines or lines[0].strip() != "---":
+        return {}
+
+    try:
+        end_index = lines.index("---", 1)
+    except ValueError:
+        return {}
+
+    wanted = {"availability", "external_url", "archived_url", "document_path"}
+    values: dict[str, str] = {}
+    for line in lines[1:end_index]:
+        if ":" not in line:
+            continue
+        key, value = line.split(":", 1)
+        key = key.strip()
+        if key not in wanted:
+            continue
+        value = value.strip()
+        if len(value) >= 2 and value[0] == value[-1] and value[0] in {'"', "'"}:
+            value = value[1:-1]
+        values[key] = value.strip()
+
+    return values
+
+def check_source_access(raw: str, rel: Path) -> list[str]:
+    metadata = source_front_matter(rel)
+    if not metadata:
+        return []
+
+    errors: list[str] = []
+    access_values = [
+        metadata.get("external_url", ""),
+        metadata.get("archived_url", ""),
+        metadata.get("document_path", ""),
+    ]
+    access_values = [value for value in access_values if value]
+
+    availability = metadata.get("availability", "")
+    if availability in {"full-text-public", "external-link-only"} and not access_values:
+        errors.append(
+            f"{rel}: availability is {availability} but no external_url, archived_url, or document_path is catalogued"
+        )
+
+    if access_values and 'class="source-access"' not in raw:
+        errors.append(f"{rel}: catalogued source access metadata is not rendered")
+
+    external_url = metadata.get("external_url", "")
+    if external_url:
+        escaped = html_lib.escape(external_url, quote=True)
+        if f'href="{escaped}"' not in raw:
+            errors.append(f"{rel}: external_url is not exposed as a followable link")
+
+    archived_url = metadata.get("archived_url", "")
+    if archived_url and archived_url != external_url:
+        escaped = html_lib.escape(archived_url, quote=True)
+        if f'href="{escaped}"' not in raw:
+            errors.append(f"{rel}: archived_url is not exposed as a followable link")
+
+    if metadata.get("document_path") and "Local archive copy" not in raw:
+        errors.append(f"{rel}: document_path is not exposed as a followable link")
+
+    return errors
+
 def nav_has_name(nav: dict[str, str | None]) -> bool:
     if nav.get("aria_label") or nav.get("aria_labelledby"):
         return True
@@ -343,6 +419,7 @@ def check_page(path: Path, site_root: Path) -> list[str]:
             f"{rel}: positive tabindex values break focus order ({', '.join(parser.positive_tabindexes)})"
         )
 
+    errors.extend(check_source_access(raw, rel))
     return errors
 
 
