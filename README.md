@@ -69,7 +69,3 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 Original site and repository content is [CC BY 4.0](LICENSE).
 
 **Historical source documents do not inherit that license.** Default to citation plus a stable public link. Only add files under `documents/` when redistribution is clearly permitted. See [docs/copyright-policy.qmd](docs/copyright-policy.qmd).
-
-## Commissioning context
-
-This public archive was bootstrapped from [jordanforge-infrastructure#10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). That issue is product/design context only. Do not copy private material from other jordanforge repositories into this one.

@@ -7,6 +7,8 @@ subtitle: "Purpose, editorial rules, and how to add evidence"
 
 The CSIL History Archive is a public, source-driven history of Choice in Supports for Independent Living (CSIL) in British Columbia.
 
+This archive was assembled by a CSIL employer with a direct interest in understanding and documenting the program's history. It has not been peer reviewed at this time. It is a good-faith archival reconstruction and is believed to be as accurate as the available archival record currently allows. Because that record is incomplete, unresolved questions and conflicting sources are left visible. Corrections and additional evidence are welcome.
+
 The site is designed as both a readable history and a research tool. Narrative chapters explain what the current evidence supports; the source catalogue shows the records behind those statements. Missing documents, conflicting dates, and unresolved claims remain visible rather than being silently reconciled.
 
 The project is intentionally small and durable: Markdown, structured metadata, a bibliography, and static HTML.
@@ -20,9 +22,9 @@ The project is intentionally small and durable: Markdown, structured metadata, a
 
 ## Contemporary context
 
-The Association of CSIL Employers (ACE) is part of the contemporary CSIL community and has participated in work concerning the program. A 2011 British Columbia Ministry of Health news release records the Association of CSIL Employers participating in a CSIL funding working group established in December 2009 ([B.C. to boost home support program rates](sources/2011-bc-csil-rate-increase.qmd)).
+The Association of CSIL Employers (ACE) is one organization in the contemporary CSIL community. A 2011 British Columbia Ministry of Health news release documents ACE's participation in a CSIL funding working group established in December 2009 ([B.C. to boost home support program rates](sources/2011-bc-csil-rate-increase.qmd)).
 
-Current interest from ACE and other CSIL stakeholders in understanding and improving the program does not change this archive’s editorial rules. The archive remains source-driven. It is not an ACE campaign site.
+Historical claims in this archive are source-driven.
 
 ## How to read the history
 
@@ -76,7 +78,3 @@ Please do not contact people named in this archive, or their families or colleag
 ## License
 
 Original writing and configuration in this repository are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Historical source documents, including any future files in `documents/`, **do not inherit** that licence.
-
-## Project note
-
-This public repository was started from [jordanforge-infrastructure issue 10](https://github.com/jordanforge-ca/jordanforge-infrastructure/issues/10). Use that issue as product context only; do not copy private infrastructure or private CSIL records into this archive.
