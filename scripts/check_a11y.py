@@ -205,9 +205,9 @@ def _norm(text: str) -> str:
 
 
 def source_front_matter(rel: Path) -> dict[str, str]:
-    """Read source access metadata from the QMD backing rendered source HTML."""
+    """Read simple scalar access metadata from the source QMD backing a page."""
 
-    rel_posix = rel.as_posix()
+    rel_posix = rel.as_posix() if isinstance(rel, Path) else rel
     if not rel_posix.startswith("sources/") or rel_posix == "sources/index.html":
         return {}
 
@@ -215,27 +215,30 @@ def source_front_matter(rel: Path) -> dict[str, str]:
     if not source_path.is_file():
         return {}
 
-    text = source_path.read_text(encoding="utf-8")
-    match = re.match(r"^---\s*\n(.*?)\n---\s*\n", text, flags=re.DOTALL)
-    if not match:
+    lines = source_path.read_text(encoding="utf-8").splitlines()
+    if not lines or lines[0].strip() != "---":
         return {}
 
-    front_matter = match.group(1)
+    try:
+        end_index = lines.index("---", 1)
+    except ValueError:
+        return {}
+
+    wanted = {"availability", "external_url", "archived_url", "document_path"}
     values: dict[str, str] = {}
-    for key in ("availability", "external_url", "archived_url", "document_path"):
-        field = re.search(
-            rf"^{re.escape(key)}:\s*(.*?)\s*$",
-            front_matter,
-            flags=re.MULTILINE,
-        )
-        if not field:
+    for line in lines[1:end_index]:
+        if ":" not in line:
             continue
-        value = field.group(1).strip()
+        key, value = line.split(":", 1)
+        key = key.strip()
+        if key not in wanted:
+            continue
+        value = value.strip()
         if len(value) >= 2 and value[0] == value[-1] and value[0] in {'"', "'"}:
             value = value[1:-1]
         values[key] = value.strip()
-    return values
 
+    return values
 
 def check_source_access(raw: str, rel: Path) -> list[str]:
     metadata = source_front_matter(rel)
