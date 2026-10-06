@@ -1797,3 +1797,45 @@ body:has(.home-hero) main.content {
     transition: none;
   }
 }
+
+
+// ---------------------------------------------------------------------------
+// Source access — visible path from catalogue record to underlying evidence
+// ---------------------------------------------------------------------------
+
+.source-access {
+  margin: 1.25rem 0 1.75rem;
+  padding: 1rem 1.1rem;
+  border-left: 4px solid $signal-link;
+  background: $surface-muted;
+}
+
+#quarto-document-content .source-access p {
+  margin-top: 0;
+}
+
+#quarto-document-content .source-access-title {
+  margin-bottom: 0.15rem;
+  color: $aubergine;
+}
+
+#quarto-document-content .source-access-note {
+  margin-bottom: 0.55rem;
+  color: $muted;
+}
+
+#quarto-document-content .source-access-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.25rem;
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+#quarto-document-content .source-access-links li {
+  margin: 0;
+}
+
+#quarto-document-content .source-access-links a {
+  font-weight: 600;
+}
