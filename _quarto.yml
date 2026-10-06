@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: _site
+  pre-render: scripts/check_source_access.py
   resources:
     - assets/brand/jordanforge-corner-mark-dark.svg
     - assets/fonts/source-serif-4-latin-600-normal.woff2

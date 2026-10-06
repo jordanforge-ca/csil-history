@@ -1800,42 +1800,86 @@ body:has(.home-hero) main.content {
 
 
 // ---------------------------------------------------------------------------
-// Source access — visible path from catalogue record to underlying evidence
+// Source access — Open this source, from catalogue front matter.
+// Real h2 (not bold text). Primary action is a 44px link with an underline,
+// so it stays a link. Focus uses the global signal ring; do not remove it.
+// Paper on signal-600 is the same pair as body links, reversed (~6.7:1).
 // ---------------------------------------------------------------------------
 
-.source-access {
-  margin: 1.25rem 0 1.75rem;
-  padding: 1rem 1.1rem;
-  border-left: 4px solid $signal-link;
-  background: $surface-muted;
+#quarto-document-content .source-access {
+  margin: 1.35rem 0 0.35rem;
+  padding: 1rem 1.15rem 1.15rem;
+  border: 1px solid $border-ui;
+  border-left: 5px solid $signal-link;
+  background: $surface;
 }
 
-#quarto-document-content .source-access p {
-  margin-top: 0;
-}
-
-#quarto-document-content .source-access-title {
-  margin-bottom: 0.15rem;
-  color: $aubergine;
-}
-
-#quarto-document-content .source-access-note {
-  margin-bottom: 0.55rem;
-  color: $muted;
+#quarto-document-content .source-access h2.source-access-title {
+  margin: 0 0 0.75rem;
+  font-size: 1.35rem;
+  line-height: 1.25;
 }
 
 #quarto-document-content .source-access-links {
+  list-style: none;
   display: flex;
   flex-wrap: wrap;
-  gap: 0.35rem 1.25rem;
+  gap: 0.75rem;
   margin: 0;
-  padding-left: 1.25rem;
+  padding: 0;
 }
 
 #quarto-document-content .source-access-links li {
   margin: 0;
+  max-width: 100%;
 }
 
-#quarto-document-content .source-access-links a {
+#quarto-document-content a.source-access-link {
+  display: inline-flex;
+  align-items: center;
+  box-sizing: border-box;
+  min-height: 44px;
+  max-width: 100%;
+  padding: 0.45rem 0.9rem;
+  border: 2px solid $signal-link;
+  background: $paper;
+  color: $signal-link;
+  font-family: $font-family-sans-serif;
   font-weight: 600;
+  line-height: 1.3;
+  text-align: left;
+  text-decoration: underline;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.18em;
+  overflow-wrap: anywhere;
+}
+
+#quarto-document-content a.source-access-link-primary {
+  background: $signal-link;
+  border-color: $signal-link;
+  color: $paper;
+  text-decoration-color: $paper;
+}
+
+#quarto-document-content a.source-access-link:hover {
+  background: #EEF3FF;
+  color: $signal-link-hover;
+  text-decoration-thickness: 0.12em;
+}
+
+#quarto-document-content a.source-access-link-primary:hover {
+  background: $signal-link-hover;
+  border-color: $signal-link-hover;
+  color: $paper;
+  text-decoration-color: $paper;
+}
+
+@media (max-width: 40rem) {
+  #quarto-document-content .source-access h2.source-access-title {
+    font-size: 1.25rem;
+  }
+
+  #quarto-document-content a.source-access-link {
+    width: 100%;
+  }
 }

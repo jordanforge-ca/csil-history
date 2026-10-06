@@ -32,8 +32,11 @@ quarto render     # writes HTML to _site/
 After a render, required accessibility baseline checks (Python 3 standard library only; merge blocker):
 
 ```bash
+python3 scripts/check_source_access.py
 python3 scripts/check_a11y.py _site
 ```
+
+`check_source_access.py` also runs before render. A source marked publicly readable must name a usable `external_url`, `archived_url`, or lawful `document_path`.
 
 More detail: [docs/local-build.qmd](docs/local-build.qmd).
 

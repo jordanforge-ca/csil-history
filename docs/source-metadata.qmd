@@ -51,10 +51,10 @@ verification_status: bibliographically-confirmed
 | `organizations` | list | Display names or future org slugs |
 | `people` | list | Display names or `person_id` values |
 | `topics` | list | See topic vocabulary |
-| `external_url` | URL | Stable public location |
-| `archived_url` | URL | Internet Archive or equivalent, when one already exists |
+| `external_url` | URL | Stable public location. Rendered as the primary Open this source link when it is a usable http(s) URL |
+| `archived_url` | URL | Internet Archive or equivalent, when one already exists. Rendered as Archived copy when it differs from `external_url` |
 | `bibtex_key` | string | Key in `references.bib` |
-| `document_path` | path | Only if a file is hosted under `documents/` |
+| `document_path` | path | Only if a file is hosted under `documents/`. Offered as Open the document when availability is `full-text-public` or `external-link-only` |
 | `rights_note` | string | Copyright / permission status |
 | `example` | boolean | `true` only on the labelled template |
 
@@ -67,6 +67,8 @@ After the front matter, include:
 3. An annotation that states what was actually seen
 4. Open questions
 5. Links to history, people, or timeline records that rely on the item
+
+Do not paste an access box into the body. The site renders an **Open this source** region from `external_url`, `archived_url`, and a lawful `document_path`, after the status callout and before Identification. Link text names the resource (for example “Full report (PDF)”, “Government page”, “Read the source”, “Archived copy”, “Catalogue record”). Leave the URL fields empty when no public copy has been recovered.
 
 ## Example
 

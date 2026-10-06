@@ -28,6 +28,8 @@ Display form `reference / finding-aid` maps to `reference-finding-aid`.
 | `physical-copy-known` | A physical location is known; no digital copy is held here |
 | `permission-required` | A copy exists but may not be published or quoted beyond fair identification without permission |
 
+`full-text-public` and `external-link-only` mean a visitor can open a copy. Those records must include a usable `external_url`, `archived_url`, or lawful `document_path` (an existing file under `documents/`). [`scripts/check_source_access.py`](https://github.com/jordanforge-ca/csil-history/blob/main/scripts/check_source_access.py) rejects a public token that does not. Do not invent a URL to satisfy the check. `known-to-exist-copy-sought`, `catalogue-or-citation-only`, and `physical-copy-known` do not require a public download. A catalogue URL may still be recorded when one exists, such as a PubMed record. `permission-required` may name a `document_path`, but the page must not offer that file as a download.
+
 ## `verification_status`
 
 See [Evidence and verification statuses](evidence-status.qmd) for definitions. Tokens:

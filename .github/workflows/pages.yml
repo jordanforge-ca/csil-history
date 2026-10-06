@@ -25,6 +25,11 @@ jobs:
         with:
           version: release
 
+      - name: Validate public source access
+        run: |
+          python3 scripts/check_source_access.py
+          python3 scripts/test_check_source_access.py
+
       - name: Render site
         uses: quarto-dev/quarto-actions/render@v2
 
