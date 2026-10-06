@@ -28,6 +28,7 @@ from __future__ import annotations
 
 import re
 import sys
+from html import escape
 from pathlib import Path
 
 SKIP = (
@@ -126,6 +127,85 @@ SECTION_BUTTON_RE = re.compile(
 
 def page_key(path: Path, site_root: Path) -> str:
     return path.relative_to(site_root).as_posix()
+
+def source_front_matter(rel: str) -> dict[str, str]:
+    """Read simple scalar access metadata from the source QMD backing a page."""
+
+    if not rel.startswith("sources/") or rel == "sources/index.html":
+        return {}
+
+    source_path = Path(rel).with_suffix(".qmd")
+    if not source_path.is_file():
+        return {}
+
+    text = source_path.read_text(encoding="utf-8")
+    match = re.match(r"^---\\s*\\n(.*?)\\n---\\s*\\n", text, flags=re.DOTALL)
+    if not match:
+        return {}
+
+    front_matter = match.group(1)
+    values: dict[str, str] = {}
+    for key in ("availability", "external_url", "archived_url", "document_path"):
+        field = re.search(
+            rf"^{re.escape(key)}:\\s*(.*?)\\s*$",
+            front_matter,
+            flags=re.MULTILINE,
+        )
+        if not field:
+            continue
+        value = field.group(1).strip()
+        if len(value) >= 2 and value[0] == value[-1] and value[0] in {'"', "'"}:
+            value = value[1:-1]
+        values[key] = value.strip()
+    return values
+
+
+def inject_source_access(html: str, rel: str) -> str:
+    """Expose catalogued source locations on every rendered source record."""
+
+    if 'class="source-access"' in html:
+        return html
+
+    metadata = source_front_matter(rel)
+    if not metadata:
+        return html
+
+    links: list[tuple[str, str]] = []
+    external_url = metadata.get("external_url", "")
+    archived_url = metadata.get("archived_url", "")
+    document_path = metadata.get("document_path", "")
+
+    if external_url:
+        links.append(("Open source", external_url))
+    if archived_url and archived_url != external_url:
+        links.append(("Archived copy", archived_url))
+    if document_path:
+        local_href = document_path
+        if not local_href.startswith(("/", "http://", "https://")):
+            local_href = "../" + local_href.lstrip("./")
+        links.append(("Local archive copy", local_href))
+
+    if not links:
+        return html
+
+    items = "".join(
+        f'<li><a href="{escape(href, quote=True)}">{escape(label)}</a></li>'
+        for label, href in links
+    )
+    panel = (
+        '<div class="source-access" role="region" aria-label="Source access">'
+        '<p class="source-access-title"><strong>Source access</strong></p>'
+        '<p class="source-access-note">Follow the catalogued evidence:</p>'
+        f'<ul class="source-access-links">{items}</ul>'
+        '</div>\\n'
+    )
+
+    marker = '<section id="identification"'
+    idx = html.find(marker)
+    if idx == -1:
+        return html
+    return html[:idx] + panel + html[idx:]
+
 
 
 def primary_current_target(rel: str) -> str | None:
@@ -558,6 +638,7 @@ def patch(path: Path, site_root: Path) -> bool:
     html = label_landmarks(html)
     html = mark_current_page(html, rel)
     html = caption_tables(html, rel)
+    html = inject_source_access(html, rel)
     html = mark_external_links(html)
     html = EMPTY_SIDEBAR_A_RE.sub("", html)
     html = EMPTY_LOGO_A_RE.sub("", html)
