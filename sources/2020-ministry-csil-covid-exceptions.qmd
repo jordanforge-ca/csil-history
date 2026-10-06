@@ -1,0 +1,54 @@
+---
+title: "Ministry of Health letter extending temporary CSIL policy amendments"
+date: 2020-11-16
+date_display: "16 November 2020; refers to temporary amendments beginning 1 April 2020"
+date_precision: exact
+id: src-moh-2020-csil-covid-exceptions
+record_status: catalogue-record
+source_authors:
+  - "British Columbia Ministry of Health"
+author: "British Columbia Ministry of Health"
+source_type: primary
+availability: external-link-only
+verification_status: verified-inspected
+period: later-review
+organizations:
+  - "British Columbia Ministry of Health"
+topics:
+  - home-support
+  - individualized-funding
+  - current-program
+external_url: "https://www.ifrcsociety.org/documents/pathways/LettertohealthauthoritieswithextensionFinal.pdf"
+archived_url: ""
+bibtex_key: moh2020csilexceptions
+document_path: ""
+rights_note: "Ministry letter made publicly readable by IFRC. Link only; not reproduced by this archive."
+---
+
+::: {.callout-note}
+## Source inspected
+The Ministry of Health letter dated 16 November 2020, publicly hosted by the Individualized Funding Resource Centre Society, was read on 6 October 2026.
+:::
+
+## Identification
+
+| Element | As seen |
+| --- | --- |
+| Date | 16 November 2020 |
+| Issuer | British Columbia Ministry of Health |
+| Addressees | Health Authority Representatives |
+| Signatory | Teri Collins, Assistant Deputy Minister |
+| Subject described in letter | Temporary CSIL policy amendments during COVID-19 |
+
+## Annotation
+
+The letter says the Ministry first sent health authorities a letter on 1 April 2020 outlining temporary CSIL policy amendments in light of the COVID-19 pandemic. It records that those amendments had been extended to 31 December 2020 and, in this letter, extends them through 1 July 2021.
+
+The time-limited exceptions described include use of surplus funding for up to two weeks of pay for employees required to self-quarantine, case-by-case temporary financial relief where a CSIL employer lacked sufficient surplus, temporary suspension of prior approval for agencies used for emergency staffing, temporary payment of immediate family members without prior approval when regular and backup staffing had been affected, and additional spending or funding for specified protective supplies.
+
+This record documents temporary administrative changes during the pandemic. It does not treat those exceptions as permanent changes to CSIL policy.
+
+## Associated claims
+
+- [Later evolution chapter](../history/evolution.qmd)
+- [Timeline](../timeline.qmd)
